@@ -8,7 +8,7 @@ let FolderNames = []; //files1からjsonを除いたもの
 //FolderNamesがfiles2に対応している。0_attendance_checkの名前は FolderNames[0] から読み取れる。 それの中身は files2[0] にある。
 
 let UsersInfo;  //users.jsonを格納
-let ChannelsInfo;
+let ChannelsInfo;   //channels.jsonを格納
 
 let TempFolderNum;  //あるフォルダーを一時的に格納
 let TempJson;   //あるjsonを一時的に格納
@@ -45,6 +45,7 @@ function GetUnderFiles(num) {
     });
 }
 
+//一時的に保持したいjsonを取ってくる
 function GetTempJson(num, i) {
     return new Promise(resolve => {
         let json = require('./a-gakusai2022_Slack_export_Mar_29_2022_-_Aug_1_2022/' + FolderNames[num] + '/' + files2[num][i]);
@@ -79,6 +80,7 @@ function IdToName(id) {
     });
 }
 
+//テキストを場合にわけて表示　スレッドなのか、サブタイプを持つのか
 async function TextTreat(JsonInpart) {
     if (JsonInpart["thread_ts"]) {
         await ThreadSearch(JsonInpart);
@@ -110,6 +112,7 @@ async function TextTreat(JsonInpart) {
     }
 }
 
+//スレッド要素を探して表示
 async function ThreadSearch(JsonInpart) {
     //スレッドの子だった場合、スキップする。
     if (JsonInpart.ts != JsonInpart.thread_ts) {
@@ -153,6 +156,7 @@ async function ThreadSearch(JsonInpart) {
     }
 }
 
+//添付ファイルを表示させる
 function attachFiles(JsonElement) {
     console.log("《添付ファイルがあります :");
     for (let i = 0; i < JsonElement.files.length; i++) {
@@ -207,7 +211,6 @@ async function main() {
             //console.log(j);
             TempJson = await GetTempJson(i, j);
             for (let k = 0; k < TempJson.length; k++) {
-                //console.log(await IdToName(TempJson[k].user) + "\t" + await UNIXtoDateText(TempJson[k].ts));
                 await TextTreat(TempJson[k]);
             }
         }
