@@ -1,0 +1,110 @@
+[
+    {
+        "client_msg_id": "8f719463-2e0b-4949-afbf-afa7521ea003",
+        "type": "message",
+        "text": "スタンプを増やした\n追加はご自由に",
+        "user": "U038TMLJW1M",
+        "ts": "1653894499.978779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Zgfs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スタンプを増やした\n追加はご自由に"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "2-num",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "300-num",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "power",
+                "users": [
+                    "U038TMLJW1M",
+                    "U0391RWR34N",
+                    "U039P4NSKM1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "bikkuri",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "wakarimasen",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "200_bpm",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039P4NSKM1",
+                    "U039BUU0GAH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "bikkurihatena",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U0394PQ44FL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "kidoku",
+                "users": [
+                    "U03CUPE920G"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

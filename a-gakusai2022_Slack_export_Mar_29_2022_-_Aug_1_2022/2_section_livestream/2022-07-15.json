@@ -1,0 +1,326 @@
+[
+    {
+        "type": "message",
+        "text": "これ返事よろしくお願いします\n俺はいけないです",
+        "files": [
+            {
+                "id": "F03PP1QLA77",
+                "created": 1657952598,
+                "timestamp": 1657952598,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 345573,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PP1QLA77\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PP1QLA77\/download\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________960.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP1QLA77-1db26ebda4\/ios___________1024.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 828,
+                "original_h": 1792,
+                "thumb_tiny": "AwAwABbSFLTMAE8\/rSrj1oAXHOaWiigBvOTz+tKPr+tN4yeKUEdxigB1FAx2ooAaTj0P4Um72pT70m5Tx8tADx0opM0UAf\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03PP1QLA77\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03PP1QLA77-d2f94309a6",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1657952617.743169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eXRRa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ返事よろしくお願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "俺はいけないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4D9D150B-7E26-4291-9D88-209F2624CD2F"
+    },
+    {
+        "client_msg_id": "18013394-FF44-40B3-B80C-301104B0C397",
+        "type": "message",
+        "text": "<@U039P4NSKM1> ",
+        "user": "U038TMLJW1M",
+        "ts": "1657952642.725799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ioV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039P4NSKM1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78BB99C4-44B4-4CF6-ADBD-C1662CFF1837",
+        "type": "message",
+        "text": "参加できるかできないかくらいの返事でいいと思います",
+        "user": "U038TMLJW1M",
+        "ts": "1657952770.157199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eRI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参加できるかできないかくらいの返事でいいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4cb22994-7c37-4074-b3f4-317d9678c8c4",
+        "type": "message",
+        "text": "僕は参加できるので、参加するように返事しときます",
+        "user": "U039P4NSKM1",
+        "ts": "1657953231.242159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m3I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "僕は参加できるので、参加するように返事しときます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1BC57DDC-BB7C-4D5A-B093-D6C2B1000597",
+        "type": "message",
+        "text": "あと1人確定した方が…",
+        "user": "U038TMLJW1M",
+        "ts": "1657953251.640399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ep2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと1人確定した方が…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9815a31-e9fb-4cdf-aba6-e4fa678df837",
+        "type": "message",
+        "text": "そうですね",
+        "user": "U039P4NSKM1",
+        "ts": "1657953771.485459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y67Sf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "418aa1f2-33d0-4a39-997b-5651b2919696",
+        "type": "message",
+        "text": "<!channel> このチャンネル内でこの日程で出れる方いますか？\n居なければ一度全体に連絡してその後に返答を決めたいと思います",
+        "user": "U039P4NSKM1",
+        "ts": "1657954797.660429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ykyAF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " このチャンネル内でこの日程で出れる方いますか？\n居なければ一度全体に連絡してその後に返答を決めたいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

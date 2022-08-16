@@ -1,0 +1,62 @@
+[
+    {
+        "client_msg_id": "7E16EB6F-28B5-449A-B532-546DEA46A1C3",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/3em-J9yYPAo|https:\/\/youtu.be\/3em-J9yYPAo>",
+        "user": "U0399UH8BKQ",
+        "ts": "1654128437.640279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/3em-J9yYPAo",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3em-J9yYPAo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3em-J9yYPAo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/3em-J9yYPAo",
+                "fallback": "YouTube Video: 1000年生きてる \/ いよわ feat.初音ミク（living millennium \/ Iyowa feat.Hatsune Miku）",
+                "title": "1000年生きてる \/ いよわ feat.初音ミク（living millennium \/ Iyowa feat.Hatsune Miku）",
+                "title_link": "https:\/\/youtu.be\/3em-J9yYPAo",
+                "author_name": "いよわ\/ iyowa",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCLz6MG2kx_0xeaW0LowYnMQ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Apj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/3em-J9yYPAo",
+                                "text": "https:\/\/youtu.be\/3em-J9yYPAo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

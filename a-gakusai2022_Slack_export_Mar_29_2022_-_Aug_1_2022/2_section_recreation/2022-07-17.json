@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "621c3ec8-3312-4d56-954a-c158e01ac82a",
+        "type": "message",
+        "text": "コロナ結構増えてるみたいだからBBQやるかどうかもう一度考えた方がいい気がしてきた",
+        "user": "U039M3UAXFG",
+        "ts": "1658047316.961459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j1VN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コロナ結構増えてるみたいだからBBQやるかどうかもう一度考えた方がいい気がしてきた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4C52E242-D860-4AD1-87A0-4CBEB314FEAC",
+        "type": "message",
+        "text": "なるほど\n大学に確認とったほうがいいですかね？",
+        "user": "U039RCZ4E04",
+        "ts": "1658062900.130439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1658062977.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3xd=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど\n大学に確認とったほうがいいですかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

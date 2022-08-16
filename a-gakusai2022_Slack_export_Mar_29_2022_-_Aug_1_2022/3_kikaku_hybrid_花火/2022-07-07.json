@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "240826f8-1a66-4e1c-98da-4233f72dd271",
+        "type": "message",
+        "text": "8月19日に花火業者訪問。",
+        "user": "U0391RWR34N",
+        "ts": "1657252403.199599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxXV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "8月19日に花火業者訪問。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

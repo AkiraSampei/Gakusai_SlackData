@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "6a8b5086-8562-43d7-a1ae-ebec4d9e07d9",
+        "type": "message",
+        "text": "了解です(^-^ゞ",
+        "user": "U03KRPKDY8L",
+        "ts": "1656427254.383959",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Moq9G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です(^-^ゞ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

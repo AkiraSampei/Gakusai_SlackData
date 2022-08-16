@@ -1,0 +1,193 @@
+[
+    {
+        "client_msg_id": "446A342D-8039-4A50-9812-D6A3B84CC1BC",
+        "type": "message",
+        "text": "<!channel>\n\n皆さんこんにちは！企画への参加ありがとうございます！\n\n本日企画部長からご連絡があったとおり、今月は「*企画書の作成*」がメインのしごととなります。\nそこで、この企画書を作成するための話合いをしようと思います。\n\nそのため、みなさんの都合の良い時間帯を教えて下さい。\n日程調整は*伝助*というウェブサイトを使います。\n下のURLを触って、都合の良い日程に◯をつけてください。\n\n<https:\/\/densuke.biz\/list?cd=kNBJk2TkMVHeeJPK|https:\/\/densuke.biz\/list?cd=kNBJk2TkMVHeeJPK>",
+        "user": "U0394PQ44FL",
+        "ts": "1655293180.867589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=kNBJk2TkMVHeeJPK",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=kNBJk2TkMVHeeJPK",
+                "fallback": "伝助（リアルスプラトゥーン企画会議）",
+                "title": "伝助（リアルスプラトゥーン企画会議）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=kNBJk2TkMVHeeJPK",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1h+I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "皆さんこんにちは！企画への参加ありがとうございます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本日企画部長からご連絡があったとおり、今月は「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書の作成",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」がメインのしごととなります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そこで、この企画書を作成するための話合いをしようと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そのため、みなさんの都合の良い時間帯を教えて下さい。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日程調整は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "伝助",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "というウェブサイトを使います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "下のURLを触って、都合の良い日程に◯をつけてください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=kNBJk2TkMVHeeJPK",
+                                "text": "https:\/\/densuke.biz\/list?cd=kNBJk2TkMVHeeJPK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0da94d46-ad51-4524-ae7d-84aa23ce8506",
+        "type": "message",
+        "text": "<!channel>\n↑今日中に登録お願いします！\nやり方わからなければ聞いてください",
+        "user": "U0394PQ44FL",
+        "ts": "1655353151.437279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lXIE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n↑今日中に登録お願いします！\nやり方わからなければ聞いてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "6fc53690-c6ea-4d34-830f-1efcce31cbf3",
+        "type": "message",
+        "text": "さっきしめた",
+        "user": "U039RJU3V36",
+        "ts": "1658227061.196179",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yNpMW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "さっきしめた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77E80AB7-0A1A-49CC-B4EE-0CB32C9EDE4C",
+        "type": "message",
+        "text": "あーいた",
+        "user": "U039L92GA3X",
+        "ts": "1658276153.807179",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Qe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あーいた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3C409801-C3C6-4323-8B95-CB5843671ECD",
+        "type": "message",
+        "text": "学内のメールで周知されていますが、8\/21(日)にトライアスロンの大会を会津大学で開催します。それに伴ってボランティアの募集をしています。お礼の品もあるので詳細を知りたい方・協力してくれる方は僕まで連絡してください。",
+        "user": "U039EF90649",
+        "ts": "1658281351.181699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0P3s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学内のメールで周知されていますが、8\/21(日)にトライアスロンの大会を会津大学で開催します。それに伴ってボランティアの募集をしています。お礼の品もあるので詳細を知りたい方・協力してくれる方は僕まで連絡してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

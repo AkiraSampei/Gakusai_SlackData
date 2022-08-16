@@ -1,0 +1,399 @@
+[
+    {
+        "client_msg_id": "1BD6BC7E-7D6D-4316-9419-30D7FB7244E3",
+        "type": "message",
+        "text": "<@U03BM52KMEC> \n先日の企画書添削会議ありがとうございました\nリアルスプラ企画の修正点を確認いたしましたが、校庭の申請を中澤先生に直接とるなとありました\nこの真意と、どなたか提案したものかを教えていただきたいです\nよろしくお願いします",
+        "user": "U0394PQ44FL",
+        "ts": "1656916928.992999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mk9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03BM52KMEC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "先日の企画書添削会議"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あり"
+                            },
+                            {
+                                "type": "text",
+                                "text": "が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ござ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "リアルスプラ企画の修正点"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認いたしましたが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "校庭"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "申請"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "中澤先生"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "直接とるな"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とありました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この"
+                            },
+                            {
+                                "type": "text",
+                                "text": "真意"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ど"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なたか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "提案した"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ものかを"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教えていただきたいです"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1892eea-f1be-41be-a60a-df3d6598b737",
+        "type": "message",
+        "text": "<@U0394PQ44FL> 昨日の添削会議で出された、運動場の取り方（直で中沢教授に言わない）についてなんですけれども、\n　運動場ではなく、体育館の取り方についてでした。\n　ミス表記です。",
+        "user": "U03BM52KMEC",
+        "ts": "1656917431.031849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EHX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0394PQ44FL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 昨日の添削会議で出された、運動場の取り方（直で中沢教授に言わない）についてなんですけれども、\n　運動場ではなく、体育館の取り方についてでした。\n　ミス表記です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "reply_count": 8,
+        "reply_users_count": 2,
+        "latest_reply": "1656918799.698589",
+        "reply_users": [
+            "U0394PQ44FL",
+            "U03BM52KMEC"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656917629.751259"
+            },
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1656917835.247449"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656918218.701879"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656918223.110599"
+            },
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1656918356.696749"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656918601.438419"
+            },
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1656918686.838449"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656918799.698589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1656918799.698589"
+    },
+    {
+        "client_msg_id": "147D9B32-73E7-47E0-BC5B-45C039E6825B",
+        "type": "message",
+        "text": "了解いたしました\nちなみに本企画で体育館を使う予定はないのですがなぜ本企画の添削部分にこれがあるのでしょう",
+        "user": "U0394PQ44FL",
+        "ts": "1656917629.751259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ifsA2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解いたしました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ちなみに"
+                            },
+                            {
+                                "type": "text",
+                                "text": "本企画で体育館を使う予定"
+                            },
+                            {
+                                "type": "text",
+                                "text": "はないの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す"
+                            },
+                            {
+                                "type": "text",
+                                "text": "が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "な"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぜ本企画"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "添削部分にこれが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あるの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "し"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ょ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "う"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "e4f528c7-fb0f-4306-9169-d27f8b90c71b",
+        "type": "message",
+        "text": "恐らくドローン系企画に書いてたものが、間違ってリアルスプラの方に書いてしまったからだと思います。",
+        "user": "U03BM52KMEC",
+        "ts": "1656917835.247449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6VG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "恐らくドローン系企画に書いてたものが、間違ってリアルスプラの方に書いてしまったからだと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    }
+]

@@ -1,0 +1,235 @@
+[
+    {
+        "client_msg_id": "be9abd87-7787-4ace-9efc-d6009fada7ba",
+        "type": "message",
+        "text": "じゃあ明日の14:00から学祭室でやりましょう!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1657617364.511359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lu1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃあ明日の14:00から学祭室でやりましょう!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9800E615-818E-49F3-A9CC-C533C41C8796",
+        "type": "message",
+        "text": "わかりました！よろしくお願いします:pray:",
+        "user": "U03D0L4BEJU",
+        "ts": "1657624968.174399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IBIWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました！よろし"
+                            },
+                            {
+                                "type": "text",
+                                "text": "くお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75133a0c-fa8b-47fb-9622-852afb01d55e",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.co.jp\/Holy-Stone-%E3%83%96%E3%83%A9%E3%82%B7%E3%83%AC%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%88%E6%99%82%E9%96%9366%E5%88%86-%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%9F%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%89\/dp\/B08V19LZKB|https:\/\/www.amazon.co.jp\/Holy-Stone-%E3%83%96%E3%83%A9%E3%82%B7%E3%83%AC%E3%82%B9%E3%[…]C%E3%83%9F%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%89\/dp\/B08V19LZKB>",
+        "user": "U03D0L4BEJU",
+        "ts": "1657692389.751069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Li2WP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.amazon.co.jp\/Holy-Stone-%E3%83%96%E3%83%A9%E3%82%B7%E3%83%AC%E3%82%B9%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-%E3%83%95%E3%83%A9%E3%82%A4%E3%83%88%E6%99%82%E9%96%9366%E5%88%86-%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%9F%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%89\/dp\/B08V19LZKB",
+                                "text": "https:\/\/www.amazon.co.jp\/Holy-Stone-%E3%83%96%E3%83%A9%E3%82%B7%E3%83%AC%E3%82%B9%E3%[…]C%E3%83%9F%E3%83%BC%E3%83%A2%E3%83%BC%E3%83%89\/dp\/B08V19LZKB"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dea292cf-23ab-4e13-9eeb-a5af657eb549",
+        "type": "message",
+        "text": "<https:\/\/holystone.co.jp\/contact\/>",
+        "user": "U039PA9J5JP",
+        "ts": "1657692710.064049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/holystone.co.jp\/contact\/",
+                "image_url": "https:\/\/holystone.co.jp\/wp-content\/uploads\/share-photo2.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 153016,
+                "service_icon": "https:\/\/holystone.co.jp\/wp-content\/uploads\/cropped-favicon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/holystone.co.jp\/contact\/",
+                "fallback": "Holy Stone: お問合せ先 - Holy Stone",
+                "title": "お問合せ先 - Holy Stone",
+                "title_link": "https:\/\/holystone.co.jp\/contact\/",
+                "service_name": "Holy Stone"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DrltK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/holystone.co.jp\/contact\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cbec79d8-2f28-43ac-b6d8-91650fe2c61e",
+        "type": "message",
+        "text": "<https:\/\/drone-hoken.jp\/indemnity>",
+        "user": "U03D0L4BEJU",
+        "ts": "1657695043.579779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/drone-hoken.jp\/indemnity",
+                "image_url": "https:\/\/drone-hoken.jp\/production\/assets\/og-4bd0f510b9f81a45d3bfd8ae94ba9ce5ba23653d80f77cfda9b7ed8ec6ddf1ac.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 349018,
+                "service_icon": "https:\/\/drone-hoken.jp\/production\/assets\/favicon-977738ca1963f6b853434ee5d203e1e6f0651bc07bfb8b4727fe48391aae023e.ico",
+                "id": 1,
+                "original_url": "https:\/\/drone-hoken.jp\/indemnity",
+                "fallback": "東京海上日動-ドローン保険",
+                "text": "ドローンの保険なら東京海上日動の「ドローン保険」！!｜機体保険：ドローン・カメラの自体の損傷の補償（墜落・衝突・水没・火災・盗難など）｜賠償責任保険：操作ミス等の事故による損害賠償(対人・対物)や人格権侵害等の賠償補償｜法人または個人事業主(日本国内所在)向け",
+                "title": "東京海上日動-ドローン保険",
+                "title_link": "https:\/\/drone-hoken.jp\/indemnity",
+                "service_name": "drone-hoken.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6EBYs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drone-hoken.jp\/indemnity"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

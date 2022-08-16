@@ -1,0 +1,593 @@
+[
+    {
+        "client_msg_id": "1f5a1f37-8bb8-4c07-880f-b488171ab044",
+        "type": "message",
+        "text": "リストランテパパカルド8月7日(日)僕がバイトなので申請書持っていきます",
+        "user": "U039M3UAXFG",
+        "ts": "1658826741.944629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KsD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リストランテパパカルド8月7日(日)僕がバイトなので申請書持っていきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11EA16A2-FE68-4DEE-BEE8-99D4374F9907",
+        "type": "message",
+        "text": "ありがとうございます、助かります",
+        "user": "U039PA9J5JP",
+        "ts": "1658829337.657829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Odg5C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます、助かります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658758734.606839",
+        "parent_user_id": "U0391RWR34N",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EF1C937B-4E47-4F4F-9D2B-42976C20B517",
+        "type": "message",
+        "text": "セブンイレブン会津飯盛山店\n8\/12(金)午後1時に訪問します。",
+        "user": "U03D0L4BEJU",
+        "ts": "1658894269.210099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lZo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "セブンイレブン会津飯盛山店"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8\/12(金)午後1時に訪問します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9B40312A-A5DA-4580-8575-4D20DE6BFDFC",
+        "type": "message",
+        "text": "マルハン会津若松（遠い方のパチンコ屋）\n8\/12（金）お昼12時に訪問します",
+        "user": "U03CDMY1V9C",
+        "ts": "1658895652.558529",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ivO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マルハン会津若松（遠い方のパチンコ屋）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8\/12（金）お昼12時に訪問します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32280E38-AA02-450A-A5E5-08DE49EE870B",
+        "type": "message",
+        "text": "変更です。マルハン会津若松店ですが、一箕町店で2店舗同時に協賛のお話をするそうです。",
+        "user": "U03CDMY1V9C",
+        "ts": "1658895896.669959",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KE5LL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "変更です。マルハン会津若松店ですが、一箕町店で2店舗同時に協賛のお話をするそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A3FA7184-1220-468D-8D3E-2CB4643A03A7",
+        "type": "message",
+        "text": "マルハン一箕町店の担当の人と同時に行くので、一箕町担当の人は8月10日の何時に行くのか教えて欲しいです。",
+        "user": "U03CDMY1V9C",
+        "ts": "1658895987.302019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vcS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "マルハン一箕町店の担当の人と同時に行くので、一箕町担当の人は8月10日の何時に行くのか教えて欲しいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658895987.302019",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1658897277.510089",
+        "reply_users": [
+            "U03K8CWK5LK",
+            "U039PA9J5JP",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U03K8CWK5LK",
+                "ts": "1658896149.832449"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1658896702.140249"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1658897277.510089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "A200DCAD-3D0B-473C-B804-643D7243FD14",
+        "type": "message",
+        "text": "ツルカメ建設\n8\/10(水)に午前中に訪問します。",
+        "user": "U03K1SMDYHL",
+        "ts": "1658896135.255329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge683ef399c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e683ef399c613c17f30ae6a6f1b11d81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Akari",
+            "real_name": "Akari Moriya",
+            "display_name": "あかり",
+            "team": "T038Z0K089K",
+            "name": "s1300231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HNH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ツルカメ建設"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8\/10("
+                            },
+                            {
+                                "type": "text",
+                                "text": "水"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に午前"
+                            },
+                            {
+                                "type": "text",
+                                "text": "中"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に訪問します"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fba150d8-1aef-4c6e-899a-0d69e5dddd2f",
+        "type": "message",
+        "text": "13時予定です。\nこの場合何人で伺いますか？",
+        "user": "U03K8CWK5LK",
+        "ts": "1658896149.832449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7SdT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "13時予定です。\nこの場合何人で伺いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658895987.302019",
+        "parent_user_id": "U03CDMY1V9C"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U03K8CWK5LK> <@U039P4NSKM1> \n二人で訪問をお願いします。\n会津若松店、一箕町店を二つ協賛してもらうので、当日は二つ資料を持って行ってください",
+        "user": "U039PA9J5JP",
+        "ts": "1658896702.140249",
+        "thread_ts": "1658895987.302019",
+        "root": {
+            "client_msg_id": "A3FA7184-1220-468D-8D3E-2CB4643A03A7",
+            "type": "message",
+            "text": "マルハン一箕町店の担当の人と同時に行くので、一箕町担当の人は8月10日の何時に行くのか教えて欲しいです。",
+            "user": "U03CDMY1V9C",
+            "ts": "1658895987.302019",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "vcS",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "マルハン一箕町店の担当の人と同時に行くので、一箕町担当の人は8月10日の何時に行くのか教えて欲しいです。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1658895987.302019",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1658897277.510089",
+            "reply_users": [
+                "U03K8CWK5LK",
+                "U039PA9J5JP",
+                "U0399UH8BKQ"
+            ],
+            "replies": [
+                {
+                    "user": "U03K8CWK5LK",
+                    "ts": "1658896149.832449"
+                },
+                {
+                    "user": "U039PA9J5JP",
+                    "ts": "1658896702.140249"
+                },
+                {
+                    "user": "U0399UH8BKQ",
+                    "ts": "1658897277.510089"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qgyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03K8CWK5LK"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039P4NSKM1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "二人で訪問をお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会津若松店、一箕町店を二つ協賛してもらうので、当日は二つ資料を持って行ってください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "C8EAB697-2AC6-4DC8-AF88-E8D6F08B1DA1",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U03K8CWK5LK"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D4AF7FAD-F4A3-4ED3-93C7-632C93BB072E",
+        "type": "message",
+        "text": "<@U039PA9J5JP> \nでは会津若松店の方の仕事は無しって事で大丈夫ですか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1658897277.510089",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e\/W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039PA9J5JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "では会津若松店の方の仕事は無しって事で大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658895987.302019",
+        "parent_user_id": "U03CDMY1V9C",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

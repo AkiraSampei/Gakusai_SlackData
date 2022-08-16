@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "51BB2AB8-6720-4A57-B050-A9ED781708BF",
+        "type": "message",
+        "text": "architecture…って練習問題そのままですか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1654606563.365929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bZ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "architecture"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "って練習問題そのままですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654606563.365929",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654608064.890629",
+        "reply_users": [
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1654608064.890629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "主な構成は同じだね〜\n参考までってことでウチらの代の問題どーぞ。スキャンの加減で見にくい＆合ってるか保証できない点はご容赦を。",
+        "files": [
+            {
+                "id": "F03JLFTMA5Q",
+                "created": 1654608056,
+                "timestamp": 1654608056,
+                "name": "2021期末.pdf",
+                "title": "2021期末.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0391RWR34N",
+                "editable": false,
+                "size": 1563943,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JLFTMA5Q\/2021______.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JLFTMA5Q\/download\/2021______.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JLFTMA5Q-a96e94c368\/2021_______thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0391RWR34N\/F03JLFTMA5Q\/2021______.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03JLFTMA5Q-cc014791d8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0391RWR34N",
+        "display_as_bot": false,
+        "ts": "1654608064.890629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l9=O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "主な構成は同じだね〜\n参考までってことでウチらの代の問題どーぞ。スキャンの加減で見にくい＆合ってるか保証できない点はご容赦を。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6b0a68c0-771e-402f-b642-23cc922e3b60",
+        "thread_ts": "1654606563.365929",
+        "parent_user_id": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654654364.895229",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました"
+    }
+]

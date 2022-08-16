@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655109406.371059",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1655109406.671209",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「CM」に設定しました",
+        "purpose": "CM"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655109411.510579",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました",
+        "inviter": "U0394PQ44FL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1655109421.103509",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「CMを作ろう企画の運営」に設定しました",
+        "purpose": "CMを作ろう企画の運営"
+    }
+]

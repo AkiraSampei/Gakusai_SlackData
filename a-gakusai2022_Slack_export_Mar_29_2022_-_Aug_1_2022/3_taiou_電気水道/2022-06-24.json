@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "C9307339-DD14-4476-9705-59ADB8802AE2",
+        "type": "message",
+        "text": "オンライン期間でも行って大丈夫ですか？",
+        "user": "U039TSY8J67",
+        "ts": "1656055453.799949",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JkG4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "オンライン期間でも行って大丈夫"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2673c5a7-6b76-435c-a759-7792ded27684",
+        "type": "message",
+        "text": "大丈夫だと思うけど、\n心配ならメール出そう",
+        "user": "U039LGX8MN1",
+        "ts": "1656057276.327779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge4cceea23c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4cceea23c3c852dd9aef914c9b398f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "白湯",
+            "real_name": "白湯",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "satoyuma3314",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zgir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫だと思うけど、\n心配ならメール出そう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

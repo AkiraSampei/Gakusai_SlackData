@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655271410.756129",
+        "user": "U03K1SMDYHL",
+        "text": "<@U03K1SMDYHL>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "780dbcb7-d90d-40c1-9e25-d38663fd79b3",
+        "type": "message",
+        "text": "<@U03K1SMDYHL>\n初めまして、花火担当の大澤です。\n<#C03AC97CC2C|1_department_kikaku> で部長から話があったように、顔合わせ・企画書の作成をしたいなーと思います。\n今週〜来週の中で都合の良い時間ある？何個か候補教えて〜（かかる時間は30〜45分程度かな？）",
+        "user": "U0391RWR34N",
+        "ts": "1655274224.779119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iBF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03K1SMDYHL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n初めまして、花火担当の大澤です。\n"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C03AC97CC2C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " で部長から話があったように、顔合わせ・企画書の作成をしたいなーと思います。\n今週〜来週の中で都合の良い時間ある？何個か候補教えて〜（かかる時間は30〜45分程度かな？）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

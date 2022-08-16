@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "E52889BB-3E33-46ED-BB9B-B32F92A97BB5",
+        "type": "message",
+        "text": "蔵の店 8月1日月曜日に訪問します。",
+        "user": "U03GF2N1X63",
+        "ts": "1658390622.478649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "dd1e1372ee9a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-15\/3669418199058_dd1e1372ee9adcb210a6_72.png",
+            "first_name": "Tamada",
+            "real_name": "Tamada Sara",
+            "display_name": "さら",
+            "team": "T038Z0K089K",
+            "name": "tamago420530ri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Rkb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "蔵の店 8月1日月曜日に訪問します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37201217-c781-4b57-9cfb-a059f4575ab5",
+        "type": "message",
+        "text": "<!channel>\nお疲れ様です。お店の担当も決まったため、再度連絡したいと思います。\n*訪問する日が決まったら協賛進捗と、このチャンネルにお店と日時を書いてください。*\n期末試験も近づくので、なるべく早めに各自、一緒に行く人と連絡するようにお願いします。\n何卒何卒です。。。:pray:\n<https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE>",
+        "user": "U039PA9J5JP",
+        "ts": "1658472604.311909",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GE4E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。お店の担当も決まったため、再度連絡したいと思います。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "訪問する日が決まったら協賛進捗と、このチャンネルにお店と日時を書いてください。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n期末試験も近づくので、なるべく早めに各自、一緒に行く人と連絡するようにお願いします。\n何卒何卒です。。。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "E2A61147-20EF-46BD-922D-8F42A0FD16D7",
+        "type": "message",
+        "text": "That’s right! That’s right!\n<https:\/\/youtu.be\/PEnJbjBuxnw|https:\/\/youtu.be\/PEnJbjBuxnw>",
+        "user": "U0399UH8BKQ",
+        "ts": "1656490056.799979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/PEnJbjBuxnw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/PEnJbjBuxnw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/PEnJbjBuxnw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"AJR - World's Smallest Violin (Official Video)\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/PEnJbjBuxnw",
+                "fallback": "YouTube Video: AJR - World's Smallest Violin (Official Video)",
+                "title": "AJR - World's Smallest Violin (Official Video)",
+                "title_link": "https:\/\/youtu.be\/PEnJbjBuxnw",
+                "author_name": "AJR",
+                "author_link": "https:\/\/www.youtube.com\/c\/ajr",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qA+g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "right!"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "That’s"
+                            },
+                            {
+                                "type": "text",
+                                "text": " right"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/PEnJbjBuxnw",
+                                "text": "https:\/\/youtu.be\/PEnJbjBuxnw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_stable",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

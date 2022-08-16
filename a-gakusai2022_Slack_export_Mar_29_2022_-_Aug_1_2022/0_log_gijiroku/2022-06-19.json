@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "text": "2年ステージ課の布施です。ステージ課会議が終わったので、議事録として残しておきます。\nステージ課として伝えたいことと致しましては、ゲスト課と企画部のステージ企画担当者は、8月までにどれくらいステージを使うのか教えてください。\nその他は、議事録に書いてます。\nご確認ください。",
+        "files": [
+            {
+                "id": "F03LMUCHBPT",
+                "created": 1655643617,
+                "timestamp": 1655643617,
+                "name": "6月19日ステージ課会議.pdf",
+                "title": "6月19日ステージ課会議.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 391599,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LMUCHBPT\/6___19________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LMUCHBPT\/download\/6___19________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LMUCHBPT-3058b72168\/6___19_________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03LMUCHBPT\/6___19________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LMUCHBPT-335b6321a1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RCZ4E04",
+        "display_as_bot": false,
+        "ts": "1655643625.801269",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RdopF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2年ステージ課の布施です。ステージ課会議が終わったので、議事録として残しておきます。\nステージ課として伝えたいことと致しましては、ゲスト課と企画部のステージ企画担当者は、8月までにどれくらいステージを使うのか教えてください。\nその他は、議事録に書いてます。\nご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c546bb74-936b-483d-ba09-d8ab532167e2",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

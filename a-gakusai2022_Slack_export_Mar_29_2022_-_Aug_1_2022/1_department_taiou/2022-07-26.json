@@ -1,0 +1,281 @@
+[
+    {
+        "client_msg_id": "3a481654-92f4-494e-ae48-129ab3cd44a5",
+        "type": "message",
+        "text": "吹奏楽のメール対応しました",
+        "user": "U039V55S998",
+        "ts": "1658829080.146379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AKK4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "吹奏楽のメール対応しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658829080.146379",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1658833731.957099",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1658833545.246109"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1658833630.051079"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1658833731.957099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90D2D9E5-3822-408D-AB99-CFE5F5BB4E55",
+        "type": "message",
+        "text": "どの様な回答にしたのでしょうか？\n今後のために共有してもらえると…",
+        "user": "U0399UH8BKQ",
+        "ts": "1658833545.246109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7fUxL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どの様な回答にしたのでしょうか？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今後のために共有してもらえると…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658829080.146379",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "ced931aa-3100-43ac-978a-2e2c0063651c",
+        "type": "message",
+        "text": "メールの返信ですが、28日までお待ちいただければ幸いですがどうでしょうか？\nです",
+        "user": "U039V55S998",
+        "ts": "1658833630.051079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PP\/H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールの返信ですが、28日までお待ちいただければ幸いですがどうでしょうか？\nです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658829080.146379",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "5a9bc83c-ecd8-464c-a788-05a2577e1aaa",
+        "type": "message",
+        "text": "決定次第私も共有します",
+        "user": "U039V55S998",
+        "ts": "1658833731.957099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iEyu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "決定次第私も共有します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658829080.146379",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "16fde350-58c7-41cd-901b-5e84f9e73701",
+        "type": "message",
+        "text": "バレー兼よさこいは金曜日昼お金回収です",
+        "user": "U039V55S998",
+        "ts": "1658849211.752339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ag+Og",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バレー兼よさこいは金曜日昼お金回収です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3518201b-8cce-4d96-9f78-06eec930d8b4",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1bZ4y69SmT6KEI39zsrthg_F3QA3lommgw5wNcVHw2NU\/edit?usp=sharing>\n参加サークルの一覧です。確認お願いします。",
+        "user": "U039V55S998",
+        "ts": "1658891155.713599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DqP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bZ4y69SmT6KEI39zsrthg_F3QA3lommgw5wNcVHw2NU\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n参加サークルの一覧です。確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

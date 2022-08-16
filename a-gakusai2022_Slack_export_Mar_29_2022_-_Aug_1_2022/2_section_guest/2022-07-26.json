@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "24CEF94C-A7AC-4117-BFFF-08F702E21FD3",
+        "type": "message",
+        "text": "ゲストの業者は今月いっぱいまで待ってみて、連絡が無いようだったら催促します",
+        "user": "U039EF90649",
+        "ts": "1658825327.065599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VUoX7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゲストの業者は今月いっぱいまで待ってみて、連絡が無いようだったら催促します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

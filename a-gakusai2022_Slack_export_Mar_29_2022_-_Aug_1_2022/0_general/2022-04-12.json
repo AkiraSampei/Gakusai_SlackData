@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1649828350.423489",
+        "user": "U039EF90649",
+        "text": "チャンネル名を「general」から「0_general」に変更しました",
+        "old_name": "general",
+        "name": "0_general"
+    }
+]

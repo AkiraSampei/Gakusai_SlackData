@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655103868.339479",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1655103868.644639",
+        "user": "U0399UH8BKQ",
+        "text": "がこのチャンネルの説明を「おじいちゃんおばあちゃんあつまえ〜〜^^」に設定しました",
+        "purpose": "おじいちゃんおばあちゃんあつまえ〜〜^^"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655109339.623069",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655110670.422089",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    }
+]

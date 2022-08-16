@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "F7F61D6E-BF30-47EA-9817-9167354D6E36",
+        "type": "message",
+        "text": "すみません。予定今わかりました。\n水曜の15-17:30、木曜16時からとあと土日しか空いてないです。遅れた上に都合悪くてすみませんm(*_ _)m",
+        "user": "U03K8CWK5LK",
+        "ts": "1657288842.214249",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MK7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "予定今わかりました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "水曜の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15-17:30、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "木曜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時から"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とあと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "土日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "空いてないです"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅れた上に都合悪くてすみませんm(*_ _)m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657163606.688449",
+        "parent_user_id": "U03A1N54PJM",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03A1N54PJM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

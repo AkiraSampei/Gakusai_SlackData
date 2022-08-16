@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "e099a126-f0a7-40bd-a8ed-f735d7a55d5c",
+        "type": "message",
+        "text": "レクリエーション課の布施です。\nBBQの詳細について説明したいと思います！\n6\/26(日)\n11時：会津若松駅集合\n電車で会津若松駅から南若松駅へ\n16時：解散\n\n基本的には、電車で現地まで向かおうと考えています。\n車などがある人は、車などで向かって大丈夫です。\n予算は、まだ確定はしていませんが\n1000円~2000円ぐらいになる予定です。\n肉などの食材、飲み物は用意してます。\nその他にもっていきたいものがあれば各自持ってきてもらって\n大丈夫です。\nお酒は持ってきてもかまいませんが自己責任でお願いいたします。\n不明点などございましたら、ご気軽に質問してください。",
+        "user": "U039RCZ4E04",
+        "ts": "1655165857.264009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1655165985.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cEFdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レクリエーション課の布施です。\nBBQの詳細について説明したいと思います！\n6\/26(日)\n11時：会津若松駅集合\n電車で会津若松駅から南若松駅へ\n16時：解散\n\n基本的には、電車で現地まで向かおうと考えています。\n車などがある人は、車などで向かって大丈夫です。\n予算は、まだ確定はしていませんが\n1000円~2000円ぐらいになる予定です。\n肉などの食材、飲み物は用意してます。\nその他にもっていきたいものがあれば各自持ってきてもらって\n大丈夫です。\nお酒は持ってきてもかまいませんが自己責任でお願いいたします。\n不明点などございましたら、ご気軽に質問してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03D0L4BEJU",
+                    "U0391RWR34N",
+                    "U03BM52KMEC",
+                    "U039M3UAXFG",
+                    "U03CDMY1V9C",
+                    "U039PA9J5JP",
+                    "U03A1S6RAF3"
+                ],
+                "count": 7
+            },
+            {
+                "name": "parrot_conga",
+                "users": [
+                    "U03K8CWK5LK",
+                    "U03CDMY1V9C",
+                    "U039PA9J5JP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrot_bouncing",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

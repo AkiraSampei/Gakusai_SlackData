@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "27f74c16-964f-4858-b79a-b225636811d9",
+        "type": "message",
+        "text": "メールチェックお願いします。\n総務予算課　総務係　担当者様\n\nお世話になっております。\n会津大学学園祭実行委員会の布施と申します。\n\n今年の学園祭で講堂を利用したいため、ご連絡させていただきました。\nつきましては、下記の期間で講堂を予約することは可能でしょうか。\n場所：講堂\n期間：10月22日(土)～10月31日(月)\n\nご返信よろしくお願いいたします。\n```---------------------------------\n会津大学　コンピュータ理工学部\n学部２年　\n会津大学学園祭実行委員会　対応部\n布施孝太　s1290205\nEmail:s1290205@u-aizu.ac.jp\n------------------------------------```\n",
+        "user": "U039RCZ4E04",
+        "ts": "1656568770.226469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YBa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。\n総務予算課　総務係　担当者様\n\nお世話になっております。\n会津大学学園祭実行委員会の布施と申します。\n\n今年の学園祭で講堂を利用したいため、ご連絡させていただきました。\nつきましては、下記の期間で講堂を予約することは可能でしょうか。\n場所：講堂\n期間：10月22日(土)～10月31日(月)\n\nご返信よろしくお願いいたします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "---------------------------------\n会津大学　コンピュータ理工学部\n学部２年　\n会津大学学園祭実行委員会　対応部\n布施孝太　s1290205\nEmail:s1290205@u-aizu.ac.jp\n------------------------------------"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656568770.226469",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1656635886.770079",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039RCZ4E04"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656568822.890419"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1656635539.963649"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656635645.037059"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1656635886.770079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "FBBFBB5C-8F2C-4E8F-86F3-BC1128A13E5F",
+        "type": "message",
+        "text": "場所:講堂って必要ですか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1656568822.890419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RsS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "場所:講堂って必要ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656568770.226469",
+        "parent_user_id": "U039RCZ4E04"
+    }
+]

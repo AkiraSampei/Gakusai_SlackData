@@ -1,0 +1,512 @@
+[
+    {
+        "client_msg_id": "205F1798-18F4-40A7-9AA5-A0F8F48830C5",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/z4zZlaQl0ww|https:\/\/youtu.be\/z4zZlaQl0ww>",
+        "user": "U0399UH8BKQ",
+        "ts": "1649327545.209079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/z4zZlaQl0ww",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/z4zZlaQl0ww\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/z4zZlaQl0ww?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/z4zZlaQl0ww",
+                "fallback": "YouTube Video: 洟垂れ天狗 \/ 悒うつぼ",
+                "title": "洟垂れ天狗 \/ 悒うつぼ",
+                "title_link": "https:\/\/youtu.be\/z4zZlaQl0ww",
+                "author_name": "悒うつぼ",
+                "author_link": "https:\/\/www.youtube.com\/c\/悒うつぼ",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WFzKY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/z4zZlaQl0ww",
+                                "text": "https:\/\/youtu.be\/z4zZlaQl0ww"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649327545.209079",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649335709.485959",
+        "reply_users": [
+            "U039BUU0GAH",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U039BUU0GAH",
+                "ts": "1649334303.859059"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1649335709.485959"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "734CD3C7-E72F-419B-A98D-9402AF0358C3",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/2eByN4GIAvE|https:\/\/youtu.be\/2eByN4GIAvE>",
+        "user": "U0394PQ44FL",
+        "ts": "1649327621.186489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/2eByN4GIAvE",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/2eByN4GIAvE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/2eByN4GIAvE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/2eByN4GIAvE",
+                "fallback": "YouTube Video: 【マリオ64】ウォーターランドをRemixしてみた【Trance風】",
+                "title": "【マリオ64】ウォーターランドをRemixしてみた【Trance風】",
+                "title_link": "https:\/\/youtu.be\/2eByN4GIAvE",
+                "author_name": "Sibe",
+                "author_link": "https:\/\/www.youtube.com\/user\/sibe2010",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mOb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/2eByN4GIAvE",
+                                "text": "https:\/\/youtu.be\/2eByN4GIAvE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tropical_fish",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da282fb3-85ac-4328-9906-79e24ef43e8b",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/FJKcwSRe5NY>",
+        "user": "U03901B3W69",
+        "ts": "1649330404.104579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/FJKcwSRe5NY",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/FJKcwSRe5NY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/FJKcwSRe5NY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/FJKcwSRe5NY",
+                "fallback": "YouTube Video: TECHNOPOLIS 2085 \/ PRASTIK DANCEFLOOR (Official Audio)",
+                "title": "TECHNOPOLIS 2085 \/ PRASTIK DANCEFLOOR (Official Audio)",
+                "title_link": "https:\/\/youtu.be\/FJKcwSRe5NY",
+                "author_name": "PRASTIK DANCEFLOOR",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCXT8HmHi1cFepV3D9KS-DBA",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LUV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/FJKcwSRe5NY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9A300BC1-6D04-4EA4-BE1C-279513B1805C",
+        "type": "message",
+        "text": "やば",
+        "user": "U039BUU0GAH",
+        "ts": "1649334303.859059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJXJ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "やば"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649327545.209079",
+        "parent_user_id": "U0399UH8BKQ"
+    },
+    {
+        "client_msg_id": "D3890AB2-FD50-4771-A871-3730E4BF86B1",
+        "type": "message",
+        "text": "<https:\/\/m.youtube.com\/watch?v=-C-2AqRD8io|https:\/\/m.youtube.com\/watch?v=-C-2AqRD8io>",
+        "user": "U039BUU0GAH",
+        "ts": "1649334907.225329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/m.youtube.com\/watch?v=-C-2AqRD8io",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/-C-2AqRD8io\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/-C-2AqRD8io?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/m.youtube.com\/watch?v=-C-2AqRD8io",
+                "fallback": "YouTube Video: Porter Robinson - Something Comforting (Official Music Video)",
+                "title": "Porter Robinson - Something Comforting (Official Music Video)",
+                "title_link": "https:\/\/m.youtube.com\/watch?v=-C-2AqRD8io",
+                "author_name": "Porter Robinson",
+                "author_link": "https:\/\/www.youtube.com\/c\/porterrobinson",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.youtube.com\/watch?v=-C-2AqRD8io",
+                                "text": "https:\/\/m.youtube.com\/watch?v=-C-2AqRD8io"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C32FC2DF-D4E3-4EEF-A74B-7FF36D7B07D2",
+        "type": "message",
+        "text": "ストレージを圧迫する可能性があるので程々にしようね！",
+        "user": "U0399UH8BKQ",
+        "ts": "1649335688.850999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pmoWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ストレージを圧迫する可能性があるので程々にしようね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_surprised",
+                "users": [
+                    "U039BUU0GAH",
+                    "U038TMLJW1M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6D928AB1-41C6-4F06-B814-C6C348596E76",
+        "type": "message",
+        "text": "語彙力どこだよ",
+        "user": "U0399UH8BKQ",
+        "ts": "1649335709.485959",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JwAqS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "語彙力どこだよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649327545.209079",
+        "parent_user_id": "U0399UH8BKQ"
+    },
+    {
+        "client_msg_id": "88B4DC0D-36E9-444F-9C9A-C754AF49D70F",
+        "type": "message",
+        "text": "10000件までのやつか、完全に忘れてた\n週一くらいにします",
+        "user": "U039BUU0GAH",
+        "ts": "1649335724.152329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o9Hg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10000件までのやつか、完全に忘れてた\n週一くらいにします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cae6b53a-e2d3-4b5b-aae3-ef87064cf078",
+        "type": "message",
+        "text": "スタートダッシュは大事。この人数だと週1でもアッと言う間にパンパンになりそうw",
+        "user": "U03901B3W69",
+        "ts": "1649336675.369879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZgbP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スタートダッシュは大事。この人数だと週1でもアッと言う間にパンパンになりそうw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77E84F43-0570-405A-AA6C-862D242EF183",
+        "type": "message",
+        "text": "（人数よりもメンバーの方がデカい気がしてならない）",
+        "user": "U0391RWR34N",
+        "ts": "1649343751.891789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ql1ps",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "（人数よりもメンバーの方がデカい気がしてならない）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

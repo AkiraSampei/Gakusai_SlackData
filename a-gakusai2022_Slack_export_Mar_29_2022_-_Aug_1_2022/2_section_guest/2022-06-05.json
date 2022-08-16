@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "c5383474-fd86-4bd8-b09d-9c909fdb7b2c",
+        "type": "message",
+        "text": "<!channel>  ゲストのメールって返信しましたか？",
+        "user": "U0394PQ44FL",
+        "ts": "1654484214.031889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMfQx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  ゲストのメールって返信しましたか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

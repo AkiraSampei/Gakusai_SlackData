@@ -1,0 +1,43 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03L4TZH3RA",
+                "created": 1655442466,
+                "timestamp": 1655442466,
+                "name": "alg2quiz_ans.pdf",
+                "title": "alg2quiz_ans.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 541859,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L4TZH3RA\/alg2quiz_ans.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L4TZH3RA\/download\/alg2quiz_ans.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L4TZH3RA-a51d953d85\/alg2quiz_ans_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03L4TZH3RA\/alg2quiz_ans.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03L4TZH3RA-7bc1bb56ce",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1655442474.410659",
+        "client_msg_id": "ba09405e-1c00-4acb-bac5-991def7df38f"
+    }
+]

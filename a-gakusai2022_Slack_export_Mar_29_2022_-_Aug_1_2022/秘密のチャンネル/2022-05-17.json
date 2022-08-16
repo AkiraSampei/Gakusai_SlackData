@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "text": "正確さは保証しないです",
+        "files": [
+            {
+                "id": "F03FQFE168N",
+                "created": 1652857013,
+                "timestamp": 1652857013,
+                "name": "java1.zip",
+                "title": "java1.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 10441931,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03FQFE168N\/java1.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03FQFE168N\/download\/java1.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03FQFE168N\/java1.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03FQFE168N-0d55d462ff",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1652857024.171369",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o7k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正確さは保証しないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4ff07d26-5396-4bc2-8f52-c70ab1bd7dec"
+    }
+]

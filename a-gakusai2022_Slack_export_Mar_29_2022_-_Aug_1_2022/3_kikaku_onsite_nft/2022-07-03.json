@@ -1,0 +1,309 @@
+[
+    {
+        "client_msg_id": "ead15a93-692e-4f5f-bf2f-0dd353ec7273",
+        "type": "message",
+        "text": "色々情報をおいておくスレッド\n基本委託じゃないとできなそう？",
+        "user": "U039RJU3V36",
+        "ts": "1656835169.822349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1656835213.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rudhA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "色々情報をおいておくスレッド\n基本委託じゃないとできなそう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656835169.822349",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1656835768.609259",
+        "reply_users": [
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656835176.837389"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656835768.609259"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d85495f0-666a-4694-8b6a-5b18bd2693d9",
+        "type": "message",
+        "text": "<https:\/\/gifmagazine.co.jp\/nftgift|https:\/\/gifmagazine.co.jp\/nftgift>",
+        "user": "U039RJU3V36",
+        "ts": "1656835176.837389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pKd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gifmagazine.co.jp\/nftgift",
+                                "text": "https:\/\/gifmagazine.co.jp\/nftgift"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656835169.822349",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "16cd7d8e-543f-4d1e-8e4c-4a12c9bcf060",
+        "type": "message",
+        "text": "これは高い\n<https:\/\/nftairdrop.jp\/>",
+        "user": "U039RJU3V36",
+        "ts": "1656835768.609259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ndu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは高い\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/nftairdrop.jp\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656835169.822349",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "fefdf62e-9571-43bd-8741-da6b9bd5e80f",
+        "type": "message",
+        "text": "nft続けるかどうかは一回どこかに問い合わせして、金額知ってからにしません？",
+        "user": "U039RJU3V36",
+        "ts": "1656835823.882449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3O\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "nft続けるかどうかは一回どこかに問い合わせして、金額知ってからにしません？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e82affd4-83bd-4ce5-acc6-666c45a96388",
+        "type": "message",
+        "text": "それって、多分作品のUPには金は掛からなくて、業者委託みたいなビジネスがあるだけじゃなのかな",
+        "user": "U039BUU0GAH",
+        "ts": "1656835954.107819",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Saz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それって、多分作品のUPには金は掛からなくて、業者委託みたいなビジネスがあるだけじゃなのかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e096f0b2-f87e-41c2-b76d-99f05fccb059",
+        "type": "message",
+        "text": "イベント来場記念とかでnftをqr配布とかってするなら、なんらかのサービスを利用しないと厳しいと思います",
+        "user": "U039RJU3V36",
+        "ts": "1656836439.920729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lDS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "イベント来場記念とかでnftをqr配布とかってするなら、なんらかのサービスを利用しないと厳しいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8bb10ec0-42b8-4287-ae49-2b8ad690adf1",
+        "type": "message",
+        "text": "Naruhods",
+        "user": "U039BUU0GAH",
+        "ts": "1656909302.146449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C+f6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Naruhods"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

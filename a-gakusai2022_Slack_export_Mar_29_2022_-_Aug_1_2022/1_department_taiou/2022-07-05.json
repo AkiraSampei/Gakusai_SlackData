@@ -1,0 +1,224 @@
+[
+    {
+        "client_msg_id": "a9277cf7-29c9-4036-a7f4-6a657d98aec2",
+        "type": "message",
+        "text": "対応部フォルダに昨年度のスパイスさんとの申請書を入れておいたので対応部→全般から確認お願いします",
+        "user": "U039V55S998",
+        "ts": "1657077895.328779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1657079423.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vz8U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "対応部フォルダに昨年度のスパイスさんとの申請書を入れておいたので対応部→全般から確認お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04411349-2BED-461A-9882-BA7B5D187BEC",
+        "type": "message",
+        "text": "対応部会議の場所ってどこですか？",
+        "user": "U039PA9J5JP",
+        "ts": "1657086115.879699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q5pjp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "対応部会議の場所ってどこですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B818A094-6F3D-4F2A-8A8D-BCFD814CE832",
+        "type": "message",
+        "text": "m7です",
+        "user": "U039V55S998",
+        "ts": "1657086148.390569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "542",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "m7です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4467F5A7-37FE-4C22-94BB-5B43F318B518",
+        "type": "message",
+        "text": "失礼しました",
+        "user": "U039V55S998",
+        "ts": "1657086151.672579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aZyp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf63c404-644c-4bc1-89f4-cb4ee6a9a559",
+        "type": "message",
+        "text": "<!channel>対応部会議は3時10分にm7です\nよろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1657086599.988759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cd9z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対応部会議は3時10分にm7です\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0399UH8BKQ",
+                    "U039LGX8MN1"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

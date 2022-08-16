@@ -1,0 +1,1322 @@
+[
+    {
+        "client_msg_id": "4169021b-7348-4669-8881-1d1e30a08f92",
+        "type": "message",
+        "text": "<@U039M3UAXFG>\nおはようございます！\nBBQ当日の参加人数は、28人になりました。\n肉の予約よろしくお願いいたします:pray::pray:",
+        "user": "U039RCZ4E04",
+        "ts": "1655682855.929809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eFy3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039M3UAXFG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおはようございます！\nBBQ当日の参加人数は、28人になりました。\n肉の予約よろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655682855.929809",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1655688195.580759",
+        "reply_users": [
+            "U039RCZ4E04",
+            "U039M3UAXFG"
+        ],
+        "replies": [
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655686209.164239"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1655688077.449299"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655688195.580759"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "56873106-ecc2-4633-9388-e54934299b6a",
+        "type": "message",
+        "text": "<@U039WPGBPDH> 今週までに来月のレクリエーションのアンケートよろしくお願いいたします。\nもしGoogleフォームがきつかったら違った形でアンケートとってもかまいません。\nよろしくお願いいたします。",
+        "user": "U039RCZ4E04",
+        "ts": "1655682961.694549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KSRK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今週までに来月のレクリエーションのアンケートよろしくお願いいたします。\nもしGoogleフォームがきつかったら違った形でアンケートとってもかまいません。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "055d194c-8cc1-46ed-87b8-5ca3b3290678",
+        "type": "message",
+        "text": "<!channel>\nBBQに向けて、今週に自分がやるべきことってなにかありますか？あったら教えてほしいです:pray:",
+        "user": "U039RCZ4E04",
+        "ts": "1655683091.981669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBBQに向けて、今週に自分がやるべきことってなにかありますか？あったら教えてほしいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655683091.981669",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655688183.487319",
+        "reply_users": [
+            "U039M3UAXFG"
+        ],
+        "replies": [
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1655688183.487319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "4DCF55BC-6523-432E-8306-4E4C686F0999",
+        "type": "message",
+        "text": "もしかしたら少し増えたりするかもしれないです",
+        "user": "U039RCZ4E04",
+        "ts": "1655686209.164239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gEa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もしかしたら少し増えたりするかもしれないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655682855.929809",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "803C1EB4-6478-4B36-AA52-651A2ECDBEAF",
+        "type": "message",
+        "text": "多めに30人分で予約しとくわ",
+        "user": "U039M3UAXFG",
+        "ts": "1655688077.449299",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7pw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多めに"
+                            },
+                            {
+                                "type": "text",
+                                "text": "30"
+                            },
+                            {
+                                "type": "text",
+                                "text": "人分で予約しとくわ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655682855.929809",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "2376076B-AEFD-47EE-893B-99DDF77F1149",
+        "type": "message",
+        "text": "今のところ大丈夫だと思う\n何かあったらまた連絡するね！",
+        "user": "U039M3UAXFG",
+        "ts": "1655688183.487319",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QxT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今のところ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大丈夫"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だと思う"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "何かあったらまた連絡するね"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655683091.981669",
+        "parent_user_id": "U039RCZ4E04",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D755B880-9D7E-4F35-9C3B-406E5AC0F469",
+        "type": "message",
+        "text": "了解です:raised_hands:\nよろしくお願いします:raised_hands:",
+        "user": "U039RCZ4E04",
+        "ts": "1655688195.580759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0rl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655682855.929809",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "8926ECC8-BAEC-4289-B6A8-2C35B7338035",
+        "type": "message",
+        "text": "<@U039M3UAXFG>\n小西くんが行きたいってなってるんですけど大丈夫ですか？",
+        "user": "U039RCZ4E04",
+        "ts": "1655693754.611089",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43ut",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039M3UAXFG"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n小西くんが行きたいってなってるんですけど大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655693754.611089",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655696538.538699",
+        "reply_users": [
+            "U039M3UAXFG"
+        ],
+        "replies": [
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1655696538.538699"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C2373600-D95C-4589-9432-16EF9F09D2D6",
+        "type": "message",
+        "text": "大丈夫よん",
+        "user": "U039M3UAXFG",
+        "ts": "1655696538.538699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MrwNH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655693754.611089",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "DF483EBA-3BD4-48D2-9D2C-3D215955BC6A",
+        "type": "message",
+        "text": "<@U039WPGBPDH> <@U039RCZ4E04>\n金曜の午後車にBBQセットとか積もうと思うから手伝って欲しい！\n午後何時以降なら空いてる？",
+        "user": "U039M3UAXFG",
+        "ts": "1655696739.202859",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039RCZ4E04"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "金曜の午後車にBBQセット"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "積もうと思うから手伝って欲しい！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "午後何時以降なら空いてる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696739.202859",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1655704097.490479",
+        "reply_users": [
+            "U039WPGBPDH",
+            "U039RCZ4E04",
+            "U039M3UAXFG"
+        ],
+        "replies": [
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1655703834.538279"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655703948.121629"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1655704036.190349"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1655704076.622279"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655704097.490479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "79A4357D-0219-44BF-96CA-2884279824B1",
+        "type": "message",
+        "text": "予約してきた！\n全部で12000円ぐらいだそうです",
+        "user": "U039M3UAXFG",
+        "ts": "1655699487.035979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039M3UAXFG",
+            "ts": "1655699628.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=jgJM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予約してきた！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全部で12000"
+                            },
+                            {
+                                "type": "text",
+                                "text": "円ぐらい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03LCTVBR6Y",
+                "created": 1655701209,
+                "timestamp": 1655701209,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 146821,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LCTVBR6Y\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LCTVBR6Y\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVBR6Y-5ef67b26e6\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1108,
+                "original_h": 1478,
+                "thumb_tiny": "AwAwACN9ueGAz9TTyoAxx+VMtgAkh96fkHnmgB4I4\/wp6g885zUYwfX8qkU9ufyoAreWW5JwT2xR5P8AtfpQUfJ47+tJsf0\/WlYLjbVswuT61KgU87QKitubd\/c1LH90UwJAaVWJYDFNBpF++uPWgCCSZxIwAGAfSm+fJ7flU0mPMbJ703j1oAZAT5J471IufQ4NR25\/dOPepVzj0oAkUYowQ4PbNIBnufwpcHeDnPNAEU20StliDUeU\/vmpJUDSE4b8MUzyx6P+lILI\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03LCTVBR6Y\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LCTVBR6Y-6370cbd020",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03KVTP1Q95",
+                "created": 1655701209,
+                "timestamp": 1655701209,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 172332,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KVTP1Q95\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KVTP1Q95\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KVTP1Q95-b018d970e0\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1108,
+                "original_h": 1478,
+                "thumb_tiny": "AwAwACOeL5Yuc9TSk8rwcUkfzxD5s9RnFIflYZ5OKAHqcH1pwI3A4696YCMcqPyp+MsDmgCs7lXYcde9J5jf7NEgDSMQpPNN2\/7BpiJlwExjIzSL1yPlHpRbtmM89DRu78\/j\/SkMkGT\/ABU4cEkjoOtMDY9MdsUoOWxjr70AQmVgeAMUec3oKUowOMCjY390UhiW+BGcdMmlPQZGOe1JEw8sdsmkJCrxnr9aYh6nBNSBu+4YqHA3Zxn2qRd390D8aAGuH3nDcU3En96rAHFGKAP\/2Q==",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03KVTP1Q95\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KVTP1Q95-9acbc8a8e4",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03LCTVDKRS",
+                "created": 1655701210,
+                "timestamp": 1655701210,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 198978,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LCTVDKRS\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LCTVDKRS\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVDKRS-038729f953\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1108,
+                "original_h": 1478,
+                "thumb_tiny": "AwAwACMtlO0\/WpwWBAzmo4OE6d6k7j2pASKxJpSCVYH0qMHn1p2fmx0yOtMDN8iX+4TSeRL\/AHDV7zMcHrR5o96BDYjuVu2G7\/Snk4pkTZB6dRSnJAwR17CgY5WBPWpVUFhyKhQ4zUyvg4zQBBJETIxB4Jpvkt\/eFSCQY5xn60eYvqKLhYrQNgNzxkVKB1qBVINTjgUhtWFzxx1NSpjcv0qIVIgO4HHFMQ0pECeKTZD6fzpT1PHek\/CgD\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03LCTVDKRS\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LCTVDKRS-70345ad8dc",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03LAEA3D7D",
+                "created": 1655701210,
+                "timestamp": 1655701210,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 164781,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LAEA3D7D\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LAEA3D7D\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LAEA3D7D-ceef0b9241\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1108,
+                "original_h": 1478,
+                "thumb_tiny": "AwAwACN1suGJJJIHTNPjn3Nhscru4B4qODh2b2qcOT2pDYgmYkAx4znJLdKJWLwSZXGDge9P8zBGe9K43xkDimIqeUBxR5YpxhfP\/wBek8l\/8mgBIwVU854xipl5AJIzjuaggYuxJ6AcVP24P6Uhscqc7uDTi5KsBjgZyKYB0wTxT88Nx2oEVhK2OZR+VL5p\/wCeo\/75p4KAfdX8qXKf3V\/KmIrw8QEjucVKjZwB096bEoMWB2Jp6QkDlvyoGOLYNKjYfpjtwKBEw4J3D3pfKYMCBQA\/A9KMD0FNLbTj0pPMosB\/\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03LAEA3D7D\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LAEA3D7D-0b1f977255",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03LCTVFBDJ",
+                "created": 1655701210,
+                "timestamp": 1655701210,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 173681,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LCTVFBDJ\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LCTVFBDJ\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LCTVFBDJ-122afd580d\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1108,
+                "original_h": 1478,
+                "thumb_tiny": "AwAwACO2x4wMjHpTCf3hHPTrQ7f7WOlRFhvPz598dKAJVJA6k\/QZp4+bjnB9qijPH3sVKp+YDcSfpQBVMUYJDMM0nlxeopWwWY7c8mkwP7gosF2TBh5SE9wKTKlh8wz9aaf9Sg9qFyQMbfx60ASKMdKcr\/MBTB97vTl\/1n4UAV2GWPbmkx\/nNSZTP8VG5f8Aao1FoCH\/AEdDgHr1oQgjjH4Ulux8gYx1PWlJP8ZFAwLHcMfjT0Y7iCf0qIBdw2kDHpUighs5z+FADdxHAx+VG8+o\/wC+aXcv8Q5o3J6fpU6jP\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03LCTVFBDJ\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LCTVFBDJ-5d6e5125ac",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RCZ4E04",
+        "ts": "1655701215.092679",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iq\/",
+                "elements": []
+            }
+        ],
+        "client_msg_id": "F442F6C6-996D-4F77-BA44-8D95EB14658A"
+    },
+    {
+        "client_msg_id": "D34510A2-810F-40F5-90BC-DD736CC4F00B",
+        "type": "message",
+        "text": "一応アウトドアのBBQのやつ載せときます",
+        "user": "U039RCZ4E04",
+        "ts": "1655701233.134829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fnPI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応アウトドアのBBQのやつ載せときます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4424FDEC-14B1-4B07-8CCF-837CC9B771EB",
+        "type": "message",
+        "text": "人数は28人でした",
+        "user": "U039RCZ4E04",
+        "ts": "1655701697.643809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R9rqv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "人数は28人でした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67A6947C-1E02-41E5-A6F3-BF7285A2CD2B",
+        "type": "message",
+        "text": "9限終わり次第行きます:sweat_drops:",
+        "user": "U039WPGBPDH",
+        "ts": "1655703834.538279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xUHI6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "限終わり次第行きます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696739.202859",
+        "parent_user_id": "U039M3UAXFG"
+    },
+    {
+        "client_msg_id": "03DA25F8-5C50-4C81-9C0B-BE52BA171720",
+        "type": "message",
+        "text": "肉謎に高いな笑",
+        "user": "U039M3UAXFG",
+        "ts": "1655703895.501549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Im\/B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "肉謎に高いな笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BE9257F0-B61E-4548-838B-3052A50899D1",
+        "type": "message",
+        "text": "思ってたより高かったって感じでした",
+        "user": "U039RCZ4E04",
+        "ts": "1655703924.418139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ofoF=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "思ってたより高かったって感じでした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2B9618AE-2C25-46C5-9412-0F63BB725FE6",
+        "type": "message",
+        "text": "自分もです！",
+        "user": "U039RCZ4E04",
+        "ts": "1655703948.121629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OXAYj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分もです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696739.202859",
+        "parent_user_id": "U039M3UAXFG"
+    },
+    {
+        "client_msg_id": "D75A5415-0EF9-41AE-8D6F-C30FE008F127",
+        "type": "message",
+        "text": "2人とも9限まであるのか、、忙しいな笑",
+        "user": "U039M3UAXFG",
+        "ts": "1655704036.190349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Op1t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2人とも9限まであるのか、、忙しいな笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696739.202859",
+        "parent_user_id": "U039M3UAXFG"
+    },
+    {
+        "client_msg_id": "934C285C-EBE1-4509-A94A-1AE6AD05C54D",
+        "type": "message",
+        "text": "やっぱその時学祭室にいる人に頼んで手伝って貰うから大丈夫だ！",
+        "user": "U039M3UAXFG",
+        "ts": "1655704076.622279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GFCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "や"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っぱその時学祭"
+                            },
+                            {
+                                "type": "text",
+                                "text": "室に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いる人に頼んで手伝って貰うから大丈夫だ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696739.202859",
+        "parent_user_id": "U039M3UAXFG"
+    },
+    {
+        "client_msg_id": "C0048D60-C86A-4994-A590-57C98F19F93E",
+        "type": "message",
+        "text": "一応5.6限なら空いてます",
+        "user": "U039RCZ4E04",
+        "ts": "1655704097.490479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2V6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応5.6限なら空いてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696739.202859",
+        "parent_user_id": "U039M3UAXFG",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

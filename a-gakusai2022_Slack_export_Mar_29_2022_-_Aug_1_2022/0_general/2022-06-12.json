@@ -1,0 +1,370 @@
+[
+    {
+        "client_msg_id": "F27D3CBC-0472-42BF-A485-F55A6E17CA9E",
+        "type": "message",
+        "text": "昨日の全体会議お疲れ様でした\n1ヶ月ほど前に告知した通り、6月末にBBQをやりたいと考えています。\n先輩や後輩、同級生と仲良くなれる機会だと思うのでぜひ参加してください！\n日程は、6月26日(日)決まりましたので、伝助に記入をしていない人は記入をよろしくお願いいたします。\n前に記入した人は、\n記入はしなくても大丈夫です。\n参加人数を確定させたいので、\n期限は、6月18日(日)までです！\n記入の仕方がわからない人や変更がある人は、連絡してください。",
+        "user": "U039RCZ4E04",
+        "ts": "1655023514.875669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日の全体会議お疲れ様でした\n1ヶ月ほど前に告知した通り、6月末にBBQをやりたいと考えています。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "先輩や後輩、同級生と仲良くなれる機会だと思うのでぜひ参加してください！\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日程は、6月26日(日)決まりましたので、伝助に記入をしていない人は記入をよろしくお願いいたします。\n前に記入した人は、\n記入はしなくても大丈夫です。\n参加人数を確定させたいので、\n期限は、6月18日(日)までです！\n記入の仕方がわからない人や変更がある人は、連絡してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A4C1346D-AB0B-4CE3-9D57-5AEC1A25F7D1",
+        "type": "message",
+        "text": "<https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM|https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM>",
+        "user": "U039RCZ4E04",
+        "ts": "1655023525.718549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                "fallback": "伝助（BBQ）",
+                "title": "伝助（BBQ）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Cw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                                "text": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meat_on_bone",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0391RWR34N",
+                    "U03D0L4BEJU",
+                    "U039WPGBPDH",
+                    "U039BUU0GAH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10DFD45F-3B9B-409E-A166-62AD07DC8094",
+        "type": "message",
+        "text": "新しく入った人もいるようなので再掲\n学祭委員の自己紹介のためのスライドを作りました。\nGoogle Slidesというサービスを使っていて、誰でも書き込める（スマホ版はアプリ必要）ようになっているので、時間がある時に記入お願いします。\n使い方分からなかったら連絡ください:eyes:\n<https:\/\/docs.google.com\/presentation\/d\/1EMZpIWEQQOEddqDX0lzz2yJiJG95ySR8MPqWQFrSbgo\/edit#slide=id.g133924f3590_0_5|https:\/\/docs.google.com\/presentation\/d\/1EMZpIWEQQOEddqDX0lzz2yJiJG95ySR8MPqWQFrSbgo\/edit#slide=id.g133924f3590_0_5>",
+        "user": "U039BUU0GAH",
+        "ts": "1655083715.096999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039BUU0GAH",
+            "ts": "1655083728.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "33Mv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "新しく入った人もいるようなので再掲"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学祭委員の自己紹介のためのスライドを作りました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Google Slidesというサービスを使っていて、誰でも書き込める（スマホ版はアプリ必要）ようになっているので、時間がある時に記入お願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "使い方分からなかったら連絡ください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1EMZpIWEQQOEddqDX0lzz2yJiJG95ySR8MPqWQFrSbgo\/edit#slide=id.g133924f3590_0_5",
+                                "text": "https:\/\/docs.google.com\/presentation\/d\/1EMZpIWEQQOEddqDX0lzz2yJiJG95ySR8MPqWQFrSbgo\/edit#slide=id.g133924f3590_0_5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "74CC6B06-E4CF-4E7F-AEBE-438B5811EE45",
+        "type": "message",
+        "text": "↑後一応個人情報なので、部外秘でお願いします。\n記入も他の委員に公開できる範囲で大丈夫です。",
+        "user": "U039BUU0GAH",
+        "ts": "1655083919.873759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039BUU0GAH",
+            "ts": "1655083939.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lpo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑後一応個人情報なので、部外秘でお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "記入も"
+                            },
+                            {
+                                "type": "text",
+                                "text": "他の委員に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "公開できる範囲で大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21348863-8937-4548-92a2-4d726e242899",
+        "type": "message",
+        "text": "<!channel> &lt;一年生へ&gt;\n学祭のSlackにはいってくれてありがとうございます。\n学園祭実行委員の構成員の名簿を作るので、Googleformで名前とかの記入をお願いします！\nこれがわからないと学祭の名簿をかけないので*、一年生全員は必ず入力してください。*\nよろしくお願いします。\n&lt;<https:\/\/forms.gle\/1suZ6hD7nMmdVZy8A>&gt;",
+        "user": "U03CGVA43U3",
+        "ts": "1655102272.479769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "60bac0103d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3448746308992_60bac0103d3b164e2c0a_72.jpg",
+            "first_name": "会津大学学園祭実行委員会",
+            "real_name": "会津大学学園祭実行委員会",
+            "display_name": "学祭室",
+            "team": "T038Z0K089K",
+            "name": "aizugakusai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/1suZ6hD7nMmdVZy8A",
+                "image_url": "https:\/\/lh4.googleusercontent.com\/mkyuqQkpt7XPmlhEo9feJT2GSFsjFml5mf6V6kVrMST1ptIb2J_prsz8KHqZNTwgSwiaiLg-bcc",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 42364,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/1suZ6hD7nMmdVZy8A",
+                "fallback": "Google Docs: 学祭新入生フォーム",
+                "title": "学祭新入生フォーム",
+                "title_link": "https:\/\/forms.gle\/1suZ6hD7nMmdVZy8A",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ZrVz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " <一年生へ>\n学祭のSlackにはいってくれてありがとうございます。\n学園祭実行委員の構成員の名簿を作るので、Googleformで名前とかの記入をお願いします！\nこれがわからないと学祭の名簿をかけないので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、一年生全員は必ず入力してください。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします。\n<"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/1suZ6hD7nMmdVZy8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": ">"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

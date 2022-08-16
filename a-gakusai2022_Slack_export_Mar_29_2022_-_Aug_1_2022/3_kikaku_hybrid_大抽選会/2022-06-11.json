@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931497.538729",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654931497.896079",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「大抽選会運営」に設定しました",
+        "purpose": "大抽選会運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931710.320679",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「11_kikaku_大抽選会」から「2_kikaku_大抽選会」に変更しました",
+        "old_name": "11_kikaku_大抽選会",
+        "name": "2_kikaku_大抽選会"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931842.965739",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    }
+]

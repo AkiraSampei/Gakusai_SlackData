@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "66a449c1-e27e-4995-a5b5-858af670d81b",
+        "type": "message",
+        "text": "<!channel> 全体会議のお知らせ(確定)\nこんにちは！委員長の宮崎です。改めまして全体会議のご連絡です。全体会議を*7月14日(木曜日)*17:00～に開催します！\n場所は大講義室です。皆ざまの参加をよろしくお願いいたします！",
+        "user": "U03901B3W69",
+        "ts": "1657182546.237549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zypj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 全体会議のお知らせ(確定)\nこんにちは！委員長の宮崎です。改めまして全体会議のご連絡です。全体会議を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7月14日(木曜日)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "17:00～に開催します！\n場所は大講義室です。皆ざまの参加をよろしくお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039M3UAXFG",
+                    "U038TMLJW1M",
+                    "U0391RWR34N",
+                    "U039L92GA3X"
+                ],
+                "count": 5
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U03K8F1PW82"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

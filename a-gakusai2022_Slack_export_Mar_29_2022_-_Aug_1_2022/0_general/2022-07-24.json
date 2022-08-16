@@ -1,0 +1,143 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> おはようございます！昨日はBBQお疲れ様でした！\n\nさて、夏休みも近づいたので追加で判明した部分もあると思いますので、また改めて夏休みの日程に関してこちらの記入をお願いします。未記入の方はもちろん、一度記入しても追加で帰省等が入った方も追加で記入をお願いします。",
+        "user": "U03901B3W69",
+        "ts": "1658715598.526969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/a-gakusai2022.slack.com\/archives\/C0391SJ8W4S\/p1657792632793479?thread_ts=1657792632793479&cid=C0391SJ8W4S",
+                "ts": "1657792632.793479",
+                "author_id": "U03901B3W69",
+                "channel_team": "T038Z0K089K",
+                "channel_id": "C0391SJ8W4S",
+                "channel_name": "0_general",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T038Z0K089K",
+                        "channel": "C0391SJ8W4S",
+                        "ts": "1657792632.793479",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "lyV",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "broadcast",
+                                                    "range": "channel"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " お疲れ様です！議事録にも書いてありますが帰省の日程等をこのフォームから教えてください！学祭の活動の参考にします！\nわかった時点で何度でも記入してもらえると助かります！\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/forms.gle\/tRLDfFqB89Yegx8KA"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[July 14th, 2022 6:57 PM] s1270250: <!channel> お疲れ様です！議事録にも書いてありますが帰省の日程等をこのフォームから教えてください！学祭の活動の参考にします！\nわかった時点で何度でも記入してもらえると助かります！\n<https:\/\/forms.gle\/tRLDfFqB89Yegx8KA>",
+                "text": "<!channel> お疲れ様です！議事録にも書いてありますが帰省の日程等をこのフォームから教えてください！学祭の活動の参考にします！\nわかった時点で何度でも記入してもらえると助かります！\n<https:\/\/forms.gle\/tRLDfFqB89Yegx8KA>",
+                "author_name": "Junta Miyazaki",
+                "author_link": "https:\/\/a-gakusai2022.slack.com\/team\/U03901B3W69",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_48.jpg",
+                "author_subname": "Junta Miyazaki",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#0_general のスレッド"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvOb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おはようございます！昨日はBBQお疲れ様でした！\n\nさて、夏休みも近づいたので追加で判明した部分もあると思いますので、また改めて夏休みの日程に関してこちらの記入をお願いします。未記入の方はもちろん、一度記入しても追加で帰省等が入った方も追加で記入をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b58831b1-b3ee-44c6-87ab-58f3a38727f8",
+        "type": "message",
+        "text": "お疲れ様です。\n昨日のBBQ参加していただきありがとうございました！！\nこれからもレクリエーションを計画していきたいと考えているので、その際は参加していただけるとありがたいです！\n\nまた、無断で欠席した人などの費用は、今回はこちら側で補いますが、次からはこのようなことがないようにお願いいたします。",
+        "user": "U039RCZ4E04",
+        "ts": "1658728714.855559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1658728738.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q9yj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n昨日のBBQ参加していただきありがとうございました！！\nこれからもレクリエーションを計画していきたいと考えているので、その際は参加していただけるとありがたいです！\n\nまた、無断で欠席した人などの費用は、今回はこちら側で補いますが、次からはこのようなことがないようにお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

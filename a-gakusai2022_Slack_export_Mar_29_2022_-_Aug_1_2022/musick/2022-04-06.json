@@ -1,0 +1,226 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649301063.161199",
+        "user": "U039BUU0GAH",
+        "text": "<@U039BUU0GAH>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1649301063.719089",
+        "user": "U039BUU0GAH",
+        "text": "がこのチャンネルの説明を「この世に存在する素晴らしい音楽を共有する場」に設定しました",
+        "purpose": "この世に存在する素晴らしい音楽を共有する場"
+    },
+    {
+        "client_msg_id": "324394C1-0BC1-40E9-B2F5-1575E50E13ED",
+        "type": "message",
+        "text": "こんなチャネル作りました\nここにポストしてくれた音楽は少なくとも僕は全部聴きます",
+        "user": "U039BUU0GAH",
+        "ts": "1649301157.756239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CYYC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こんなチャネル作りました\nここにポストしてくれた音楽は少なくとも僕は全部聴きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649301199.228739",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "23c3c59d-2eb7-4e4f-8a33-5e79939173ac",
+        "type": "message",
+        "text": "スペル間違ってますけど",
+        "user": "U0399UH8BKQ",
+        "ts": "1649301215.001849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dla=3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スペル間違ってますけど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "004491a0-883a-4c4d-94c0-9ec05ea37c5c",
+        "type": "message",
+        "text": "music + sick（良い）",
+        "user": "U039BUU0GAH",
+        "ts": "1649301231.148159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BH7Im",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "music + sick（良い）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649301241.202689",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649301563.551239",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "31FFA5A7-5B6E-4B05-A7AF-64C96EDC5706",
+        "type": "message",
+        "text": "<https:\/\/m.youtube.com\/watch?v=Af0rvkpPMjY|https:\/\/m.youtube.com\/watch?v=Af0rvkpPMjY>",
+        "user": "U039BUU0GAH",
+        "ts": "1649301578.313039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/m.youtube.com\/watch?v=Af0rvkpPMjY",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Af0rvkpPMjY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Af0rvkpPMjY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/m.youtube.com\/watch?v=Af0rvkpPMjY",
+                "fallback": "YouTube Video: tofubeats - REFLECTION feat. 中村佳穂",
+                "title": "tofubeats - REFLECTION feat. 中村佳穂",
+                "title_link": "https:\/\/m.youtube.com\/watch?v=Af0rvkpPMjY",
+                "author_name": "tofubeats",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCluOikfsdbeNWh3ntSyxuIw",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Mv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/m.youtube.com\/watch?v=Af0rvkpPMjY",
+                                "text": "https:\/\/m.youtube.com\/watch?v=Af0rvkpPMjY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649304257.820779",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649310315.172859",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました"
+    }
+]

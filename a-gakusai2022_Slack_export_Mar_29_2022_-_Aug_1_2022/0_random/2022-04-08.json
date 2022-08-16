@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "7873CC63-86C6-45B5-8283-7A21948D9E12",
+        "type": "message",
+        "text": "めちゃくちゃ遅くなったけど新入生入りのLINEグループ作りましたー",
+        "user": "U039EF90649",
+        "ts": "1649423341.825329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xOI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "めちゃくちゃ遅くなったけど新入生入りのLINEグループ作りましたー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

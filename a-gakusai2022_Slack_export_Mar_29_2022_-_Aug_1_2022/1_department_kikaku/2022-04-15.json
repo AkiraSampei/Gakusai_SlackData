@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650063652.861489",
+        "user": "U039PA9J5JP",
+        "text": "<@U039PA9J5JP>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650078766.021199",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650087531.075259",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました",
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

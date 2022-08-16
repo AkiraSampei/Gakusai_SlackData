@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "4813a6d4-7b55-4d5c-93fd-6c735b0b34c3",
+        "type": "message",
+        "text": "科学史の期末試験問題を持っている方はいらっしゃいますか？",
+        "user": "U03D0L4BEJU",
+        "ts": "1658477451.838659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WXS6N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "科学史の期末試験問題を持っている方はいらっしゃいますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658477451.838659",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658481311.262129",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U03D0L4BEJU"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1658477743.088789"
+            },
+            {
+                "user": "U03D0L4BEJU",
+                "ts": "1658481311.262129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "b0da23ac-d997-4f8b-bc7f-a6abcf68d415",
+        "type": "message",
+        "text": "過去問は残念ながら持ってないのですが、授業スライドガン見してればBは取れた記憶があります。",
+        "user": "U0399UH8BKQ",
+        "ts": "1658477743.088789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kWSy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "過去問は残念ながら持ってないのですが、授業スライドガン見してればBは取れた記憶があります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658477451.838659",
+        "parent_user_id": "U03D0L4BEJU",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2e25018-addc-4d88-8757-ebb291cf4c98",
+        "type": "message",
+        "text": "分かりました！ありがとうございます:pray:",
+        "user": "U03D0L4BEJU",
+        "ts": "1658481311.262129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tCZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分かりました！ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658477451.838659",
+        "parent_user_id": "U03D0L4BEJU"
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1656756929.708049",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "351EC1D8-BFBE-4D27-ABAA-D17301BDA966",
+        "type": "message",
+        "text": "引き継ぎ書です\n<https:\/\/drive.google.com\/drive\/folders\/1LPICR4_1cSZWVxt-kX7iG_bvxAn0M-3m|https:\/\/drive.google.com\/drive\/folders\/1LPICR4_1cSZWVxt-kX7iG_bvxAn0M-3m>",
+        "user": "U0399UH8BKQ",
+        "ts": "1656757025.721419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "voK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引き継ぎ書です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1LPICR4_1cSZWVxt-kX7iG_bvxAn0M-3m",
+                                "text": "https:\/\/drive.google.com\/drive\/folders\/1LPICR4_1cSZWVxt-kX7iG_bvxAn0M-3m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da822bba-9e25-4609-b15d-5f7327fbf9a7",
+        "type": "message",
+        "text": "え、最新ので2018ですか？",
+        "user": "U039RJU3V36",
+        "ts": "1656757171.832629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OUu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "え、最新ので2018ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656757171.832629",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1656757568.547919",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656757204.251039"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656757233.840159"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656757267.004519"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656757568.547919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "FE7299F5-EACA-43EC-8ED5-061A1FE37F4C",
+        "type": "message",
+        "text": "それ以降はやれてないので。",
+        "user": "U0399UH8BKQ",
+        "ts": "1656757204.251039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fRAj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それ以降はやれてないので。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656757171.832629",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "926E2799-B770-4C8E-BA5D-35158EA6993D",
+        "type": "message",
+        "text": "19:台風\n20:コロナでオンライン\n21:コロナで直前オンライン",
+        "user": "U0399UH8BKQ",
+        "ts": "1656757233.840159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Li0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "19:台風"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "20:コロナでオンライン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "21:コロナで直前オンライン"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656757171.832629",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "0ec1578e-795f-46b0-a7e4-4c26d66251e6",
+        "type": "message",
+        "text": "３年も経ては例年ではないのでは…",
+        "user": "U039RJU3V36",
+        "ts": "1656757267.004519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "３年も経ては例年ではないのでは…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656757171.832629",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "0209B319-831D-438D-8990-BEB07EAD51A5",
+        "type": "message",
+        "text": "訂正しました。",
+        "user": "U0399UH8BKQ",
+        "ts": "1656757568.547919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u62",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "訂正しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656757171.832629",
+        "parent_user_id": "U039RJU3V36"
+    }
+]

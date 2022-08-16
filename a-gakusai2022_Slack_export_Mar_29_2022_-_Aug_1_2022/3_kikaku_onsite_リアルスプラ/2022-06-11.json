@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931589.136889",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654931589.464729",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「リアルスプラトゥーン運営」に設定しました",
+        "purpose": "リアルスプラトゥーン運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931761.937009",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「14_kikaku_リアルスプラ」から「2_kikaku_リアルスプラ」に変更しました",
+        "old_name": "14_kikaku_リアルスプラ",
+        "name": "2_kikaku_リアルスプラ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931839.538819",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    }
+]

@@ -1,0 +1,256 @@
+[
+    {
+        "client_msg_id": "a01163cf-0251-4914-9b4d-ec6caeddacb6",
+        "type": "message",
+        "text": "閉めました。",
+        "user": "U03901B3W69",
+        "ts": "1657704870.127849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WQS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉めました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A4364125-25FF-4C4E-8295-E839E06AAE2E",
+        "type": "message",
+        "text": "ウチ&amp;みじゅで新しいボドゲ入荷しました。\nみなさん奮ってプロポーズして下さい :parrot_ultrafast: ",
+        "user": "U0391RWR34N",
+        "ts": "1657705143.920929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nou4u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ウチ&みじゅで新しいボドゲ入荷しました。\nみなさん奮ってプロポーズして下さい "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_ultrafast"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69BBDBB3-244A-45FC-BE26-EAA7959EFBA6",
+        "type": "message",
+        "text": "異界の扉が開かれたぁ〜(棒コアラ風",
+        "user": "U039L92GA3X",
+        "ts": "1657757489.600839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+CP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "異界の扉が開かれたぁ〜(棒コアラ風"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1657761030.667039",
+        "thread_ts": "1657761030.667039",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657766182.835559",
+        "reply_users": [
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1657766182.835559"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "学祭室に貼ってあるのは今日の全体会議用でもあるのでもう一枚用意してください。",
+        "user": "U03901B3W69",
+        "ts": "1657766182.835559",
+        "thread_ts": "1657761030.667039",
+        "root": {
+            "type": "message",
+            "subtype": "tombstone",
+            "text": "This message was deleted.",
+            "user": "USLACKBOT",
+            "hidden": true,
+            "ts": "1657761030.667039",
+            "thread_ts": "1657761030.667039",
+            "parent_user_id": "USLACKBOT",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1657766182.835559",
+            "reply_users": [
+                "U03901B3W69"
+            ],
+            "replies": [
+                {
+                    "user": "U03901B3W69",
+                    "ts": "1657766182.835559"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hDLY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭室に貼ってあるのは今日の全体会議用でもあるのでもう一枚用意してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "ca5b3608-529c-4df7-be97-5de770024a8a"
+    },
+    {
+        "client_msg_id": "902a2c6a-7378-417c-85bf-afc59613b8ef",
+        "type": "message",
+        "text": "空調申請延長分提出しました。7\/28までです。",
+        "user": "U03901B3W69",
+        "ts": "1657771654.286329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i=D8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "空調申請延長分提出しました。7\/28までです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "doge",
+                "users": [
+                    "U038TMLJW1M",
+                    "U03CGVA43U3",
+                    "U0391RWR34N",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "saiko",
+                "users": [
+                    "U039RJU3V36",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

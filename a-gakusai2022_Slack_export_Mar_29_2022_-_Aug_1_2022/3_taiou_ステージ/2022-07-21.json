@@ -1,0 +1,377 @@
+[
+    {
+        "client_msg_id": "daae6fe3-2cfa-4c35-9517-941348025dc1",
+        "type": "message",
+        "text": "現在PAシートの記入についてバンドの募集をかけるのは早すぎるという声が上がりました。\nまた、ステージサークル毎の時間配分についてどうなっているかという質問がありました。\nどうしますか？",
+        "user": "U039V55S998",
+        "ts": "1658393380.317289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qaj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現在PAシートの記入についてバンドの募集をかけるのは早すぎるという声が上がりました。\nまた、ステージサークル毎の時間配分についてどうなっているかという質問がありました。\nどうしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1658458758.135519",
+        "reply_users": [
+            "U039RCZ4E04",
+            "U039PA9J5JP",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658393873.210399"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1658412277.685769"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1658412336.483159"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1658450151.381169"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658454280.805559"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1658454321.453819"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658458758.135519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "393E717D-319B-4054-9B81-E863F1BFC26A",
+        "type": "message",
+        "text": "<@U039PA9J5JP> タクラムはいつまでに何を把握すれば感じ？",
+        "user": "U039RCZ4E04",
+        "ts": "1658393873.210399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "efv2o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039PA9J5JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " タクラムはいつまでに何を把握すれば感じ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "63F186B6-ABF3-451A-9377-86F0AC6E73DF",
+        "type": "message",
+        "text": "正直言ってわからない....\nバンド数ならまだ知らなくて大丈夫だと思うけど、使用機材(マイクとか)は早めに把握したほうがよさそう",
+        "user": "U039PA9J5JP",
+        "ts": "1658412277.685769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/2i9D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正直言ってわからない...."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "バンド数ならまだ知らなくて大丈夫だと思うけど、使用機材(マイクとか)は早めに把握したほうがよさそう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "DF31A302-357C-458E-B11D-3C6B6697B983",
+        "type": "message",
+        "text": "って言っても、出場団体とかの話は8月にも去年たくらむとメールで話してたから、paシートは延長していいよ。9月中には決めたいね",
+        "user": "U039PA9J5JP",
+        "ts": "1658412336.483159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1658412384.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pt4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "って言っても、出場団体とかの話は8月にも去年たくらむとメールで話してたから、paシートは延長していいよ。9月中には決めたいね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "c9219de9-bc9e-4dbf-8e91-00ab6d8293da",
+        "type": "message",
+        "text": "了解です。PAシートを書く団体は軽音とCUOの二つだけ？",
+        "user": "U039V55S998",
+        "ts": "1658450151.381169",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSHc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。PAシートを書く団体は軽音とCUOの二つだけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "79E44D96-BC16-4484-90DE-21328640DE00",
+        "type": "message",
+        "text": "講堂とステージ使うサークル",
+        "user": "U039RCZ4E04",
+        "ts": "1658454280.805559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QZw8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "講堂とステージ使うサークル"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f4ca188c-0b21-45bf-9a53-eefff7223478",
+        "type": "message",
+        "text": "了解です",
+        "user": "U039V55S998",
+        "ts": "1658454321.453819",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KrNvL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "65FD3DC2-022C-40D0-B1AB-8AB8F341AEEE",
+        "type": "message",
+        "text": "連絡は渡辺さんにまかせていい？？",
+        "user": "U039RCZ4E04",
+        "ts": "1658458758.135519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kmce",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "連絡は渡辺さんにまかせていい？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658393380.317289",
+        "parent_user_id": "U039V55S998"
+    }
+]

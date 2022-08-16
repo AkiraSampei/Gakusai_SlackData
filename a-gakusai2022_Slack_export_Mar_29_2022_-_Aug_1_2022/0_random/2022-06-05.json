@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "家から適当に持ってきたのでご自由にどうぞ\n三ツ矢サイダーは冷蔵庫に入れときます",
+        "files": [
+            {
+                "id": "F03JEGBBL4U",
+                "created": 1654477741,
+                "timestamp": 1654477741,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 958927,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JEGBBL4U\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JEGBBL4U\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JEGBBL4U-d78a3b362a\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSJHzIo9xT2uXViuRj6VCI3DcdjVgopc52\/jTAglLOcnqRUewt2rQWCNgHJwB6cU+Pyuke38KQFAW0pGdppfssv90\/nWjRSAEVF6ACq0obefkJ57VKrbgCDwaUkenFAFOYuI1GcY7VGrOrcckVaeLe33ufpUIiIk2\/qKALcT70BNPpiDauBTs0DKlrLg7D36VIWwe\/vxVKM45q\/HIJEz3HBoaAaJA2Bg5qRIwOT1oABbJp9ACUUGigD\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03JEGBBL4U\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03JEGBBL4U-6d47b51066",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RCZ4E04",
+        "display_as_bot": false,
+        "ts": "1654477786.705399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+BRbp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "家から適当に持ってきたのでご自由にどうぞ\n三ツ矢サイダーは冷蔵庫に入れときます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "BCAE382D-72EB-486D-AADD-B997E1D4C193",
+        "reactions": [
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0394PQ44FL",
+                    "U03D0L4BEJU"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

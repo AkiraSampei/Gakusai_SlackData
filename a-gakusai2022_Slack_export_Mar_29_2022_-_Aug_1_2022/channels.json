@@ -1,0 +1,1695 @@
+[
+{
+    "id": "C038MFPUYDD",
+    "name": "0_attendance_check",
+    "created": 1648524118,
+    "creator": "U039EF90649",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039D5XVCJ3",
+        "U039E77FQ3H",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039L92GA3X",
+        "U039LGX8MN1",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03A1S6RAF3",
+        "U03A5617CFN",
+        "U03A9180MAN",
+        "U03AJV9QH96",
+        "U03BM52KMEC",
+        "U03BVC64WCV",
+        "U03BVE9U552",
+        "U03BW9Q5DF1",
+        "U03CATDUH0A",
+        "U03CDMY1V9C",
+        "U03CGVA43U3",
+        "U03CUPE920G",
+        "U03D0L4BEJU",
+        "U03GF2N1X63",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03JVEZF16K",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03K8F1PW82",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7",
+        "U03KRPKDY8L",
+        "U03M2QM8F36"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0391SF3N91",
+    "name": "0_random",
+    "created": 1648518309,
+    "creator": "U039EF90649",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039D5XVCJ3",
+        "U039E77FQ3H",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039L92GA3X",
+        "U039LGX8MN1",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03A1S6RAF3",
+        "U03A5617CFN",
+        "U03A9180MAN",
+        "U03AJV9QH96",
+        "U03AXBKKTCK",
+        "U03BM52KMEC",
+        "U03BVC64WCV",
+        "U03BVE9U552",
+        "U03BW9Q5DF1",
+        "U03CATDUH0A",
+        "U03CDMY1V9C",
+        "U03CGVA43U3",
+        "U03CUPE920G",
+        "U03D0L4BEJU",
+        "U03GF2N1X63",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03JVEZF16K",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03K8F1PW82",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7",
+        "U03KRPKDY8L",
+        "U03M2QM8F36"
+    ],
+    "pins": [
+        {
+            "id": "1650434709.081259",
+            "type": "C",
+            "created": 1650434850,
+            "user": "U0394PQ44FL",
+            "owner": "U03901B3W69"
+        },
+        {
+            "id": "1650856851.977279",
+            "type": "C",
+            "created": 1650856860,
+            "user": "U0399UH8BKQ",
+            "owner": "U0399UH8BKQ"
+        },
+        {
+            "id": "1651115234.464709",
+            "type": "C",
+            "created": 1651115237,
+            "user": "U038TMLJW1M",
+            "owner": "U038TMLJW1M"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "このチャンネルでは、どんなことでも話せます。チーム内のジョークや、とっさに思い付いたアイデア、おもしろい GIF 画像を投稿できます。思いのままに活用しましょう！",
+        "creator": "U039EF90649",
+        "last_set": 1648518309
+    }
+},
+{
+    "id": "C0391SJ8W4S",
+    "name": "0_general",
+    "created": 1648518309,
+    "creator": "U039EF90649",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039D5XVCJ3",
+        "U039E77FQ3H",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039L92GA3X",
+        "U039LGX8MN1",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03A1S6RAF3",
+        "U03A5617CFN",
+        "U03A9180MAN",
+        "U03AJV9QH96",
+        "U03AXBKKTCK",
+        "U03BM52KMEC",
+        "U03BVC64WCV",
+        "U03BVE9U552",
+        "U03BW9Q5DF1",
+        "U03CATDUH0A",
+        "U03CDMY1V9C",
+        "U03CGVA43U3",
+        "U03CUPE920G",
+        "U03D0L4BEJU",
+        "U03GF2N1X63",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03JVEZF16K",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03K8F1PW82",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7",
+        "U03KRPKDY8L",
+        "U03M2QM8F36"
+    ],
+    "pins": [
+        {
+            "id": "1654913375.068159",
+            "type": "C",
+            "created": 1654913382,
+            "user": "U0399UH8BKQ",
+            "owner": "U0399UH8BKQ"
+        },
+        {
+            "id": "1654928381.976519",
+            "type": "C",
+            "created": 1654928428,
+            "user": "U039RJU3V36",
+            "owner": "U039BUU0GAH"
+        },
+        {
+            "id": "1656211122.847549",
+            "type": "C",
+            "created": 1656211134,
+            "user": "U038TMLJW1M",
+            "owner": "U0399UH8BKQ"
+        },
+        {
+            "id": "1656211319.722259",
+            "type": "C",
+            "created": 1656211478,
+            "user": "U038TMLJW1M",
+            "owner": "U03901B3W69"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "このチャンネルには、常にすべてのメンバーが含まれます。社内通知やチーム全体の会話にぴったりです。",
+        "creator": "U039EF90649",
+        "last_set": 1648518309
+    }
+},
+{
+    "id": "C039FSQ9E3Y",
+    "name": "1_department_taiou",
+    "created": 1648796796,
+    "creator": "U039EF90649",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039EF90649",
+        "U039LGX8MN1",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U03A1S6RAF3",
+        "U03A9180MAN",
+        "U03AJV9QH96",
+        "U03BVC64WCV",
+        "U03CGVA43U3",
+        "U03CUPE920G",
+        "U03GF2N1X63",
+        "U03JVEZF16K",
+        "U03K8F1PW82",
+        "U03KRPKDY8L"
+    ],
+    "pins": [
+        {
+            "id": "1657095415.173099",
+            "type": "C",
+            "created": 1657095428,
+            "user": "U0399UH8BKQ",
+            "owner": "U0399UH8BKQ"
+        },
+        {
+            "id": "1658811655.804039",
+            "type": "C",
+            "created": 1658811660,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        },
+        {
+            "id": "1658891155.713599",
+            "type": "C",
+            "created": 1658891168,
+            "user": "U039V55S998",
+            "owner": "U039V55S998"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C039G56CN4X",
+    "name": "0_mail_check",
+    "created": 1649046490,
+    "creator": "U0399UH8BKQ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039EF90649",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039V55S998",
+        "U03BM52KMEC",
+        "U03CATDUH0A",
+        "U03CDMY1V9C",
+        "U03CGVA43U3",
+        "U03CUPE920G",
+        "U03D0L4BEJU",
+        "U03GF2N1X63",
+        "U03JVEZF16K",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03K8F1PW82",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7",
+        "U03KRPKDY8L",
+        "U03M2QM8F36"
+    ],
+    "pins": [
+        {
+            "id": "1657097700.436719",
+            "type": "C",
+            "created": 1657097704,
+            "user": "U039V55S998",
+            "owner": "U039V55S998"
+        },
+        {
+            "id": "1657107141.663579",
+            "type": "C",
+            "created": 1657107146,
+            "user": "U0399UH8BKQ",
+            "owner": "U0399UH8BKQ"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03A9BARRLH",
+    "name": "0_log_gijiroku",
+    "created": 1649046241,
+    "creator": "U0399UH8BKQ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039D5XVCJ3",
+        "U039E77FQ3H",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039L92GA3X",
+        "U039LGX8MN1",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03A1S6RAF3",
+        "U03A5617CFN",
+        "U03A9180MAN",
+        "U03AJV9QH96",
+        "U03AXBKKTCK",
+        "U03BM52KMEC",
+        "U03BVC64WCV",
+        "U03BVE9U552",
+        "U03BW9Q5DF1",
+        "U03CATDUH0A",
+        "U03CDMY1V9C",
+        "U03CGVA43U3",
+        "U03CUPE920G",
+        "U03D0L4BEJU",
+        "U03GF2N1X63",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03JVEZF16K",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03K8F1PW82",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7",
+        "U03KRPKDY8L",
+        "U03M2QM8F36"
+    ],
+    "pins": [
+        {
+            "id": "1649046347.936019",
+            "type": "C",
+            "created": 1649726346,
+            "user": "U0399UH8BKQ",
+            "owner": "USLACKBOT"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "全体会議・各部会議の議事録の保管場所です。\n\n:warning:a-gakusaiでメール流すのも忘れずに！:warning:\n\n追加等あればスレッド等で追加してください。\n序文の小粋なジョーク推奨。",
+        "creator": "U0399UH8BKQ",
+        "last_set": 1649046347
+    }
+},
+{
+    "id": "C03A9CCBG0K",
+    "name": "2_section_guest",
+    "created": 1649214253,
+    "creator": "U039EF90649",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039M3UAXFG",
+        "U039PA9J5JP",
+        "U039RJU3V36",
+        "U039V55S998",
+        "U03CGVA43U3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03AC97CC2C",
+    "name": "1_department_kikaku",
+    "created": 1648796772,
+    "creator": "U039EF90649",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039D5XVCJ3",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039L92GA3X",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RJU3V36",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03A5617CFN",
+        "U03BM52KMEC",
+        "U03BW9Q5DF1",
+        "U03CATDUH0A",
+        "U03CDMY1V9C",
+        "U03CGVA43U3",
+        "U03D0L4BEJU",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7"
+    ],
+    "pins": [
+        {
+            "id": "1654608984.235669",
+            "type": "C",
+            "created": 1655273146,
+            "user": "U0394PQ44FL",
+            "owner": "U03BM52KMEC"
+        },
+        {
+            "id": "1656148827.500669",
+            "type": "C",
+            "created": 1656464788,
+            "user": "U03BM52KMEC",
+            "owner": "U03BM52KMEC"
+        },
+        {
+            "id": "1657693458.248649",
+            "type": "C",
+            "created": 1657693463,
+            "user": "U0391RWR34N",
+            "owner": "U0391RWR34N"
+        },
+        {
+            "id": "1658743200.750399",
+            "type": "C",
+            "created": 1658801310,
+            "user": "U03BM52KMEC",
+            "owner": "U03BM52KMEC"
+        },
+        {
+            "id": "1658811992.874239",
+            "type": "C",
+            "created": 1658811997,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03AGLS5WHM",
+    "name": "秘密のチャンネル",
+    "created": 1649647519,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039V55S998",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03BW9Q5DF1",
+        "U03CDMY1V9C",
+        "U03CUPE920G",
+        "U03D0L4BEJU",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03JVEZF16K",
+        "U03K8CWK5LK",
+        "U03KB4QMFHR"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "みつけてしまいましたね（ry",
+        "creator": "U0394PQ44FL",
+        "last_set": 1649647520
+    }
+},
+{
+    "id": "C03AUJNLUSD",
+    "name": "musick",
+    "created": 1649301063,
+    "creator": "U039BUU0GAH",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039PA9J5JP"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "この世に存在する素晴らしい音楽を共有する場",
+        "creator": "U039BUU0GAH",
+        "last_set": 1649301063
+    }
+},
+{
+    "id": "C03BTJNK6JF",
+    "name": "2_section_livestream",
+    "created": 1650249822,
+    "creator": "U038TMLJW1M",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039H10MUTY",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039RJU3V36",
+        "U039V55S998",
+        "U03BW9Q5DF1",
+        "U03CGVA43U3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "最高にロックな配信をつくる",
+        "creator": "U038TMLJW1M",
+        "last_set": 1650249976
+    }
+},
+{
+    "id": "C03BWCBTUEQ",
+    "name": "2_section_kouhou",
+    "created": 1650263429,
+    "creator": "U039EF90649",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039EF90649",
+        "U039M3UAXFG",
+        "U039RJU3V36",
+        "U03BW9Q5DF1",
+        "U03CGVA43U3",
+        "U03M2QM8F36"
+    ],
+    "pins": [
+        {
+            "id": "1656381679.150529",
+            "type": "C",
+            "created": 1656381740,
+            "user": "U039RJU3V36",
+            "owner": "U039RJU3V36"
+        },
+        {
+            "id": "1656381700.216969",
+            "type": "C",
+            "created": 1656381751,
+            "user": "U039RJU3V36",
+            "owner": "U039RJU3V36"
+        },
+        {
+            "id": "1656381709.854409",
+            "type": "C",
+            "created": 1656381755,
+            "user": "U039RJU3V36",
+            "owner": "U039RJU3V36"
+        },
+        {
+            "id": "1657330956.092449",
+            "type": "C",
+            "created": 1657330976,
+            "user": "U039RJU3V36",
+            "owner": "U039RJU3V36"
+        },
+        {
+            "id": "1657330968.178249",
+            "type": "C",
+            "created": 1657330981,
+            "user": "U039RJU3V36",
+            "owner": "U039RJU3V36"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03C1314VNG",
+    "name": "28ki",
+    "created": 1650345474,
+    "creator": "U038TMLJW1M",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039EF90649",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U03A9180MAN",
+        "U03AJV9QH96"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "課題のシェアなど",
+        "creator": "U038TMLJW1M",
+        "last_set": 1650345474
+    }
+},
+{
+    "id": "C03HT01341X",
+    "name": "2_section_recreation",
+    "created": 1653819711,
+    "creator": "U039RCZ4E04",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U039L92GA3X",
+        "U039M3UAXFG",
+        "U039RCZ4E04",
+        "U039WPGBPDH",
+        "U03CGVA43U3"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03JTUKRHTR",
+    "name": "3_kikaku_onsite_バブルボール",
+    "created": 1654931541,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039L92GA3X",
+        "U03BM52KMEC",
+        "U03D0L4BEJU",
+        "U03KB4QMFHR"
+    ],
+    "pins": [
+        {
+            "id": "1658745058.600019",
+            "type": "C",
+            "created": 1658745061,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "バブルボール運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1654931542
+    }
+},
+{
+    "id": "C03JXG33LS3",
+    "name": "3_kikaku_onsite_こども広場",
+    "created": 1655109544,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039BUU0GAH",
+        "U03BM52KMEC",
+        "U03CATDUH0A",
+        "U03KB4QMFHR"
+    ],
+    "pins": [
+        {
+            "id": "1658744862.593269",
+            "type": "C",
+            "created": 1658744869,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "こども広場運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1655109544
+    }
+},
+{
+    "id": "C03K1UE8GNA",
+    "name": "3_kikaku_onsite_リアルスプラ",
+    "created": 1654931589,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039L92GA3X",
+        "U03BM52KMEC",
+        "U03GZQ9T32R"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "リアルスプラトゥーン運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1654931589
+    }
+},
+{
+    "id": "C03K8EXDGSF",
+    "name": "3_kikaku_hybrid_花火",
+    "created": 1654931677,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U03BM52KMEC",
+        "U03K1SMDYHL"
+    ],
+    "pins": [
+        {
+            "id": "1658744434.217959",
+            "type": "C",
+            "created": 1658744437,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "花火運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1654931677
+    }
+},
+{
+    "id": "C03K8GZ53NE",
+    "name": "3_kikaku_hybrid_大抽選会",
+    "created": 1654931497,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039M3UAXFG",
+        "U039RJU3V36",
+        "U039WPGBPDH",
+        "U03BM52KMEC",
+        "U03K4J7KXTQ",
+        "U03KPT8FAD7"
+    ],
+    "pins": [
+        {
+            "id": "1658744525.280909",
+            "type": "C",
+            "created": 1658744819,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "大抽選会運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1654931497
+    }
+},
+{
+    "id": "C03K8H1GTHQ",
+    "name": "3_kikaku_onsite_ここどこ",
+    "created": 1654931657,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U039D5XVCJ3",
+        "U03BM52KMEC",
+        "U03GW267PQE"
+    ],
+    "pins": [
+        {
+            "id": "1658744762.954499",
+            "type": "C",
+            "created": 1658744808,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "ここどこスタンプラリー運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1654931658
+    }
+},
+{
+    "id": "C03K8QYTNGP",
+    "name": "3_taiou_ステージ",
+    "created": 1655257050,
+    "creator": "U039RCZ4E04",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0394PQ44FL",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039V55S998",
+        "U03GF2N1X63",
+        "U03JVEZF16K"
+    ],
+    "pins": [
+        {
+            "id": "1655705721.634129",
+            "type": "C",
+            "created": 1655706997,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        },
+        {
+            "id": "1655706839.808099",
+            "type": "C",
+            "created": 1655706945,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        },
+        {
+            "id": "1655706922.264359",
+            "type": "C",
+            "created": 1655706948,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "ステージの仕事",
+        "creator": "U0394PQ44FL",
+        "last_set": 1657526810
+    }
+},
+{
+    "id": "C03K96UBYN9",
+    "name": "3_kikaku_online_cmをつくろう",
+    "created": 1655109406,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039RJU3V36",
+        "U03BM52KMEC",
+        "U03KPT8FAD7"
+    ],
+    "pins": [
+        {
+            "id": "1658745184.209879",
+            "type": "C",
+            "created": 1658745290,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "CMを作ろう企画の運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1655109421
+    }
+},
+{
+    "id": "C03K971EXRB",
+    "name": "3_kikaku_onsite_nft",
+    "created": 1655109503,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039BUU0GAH",
+        "U039RJU3V36",
+        "U039WPGBPDH",
+        "U03BM52KMEC",
+        "U03CATDUH0A"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "NFT企画の運営です",
+        "creator": "U0394PQ44FL",
+        "last_set": 1655109504
+    }
+},
+{
+    "id": "C03K99D4UTF",
+    "name": "3_kikaku_online_ドローン撮影",
+    "created": 1655110558,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U039PA9J5JP",
+        "U03BM52KMEC",
+        "U03CDMY1V9C",
+        "U03D0L4BEJU"
+    ],
+    "pins": [
+        {
+            "id": "1658745327.152259",
+            "type": "C",
+            "created": 1658745330,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "ドローン撮影の運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1655110558
+    }
+},
+{
+    "id": "C03KB78N0LA",
+    "name": "3_taiou_保健所",
+    "created": 1655092376,
+    "creator": "U03A9180MAN",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0394PQ44FL",
+        "U039P4NSKM1",
+        "U039V55S998",
+        "U03A9180MAN",
+        "U03CUPE920G"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "対応部保健所",
+        "creator": "U03A9180MAN",
+        "last_set": 1655092376
+    }
+},
+{
+    "id": "C03KE3ZM5HA",
+    "name": "学祭老害部",
+    "created": 1655103868,
+    "creator": "U0399UH8BKQ",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "おじいちゃんおばあちゃんあつまえ〜〜^^",
+        "creator": "U0399UH8BKQ",
+        "last_set": 1655103868
+    }
+},
+{
+    "id": "C03KJ1GC9PG",
+    "name": "2_section_sponsor",
+    "created": 1655280738,
+    "creator": "U0391RWR34N",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039D5XVCJ3",
+        "U039EF90649",
+        "U039L92GA3X",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RJU3V36",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03AJV9QH96",
+        "U03BM52KMEC",
+        "U03BW9Q5DF1",
+        "U03CDMY1V9C",
+        "U03D0L4BEJU",
+        "U03GF2N1X63",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03JVEZF16K",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03K8F1PW82",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7",
+        "U03KRPKDY8L"
+    ],
+    "pins": [
+        {
+            "id": "1655782384.423849",
+            "type": "C",
+            "created": 1655782395,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        },
+        {
+            "id": "1655783597.798549",
+            "type": "C",
+            "created": 1655783624,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        },
+        {
+            "id": "1657787310.934449",
+            "type": "C",
+            "created": 1657809542,
+            "user": "U039PA9J5JP",
+            "owner": "U039PA9J5JP"
+        },
+        {
+            "id": "1657847776.020659",
+            "type": "C",
+            "created": 1658374712,
+            "user": "U039PA9J5JP",
+            "owner": "U039PA9J5JP"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "スポンサー課。企業などから補助金をもらいましょう。",
+        "creator": "U0391RWR34N",
+        "last_set": 1655280738
+    }
+},
+{
+    "id": "C03KM6VAP3K",
+    "name": "3_kikaku_onsite_ドローン体験会",
+    "created": 1654931620,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039BUU0GAH",
+        "U039PA9J5JP",
+        "U03A5617CFN",
+        "U03BM52KMEC",
+        "U03CDMY1V9C"
+    ],
+    "pins": [
+        {
+            "id": "1658745010.214299",
+            "type": "C",
+            "created": 1658745013,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "ドローン体験会運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1654931621
+    }
+},
+{
+    "id": "C03KM7ERJU9",
+    "name": "sauna",
+    "created": 1654932904,
+    "creator": "U039RCZ4E04",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0394PQ44FL",
+        "U039H10MUTY",
+        "U039M3UAXFG",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U03AXBKKTCK",
+        "U03BM52KMEC"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "サウナ行きたい時行きましょう",
+        "creator": "U039RCZ4E04",
+        "last_set": 1654932905
+    }
+},
+{
+    "id": "C03KQPCD9UZ",
+    "name": "3_kikaku_online_友情マック",
+    "created": 1655109361,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03BM52KMEC",
+        "U03BW9Q5DF1"
+    ],
+    "pins": [
+        {
+            "id": "1658745363.845779",
+            "type": "C",
+            "created": 1658745366,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "友情マック",
+        "creator": "U0394PQ44FL",
+        "last_set": 1655109361
+    }
+},
+{
+    "id": "C03KVB6URK9",
+    "name": "3_taiou_電気水道",
+    "created": 1655684456,
+    "creator": "U039V55S998",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0394PQ44FL",
+        "U039LGX8MN1",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U03K8F1PW82"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03KY9TLZ4Y",
+    "name": "3_kikaku_onsite_クイズ大会",
+    "created": 1654931519,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U03A1N54PJM",
+        "U03BM52KMEC",
+        "U03GZQ9T32R",
+        "U03K8CWK5LK"
+    ],
+    "pins": [
+        {
+            "id": "1658744712.473159",
+            "type": "C",
+            "created": 1658744813,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "クイズ大会運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1654931552
+    }
+},
+{
+    "id": "C03L1S8EF4Y",
+    "name": "3_kikaku_online_スマブラ大会",
+    "created": 1655109317,
+    "creator": "U0394PQ44FL",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U0394PQ44FL",
+        "U039L92GA3X",
+        "U039M3UAXFG",
+        "U03BM52KMEC",
+        "U03K4J7KXTQ"
+    ],
+    "pins": [
+        {
+            "id": "1658745242.697889",
+            "type": "C",
+            "created": 1658745286,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "スマブラ大会運営",
+        "creator": "U0394PQ44FL",
+        "last_set": 1655109317
+    }
+},
+{
+    "id": "C03L4NC19BN",
+    "name": "2_section_videoedit",
+    "created": 1655437587,
+    "creator": "U03A1N54PJM",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0394PQ44FL",
+        "U03A1N54PJM"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03L720E70D",
+    "name": "3_taiou_ガス",
+    "created": 1655684525,
+    "creator": "U039V55S998",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0394PQ44FL",
+        "U039T9DE072",
+        "U039V55S998",
+        "U03KRPKDY8L"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03LNK6TD17",
+    "name": "3_taiou_多文化",
+    "created": 1655684557,
+    "creator": "U039V55S998",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0394PQ44FL",
+        "U039V55S998",
+        "U03CUPE920G"
+    ],
+    "pins": [
+        {
+            "id": "1655707476.683749",
+            "type": "C",
+            "created": 1655707481,
+            "user": "U0394PQ44FL",
+            "owner": "U0394PQ44FL"
+        }
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03LZMWCAJC",
+    "name": "3_taiou_備品",
+    "created": 1655684583,
+    "creator": "U039V55S998",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U03901B3W69",
+        "U0394PQ44FL",
+        "U039RJU3V36",
+        "U039V55S998",
+        "U03GF2N1X63",
+        "U03JVEZF16K"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03MP3XLSB1",
+    "name": "2_section_sosyoku",
+    "created": 1656752687,
+    "creator": "U039RJU3V36",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039D5XVCJ3",
+        "U039L92GA3X",
+        "U039M3UAXFG",
+        "U039PA9J5JP",
+        "U039RJU3V36",
+        "U039V55S998",
+        "U03A1N54PJM",
+        "U03BM52KMEC"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C03NV4T1L0Z",
+    "name": "0_伝助",
+    "created": 1657104354,
+    "creator": "U039PA9J5JP",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U038TMLJW1M",
+        "U03901B3W69",
+        "U0391RWR34N",
+        "U0394PQ44FL",
+        "U0399UH8BKQ",
+        "U039BUU0GAH",
+        "U039D5XVCJ3",
+        "U039E77FQ3H",
+        "U039EF90649",
+        "U039H10MUTY",
+        "U039L92GA3X",
+        "U039LGX8MN1",
+        "U039M3UAXFG",
+        "U039P4NSKM1",
+        "U039PA9J5JP",
+        "U039RCZ4E04",
+        "U039RJU3V36",
+        "U039T9DE072",
+        "U039TSY8J67",
+        "U039V55S998",
+        "U039WPGBPDH",
+        "U03A1N54PJM",
+        "U03A1S6RAF3",
+        "U03A5617CFN",
+        "U03A9180MAN",
+        "U03AJV9QH96",
+        "U03AXBKKTCK",
+        "U03BM52KMEC",
+        "U03BVC64WCV",
+        "U03BVE9U552",
+        "U03BW9Q5DF1",
+        "U03CATDUH0A",
+        "U03CDMY1V9C",
+        "U03CGVA43U3",
+        "U03CUPE920G",
+        "U03D0L4BEJU",
+        "U03GF2N1X63",
+        "U03GW267PQE",
+        "U03GZQ9T32R",
+        "U03JVEZF16K",
+        "U03K1SMDYHL",
+        "U03K4J7KXTQ",
+        "U03K8CWK5LK",
+        "U03K8F1PW82",
+        "U03KB4QMFHR",
+        "U03KPT8FAD7",
+        "U03KRPKDY8L",
+        "U03M2QM8F36"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "重要な会議の伝助はここで取ってください",
+        "creator": "U0394PQ44FL",
+        "last_set": 1657106287
+    }
+}
+]

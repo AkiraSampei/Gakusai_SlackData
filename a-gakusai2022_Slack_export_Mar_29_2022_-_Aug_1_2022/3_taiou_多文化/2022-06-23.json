@@ -1,0 +1,137 @@
+[
+    {
+        "client_msg_id": "a7bfb036-944f-4fa1-bcb8-bef6bfd85dbb",
+        "type": "message",
+        "text": "多文化アポとり終了しました。\n今年度は４店舗(二郎抜き)＋体験系２(やるかは今月中に検討)\n＋グリーンライフさんです。\nグリーンライフさんは店舗が提示するまで未定です\n詳しくはドキュメントに書いてあります。",
+        "user": "U039V55S998",
+        "ts": "1656041309.812619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656041490.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fc2Mt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多文化アポとり終了しました。\n今年度は４店舗(二郎抜き)＋体験系２(やるかは今月中に検討)\n＋グリーンライフさんです。\nグリーンライフさんは店舗が提示するまで未定です\n詳しくはドキュメントに書いてあります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656041309.812619",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656042393.210019",
+        "reply_users": [
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U039V55S998",
+                "ts": "1656042393.210019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "399dbaee-30db-4323-990e-123a0ca6132a",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1Qzv9uNDmFkeVUcA_LZgk4aW36cUML1hkNw25uANBaz0\/edit?usp=sharing>",
+        "user": "U039V55S998",
+        "ts": "1656041329.182949",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4HezO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1Qzv9uNDmFkeVUcA_LZgk4aW36cUML1hkNw25uANBaz0\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38624c5a-640d-4a51-9151-0861fd097983",
+        "type": "message",
+        "text": "二郎は未定",
+        "user": "U039V55S998",
+        "ts": "1656042393.210019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d7FH0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "二郎は未定"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656041309.812619",
+        "parent_user_id": "U039V55S998"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "268B7C58-630F-476C-861A-0A52A0A771D8",
+        "type": "message",
+        "text": "９時からZoom繋いでやろうか",
+        "user": "U039M3UAXFG",
+        "ts": "1658214375.604079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eVQX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "９時からZoom繋いでやろうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658196056.435219",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "C256CDF7-6CB8-4EEE-8923-49C1D569C805",
+        "type": "message",
+        "text": "<@U039RCZ4E04><@U039WPGBPDH>\n今日21時からzoom繋いでちょっと話しましょう",
+        "user": "U039M3UAXFG",
+        "ts": "1658214557.343009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K7kC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RCZ4E04"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日21時からzoom繋いでちょっと話しましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55ff3a54-0781-4fb7-b7a5-016f49a0071d",
+        "type": "message",
+        "text": "<https:\/\/zoom.us\/j\/6901179121?pwd=aTRVWW1rZGI3VTNKSUcxOXl1M3lCdz09>",
+        "user": "U039M3UAXFG",
+        "ts": "1658231896.578189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8HF0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/6901179121?pwd=aTRVWW1rZGI3VTNKSUcxOXl1M3lCdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "3482204C-AEC7-42DB-BE1F-CB353E7D9A2E",
+        "type": "message",
+        "text": "\"勧誘はしてない、開いてるって言って新入生が来たんだったらそれは新入生の自主性なので無問題\"ってスタンスなら良いのでは？",
+        "user": "U039EF90649",
+        "ts": "1649163782.143149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qr7NG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\"勧誘はしてない、開いてるって言って新入生が来たんだったらそれは新入生の自主性なので無問題\"ってスタンスなら良いのでは？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649163782.143149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649205587.999709",
+        "reply_users": [
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1649205587.999709"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e00534a9-1325-42e1-b741-59af696e813d",
+        "type": "message",
+        "text": "まんまの文面で発表したけど学生課からも指摘されなかったよ。",
+        "user": "U03901B3W69",
+        "ts": "1649164320.856439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WwjFg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まんまの文面で発表したけど学生課からも指摘されなかったよ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "「通常の活動やるよ、新入生も見学来て大丈夫だからね」というスタンスなら問題ないっぽいんよね　他サークルで後藤さんもその見解出してる",
+        "user": "U0391RWR34N",
+        "ts": "1649205587.999709",
+        "thread_ts": "1649163782.143149",
+        "root": {
+            "client_msg_id": "3482204C-AEC7-42DB-BE1F-CB353E7D9A2E",
+            "type": "message",
+            "text": "\"勧誘はしてない、開いてるって言って新入生が来たんだったらそれは新入生の自主性なので無問題\"ってスタンスなら良いのでは？",
+            "user": "U039EF90649",
+            "ts": "1649163782.143149",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "qr7NG",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "\"勧誘はしてない、開いてるって言って新入生が来たんだったらそれは新入生の自主性なので無問題\"ってスタンスなら良いのでは？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1649163782.143149",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1649205587.999709",
+            "reply_users": [
+                "U0391RWR34N"
+            ],
+            "replies": [
+                {
+                    "user": "U0391RWR34N",
+                    "ts": "1649205587.999709"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+jM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「通常の活動やるよ、新入生も見学来て大丈夫だからね」というスタンスなら問題ないっぽいんよね　他サークルで後藤さんもその見解出してる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "20115E1B-4F33-426E-A000-F3B3DACA7D1E"
+    },
+    {
+        "client_msg_id": "092BBA77-DA00-49DE-8C6F-27E1454C888F",
+        "type": "message",
+        "text": "Twitterかどこかで開いてるって言って貰えると助かります",
+        "user": "U039EF90649",
+        "ts": "1649221374.098789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s5A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Twitterかどこかで開いてるって言って貰えると助かります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

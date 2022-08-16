@@ -1,0 +1,734 @@
+[
+    {
+        "client_msg_id": "cbe0965c-a448-40ac-8de1-38799f9ef8f6",
+        "type": "message",
+        "text": "~期間が22になってるよ~\n宛名は総務予算課　総務係　ご担当者様で良さそう",
+        "user": "U039PA9J5JP",
+        "ts": "1656399651.307909",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1656400148.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W26i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "期間が22になってるよ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n宛名は総務予算課　総務係　ご担当者様で良さそう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656399480.035509",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "63e30b24-6985-4d14-860c-593bd30c9669",
+        "type": "message",
+        "text": "講堂の管轄は総務予算課総務係(<mailto:cl-general@u-aizu.ac.jp|cl-general@u-aizu.ac.jp>)です。",
+        "user": "U03901B3W69",
+        "ts": "1656399830.756499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2fWr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "講堂の管轄は総務予算課総務係("
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:cl-general@u-aizu.ac.jp",
+                                "text": "cl-general@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ")です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656399480.035509",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "2B75C85D-7D7A-4D29-8715-8440FEA5214D",
+        "type": "message",
+        "text": "了解です\n書き直したら再度メールチェックに投げます",
+        "user": "U039RCZ4E04",
+        "ts": "1656402424.485779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HSh9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です\n書き直したら再度メールチェックに投げます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656399480.035509",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "1EB03314-19BB-42FF-9AAD-CEDB9743581A",
+        "type": "message",
+        "text": "借りる期間、片付けの日もあるからもう1日伸ばしておきたいかな。\n文面は良いと思うよ〜",
+        "user": "U0391RWR34N",
+        "ts": "1656402628.131629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yBmz2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "借りる期間、片付けの日もあるからもう1日伸ばしておきたいかな。\n文面は良いと思うよ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656399480.035509",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "3be6ec87-a10d-48ed-9b21-b8d363be5163",
+        "type": "message",
+        "text": "メールチェックお願いします。16時には先約があったそうです。15時か17時に調整できないかというメールが来ました。\n件名：Re: [学祭]ポスター・パンフレット打ち合わせのお願い\n--------以下本文----------\n三洋印刷株式会社営業部　長谷川様\n\n~お~時間調整の件、把握いたしました。\nそれでは、打ち合わせの~お~時間は17時に変更でお願いいたします。\n\n~ご確認お願いいたします。~\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n\n 会津大学学園祭実行委員会　広報担当　三瓶晃\n\n 学園祭： &lt; <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> &gt;\n\n Mail： &lt; <mailto:s1290238@u-aizu.ac.jp|s1290238@u-aizu.ac.jp> &gt;\n\n -&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-",
+        "user": "U039RJU3V36",
+        "ts": "1656465508.653619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1656467507.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mYG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。16時には先約があったそうです。15時か17時に調整できないかというメールが来ました。\n件名：Re: [学祭]ポスター・パンフレット打ち合わせのお願い\n--------以下本文----------\n三洋印刷株式会社営業部　長谷川様\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "時間調整の件、把握いたしました。\nそれでは、打ち合わせの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "時間は17時に変更でお願いいたします。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご確認お願いいたします。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n\n 会津大学学園祭実行委員会　広報担当　三瓶晃\n\n 学園祭： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n\n Mail： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290238@u-aizu.ac.jp",
+                                "text": "s1290238@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n\n -<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656465508.653619",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1656467485.754029",
+        "reply_users": [
+            "U038TMLJW1M",
+            "U0399UH8BKQ",
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1656465536.535539"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656467337.542119"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656467448.981549"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656467473.772209"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656467485.754029"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7d3f252a-e2af-4742-8442-a67176e62f2e",
+        "type": "message",
+        "text": "ご確認お願いいたしますはいらないかな",
+        "user": "U038TMLJW1M",
+        "ts": "1656465536.535539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lBL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご確認お願いいたしますはいらないかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656465508.653619",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "2758f3b4-e7ee-4678-8ba6-4b30feb46085",
+        "type": "message",
+        "text": "12時まで新しい指摘がなければ送信します",
+        "user": "U039RJU3V36",
+        "ts": "1656467146.194199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12時まで新しい指摘がなければ送信します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6171CBCF-CDC6-419C-9DDF-AD468D6E620B",
+        "type": "message",
+        "text": "お時間の\"お\"は要らないです",
+        "user": "U0399UH8BKQ",
+        "ts": "1656467337.542119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sSuR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お時間の\"お\"は要らないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656465508.653619",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "8c08a787-8de9-4a1f-babe-d1cc4bfe86eb",
+        "type": "message",
+        "text": "<@U0399UH8BKQ> 両方ですか？",
+        "user": "U039RJU3V36",
+        "ts": "1656467448.981549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8lHor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0399UH8BKQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 両方ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656465508.653619",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "02F8F70A-6272-4F95-93CD-E3FC7E2E019B",
+        "type": "message",
+        "text": "はい",
+        "user": "U0399UH8BKQ",
+        "ts": "1656467473.772209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZXDtM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656465508.653619",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "da4ae0a9-6006-4dce-b1b6-774960bf24dc",
+        "type": "message",
+        "text": "わかりました",
+        "user": "U039RJU3V36",
+        "ts": "1656467485.754029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xuGzJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656465508.653619",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "656fe589-c6cd-413a-81fa-d3ddd6f42fd5",
+        "type": "message",
+        "text": "メールチェックお願いします。\n件名：Re: 2022年度学園祭のチラシについて\n太字⇒追加部分\n-----以下本文------------\n学生課学生支援係　後藤様\n\nお世話になっております。\n広報担当の三瓶と申します。\n\n今年のチラシについて具体的な完成時期は定まっておりませんが、9月下旬に完成する見込みです。\nですので、後援会便りへの学祭チラシの同封は、~折角ですがお断りします~*大変申し訳ございませんが辞退させていただきます。*\nまた、来年度以降のチラシにおいても同時期に仕上がると思われます。\n\nまたの機会がありましたらよろしくお願いいたします。\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n\n 会津大学学園祭実行委員会　広報担当　三瓶晃\n\n 学園祭： &lt; <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> &gt;\n\n Mail： &lt; <mailto:s1290238@u-aizu.ac.jp|s1290238@u-aizu.ac.jp> &gt;\n\n -&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-",
+        "user": "U039RJU3V36",
+        "ts": "1656470229.422939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1656471893.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c7B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。\n件名：Re: 2022年度学園祭のチラシについて\n太字⇒追加部分\n-----以下本文------------\n学生課学生支援係　後藤様\n\nお世話になっております。\n広報担当の三瓶と申します。\n\n今年のチラシについて具体的な完成時期は定まっておりませんが、9月下旬に完成する見込みです。\nですので、後援会便りへの学祭チラシの同封は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "折角ですがお断りします",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "大変申し訳ございませんが辞退させていただきます。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまた、来年度以降のチラシにおいても同時期に仕上がると思われます。\n\nまたの機会がありましたらよろしくお願いいたします。\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n\n 会津大学学園祭実行委員会　広報担当　三瓶晃\n\n 学園祭： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n\n Mail： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290238@u-aizu.ac.jp",
+                                "text": "s1290238@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n\n -<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656470229.422939",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656470635.952399",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656470635.952399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "EF54A6F5-180D-471D-ACC5-5C46FF8BDE37",
+        "type": "message",
+        "text": "お断りいたします。だと印象悪いので　お断りさせていただきます。だと良いです。\n「大変申し訳ございませんが、ご依頼の件に関しましては、辞退させていただきたく存じます。」ならなお丁寧ですね。",
+        "user": "U0399UH8BKQ",
+        "ts": "1656470635.952399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gT7b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お断りいたします。だと印象悪いので　お断りさせていただきます。だと良いです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「大変申し訳ございませんが、ご依頼の件に関しましては、辞退させていただきたく存じます。」ならなお丁寧ですね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656470229.422939",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "671d03ee-7d2c-47fb-bb11-7b47e5885c40",
+        "type": "message",
+        "text": "多少直しました。2時まで新しい指摘がなければ送信します",
+        "user": "U039RJU3V36",
+        "ts": "1656474182.383139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+Ffk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多少直しました。2時まで新しい指摘がなければ送信します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

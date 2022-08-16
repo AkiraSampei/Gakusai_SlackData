@@ -1,0 +1,349 @@
+[
+    {
+        "client_msg_id": "3AD88AC8-B239-4AB1-BDD7-5EE0CEB58C95",
+        "type": "message",
+        "text": "<!channel>&lt;一年生へ&gt; \n*明日の11時にzoomにてメール講習会を行います！*メールの書き方を覚えて欲しいため、一年生全員に参加して欲しいです。併せて領収書の書き方講習会もやるため、是非参加をお願いしますm(_ _)m",
+        "user": "U039PA9J5JP",
+        "ts": "1656156002.707539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cewzg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "<一年生へ> "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日の11時にzoomにてメール講習会を行います！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "メールの書き方を覚えて欲しいため、一年生全員に参加して欲しいです。併せて領収書の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "書き方講習会もやるため、是非参加をお願いしますm(_ _)m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03KB4QMFHR"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11794aa9-e9d2-4b5c-a621-bd05bf915ea1",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/85497786536?pwd=UdGJAcF1KsoG3qqCvw5ljtq-aRioiF.1>\nメール講習会コチラです！",
+        "user": "U03901B3W69",
+        "ts": "1656207232.457909",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g9H7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/85497786536?pwd=UdGJAcF1KsoG3qqCvw5ljtq-aRioiF.1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメール講習会コチラです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5351c18f-3bbe-492d-bcfd-88b6315bb564",
+        "type": "message",
+        "text": "↑　<!channel>",
+        "user": "U03901B3W69",
+        "ts": "1656207250.136599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RJuFs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑　"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "領収書の取り方のスライドです。\nいざとなったら読むこと。",
+        "files": [
+            {
+                "id": "F03MW1V1PC0",
+                "created": 1656211093,
+                "timestamp": 1656211093,
+                "name": "領収書をもらえるようになろう！.pdf",
+                "title": "領収書をもらえるようになろう！.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 959941,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03MW1V1PC0\/_____________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03MW1V1PC0\/download\/_____________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03MW1V1PC0-b94845dc6b\/______________________________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03MW1V1PC0\/_____________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03MW1V1PC0-1f127505ad",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1656211122.847549",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7R2b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "領収書の取り方のスライドです。\nいざとなったら読むこと。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "df46524a-5a67-46a5-8e66-a1e098ba148b"
+    },
+    {
+        "client_msg_id": "80465f57-2384-41f2-a872-5b86ef6a3a1b",
+        "type": "message",
+        "text": "今a-gakusai 更新に伴うテストメールを送信しました。人によってはメール着信までにラグがあるかもしれないので、今日一日テストメールが来なかった場合は連絡ください！",
+        "user": "U03901B3W69",
+        "ts": "1656211255.353639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ivn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今a-gakusai 更新に伴うテストメールを送信しました。人によってはメール着信までにラグがあるかもしれないので、今日一日テストメールが来なかった場合は連絡ください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "あと今回のメール講習会のスライドもここに添付しておきますが、一度の講習会の参加は必ずお願いいたします！",
+        "files": [
+            {
+                "id": "F03M8M3RY3E",
+                "created": 1656211289,
+                "timestamp": 1656211289,
+                "name": "メール講習会.pdf",
+                "title": "メール講習会.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03901B3W69",
+                "editable": false,
+                "size": 888953,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03M8M3RY3E\/__________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03M8M3RY3E\/download\/__________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M8M3RY3E-88b2f5cc0f\/___________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03901B3W69\/F03M8M3RY3E\/__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03M8M3RY3E-c9a63c5a2b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03901B3W69",
+        "display_as_bot": false,
+        "ts": "1656211319.722259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u9z6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと今回のメール講習会のスライドもここに添付しておきますが、一度の講習会の参加は必ずお願いいたします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "05cc0a29-d9b6-485f-8e39-41c14dc7611e"
+    },
+    {
+        "client_msg_id": "c21372ec-5ee3-43d7-9c6b-07f19ef2b91c",
+        "type": "message",
+        "text": "@今回のメール講習会に参加できなかった人へ\n\n第二回メール講習会を29日水曜日の15時から始めます。またZoomのリンクを送るので、今回参加できなかった人はそちらで参加をお願いします!",
+        "user": "U03901B3W69",
+        "ts": "1656212260.230709",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S=C5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@今回のメール講習会に参加できなかった人へ\n\n第二回メール講習会を29日水曜日の15時から始めます。またZoomのリンクを送るので、今回参加できなかった人はそちらで参加をお願いします!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

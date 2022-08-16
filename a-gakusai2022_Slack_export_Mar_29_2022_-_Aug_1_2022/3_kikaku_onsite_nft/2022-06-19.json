@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "4928E777-1C4E-41DA-A04E-BE250881BE63",
+        "type": "message",
+        "text": "@channel おはようございます金田です:sunny:企画書を作るために集まりたいと考えているのですが、今週中にと考えているのですが空いている日時教えてほしいです:man-bowing:",
+        "user": "U039WPGBPDH",
+        "ts": "1655692471.787909",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039WPGBPDH",
+            "ts": "1655692569.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "osakg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@"
+                            },
+                            {
+                                "type": "text",
+                                "text": "channel "
+                            },
+                            {
+                                "type": "text",
+                                "text": "おはようございます金田です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書を作るために集まりたいと考えているのですが、今週中にと考えているのですが空いている日時教えてほしいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32b2dbab-8e28-4377-8ec5-d3a4681100d0",
+        "type": "message",
+        "text": "<!channel> ↑",
+        "user": "U0394PQ44FL",
+        "ts": "1655693207.864479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kkr=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ↑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DF503782-59AF-4102-9E62-9BC791EAA4D7",
+        "type": "message",
+        "text": "火曜日3.4限、火曜日19:00〜、\n水曜日〜17:00\n空いてます！",
+        "user": "U03CATDUH0A",
+        "ts": "1655707221.084479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CATDUH0A",
+            "ts": "1655707316.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dAym",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "火曜日3.4限、火曜日19:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "水曜日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "〜17:00"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "空いてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

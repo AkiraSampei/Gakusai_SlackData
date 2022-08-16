@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "fd3294ec-07d0-45b9-b871-60f53d3ca7fc",
+        "type": "message",
+        "text": "多文化のGoogleDrive\n<https:\/\/drive.google.com\/drive\/folders\/1Y81WhgoO2EQjOlEaQxkf0o5X7U3h8874?usp=sharing>",
+        "user": "U0394PQ44FL",
+        "ts": "1659002955.665439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1659002999.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SrX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多文化のGoogleDrive\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1Y81WhgoO2EQjOlEaQxkf0o5X7U3h8874?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

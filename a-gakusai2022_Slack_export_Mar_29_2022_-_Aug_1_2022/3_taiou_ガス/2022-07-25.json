@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "ADB59DF2-6C87-4766-8D06-173C2C2B907A",
+        "type": "message",
+        "text": "わかりました！\nではその時間にお電話しましょう\n連絡が急になってしまったので、無理だったら別日でも大丈夫です:woman-gesturing-ok:",
+        "user": "U039T9DE072",
+        "ts": "1658798189.120469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AxJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ではその時間にお電話しましょう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "連絡が急になってしまったので、無理だったら別日でも大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658370346.627529",
+        "parent_user_id": "U039T9DE072"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "be484f44-e024-4773-8462-c1542239f3c7",
+        "type": "message",
+        "text": "<!channel> *修正した企画書の提出の期限が残り一週間*です。\n　まだ*企画書の修正の日程を決めていない企画*は*二年生を中心*に進めましょう。",
+        "user": "U03BM52KMEC",
+        "ts": "1657525889.754129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03BM52KMEC",
+            "ts": "1657526129.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sg17",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "修正した企画書の提出の期限が残り一週間",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。\n　まだ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書の修正の日程を決めていない企画",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "二年生を中心",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に進めましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U0391RWR34N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

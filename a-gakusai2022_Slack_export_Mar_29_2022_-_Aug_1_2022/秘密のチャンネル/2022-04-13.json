@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03C5TKF848",
+                "created": 1649910132,
+                "timestamp": 1649910132,
+                "name": "SEQuiz.zip",
+                "title": "SEQuiz.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 2019065,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03C5TKF848\/sequiz.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03C5TKF848\/download\/sequiz.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03C5TKF848\/sequiz.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03C5TKF848-ef96bf793e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1649910135.166669",
+        "client_msg_id": "58dcb885-eb86-4f13-b400-0d2aec928895"
+    }
+]

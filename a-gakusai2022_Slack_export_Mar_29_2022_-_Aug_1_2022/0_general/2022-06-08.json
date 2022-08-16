@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "f9aa8ac9-f1a0-4e00-b3a3-199308202b37",
+        "type": "message",
+        "text": "<!channel>\nこのたび、学園祭実行委員会で人員募集（＋コロナ感染対策）の学内放送をすることになりました。そこで放送の原稿を読み上げてくれるかたを募集します。原稿はこちらで用意しています。\nもし興味のあるかたがいましたらご連絡ください。",
+        "user": "U0394PQ44FL",
+        "ts": "1654754742.834469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j1ER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこのたび、学園祭実行委員会で人員募集（＋コロナ感染対策）の学内放送をすることになりました。そこで放送の原稿を読み上げてくれるかたを募集します。原稿はこちらで用意しています。\nもし興味のあるかたがいましたらご連絡ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

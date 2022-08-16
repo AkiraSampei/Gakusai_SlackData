@@ -1,0 +1,618 @@
+[
+    {
+        "client_msg_id": "0705a159-6d20-4cec-a00f-6d38f268bd78",
+        "type": "message",
+        "text": "サークル代表各位　サークル説明会についての連絡です。\n\n学園祭実行委員会対応部長の渡辺涼太です。\n\n今年度の学園祭に向けたサークル説明会は、６月１５日の３時からです。お忘れのないようによろしくお願いいたします。",
+        "user": "U039V55S998",
+        "ts": "1655256822.423349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル代表各位　サークル説明会についての連絡です。\n\n学園祭実行委員会対応部長の渡辺涼太です。\n\n今年度の学園祭に向けたサークル説明会は、６月１５日の３時からです。お忘れのないようによろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655256822.423349",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1655257045.420339",
+        "reply_users": [
+            "U03901B3W69",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1655256944.878469"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655257013.190459"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1655257045.420339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1c119319-3abd-4d1e-b6a0-d0a18a3f122a",
+        "type": "message",
+        "text": "メールチェックお願いします",
+        "user": "U039V55S998",
+        "ts": "1655256829.018129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FY3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7fb0d8f8-002b-4fc4-90e2-82f38a7547ef",
+        "type": "message",
+        "text": "リマインダーのやり方がわからなかったので再度メール送信します",
+        "user": "U039V55S998",
+        "ts": "1655256850.238779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vdf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダーのやり方がわからなかったので再度メール送信します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655256850.238779",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655256940.966289",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655256926.402719"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1655256940.966289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D40A4170-D259-4889-A956-C5B5A5B09894",
+        "type": "message",
+        "text": "多分みじゅさんに頼まないと出せないんじゃないかな。",
+        "user": "U0399UH8BKQ",
+        "ts": "1655256926.402719",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o+F+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分みじゅさんに頼まないと出せないんじゃないかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655256850.238779",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f879db53-ab09-4ec0-ac5e-7fb66f8bc593",
+        "type": "message",
+        "text": "なのでs-leaderで送ってもらいます。",
+        "user": "U03901B3W69",
+        "ts": "1655256940.966289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EYMT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なのでs-leaderで送ってもらいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655256850.238779",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "17d0232d-b93d-4c0b-ac05-de43c0311076",
+        "type": "message",
+        "text": "リマインダーを送ります。の文章は欲しい。\n最後は「ご参加のほどよろしくお願いいたします。」ぐらいでいいかな。",
+        "user": "U03901B3W69",
+        "ts": "1655256944.878469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03901B3W69",
+            "ts": "1655256961.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダーを送ります。の文章は欲しい。\n最後は「ご参加のほどよろしくお願いいたします。」ぐらいでいいかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655256822.423349",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "B02B3782-6FF6-453B-AAF0-13F6A9E1F1F8",
+        "type": "message",
+        "text": "メール下に前のメールはっつけておくと良いかも(くどいかな…？)",
+        "user": "U0399UH8BKQ",
+        "ts": "1655257013.190459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7vp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メール下に前のメールはっつけておくと良いかも(くどいかな…？)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655256822.423349",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f3e2bf35-d043-487f-b33f-fe1bb9945c1b",
+        "type": "message",
+        "text": "説明会ってこのメールでも言ってるし大丈夫じゃないかな。",
+        "user": "U03901B3W69",
+        "ts": "1655257045.420339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G8O2\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "説明会ってこのメールでも言ってるし大丈夫じゃないかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655256822.423349",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "22f86512-2f8d-436c-a827-be7595217cf3",
+        "type": "message",
+        "text": "リマインダーを送ります。\n\nサークル代表各位　サークル説明会についての連絡です。\n\n学園祭実行委員会対応部長の渡辺涼太です。\n\n今年度の学園祭に向けたサークル説明会は、６月１５日の３時からです。ご参加のほどよろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655257152.738289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nNC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダーを送ります。\n\nサークル代表各位　サークル説明会についての連絡です。\n\n学園祭実行委員会対応部長の渡辺涼太です。\n\n今年度の学園祭に向けたサークル説明会は、６月１５日の３時からです。ご参加のほどよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655257152.738289",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655257348.700329",
+        "reply_users": [
+            "U03901B3W69",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1655257328.548189"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655257348.700329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11ec6beb-2ac9-467d-9fb5-b3203c09a4ef",
+        "type": "message",
+        "text": "どうでしょうか",
+        "user": "U039V55S998",
+        "ts": "1655257160.782149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eG7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どうでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84fb11fb-feb3-4845-8364-dd65a7d8e875",
+        "type": "message",
+        "text": "リマインダー二行目にすれば送っちゃっていいと思います。",
+        "user": "U03901B3W69",
+        "ts": "1655257328.548189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vkhM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダー二行目にすれば送っちゃっていいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655257152.738289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "5d4d5c1f-e0a7-46e4-a657-e61946e3ff87",
+        "type": "message",
+        "text": "了解です",
+        "user": "U039V55S998",
+        "ts": "1655257348.700329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S4b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655257152.738289",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "5c7db8a1-1928-4aba-b8ec-ae650bf49c2a",
+        "type": "message",
+        "text": "ステージ課の髙橋です。ステージ業者TAKLAMに連絡するので、添削お願いします。（サイトのお問い合わせから入力するので、署名はないです。）\n\nーーーーーーーーーーーーーーーーーーーーーーーーーー\n件名：会津大学学園祭の屋外ステージ設営について\n\nTAKLAM 御中\n\nお世話になっております。\n会津大学学園祭実行委員会の髙橋と申します。\n\n昨年度も同様のステージ設営を依頼させていただきました。\n昨年度は直前でのキャンセルになってしまい、大変申し訳ございませんでした。\n\n今年度の学園祭は10月末に対面での開催を計画しております。\nつきましては、今年度も屋外ステージの設営を御社にご依頼したく、連絡させていただきました。\n\n予算は170万円以内でお願いしたいと考えております。\nこの予算内で設営可能なステージの規模をご教示いただけないでしょうか。\nその他設営に必要な情報などございましたら、&lt;<mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp>&gt;にご連絡ください。\n\n見通しの立たない昨今ではございますが、ご検討のほどよろしくお願いいたします。",
+        "user": "U039PA9J5JP",
+        "ts": "1655263362.041419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1655263433.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LYl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ステージ課の髙橋です。ステージ業者TAKLAMに連絡するので、添削お願いします。（サイトのお問い合わせから入力するので、署名はないです。）\n\nーーーーーーーーーーーーーーーーーーーーーーーーーー\n件名：会津大学学園祭の屋外ステージ設営について\n\nTAKLAM 御中\n\nお世話になっております。\n会津大学学園祭実行委員会の髙橋と申します。\n\n昨年度も同様のステージ設営を依頼させていただきました。\n昨年度は直前でのキャンセルになってしまい、大変申し訳ございませんでした。\n\n今年度の学園祭は10月末に対面での開催を計画しております。\nつきましては、今年度も屋外ステージの設営を御社にご依頼したく、連絡させていただきました。\n\n予算は170万円以内でお願いしたいと考えております。\nこの予算内で設営可能なステージの規模をご教示いただけないでしょうか。\nその他設営に必要な情報などございましたら、<"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": ">にご連絡ください。\n\n見通しの立たない昨今ではございますが、ご検討のほどよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0394PQ44FL",
+                    "U038TMLJW1M"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

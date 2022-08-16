@@ -1,0 +1,942 @@
+[
+    {
+        "client_msg_id": "3F513745-DFB8-404B-BE33-63DACC791838",
+        "type": "message",
+        "text": "<!channel> 電車組は駅構内左側の待合スペースに来てください",
+        "user": "U0394PQ44FL",
+        "ts": "1658627970.709329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lxizV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 電車組は駅構内左側の待合スペースに来てください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658627970.709329",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1658628398.695149",
+        "reply_users": [
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658628280.255569"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658628398.695149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658628398.695149"
+    },
+    {
+        "client_msg_id": "DFC065BD-9CD2-43D2-A686-6831295A0301",
+        "type": "message",
+        "text": "車で行く人って南若松行った方がいいかな",
+        "user": "U038TMLJW1M",
+        "ts": "1658628112.151229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CpcUB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "車で行く人って南若松行った方がいいかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E6830DD9-A563-49B5-84B4-405569941A0E",
+        "type": "message",
+        "text": "行けるのであれば電車の人たちを乗せてきてもらえると助かります",
+        "user": "U039RCZ4E04",
+        "ts": "1658628147.408739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ps1D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "行けるのであれば電車の人たちを乗せてきてもらえると助かります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "いま着いた人駅中にいる黒と紫のひとに話しかけてください、それ私です",
+        "user": "U0394PQ44FL",
+        "ts": "1658628280.255569",
+        "thread_ts": "1658627970.709329",
+        "root": {
+            "client_msg_id": "3F513745-DFB8-404B-BE33-63DACC791838",
+            "type": "message",
+            "text": "<!channel> 電車組は駅構内左側の待合スペースに来てください",
+            "user": "U0394PQ44FL",
+            "ts": "1658627970.709329",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lxizV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 電車組は駅構内左側の待合スペースに来てください"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1658627970.709329",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1658628398.695149",
+            "reply_users": [
+                "U0394PQ44FL"
+            ],
+            "replies": [
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1658628280.255569"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1658628398.695149"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1658628398.695149"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FYuRl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いま着いた人駅中にいる黒と紫のひとに話しかけてください、それ私です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7347FBBD-CE4B-4A08-84E8-B7852FF92097"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "切符買ってました、待合室にいます",
+        "user": "U0394PQ44FL",
+        "ts": "1658628398.695149",
+        "thread_ts": "1658627970.709329",
+        "root": {
+            "client_msg_id": "3F513745-DFB8-404B-BE33-63DACC791838",
+            "type": "message",
+            "text": "<!channel> 電車組は駅構内左側の待合スペースに来てください",
+            "user": "U0394PQ44FL",
+            "ts": "1658627970.709329",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "lxizV",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 電車組は駅構内左側の待合スペースに来てください"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1658627970.709329",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1658628398.695149",
+            "reply_users": [
+                "U0394PQ44FL"
+            ],
+            "replies": [
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1658628280.255569"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1658628398.695149"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1658628398.695149"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dFaga",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "切符買ってました、待合室にいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D6DB6984-8056-4474-BF04-B7F1BFA146E5"
+    },
+    {
+        "client_msg_id": "7238C67D-82CE-4E13-AD31-D4422B219F3F",
+        "type": "message",
+        "text": "<!channel> 私見つけられなかった場合は\n「南若松駅」までの切符を買って駅舎内にいてください",
+        "user": "U0394PQ44FL",
+        "ts": "1658628517.555099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1658628537.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4MCSZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 私見つけられなかった場合は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「南若松駅」までの切符を買って駅舎内にいてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658628517.555099",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658628697.485239",
+        "reply_users": [
+            "U039D5XVCJ3",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U039D5XVCJ3",
+                "ts": "1658628681.818059"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658628697.485239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658628697.485239"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "11:25発の5番ホームです",
+        "user": "U039D5XVCJ3",
+        "ts": "1658628681.818059",
+        "thread_ts": "1658628517.555099",
+        "root": {
+            "client_msg_id": "7238C67D-82CE-4E13-AD31-D4422B219F3F",
+            "type": "message",
+            "text": "<!channel> 私見つけられなかった場合は\n「南若松駅」までの切符を買って駅舎内にいてください",
+            "user": "U0394PQ44FL",
+            "ts": "1658628517.555099",
+            "team": "T038Z0K089K",
+            "edited": {
+                "user": "U0394PQ44FL",
+                "ts": "1658628537.000000"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4MCSZ",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 私見つけられなかった場合は"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "「南若松駅」までの切符を買って駅舎内にいてください"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1658628517.555099",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1658628697.485239",
+            "reply_users": [
+                "U039D5XVCJ3",
+                "U0394PQ44FL"
+            ],
+            "replies": [
+                {
+                    "user": "U039D5XVCJ3",
+                    "ts": "1658628681.818059"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1658628697.485239"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1658628697.485239"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GB9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "11:25発の5番ホームです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "8F55375C-568D-4EA2-910D-AF287B960325"
+    },
+    {
+        "client_msg_id": "FE6CEBDB-33C6-4A04-8E96-A189F2FD5B1E",
+        "type": "message",
+        "text": "thx",
+        "user": "U0394PQ44FL",
+        "ts": "1658628697.485239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "487w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "thx"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658628517.555099",
+        "parent_user_id": "U0394PQ44FL"
+    },
+    {
+        "client_msg_id": "5FD6D3D5-D5D3-4230-B506-78AB4C747BEE",
+        "type": "message",
+        "text": "改札通りました、後からくるひとは南若松駅までの切符を買って5番ホームに来てください",
+        "user": "U0394PQ44FL",
+        "ts": "1658629034.763639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Y=ZH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "改札通りました、後からくるひとは南若松駅までの切符を買って5番ホームに来てください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9DEC824D-6947-4B0F-B1C9-DD1F63B8F364",
+        "type": "message",
+        "text": "（南若松行くけど家出るの遅くなったのでちょっと待ってて）",
+        "user": "U038TMLJW1M",
+        "ts": "1658629099.334049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kj+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "（南若松行くけど家出るの遅くなったのでちょっと待ってて）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8501d057-e5cb-42d3-b53f-ee51d66cbc58",
+        "type": "message",
+        "text": "今、南若松駅にいます。4人くらいなら車乗せれるので",
+        "user": "U039RJU3V36",
+        "ts": "1658630549.345759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5KLWx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今、南若松駅にいます。4人くらいなら車乗せれるので"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5c4eae7-4496-4c65-88aa-1fbee4a47c16",
+        "type": "message",
+        "text": "もう動いちゃいました？",
+        "user": "U039RJU3V36",
+        "ts": "1658630558.895679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v3SGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もう動いちゃいました？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B9434AEF-8DA1-4D26-87EB-28DAE8CE64F1",
+        "type": "message",
+        "text": "徒歩で移動中",
+        "user": "U039D5XVCJ3",
+        "ts": "1658630589.897229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "9581be3278ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-02\/3327154980390_9581be3278ca72a0270a_72.png",
+            "first_name": "Yuto",
+            "real_name": "Yuto Nakahara",
+            "display_name": "デンデン",
+            "team": "T038Z0K089K",
+            "name": "n.yuuto2031",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pxX6o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "徒歩で移動中"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df21e655-1f0d-469b-b399-ff7fef3a9d92",
+        "type": "message",
+        "text": "ですよね",
+        "user": "U039RJU3V36",
+        "ts": "1658630595.886439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ですよね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3eb02c1-d21d-47df-b408-b3270f848ace",
+        "type": "message",
+        "text": "遅れてる人いたら待って、乗せて行きますけど、います？",
+        "user": "U039RJU3V36",
+        "ts": "1658630621.037489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGCn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "遅れてる人いたら待って、乗せて行きますけど、います？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98CBEA30-EC32-4921-94FD-E56D5C75AEA7",
+        "type": "message",
+        "text": "次は12時過ぎだから遅れてる人はいないと思う",
+        "user": "U039D5XVCJ3",
+        "ts": "1658630655.921569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "9581be3278ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-02\/3327154980390_9581be3278ca72a0270a_72.png",
+            "first_name": "Yuto",
+            "real_name": "Yuto Nakahara",
+            "display_name": "デンデン",
+            "team": "T038Z0K089K",
+            "name": "n.yuuto2031",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gnu=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "次は12時過ぎだから遅れてる人はいないと思う"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36634538-286a-4737-9ff5-e5123bf870dd",
+        "type": "message",
+        "text": "じゃ、戻りますね",
+        "user": "U039RJU3V36",
+        "ts": "1658630724.030529",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "a7D1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃ、戻りますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "020BF6D4-243A-4CB9-BC9A-DC3A8A412EDD",
+        "type": "message",
+        "text": "松田車これから戻る様ですが、もう一台要りますか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1658645825.584289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwXbn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "松田車これから戻る様ですが、もう一台要りますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658645825.584289",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658646094.128379",
+        "reply_users": [
+            "U039V55S998",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U039V55S998",
+                "ts": "1658645880.895949"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1658646094.128379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d7ab69ec-eb27-4224-a8cb-80b1d2c723b3",
+        "type": "message",
+        "text": "一台で足りそうですよ",
+        "user": "U039V55S998",
+        "ts": "1658645880.895949",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pEhj7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一台で足りそうですよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658645825.584289",
+        "parent_user_id": "U0399UH8BKQ"
+    }
+]

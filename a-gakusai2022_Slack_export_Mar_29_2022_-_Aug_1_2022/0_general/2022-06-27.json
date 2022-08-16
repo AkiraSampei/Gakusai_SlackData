@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "bb8ccf31-c45a-4a49-9ab6-04da6cd360a7",
+        "type": "message",
+        "text": "<!channel> 宮崎です。テーマの投稿ありがとうございました！\n総務部で会議した結果、今年度学園祭のテーマは\n「Rebuild～ここからがmain関数～」に決定しました！今年こそはコロナで崩れた学園祭の空気を再び築く(Rebuild)ということと、そこにプログラミング言語を併せた会津大学らしさを持った素敵なテーマになったと思います。\n\nこれをスローガンとして学祭本番に向けて頑張っていきましょう！",
+        "user": "U03901B3W69",
+        "ts": "1656325660.945399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2s+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 宮崎です。テーマの投稿ありがとうございました！\n総務部で会議した結果、今年度学園祭のテーマは\n「Rebuild～ここからがmain関数～」に決定しました！今年こそはコロナで崩れた学園祭の空気を再び築く(Rebuild)ということと、そこにプログラミング言語を併せた会津大学らしさを持った素敵なテーマになったと思います。\n\nこれをスローガンとして学祭本番に向けて頑張っていきましょう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U03BM52KMEC",
+                    "U039V55S998",
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "parrot_conga",
+                "users": [
+                    "U039V55S998",
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU",
+                    "U03KB4QMFHR",
+                    "U039L92GA3X"
+                ],
+                "count": 6
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CUPE920G",
+                    "U039PA9J5JP",
+                    "U03GF2N1X63",
+                    "U03D0L4BEJU",
+                    "U039EF90649",
+                    "U03KRPKDY8L"
+                ],
+                "count": 6
+            },
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "a61feba1-0c77-4dbb-9bee-5f3bb3b27ea5",
+        "type": "message",
+        "text": "月曜日　17:00~\n火曜日　×\n水曜日　13:00~\n木曜日　17:00~\n金曜日　×\n土曜日　×\n日曜日　×\n来週の空いている時間はこんな感じです",
+        "user": "U03GZQ9T32R",
+        "ts": "1657267216.818319",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O93",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "月曜日　17:00~\n火曜日　×\n水曜日　13:00~\n木曜日　17:00~\n金曜日　×\n土曜日　×\n日曜日　×\n来週の空いている時間はこんな感じです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657261758.274389",
+        "parent_user_id": "U03BM52KMEC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

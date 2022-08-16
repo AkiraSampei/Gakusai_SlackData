@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "CF9D7DB4-791D-4DE4-84E6-9ACE0EEA6E35",
+        "type": "message",
+        "text": "火、金は10限終わり次第、水曜が15時、木曜が18時から空けられます",
+        "user": "U03K8CWK5LK",
+        "ts": "1655369934.426049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03K8CWK5LK",
+            "ts": "1655397190.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EBd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "火、金は10限終わり次第、水曜が15時、木曜が18時から空けられます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655359954.785429",
+        "parent_user_id": "U03A1N54PJM"
+    },
+    {
+        "client_msg_id": "2fc4a51b-a2a9-4656-aec5-d156182807a4",
+        "type": "message",
+        "text": "<!channel>  企画会議は 22日水曜日16時に行いたいと思います。場所は学祭室です。\nPCがあれば持参お願いします。",
+        "user": "U03A1N54PJM",
+        "ts": "1655437872.444279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YAYv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  企画会議は 22日水曜日16時に行いたいと思います。場所は学祭室です。\nPCがあれば持参お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U03K8CWK5LK"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

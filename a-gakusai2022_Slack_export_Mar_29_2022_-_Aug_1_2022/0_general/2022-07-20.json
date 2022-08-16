@@ -1,0 +1,262 @@
+[
+    {
+        "client_msg_id": "8f0634b8-10fb-4c07-a26a-69cf98931293",
+        "type": "message",
+        "text": "BBQに参加する方々へ\n\n当日の日程についてお知らせします。\n主に電車で行く人が多いと思うので、電車で行く人向けの日程です。\n電車で行く方は乗り遅れないようにお気を付けください。\n車や自転車などで行く方は12:00に現地集合でお願いします。\n\n11:00　会津若松駅前に集合\n11:25　電車出発\n11:35　南若松駅到着\n12:00　BBQ\n16:00　解散\n\n場所はここです。\n<https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5>\n\nまた、当日の交通手段を把握したいので\n当日の乗り物のスタンプを押してください。",
+        "user": "U039RCZ4E04",
+        "ts": "1658313917.466859",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipNkqG-B_RZPUPQoVD5zBNO__Kft3XsT8DrMQ5cZ",
+                "thumb_width": 512,
+                "thumb_height": 384,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                "fallback": "本郷大橋 · 〒969-6103 福島県大沼郡会津美里町上村北４",
+                "text": "★★☆☆☆ · 橋",
+                "title": "本郷大橋 · 〒969-6103 福島県大沼郡会津美里町上村北４",
+                "title_link": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                "service_name": "google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKdH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BBQに参加する方々へ\n\n当日の日程についてお知らせします。\n主に電車で行く人が多いと思うので、電車で行く人向けの日程です。\n電車で行く方は乗り遅れないようにお気を付けください。\n車や自転車などで行く方は12:00に現地集合でお願いします。\n\n11:00　会津若松駅前に集合\n11:25　電車出発\n11:35　南若松駅到着\n12:00　BBQ\n16:00　解散\n\n場所はここです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nまた、当日の交通手段を把握したいので\n当日の乗り物のスタンプを押してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658313917.466859",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1658565939.142819",
+        "reply_users": [
+            "U039RJU3V36",
+            "U039RCZ4E04"
+        ],
+        "replies": [
+            {
+                "user": "U039RJU3V36",
+                "ts": "1658565784.162269"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658565903.283819"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1658565939.142819"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "railway_car",
+                "users": [
+                    "U03KB4QMFHR",
+                    "U03D0L4BEJU",
+                    "U03GW267PQE",
+                    "U03BW9Q5DF1",
+                    "U03K8CWK5LK",
+                    "U039D5XVCJ3"
+                ],
+                "count": 6
+            },
+            {
+                "name": "car",
+                "users": [
+                    "U0391RWR34N",
+                    "U039M3UAXFG",
+                    "U038TMLJW1M",
+                    "U0399UH8BKQ",
+                    "U039RJU3V36",
+                    "U03A1N54PJM"
+                ],
+                "count": 6
+            },
+            {
+                "name": "roller_coaster",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bike",
+                "users": [
+                    "U03KRPKDY8L",
+                    "U03D0L4BEJU",
+                    "U03K8F1PW82",
+                    "U039L92GA3X"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87c8d0ca-64f4-412d-aefa-417191749cd2",
+        "type": "message",
+        "text": "最近コロナが増えてきているので、大学からサークル活動停止の連絡が来た場合、中止してしまう恐れがあります。その時は申し訳ございません。\nみんなでできることを祈りましょう:pray:",
+        "user": "U039RCZ4E04",
+        "ts": "1658314250.966339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aZRtK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近コロナが増えてきているので、大学からサークル活動停止の連絡が来た場合、中止してしまう恐れがあります。その時は申し訳ございません。\nみんなでできることを祈りましょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4c32243f-d43e-41e4-9f20-380029eb1f92",
+        "type": "message",
+        "text": "<!channel>\n老害おじさんから一言。\n今、またコロナが増えてきています。正直このBBQも実施するか迷いました。\n学祭でクラスター発生するということは絶対に避けたいので、当日は食事中以外はマスクするなど*コロナ対策をガチガチにしてBBQをしましょう！！*\nまた、当日体調が悪い時は無理せず休んでください。\n安全に楽しくBBQをしましょう！！",
+        "user": "U039M3UAXFG",
+        "ts": "1658314910.164049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/iku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n老害おじさんから一言。\n今、またコロナが増えてきています。正直このBBQも実施するか迷いました。\n学祭でクラスター発生するということは絶対に避けたいので、当日は食事中以外はマスクするなど"
+                            },
+                            {
+                                "type": "text",
+                                "text": "コロナ対策をガチガチにしてBBQをしましょう！！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまた、当日体調が悪い時は無理せず休んでください。\n安全に楽しくBBQをしましょう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U039LGX8MN1",
+                    "U03BM52KMEC",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU"
+                ],
+                "count": 5
+            },
+            {
+                "name": "bow",
+                "users": [
+                    "U0391RWR34N",
+                    "U03BM52KMEC",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039RCZ4E04",
+                    "U039WPGBPDH",
+                    "U039V55S998",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU",
+                    "U03K8CWK5LK"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

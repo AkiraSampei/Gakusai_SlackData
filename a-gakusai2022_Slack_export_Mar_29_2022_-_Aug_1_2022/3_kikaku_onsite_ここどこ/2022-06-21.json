@@ -1,0 +1,518 @@
+[
+    {
+        "client_msg_id": "B0862063-55FA-4472-A8B6-1B87F1DB9D62",
+        "type": "message",
+        "text": "&lt;リマインダー&gt;\n明日15:10から企画書作成を学祭室で行います。よろしく！\nps.企画担当4年の大澤です〜よろしく〜",
+        "user": "U0391RWR34N",
+        "ts": "1655799868.337369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eKn1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<リマインダー>\n明日15:10から企画書作成を学祭室で行います。よろしく！\nps.企画担当4年の大澤です〜よろしく〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039D5XVCJ3"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4BAC24F3-17CE-42D6-A8DB-86080F7713B9",
+        "type": "message",
+        "text": "おはようございます、本日の企画書作成ですが急遽学祭室の利用が出来なくなってしまったので食堂もしくはzoomで行おうと考えていますがどちらで行いたいですか？",
+        "user": "U039D5XVCJ3",
+        "ts": "1655858216.680779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "9581be3278ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-02\/3327154980390_9581be3278ca72a0270a_72.png",
+            "first_name": "Yuto",
+            "real_name": "Yuto Nakahara",
+            "display_name": "デンデン",
+            "team": "T038Z0K089K",
+            "name": "n.yuuto2031",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=1Xf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます、本日の企画書作成ですが急遽学祭室の利用が出来なくなってしまったので食堂もしくはzoomで行おうと考えていますが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どちらで行いたいですか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655858216.680779",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1655878218.948009",
+        "reply_users": [
+            "U03GW267PQE",
+            "U039D5XVCJ3",
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U03GW267PQE",
+                "ts": "1655860033.235039"
+            },
+            {
+                "user": "U039D5XVCJ3",
+                "ts": "1655861791.462879"
+            },
+            {
+                "user": "U03GW267PQE",
+                "ts": "1655861957.599899"
+            },
+            {
+                "user": "U03GW267PQE",
+                "ts": "1655878117.942629"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1655878218.948009"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "C44289BA-65DA-4EF1-9BB0-6EE3537CE505",
+        "type": "message",
+        "text": "個人的には分からない時にききやすいように食堂がいいです！",
+        "user": "U03GW267PQE",
+        "ts": "1655860033.235039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "8d4cd923fe95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3667185878081_8d4cd923fe95f2c88bc0_72.png",
+            "first_name": "Akito",
+            "real_name": "Akito Sudo",
+            "display_name": "須藤",
+            "team": "T038Z0K089K",
+            "name": "s1300140",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3I4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人的には分からない時に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ききやすいように"
+                            },
+                            {
+                                "type": "text",
+                                "text": "食堂が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655858216.680779",
+        "parent_user_id": "U039D5XVCJ3"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655860214.105479",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "了解！\nそれじゃあ予定通りの15時10分から食堂で作ります。",
+        "user": "U039D5XVCJ3",
+        "ts": "1655861791.462879",
+        "thread_ts": "1655858216.680779",
+        "root": {
+            "client_msg_id": "4BAC24F3-17CE-42D6-A8DB-86080F7713B9",
+            "type": "message",
+            "text": "おはようございます、本日の企画書作成ですが急遽学祭室の利用が出来なくなってしまったので食堂もしくはzoomで行おうと考えていますがどちらで行いたいですか？",
+            "user": "U039D5XVCJ3",
+            "ts": "1655858216.680779",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "=1Xf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "おはようございます、本日の企画書作成ですが急遽学祭室の利用が出来なくなってしまったので食堂もしくはzoomで行おうと考えていますが"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "どちらで行いたいですか"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1655858216.680779",
+            "reply_count": 5,
+            "reply_users_count": 3,
+            "latest_reply": "1655878218.948009",
+            "reply_users": [
+                "U03GW267PQE",
+                "U039D5XVCJ3",
+                "U0391RWR34N"
+            ],
+            "replies": [
+                {
+                    "user": "U03GW267PQE",
+                    "ts": "1655860033.235039"
+                },
+                {
+                    "user": "U039D5XVCJ3",
+                    "ts": "1655861791.462879"
+                },
+                {
+                    "user": "U03GW267PQE",
+                    "ts": "1655861957.599899"
+                },
+                {
+                    "user": "U03GW267PQE",
+                    "ts": "1655878117.942629"
+                },
+                {
+                    "user": "U0391RWR34N",
+                    "ts": "1655878218.948009"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I+U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "それじゃあ予定"
+                            },
+                            {
+                                "type": "text",
+                                "text": "通り"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "15"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10分"
+                            },
+                            {
+                                "type": "text",
+                                "text": "から食堂"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "作ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "E517BEE3-AA1A-4B32-8416-74592EF0C97D",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D28351A0-9D9D-48CC-B545-56941BAEBDB0",
+        "type": "message",
+        "text": "ありがとうございます！",
+        "user": "U03GW267PQE",
+        "ts": "1655861957.599899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "8d4cd923fe95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3667185878081_8d4cd923fe95f2c88bc0_72.png",
+            "first_name": "Akito",
+            "real_name": "Akito Sudo",
+            "display_name": "須藤",
+            "team": "T038Z0K089K",
+            "name": "s1300140",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+\/fo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655858216.680779",
+        "parent_user_id": "U039D5XVCJ3"
+    },
+    {
+        "client_msg_id": "BA90C3A9-8833-40DA-86E3-A5B767805289",
+        "type": "message",
+        "text": "食堂のどこら辺にいらっしゃいますか？",
+        "user": "U03GW267PQE",
+        "ts": "1655878117.942629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "8d4cd923fe95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3667185878081_8d4cd923fe95f2c88bc0_72.png",
+            "first_name": "Akito",
+            "real_name": "Akito Sudo",
+            "display_name": "須藤",
+            "team": "T038Z0K089K",
+            "name": "s1300140",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ib=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "食堂のどこら辺に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "し"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ゃ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655858216.680779",
+        "parent_user_id": "U039D5XVCJ3"
+    },
+    {
+        "client_msg_id": "70cd20ca-e3ab-4cf7-ae8c-2123e48e9fb0",
+        "type": "message",
+        "text": "ウチは丸テーブルの手前から４つ目におるよ",
+        "user": "U0391RWR34N",
+        "ts": "1655878218.948009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "On9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ウチは丸テーブルの手前から４つ目におるよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655858216.680779",
+        "parent_user_id": "U039D5XVCJ3"
+    },
+    {
+        "client_msg_id": "432e276b-312a-4d81-9bd3-672c6c4b1ff7",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg&amp;usp=sharing>",
+        "user": "U0391RWR34N",
+        "ts": "1655878562.875349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=k6SI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg&usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

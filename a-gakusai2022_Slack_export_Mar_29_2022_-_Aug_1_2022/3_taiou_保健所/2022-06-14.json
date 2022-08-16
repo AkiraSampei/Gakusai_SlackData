@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655256608.669139",
+        "user": "U03CUPE920G",
+        "text": "<@U03CUPE920G>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "86E57C27-7B71-489E-94AC-19A7BFCE7C1F",
+        "type": "message",
+        "text": "学部1年の津久井羅偉です。\n今年保健所の担当になりました。\nよろしくお願いします。\n足を引っ張らないようがんばります！",
+        "user": "U03CUPE920G",
+        "ts": "1655257063.233549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g=MV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学部1年の津久井羅偉です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年保健所の担当になりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "足を引っ張らないようがんばります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03A9180MAN",
+                    "U039V55S998"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

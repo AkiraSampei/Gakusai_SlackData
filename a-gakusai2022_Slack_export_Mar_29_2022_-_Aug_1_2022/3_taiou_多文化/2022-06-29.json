@@ -1,0 +1,184 @@
+[
+    {
+        "client_msg_id": "7652e818-9b31-43b2-9d3d-cf5359e188c8",
+        "type": "message",
+        "text": "昨日山田民芸工房様から連絡があり、３０日に参加したいとのことでした。\nよってほしばん様と話をすり合わせて問題ないとの事だったのでこの日程で行こうと考えます。",
+        "user": "U039V55S998",
+        "ts": "1656492115.428379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/B2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨日山田民芸工房様から連絡があり、３０日に参加したいとのことでした。\nよってほしばん様と話をすり合わせて問題ないとの事だったのでこの日程で行こうと考えます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656402600.924069",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "5f72f326-0699-42b8-9beb-21dd67e439a9",
+        "type": "message",
+        "text": "<@U03901B3W69> 多文化企画は保健所説明会を受ける必要あるのですか？\nまた、申請書のようなものを別途で書く必要はありますか？",
+        "user": "U039V55S998",
+        "ts": "1656492170.497579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gzE=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03901B3W69"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 多文化企画は保健所説明会を受ける必要あるのですか？\nまた、申請書のようなものを別途で書く必要はありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656492170.497579",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1656492607.009579",
+        "reply_users": [
+            "U03901B3W69",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1656492535.541059"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656492607.009579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "582fcd3e-298f-4727-9c7a-d142f427f088",
+        "type": "message",
+        "text": "三年前対面でやろうとしてたときは多文化団体の電力使用量や備品もまとめてたから多分申請書は書いてもらってると思う。\nでも保健所から説明受けてたかな。。。\n元々そういう許可を得て営利活動してるはずだから保健所の指摘なんて受けるはずないんだけどね。",
+        "user": "U03901B3W69",
+        "ts": "1656492535.541059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jDjGU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "三年前対面でやろうとしてたときは多文化団体の電力使用量や備品もまとめてたから多分申請書は書いてもらってると思う。\nでも保健所から説明受けてたかな。。。\n元々そういう許可を得て営利活動してるはずだから保健所の指摘なんて受けるはずないんだけどね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656492170.497579",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "20e0b1c6-f534-417c-b05a-dcae878a38e3",
+        "type": "message",
+        "text": "今度電話かけた時に聞いてみますね",
+        "user": "U039V55S998",
+        "ts": "1656492607.009579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Hu+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今度電話かけた時に聞いてみますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656492170.497579",
+        "parent_user_id": "U039V55S998"
+    }
+]

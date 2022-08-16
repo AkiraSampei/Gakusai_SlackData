@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "80577e06-9efa-4476-b05d-98c4920ca093",
+        "type": "message",
+        "text": "学生会執行部　各位\n(Cc:学園祭実行委員会)\n\n学園祭実行委員会会計担当の髙橋尚です。\n本日の予算編成委員会で話しあった学園祭の予算案を修正いたしましたので、本メールに添付し送信いたします。\n\nご確認のほどよろしくお願いします。\n\n───────────────────\n会津大学　コンピューター理工学部　学部2年\n会津大学学園祭実行委員会　対応部\ns1290201　髙橋　尚\nEmail: <mailto:s1290201@u-aizu.ac.jp|s1290201@u-aizu.ac.jp>",
+        "user": "U039PA9J5JP",
+        "ts": "1653643511.452599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iRKX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学生会執行部　各位\n(Cc:学園祭実行委員会)\n\n学園祭実行委員会会計担当の髙橋尚です。\n本日の予算編成委員会で話しあった学園祭の予算案を修正いたしましたので、本メールに添付し送信いたします。\n\nご確認のほどよろしくお願いします。\n\n───────────────────\n会津大学　コンピューター理工学部　学部2年\n会津大学学園祭実行委員会　対応部\ns1290201　髙橋　尚\nEmail: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290201@u-aizu.ac.jp",
+                                "text": "s1290201@u-aizu.ac.jp",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yoki",
+                "users": [
+                    "U0399UH8BKQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

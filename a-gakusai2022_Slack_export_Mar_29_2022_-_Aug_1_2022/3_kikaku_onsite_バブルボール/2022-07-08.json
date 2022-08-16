@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "42b6ca9a-952c-4206-a55b-73f3927cc495",
+        "type": "message",
+        "text": "お疲れ様です！\n都合の良い日時でしたら、月曜の3,4限+昼・水曜の14:00~16:30,17:00以降は大丈夫です:+1:",
+        "user": "U03D0L4BEJU",
+        "ts": "1657287156.593139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03D0L4BEJU",
+            "ts": "1657287533.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rM6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n都合の良い日時でしたら、月曜の3,4限+昼・水曜の14:00~16:30,17:00以降は大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

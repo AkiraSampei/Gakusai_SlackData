@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "19c62c08-a5cb-4e95-a3db-7b5413b7e1dd",
+        "type": "message",
+        "text": "では、企画書の修正は*来週月曜の17:00に学祭室*でやりましょう!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1657364161.610429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03BM52KMEC",
+            "ts": "1657364176.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOKHf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では、企画書の修正は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来週月曜の17:00に学祭室",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でやりましょう!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

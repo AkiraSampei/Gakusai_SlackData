@@ -1,0 +1,335 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "<@U039RCZ4E04>明日のBBQは、橋の東側？それとも西側？",
+        "user": "U039RJU3V36",
+        "ts": "1658565784.162269",
+        "thread_ts": "1658313917.466859",
+        "root": {
+            "client_msg_id": "8f0634b8-10fb-4c07-a26a-69cf98931293",
+            "type": "message",
+            "text": "BBQに参加する方々へ\n\n当日の日程についてお知らせします。\n主に電車で行く人が多いと思うので、電車で行く人向けの日程です。\n電車で行く方は乗り遅れないようにお気を付けください。\n車や自転車などで行く方は12:00に現地集合でお願いします。\n\n11:00　会津若松駅前に集合\n11:25　電車出発\n11:35　南若松駅到着\n12:00　BBQ\n16:00　解散\n\n場所はここです。\n<https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5>\n\nまた、当日の交通手段を把握したいので\n当日の乗り物のスタンプを押してください。",
+            "user": "U039RCZ4E04",
+            "ts": "1658313917.466859",
+            "team": "T038Z0K089K",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                    "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipNkqG-B_RZPUPQoVD5zBNO__Kft3XsT8DrMQ5cZ",
+                    "thumb_width": 512,
+                    "thumb_height": 384,
+                    "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                    "id": 1,
+                    "original_url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                    "fallback": "本郷大橋 · 〒969-6103 福島県大沼郡会津美里町上村北４",
+                    "text": "★★☆☆☆ · 橋",
+                    "title": "本郷大橋 · 〒969-6103 福島県大沼郡会津美里町上村北４",
+                    "title_link": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                    "service_name": "google.com"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "FKdH",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "BBQに参加する方々へ\n\n当日の日程についてお知らせします。\n主に電車で行く人が多いと思うので、電車で行く人向けの日程です。\n電車で行く方は乗り遅れないようにお気を付けください。\n車や自転車などで行く方は12:00に現地集合でお願いします。\n\n11:00　会津若松駅前に集合\n11:25　電車出発\n11:35　南若松駅到着\n12:00　BBQ\n16:00　解散\n\n場所はここです。\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n\nまた、当日の交通手段を把握したいので\n当日の乗り物のスタンプを押してください。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1658313917.466859",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1658565939.142819",
+            "reply_users": [
+                "U039RJU3V36",
+                "U039RCZ4E04"
+            ],
+            "replies": [
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1658565784.162269"
+                },
+                {
+                    "user": "U039RCZ4E04",
+                    "ts": "1658565903.283819"
+                },
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1658565939.142819"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1F27Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RCZ4E04"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日のBBQは、橋の東側？それとも西側？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a4c43401-4b17-4b65-8be2-a79a4ee2f593"
+    },
+    {
+        "client_msg_id": "218BA166-3483-4063-A756-2B98B44AA962",
+        "type": "message",
+        "text": "東側です！",
+        "user": "U039RCZ4E04",
+        "ts": "1658565903.283819",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHcY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "東側です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658313917.466859",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "0995cb6f-8cbb-43b6-a020-78ab8cb9db54",
+        "type": "message",
+        "text": "りょうかい",
+        "user": "U039RJU3V36",
+        "ts": "1658565939.142819",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GeSCy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りょうかい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658313917.466859",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "FB03C507-DB9D-49E7-A744-79B35E113C8C",
+        "type": "message",
+        "text": "<!channel> \n\n再度BBQの連絡をいたします！\n明日電車で行く人は11時に会津若松駅入り口付近に集合してください！！\n車でくる方は12時に現地に集合お願いします！！\nBBQの料金は、一年生は、500円、\n2年生以上は1200円かかるので準備よろしくお願いします！",
+        "user": "U039RCZ4E04",
+        "ts": "1658575025.156589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gv4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n再度BBQの連絡をいたします！\n明日電車で行く人は11時に会津若松駅入り口付近に集合してください！！\n車でくる方は12時に現地に集合お願いします！！\nBBQの料金は、一年生は、500円、\n2年生以上は1200円かかるので準備よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2F92C7C2-4491-4FD0-8B77-7C231086BC31",
+        "type": "message",
+        "text": "当日検温してからお越しください。\n熱がある場合は、コロナの状況もあるので無理してこないようにお願いします。\n当日来れない場合は連絡していただけると助かります。\nBBQ中は飲食以外のマスクの着用などの対策をお願いします。\n今回のコロナの状況もあるので慎重な行動心がけましょう！",
+        "user": "U039RCZ4E04",
+        "ts": "1658575306.825159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xil",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "当日検温してからお越しください。\n熱がある場合は、コロナの状況もあるので無理してこないようにお願いします。\n当日来れない場合は連絡していただけると助かります。\nBBQ中は飲食以外のマスクの着用などの対策をお願いします。\n今回のコロナの状況もあるので慎重な行動心がけましょう！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "139744BC-B33C-4675-9430-CA20D13A0A2D",
+        "type": "message",
+        "text": "おはようございます:sunny:\n現状の気候を見る限り、かなりの暑さが予想されます。飲み物はこちらでも準備しておりますが、不足してしまう恐れもあるので各自でも用意して持ってきてもらうとありがたいです。\nまた、感染症対策として検温をしてからお越しください:pray:\n今日は感染症対策をしながら楽しみましょう！！",
+        "user": "U039RCZ4E04",
+        "ts": "1658622958.780329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8el",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n現状の気候を見る限り、かなりの暑さが予想されます。飲み物はこちらでも準備しておりますが、不足してしまう恐れもあるので各自でも用意して持ってきてもらうとありがたいです。\nまた、感染症対策として検温をしてからお越しください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日は感染症対策をしながら楽しみましょう！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039WPGBPDH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

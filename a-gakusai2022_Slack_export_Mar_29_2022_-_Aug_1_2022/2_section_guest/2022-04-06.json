@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "2fae5609-e6e9-4004-99b2-29e89782cd27",
+        "type": "message",
+        "text": "ゲストの打ち合わせしてきました\n・呼びたいゲストの希望をもう少し出してほしい\n・ゲストの出演時間を決めておくとスムーズにスケジュール組める\n（・別件でカラオケ大会とかの協賛もできるかも？）\nこんな感じでした",
+        "user": "U039EF90649",
+        "ts": "1649297282.405389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M7xA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゲストの打ち合わせしてきました\n・呼びたいゲストの希望をもう少し出してほしい\n・ゲストの出演時間を決めておくとスムーズにスケジュール組める\n（・別件でカラオケ大会とかの協賛もできるかも？）\nこんな感じでした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03901B3W69",
+                    "U0394PQ44FL",
+                    "U039M3UAXFG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649307684.612919",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    }
+]

@@ -1,0 +1,754 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "変更になりました(下を参照)",
+        "user": "U03901B3W69",
+        "ts": "1656762483.954349",
+        "thread_ts": "1656730800.426319",
+        "root": {
+            "client_msg_id": "68acb8d4-ff54-451c-b2be-fbc393f5e292",
+            "type": "message",
+            "text": "<!channel> 全体会議のお知らせ\nお疲れ様です。宮崎です。すっかり暑い日が続きますがいかがお過ごしでしょうか。\nさて、今月10日(日曜日)に全体会議を開きます。参加をよろしくお願いします。\n時刻：14：00～\n場所：追って連絡",
+            "user": "U03901B3W69",
+            "ts": "1656730800.426319",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "SlO",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 全体会議のお知らせ\nお疲れ様です。宮崎です。すっかり暑い日が続きますがいかがお過ごしでしょうか。\nさて、今月10日(日曜日)に全体会議を開きます。参加をよろしくお願いします。\n時刻：14：00～\n場所：追って連絡"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1656730800.426319",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1656762483.954349",
+            "reply_users": [
+                "U03901B3W69"
+            ],
+            "replies": [
+                {
+                    "user": "U03901B3W69",
+                    "ts": "1656762483.954349"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwMW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "変更になりました(下を参照)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a568a470-14eb-4819-86fa-e590bbcf7680"
+    },
+    {
+        "client_msg_id": "e302d710-522b-4064-b37a-0aa8ee7e83cc",
+        "type": "message",
+        "text": "<!channel> 全体会議について\n再度の連絡失礼します。先にお知らせした全体会議ですが、想定以上の欠席が見込まれたので、伝助を取って再度日程を決定したいと思います。\n皆様にはお手数をおかけしますが、伝助の記入をお願いいたします。\n```<https:\/\/densuke.biz\/list?cd=C3WGwaznUh96NaqR>```",
+        "user": "U03901B3W69",
+        "ts": "1656762488.264159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EL4lS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 全体会議について\n再度の連絡失礼します。先にお知らせした全体会議ですが、想定以上の欠席が見込まれたので、伝助を取って再度日程を決定したいと思います。\n皆様にはお手数をおかけしますが、伝助の記入をお願いいたします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=C3WGwaznUh96NaqR"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U039RJU3V36",
+                    "U03D0L4BEJU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2ce1da2-f54d-47e0-ae95-9516cf5877b4",
+        "type": "message",
+        "text": "<!channel> お疲れ様です。装飾担当の髙橋です。\n全体会議の告知を遮ってすみません。*↑の伝助は必ず入力してね！！*\n今年の学祭では、対面開催に向けて何か大きな装飾したいと思います！！\n例）モザイクアート、折り紙など。。\nそこでみんなに今年は何を作るかアイデアを募集します！！\n高校の時作ったものでもいいので何でも書いてほしいです！！金ならある:moneybag::sunglasses:\nグーグルフォームを作成したので、そこに書いてください:man-bowing:\n最後に全体会議の伝助の入力は必ずお願いします！！\n<https:\/\/forms.gle\/sACsydU7VRCE6dG89>",
+        "user": "U039PA9J5JP",
+        "ts": "1656767298.775409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/sACsydU7VRCE6dG89",
+                "image_url": "https:\/\/lh5.googleusercontent.com\/B2xsVoR2QYbMsPRWzgglXk5Ebhqg-IEEbt9RaMkrnF9nyZRdUMw0bm0t--HMWLkvgENAPhP3cCs",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 33092,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/sACsydU7VRCE6dG89",
+                "fallback": "Google Docs: 装飾でやりたいこと",
+                "text": "装飾でやりたいことを募集します！！！ 遠慮なくどんどん書いてってください！！ex.)アーチ、モザイクアート アバウトでいいのでどんどん書いてほしいです！",
+                "title": "装飾でやりたいこと",
+                "title_link": "https:\/\/forms.gle\/sACsydU7VRCE6dG89",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QhC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です。装飾担当の髙橋です。\n全体会議の告知を遮ってすみません。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "↑の伝助は必ず入力してね！！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今年の学祭では、対面開催に向けて何か大きな装飾したいと思います！！\n例）モザイクアート、折り紙など。。\nそこでみんなに今年は何を作るかアイデアを募集します！！\n高校の時作ったものでもいいので何でも書いてほしいです！！金ならある"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "moneybag",
+                                "unicode": "1f4b0"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunglasses",
+                                "unicode": "1f60e"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nグーグルフォームを作成したので、そこに書いてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n最後に全体会議の伝助の入力は必ずお願いします！！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/sACsydU7VRCE6dG89"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656767298.775409",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656767543.733109",
+        "reply_users": [
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1656767543.733109"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "party_rabit_move",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039RJU3V36"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "去年はこういうのを作ってました！\n今年は10月末にやるので、ハロウィンっぽくやるのはありかなと個人的には思ってます！\nみんなで自由に記入してね！",
+        "files": [
+            {
+                "id": "F03N6AQTFNY",
+                "created": 1656767483,
+                "timestamp": 1656767483,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039PA9J5JP",
+                "editable": false,
+                "size": 1267944,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N6AQTFNY\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N6AQTFNY\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N6AQTFNY-590528b5d8\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACR+9JLUDocYwPUdKgTeqMQDnuO1OiiJ6jBPfNWYoEXqcsetAiskTyZOz5u3FK0TRqUkAJI4oeWRZCVcgA\/dH+FP84zIAykE9CD3p2ApmPacMm4+tJtH\/PI\/lVgNxhs5HBpdw96kokt5cxgN1HWnmQoe2KpKWRiCSO1TeYpBBPbtVCGFQXO1iR3yOn\/16cDgY3HHqakEZwqk4\/rTZ0IwqEYY8jFFwGNCSc7Q3vmk8k\/3B+dPDgZ3A59u1HmJ6NUjFMvmjEqK\/v0NM8qAHcpdT6HkVXRsnO6pc0CLSLKAdmwj61HIswBzG31XmoQxHelDkdOPocUARHIPKvn6UZP91\/yqx5z\/AN9\/zo89\/wC+350Af\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039PA9J5JP\/F03N6AQTFNY\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03N6AQTFNY-5cb986c1c4",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03N3SCFBDH",
+                "created": 1656767483,
+                "timestamp": 1656767483,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U039PA9J5JP",
+                "editable": false,
+                "size": 3994970,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N3SCFBDH\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N3SCFBDH\/download\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________960.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N3SCFBDH-1bc2f0f926\/ios___________1024.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "thumb_tiny": "AwAwABqZHigTKkO59O1RM7O2WNN8luxo8uQVIxc07a390\/lTEMqYbGDj0pfNl\/vN+dAExbaM7TS7xnoaQSKAMsKXzV9fyFIABVgcCoNvt+lT+au3jP5VUN0uTzVITJuKYxkL\/LgAUwu3r+QppYZ5JpDLLIGhIEiDPfNUzBGCcSIf+BinhgB0qMnnr+goQH\/\/2Q==",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039PA9J5JP\/F03N3SCFBDH\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03N3SCFBDH-fc9e8eb8fb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039PA9J5JP",
+        "ts": "1656767543.733109",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L4dPf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年はこういうのを作ってました！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年は10月末にやるので、ハロウィンっぽくやるのはありかなと個人的には思ってます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "みんなで自由に記入してね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "FA28376E-5A85-485C-9340-865C6120F753",
+        "thread_ts": "1656767298.775409",
+        "parent_user_id": "U039PA9J5JP",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "c2ce1da2-f54d-47e0-ae95-9516cf5877b4",
+            "type": "message",
+            "text": "<!channel> お疲れ様です。装飾担当の髙橋です。\n全体会議の告知を遮ってすみません。*↑の伝助は必ず入力してね！！*\n今年の学祭では、対面開催に向けて何か大きな装飾したいと思います！！\n例）モザイクアート、折り紙など。。\nそこでみんなに今年は何を作るかアイデアを募集します！！\n高校の時作ったものでもいいので何でも書いてほしいです！！金ならある:moneybag::sunglasses:\nグーグルフォームを作成したので、そこに書いてください:man-bowing:\n最後に全体会議の伝助の入力は必ずお願いします！！\n<https:\/\/forms.gle\/sACsydU7VRCE6dG89>",
+            "user": "U039PA9J5JP",
+            "ts": "1656767298.775409",
+            "team": "T038Z0K089K",
+            "attachments": [
+                {
+                    "from_url": "https:\/\/forms.gle\/sACsydU7VRCE6dG89",
+                    "image_url": "https:\/\/lh5.googleusercontent.com\/B2xsVoR2QYbMsPRWzgglXk5Ebhqg-IEEbt9RaMkrnF9nyZRdUMw0bm0t--HMWLkvgENAPhP3cCs",
+                    "image_width": 333,
+                    "image_height": 250,
+                    "image_bytes": 33092,
+                    "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                    "id": 1,
+                    "original_url": "https:\/\/forms.gle\/sACsydU7VRCE6dG89",
+                    "fallback": "Google Docs: 装飾でやりたいこと",
+                    "text": "装飾でやりたいことを募集します！！！ 遠慮なくどんどん書いてってください！！ex.)アーチ、モザイクアート アバウトでいいのでどんどん書いてほしいです！",
+                    "title": "装飾でやりたいこと",
+                    "title_link": "https:\/\/forms.gle\/sACsydU7VRCE6dG89",
+                    "service_name": "Google Docs"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "QhC",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " お疲れ様です。装飾担当の髙橋です。\n全体会議の告知を遮ってすみません。"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "↑の伝助は必ず入力してね！！",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n今年の学祭では、対面開催に向けて何か大きな装飾したいと思います！！\n例）モザイクアート、折り紙など。。\nそこでみんなに今年は何を作るかアイデアを募集します！！\n高校の時作ったものでもいいので何でも書いてほしいです！！金ならある"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "moneybag",
+                                    "unicode": "1f4b0"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sunglasses",
+                                    "unicode": "1f60e"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nグーグルフォームを作成したので、そこに書いてください"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "man-bowing",
+                                    "unicode": "1f647-200d-2642-fe0f"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n最後に全体会議の伝助の入力は必ずお願いします！！\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/forms.gle\/sACsydU7VRCE6dG89"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1656767298.775409",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1656767543.733109",
+            "reply_users": [
+                "U039PA9J5JP"
+            ],
+            "replies": [
+                {
+                    "user": "U039PA9J5JP",
+                    "ts": "1656767543.733109"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    },
+    {
+        "client_msg_id": "5ed88438-b812-4274-a7c6-a4b7c33110b5",
+        "type": "message",
+        "text": "おはようございます。\nレクリエーション課の布施です！\n6\/22のアンケートの結果により、BBQになりました！\n:fast_forward::parrot_conga::parrot_conga::parrot_conga::parrot_conga::parrot_conga::parrot_conga::parrot_conga::parrot_conga::parrot_conga::fast_forward:\n日程を決めるためにまだ伝助に記入してない方はお願いいたします。7\/6に日程を決めます:pray:\nよろしくお願いいたします！<https:\/\/densuke.biz\/list?cd=CuG2SHhU6rvq3A5X>",
+        "user": "U039RCZ4E04",
+        "ts": "1656791541.620019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1656791617.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=CuG2SHhU6rvq3A5X",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=CuG2SHhU6rvq3A5X",
+                "fallback": "伝助（BBQか球技大会）",
+                "title": "伝助（BBQか球技大会）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=CuG2SHhU6rvq3A5X",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+d30C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます。\nレクリエーション課の布施です！\n6\/22のアンケートの結果により、BBQになりました！\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fast_forward",
+                                "unicode": "23e9"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_conga"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "fast_forward",
+                                "unicode": "23e9"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n日程を決めるためにまだ伝助に記入してない方はお願いいたします。7\/6に日程を決めます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いいたします！"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=CuG2SHhU6rvq3A5X"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meat_on_bone",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0391RWR34N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ec69ea25-f62f-42ff-aeb4-c72bfeb10e32",
+        "type": "message",
+        "text": "広報課の三瓶です。\n\n企画書見て思ったんですが、パンフに特筆したいことがあれば、僕に言ってください。\n\n対面開催のほとんどの企画はパンフに記載しますが、例えば「開催場所が分かりにくいから、パンフに載せてほしい」などは言われないと気づけないのでので。。。\n\n他に「*企画紹介の画像を作ったから載せてほしい！*」とか「*文面はこうして！*」など、要望がありましたら、これも僕に言ってください。(全て採用するかは分かりませんが、考慮できますのでので。。。)",
+        "user": "U039RJU3V36",
+        "ts": "1656830950.995599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B7PF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "広報課の三瓶です。\n\n企画書見て思ったんですが、パンフに特筆したいことがあれば、僕に言ってください。\n\n対面開催のほとんどの企画はパンフに記載しますが、例えば「開催場所が分かりにくいから、パンフに載せてほしい」などは言われないと気づけないのでので。。。\n\n他に「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画紹介の画像を作ったから載せてほしい！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」とか「"
+                            },
+                            {
+                                "type": "text",
+                                "text": "文面はこうして！",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "」など、要望がありましたら、これも僕に言ってください。(全て採用するかは分かりませんが、考慮できますのでので。。。)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BVE9U552"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e68b32e8-39e3-4198-8a1d-3489799d979a",
+        "type": "message",
+        "text": "企画書にたまに「パンフレットに載せてもらう」とかありますが、企画書に書かれただけじゃ見逃します。言ってください。",
+        "user": "U039RJU3V36",
+        "ts": "1656831066.117759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UwQZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画書にたまに「パンフレットに載せてもらう」とかありますが、企画書に書かれただけじゃ見逃します。言ってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "red_circle",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

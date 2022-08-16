@@ -1,0 +1,221 @@
+[
+    {
+        "client_msg_id": "0d9791b6-db1d-46c5-9434-6d51242cc8ef",
+        "type": "message",
+        "text": "これはリマインダーです\nサークル代表各位\n\n会津大学学園祭実行委員会の渡辺涼太です。\n\n*ステージ参加希望団体への説明会は7月6日17時からM７教室にて開催いたします。*\nステージ参加希望団体は必ず参加してください。\nよろしくお願いいたします。\n\n--\n-------------------------------------------------------\n\n会津大学　コンピュータ理工学部\n学部２年\n学園祭実行委員会\n対応部　s1290148　渡辺涼太\nEmail:  <mailto:s1290148@u-aizu.ac.jp|s1290148@u-aizu.ac.jp>\n-------------------------------------------------------",
+        "user": "U039V55S998",
+        "ts": "1656912688.691339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656913768.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FM2FJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これはリマインダーです\nサークル代表各位\n\n会津大学学園祭実行委員会の渡辺涼太です。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ステージ参加希望団体への説明会は7月6日17時からM７教室にて開催いたします。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nステージ参加希望団体は必ず参加してください。\nよろしくお願いいたします。\n\n--\n-------------------------------------------------------\n\n会津大学　コンピュータ理工学部\n学部２年\n学園祭実行委員会\n対応部　s1290148　渡辺涼太\nEmail:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290148@u-aizu.ac.jp",
+                                "text": "s1290148@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656912688.691339",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1656913776.530589",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656913187.330309"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656913776.530589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "898a0e05-c25c-43e0-8664-9fff1c1adb55",
+        "type": "message",
+        "text": "メールチェックお願いします",
+        "user": "U039V55S998",
+        "ts": "1656912969.723029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6hA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yoki",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9d0941f8-60d2-4ffc-9c6e-9f29803fbabb",
+        "type": "message",
+        "text": "学園祭実行委員→学園祭実行委員会\nステージ説明会は→ステージ参加希望団体への説明会を\n7月6日の９限です→7月6日17:00からM7講義室にて開催いたします。\n\nあとは「必ず参加してほしい」という旨を入れてもらえると",
+        "user": "U0399UH8BKQ",
+        "ts": "1656913187.330309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UcdXV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学園祭実行委員→学園祭実行委員会\nステージ説明会は→ステージ参加希望団体への説明会を\n7月6日の９限です→7月6日17:00からM7講義室にて開催いたします。\n\nあとは「必ず参加してほしい」という旨を入れてもらえると"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656912688.691339",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f9c49390-ed8e-4e34-8f7e-8d95181c3acc",
+        "type": "message",
+        "text": "編集しました",
+        "user": "U039V55S998",
+        "ts": "1656913776.530589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5MDS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656912688.691339",
+        "parent_user_id": "U039V55S998"
+    }
+]

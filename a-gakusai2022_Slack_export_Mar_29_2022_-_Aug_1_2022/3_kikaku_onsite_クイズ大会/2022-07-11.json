@@ -1,0 +1,101 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657526824.752749",
+        "user": "U03GZQ9T32R",
+        "text": "<@U03GZQ9T32R>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "4a78baea-3b97-4961-b136-3ce130c009fa",
+        "type": "message",
+        "text": "<!channel> リアルスプラの企画がなくなったので、リアルスプラから後藤翔が移ってきました。\n　仲良くやっていきましょう!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1657526922.384309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pi3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " リアルスプラの企画がなくなったので、リアルスプラから後藤翔が移ってきました。\n　仲良くやっていきましょう!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e0b52955-a790-4c7e-9b57-b16f50fc473e",
+        "type": "message",
+        "text": "よろしくお願いします!",
+        "user": "U03GZQ9T32R",
+        "ts": "1657526934.949319",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kC8B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03A1N54PJM",
+                    "U0391RWR34N",
+                    "U03K8CWK5LK"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

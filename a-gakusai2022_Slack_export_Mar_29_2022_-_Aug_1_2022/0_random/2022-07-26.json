@@ -1,0 +1,337 @@
+[
+    {
+        "client_msg_id": "156048d6-a5da-4d6c-a0db-1485e95eb5f9",
+        "type": "message",
+        "text": "開けた\n10:40頃までいます。誰か来てください",
+        "user": "U039RJU3V36",
+        "ts": "1658883099.669449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dkXmc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開けた\n10:40頃までいます。誰か来てください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658883099.669449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658883147.445919",
+        "reply_users": [
+            "U039P4NSKM1"
+        ],
+        "replies": [
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1658883147.445919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ce86d9a8-5ee7-45aa-a983-542130af1598",
+        "type": "message",
+        "text": "もうちょっとしたら行きます",
+        "user": "U039P4NSKM1",
+        "ts": "1658883147.445919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mrXl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "もうちょっとしたら行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658883099.669449",
+        "parent_user_id": "U039RJU3V36",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039RJU3V36"
+                ],
+                "count": 1
+            },
+            {
+                "name": "saiko",
+                "users": [
+                    "U039RJU3V36"
+                ],
+                "count": 1
+            },
+            {
+                "name": "engel_crazymove",
+                "users": [
+                    "U039RJU3V36"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039RJU3V36"
+                ],
+                "count": 1
+            },
+            {
+                "name": "catshake",
+                "users": [
+                    "U039RJU3V36"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sleeping",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> 【人員募集】お疲れ様です宮崎です。ツリーイングの体験参加者を募集します！ツリーイングっていうのは簡単に言えばロープを使ったお堅い木登りになります。\n8月10日の昼休み。夏休み初日ですね。添付した画像にも書いてある通り、計4名を募りますので参加希望の方は僕に直接声を掛けるかDM,リプライからお願いします！",
+        "files": [
+            {
+                "id": "F03RHNE11HP",
+                "created": 1658892211,
+                "timestamp": 1658892211,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03901B3W69",
+                "editable": false,
+                "size": 21405,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03RHNE11HP\/image.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03RHNE11HP\/download\/image.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHNE11HP-37a79c4848\/image_64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHNE11HP-37a79c4848\/image_80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHNE11HP-37a79c4848\/image_360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 159,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHNE11HP-37a79c4848\/image_160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "original_w": 461,
+                "original_h": 204,
+                "thumb_tiny": "AwAVADC\/ySeT+ZoGfU5\/Gl3H\/IoDN\/kUAANGCw4J\/OgE\/wB4flS7j6\/pQAgDg9vzp4zjnrTQ3rn8qcDmgBmzknjn2pdnv+lOooAZ5Y9vyFKEH+RTqKAGlOMZx+FKFwev6UtFAH\/\/2Q==",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03901B3W69\/F03RHNE11HP\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03RHNE11HP-4e96847f2e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03901B3W69",
+        "display_as_bot": false,
+        "ts": "1658892334.637639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RznpE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 【人員募集】お疲れ様です宮崎です。ツリーイングの体験参加者を募集します！ツリーイングっていうのは簡単に言えばロープを使ったお堅い木登りになります。\n8月10日の昼休み。夏休み初日ですね。添付した画像にも書いてある通り、計4名を募りますので参加希望の方は僕に直接声を掛けるかDM,リプライからお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a77c7933-45de-42e0-b651-448fada46340",
+        "reactions": [
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039WPGBPDH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart_eyes",
+                "users": [
+                    "U03JVEZF16K"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039LGX8MN1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_bouncing",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "↑補足\nツリーイングってのはこんな感じのやつです。\n3年前に自分もやりましたが、めちゃくちゃ楽しいです。",
+        "files": [
+            {
+                "id": "F03QYFHN0HL",
+                "created": 1658892643,
+                "timestamp": 1658892643,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0391RWR34N",
+                "editable": false,
+                "size": 2803277,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QYFHN0HL\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QYFHN0HL\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QYFHN0HL-b26e79e97c\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACRrO3BBBBOfoada\/vbhvM\/hXHPanXKKCNjDBXqDVaFyBI+ecUhFl3MKuVwTwOR7VBGhExBJwg5PpSPIXCjJ7saSEF3KkkKeWx3pjLCos43l2A6KAM8Uv2aP\/no\/\/fJpDLtOFbA9AucUnnt\/fb\/vilcBJUABO3oOoFVc4Vh61cBdnZQ2AeoNVpl2swHY4oARQQrMeBwKkhLBdq9W5J9Kizu+Xt1+tWYw6DavJYZIHagB4kWMbQoOPQ0eev8Ac\/Wnqw2j5B+VG4f3F\/IUCIYgDOfm5FRT481ucjJqQMA+4gEn+HOKgc5c0DFiHOferEYkB3t8oHA561CDtXIJBPp6U9542UDay4PP0oAtLEHUMHBz1zS+R\/tL+dVFnCrgAkUv2n\/ZP5UXA\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0391RWR34N\/F03QYFHN0HL\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QYFHN0HL-3b396b612c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0391RWR34N",
+        "display_as_bot": false,
+        "ts": "1658892650.911389",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UooP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑補足\nツリーイングってのはこんな感じのやつです。\n3年前に自分もやりましたが、めちゃくちゃ楽しいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "55FDCD2D-007C-4930-B8B3-84B7364D0ACA",
+        "reactions": [
+            {
+                "name": "christmas_tree",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039LGX8MN1",
+                    "U03D0L4BEJU",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

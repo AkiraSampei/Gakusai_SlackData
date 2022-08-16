@@ -1,0 +1,763 @@
+[
+    {
+        "client_msg_id": "35486cf2-c7c2-4627-b69d-86bc7468ebc4",
+        "type": "message",
+        "text": "<https:\/\/spicekikaku.jimdofree.com\/>\nコチラに例年ステージやテントの設営を依頼しているようです。今年度も連絡したいと考えていますが、メールを書いてよろしいでしょうか？",
+        "user": "U039V55S998",
+        "ts": "1655778476.385459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/spicekikaku.jimdofree.com\/",
+                "image_url": "https:\/\/image.jimcdn.com\/app\/cms\/image\/transf\/dimension=4096x4096:format=jpg\/path\/s58dbcfd9b486ef83\/image\/ife93b83fcda05517\/version\/1650260746\/image.jpg",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 1654816,
+                "service_icon": "https:\/\/u.jimcdn.com\/cms\/o\/s58dbcfd9b486ef83\/img\/favicon.png?t=1417747734",
+                "id": 1,
+                "original_url": "https:\/\/spicekikaku.jimdofree.com\/",
+                "fallback": "会津のイベント会社　: (有)スパイス企画",
+                "text": "おかげさまで創業30年。福島県会津地域でがんばるイベント会社です！催事企画・設営・運営、用品販売・レンタル等々…お気軽にご相談ください！",
+                "title": "(有)スパイス企画",
+                "title_link": "https:\/\/spicekikaku.jimdofree.com\/",
+                "service_name": "会津のイベント会社　"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZBlo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/spicekikaku.jimdofree.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nコチラに例年ステージやテントの設営を依頼しているようです。今年度も連絡したいと考えていますが、メールを書いてよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "reply_count": 12,
+        "reply_users_count": 5,
+        "latest_reply": "1655781275.292019",
+        "reply_users": [
+            "U0394PQ44FL",
+            "U039V55S998",
+            "U0391RWR34N",
+            "U039PA9J5JP",
+            "U039RCZ4E04"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655778793.169449"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655778884.880349"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655778923.154829"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655778955.075269"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655779053.425339"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1655780219.589469"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655780391.149669"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655780408.282029"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655780455.577779"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1655780528.320129"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1655780747.750059"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655781275.292019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655781275.292019"
+    },
+    {
+        "client_msg_id": "e82cf388-c604-4a9e-b709-47e70e0fd7e5",
+        "type": "message",
+        "text": "または、電話の方が良いですか？",
+        "user": "U039V55S998",
+        "ts": "1655778499.463479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PwMb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "または、電話の方が良いですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778499.463479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655780168.552829",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655780168.552829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "ACBCCB64-5914-4C09-B18D-BC7E66C8A45C",
+        "type": "message",
+        "text": "ステージもスパイスなんでしたっけ？",
+        "user": "U0394PQ44FL",
+        "ts": "1655778793.169449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HzwxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ステージもスパイス"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "した"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "け？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "d275664e-4379-427b-8ea0-2f4e5ecc603b",
+        "type": "message",
+        "text": "```スパイスに申請するもの：\n\t・カーペット（黒）\n\t\t1.8m * 10m 　\t３個\n\t\t1.7m * 1.2m 　\t１個\n\t・テント2k3k６脚　\t１個\n\t・テント1.5k2k６脚\t１個\n\t・テントの横幕７問　　　２個\n\t・土嚢　　　　　　　　　２４個```\nコレ違いますか？",
+        "user": "U039V55S998",
+        "ts": "1655778884.880349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jnb",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スパイスに申請するもの：\n\t・カーペット（黒）\n\t\t1.8m * 10m 　\t３個\n\t\t1.7m * 1.2m 　\t１個\n\t・テント2k3k６脚　\t１個\n\t・テント1.5k2k６脚\t１個\n\t・テントの横幕７問　　　２個\n\t・土嚢　　　　　　　　　２４個"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コレ違いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "bdebf5ca-45c8-41c2-aed0-be4071d0a9bd",
+        "type": "message",
+        "text": "ちょっと書き方悪かったですね、\n要はスパイスにメール書きましょうかってことです",
+        "user": "U039V55S998",
+        "ts": "1655778923.154829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AC54x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと書き方悪かったですね、\n要はスパイスにメール書きましょうかってことです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "c094bd50-153b-4eb2-85ee-14dab0658f35",
+        "type": "message",
+        "text": "前置きは無視して良いです",
+        "user": "U039V55S998",
+        "ts": "1655778955.075269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "weNAb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前置きは無視して良いです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "0DA0D795-95D6-4D8E-9064-1C0A7B82413D",
+        "type": "message",
+        "text": "了解です",
+        "user": "U0394PQ44FL",
+        "ts": "1655779053.425339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y+WL8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "0DA15A63-3674-4AFB-8402-44FFBAC6B069",
+        "type": "message",
+        "text": "去年のSlack見たら泉本さんが「急いでるなら電話か直接行ったほうが良いよ」って言ってたので(完全別件だけど)急ぎなら電話のほうがいいかと。\n去年はメールでやりとりしてたと思いますが、一昨年から動いてたので一旦電話した方がいいかも。",
+        "user": "U0399UH8BKQ",
+        "ts": "1655780168.552829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0S81",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年のSlack見たら泉本さんが「急いでるなら電話か直接行ったほうが良いよ」って言ってたので(完全別件だけど)急ぎなら電話のほうがいいかと。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "去年はメールでやりとりしてたと思いますが、一昨年から動いてたので一旦電話した方がいいかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778499.463479",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "A522529A-CA11-4013-B18E-B9657B51FD2D",
+        "type": "message",
+        "text": "ステージ課と「『今後（要はメール講習終わった後）』誰がメール出して連絡取るのか」を決めておいてね　それが出来てりゃ連絡してOK.",
+        "user": "U0391RWR34N",
+        "ts": "1655780219.589469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G1hK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ステージ課と「『今後（要はメール講習終わった後）』誰がメール出して連絡取るのか」を決めておいてね　それが出来てりゃ連絡してOK."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "b1861946-630c-40a5-a9d3-df9328e38fc2",
+        "type": "message",
+        "text": "一年生にメール出しはやってもらって指示は一応私がやりたいと考えますがどうでしょうか？<@U039PA9J5JP> <@U0391RWR34N>",
+        "user": "U039V55S998",
+        "ts": "1655780391.149669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C9ySW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一年生にメール出しはやってもらって指示は一応私がやりたいと考えますがどうでしょうか？"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039PA9J5JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0391RWR34N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039RCZ4E04",
+                    "U0391RWR34N"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1d63a57f-974a-43b9-8715-b2f28559ecb7",
+        "type": "message",
+        "text": "<@U039RCZ4E04>",
+        "user": "U039V55S998",
+        "ts": "1655780408.282029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RCZ4E04"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "060c3484-687e-4c55-a5c2-6a61b7db5124",
+        "type": "message",
+        "text": "メール出しはステージ課の子かなと考えてますがどうでしょうか？",
+        "user": "U039V55S998",
+        "ts": "1655780455.577779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d2Fb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メール出しはステージ課の子かなと考えてますがどうでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "3F1F310D-69B2-4E4E-9C64-C13EE33BD5F1",
+        "type": "message",
+        "text": "お願いします",
+        "user": "U039PA9J5JP",
+        "ts": "1655780528.320129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "C763AA4E-FDBC-4894-8CCC-5631CCE690B5",
+        "type": "message",
+        "text": "2年の3人ともが了承・把握出来てるならOK。1年の子に任せましょう。\n（メールの書き方については、資料が必要だったら昨年の自分のヤツが残ってるから言って〜）",
+        "user": "U0391RWR34N",
+        "ts": "1655780747.750059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0vEX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2年の3人ともが了承・把握出来てるならOK。1年の子に任せましょう。\n（メールの書き方については、資料が必要だったら昨年の自分のヤツが残ってるから言って〜）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "B44D16FC-BE6F-4C38-BA9F-CFE53C562E8A",
+        "type": "message",
+        "text": "一年生が大丈夫なのかきちんと確認して\n大丈夫なのであれば任せてもいいと思う\nそこは対応部長さんの判断で",
+        "user": "U039RCZ4E04",
+        "ts": "1655781275.292019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8scA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一年生が大丈夫なのかきちんと確認して\n大丈夫なのであれば任せてもいいと思う\nそこは対応部長さんの判断で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655778476.385459",
+        "parent_user_id": "U039V55S998"
+    }
+]

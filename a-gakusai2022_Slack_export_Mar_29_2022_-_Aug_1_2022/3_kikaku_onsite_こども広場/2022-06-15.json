@@ -1,0 +1,318 @@
+[
+    {
+        "client_msg_id": "66dba77b-e314-48c3-b3d2-aee5b285e670",
+        "type": "message",
+        "text": "<!channel>こんにちは。3年の大平です！よろしくお願いします:eyes:\n子供広場の企画書作成を行うので、リアクションで空いてる日時を教えてください！！\n1. (金)昼休み\n2. (土)昼\n3. (土)夜\n4. (日)昼\n5. (日)夜\n6. どれも不可:duck_cute_4:",
+        "user": "U039BUU0GAH",
+        "ts": "1655292995.794759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ijq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こんにちは。3年の大平です！よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n子供広場の企画書作成を行うので、リアクションで空いてる日時を教えてください！！\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(金)昼休み"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(土)昼"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(土)夜"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(日)昼"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "(日)夜"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "どれも不可"
+                                    },
+                                    {
+                                        "type": "emoji",
+                                        "name": "duck_cute_4"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC",
+                    "U03KB4QMFHR"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "three",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "four",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "five",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eeb813e2-8c86-4130-9b16-0c2153576663",
+        "type": "message",
+        "text": "土日の昼・夜の時間は臨機応変に調整したいと思います",
+        "user": "U039BUU0GAH",
+        "ts": "1655293089.054629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aSpbG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "土日の昼・夜の時間は臨機応変に調整したいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0af1d9f8-9bec-4aff-8e13-4cd69f23ac0a",
+        "type": "message",
+        "text": "*明日まで*に回答お願いします！",
+        "user": "U039BUU0GAH",
+        "ts": "1655295980.621989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VmQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日まで",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に回答お願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dce52773-728b-4943-86fb-71b9b44c1115",
+        "type": "message",
+        "text": "<!channel> *明日金曜日の昼休*みに、学祭室でやりましょう。\n去年の参考にしながらやるのでそんなに時間はかからないはず！",
+        "user": "U039BUU0GAH",
+        "ts": "1655354504.596549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039BUU0GAH",
+            "ts": "1655354515.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wyt2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日金曜日の昼休",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "みに、学祭室でやりましょう。\n去年の参考にしながらやるのでそんなに時間はかからないはず！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

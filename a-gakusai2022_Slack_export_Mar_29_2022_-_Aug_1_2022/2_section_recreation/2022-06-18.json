@@ -1,0 +1,351 @@
+[
+    {
+        "client_msg_id": "3B6903BE-AA69-4F75-BCF6-FF8BB25AFE05",
+        "type": "message",
+        "text": "<@U039M3UAXFG> \nBBQの交通手段って\n一人一人把握してた方がいいですか？",
+        "user": "U039RCZ4E04",
+        "ts": "1655604033.495269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vBg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039M3UAXFG"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nBBQの交通手段って\n一人一人把握してた方がいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "railway_car",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            },
+            {
+                "name": "car",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            },
+            {
+                "name": "bike",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            },
+            {
+                "name": "racing_motorcycle",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            },
+            {
+                "name": "passenger_ship",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1394C338-D72E-45E9-82F1-380C2FAD0DC0",
+        "type": "message",
+        "text": "うん、車の人は把握した方がいいかな",
+        "user": "U039M3UAXFG",
+        "ts": "1655604908.604679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RarBC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うん、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "車の人は把握した方がいいかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "13B672F2-C899-4846-AB41-A0F9540C4A87",
+        "type": "message",
+        "text": "去年はそうしてた",
+        "user": "U039M3UAXFG",
+        "ts": "1655604913.580469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wZy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そうしてた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "086D112E-80E3-40A2-92CA-99A68B5D1AE1",
+        "type": "message",
+        "text": "了解です\n今日中にGoogleフォームでアンケートできるようにします",
+        "user": "U039RCZ4E04",
+        "ts": "1655607214.245229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X44W4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です\n今日中にGoogleフォームでアンケートできるようにします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B2B00765-96F9-450A-AEB3-9696F1D90AAD",
+        "type": "message",
+        "text": "交通手段聞くだけならフォーム作らんでもSlackでやっちゃってもいいと思うよ:+1:",
+        "user": "U039M3UAXFG",
+        "ts": "1655608658.805059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IXOGY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "交通手段聞くだけ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "フォーム作らんでも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Slackでや"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ち"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ゃっ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ても"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いいと思う"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655608658.805059",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655609323.684799",
+        "reply_users": [
+            "U039RCZ4E04"
+        ],
+        "replies": [
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655609323.684799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "17DEBDC6-E565-4E84-82F3-62D4E57FE0AD",
+        "type": "message",
+        "text": "わかりました:ok_hand:",
+        "user": "U039RCZ4E04",
+        "ts": "1655609323.684799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5rPfq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655608658.805059",
+        "parent_user_id": "U039M3UAXFG"
+    }
+]

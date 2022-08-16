@@ -1,0 +1,389 @@
+[
+    {
+        "client_msg_id": "9684fac8-f4b8-41e7-92e5-ed1d82113542",
+        "type": "message",
+        "text": "振り返り・引き継ぎがしやすいように、去年同様スレッドを以下につくります。",
+        "user": "U039RJU3V36",
+        "ts": "1656381663.868939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OiW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "振り返り・引き継ぎがしやすいように、去年同様スレッドを以下につくります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c8e81c0-386f-4576-863c-a63c35667f3c",
+        "type": "message",
+        "text": "[活動記録]広報課全体",
+        "user": "U039RJU3V36",
+        "ts": "1656381679.150529",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FM0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[活動記録]広報課全体"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381679.150529",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1657245811.529509",
+        "reply_users": [
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656382137.162269"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1657245811.529509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "8bbfad2a-d4b7-417b-88ae-2c659b067d29",
+        "type": "message",
+        "text": "[活動記録]ポスター・パンフレット（三洋印刷）",
+        "user": "U039RJU3V36",
+        "ts": "1656381700.216969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eB7Be",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[活動記録]ポスター・パンフレット（三洋印刷）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381700.216969",
+        "reply_count": 6,
+        "reply_users_count": 1,
+        "latest_reply": "1658814835.662359",
+        "reply_users": [
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656382384.895649"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656382630.095149"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656582265.758639"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656583119.677649"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1658063959.360659"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1658814835.662359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "89ead9d0-2d72-4994-b5e6-98e89af9a66f",
+        "type": "message",
+        "text": "[活動記録]雑誌関係",
+        "user": "U039RJU3V36",
+        "ts": "1656381709.854409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=oGi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[活動記録]雑誌関係"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381709.854409",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1657976730.747729",
+        "reply_users": [
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U039RJU3V36",
+                "ts": "1657088988.052479"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1657094744.635059"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1657976730.747729"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7a2681e6-cbcb-42e8-8a57-8690d588be25",
+        "type": "message",
+        "text": "6月中旬～下旬\nAdobeのコンプリートプラン1年契約\/学生プラン\/コンビニ払い（約26,000円）を購入。",
+        "user": "U039RJU3V36",
+        "ts": "1656382137.162269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CerVQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6月中旬～下旬\nAdobeのコンプリートプラン1年契約\/学生プラン\/コンビニ払い（約26,000円）を購入。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381679.150529",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "49af4af0-c621-482a-ae17-651e6b5ec55e",
+        "type": "message",
+        "text": "7月上旬までには三洋印刷との打ち合わせをしたかったため、6月27日(月)にメール送信。\n```件名:[学祭]ポスター・パンフレット打ち合わせのお願い\n三洋印刷株式会社営業部　長谷川様\n\n\nお世話になっております。会津大学学園祭実行委員会の三瓶です。\n\n昨年度は、ポスターとチラシの依頼を引き受けていただき、ありがとうございました。\n\n\nこの度、本年度も貴社にポスターやパンフレットの印刷をご依頼したく連絡をいたしました。\n\nつきましては、こちらの都合で申し訳ございませんが、今週の水曜日か木曜日に打ち合わせをしたいと考えております。難しいようでしたら、来週以降でご都合の良い日時、場所を教えていただけると幸いです。\n\nまた、対面での打ち合わせを考えていますが、現在のコロナ情勢を踏まえ、オンラインでの打ち合わせも可能です。\n\n\nご返信よろしくお願いします。\n\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n\n会津大学学園祭実行委員会　広報担当　三瓶晃\n\n学園祭： &lt; a-gakusai@u-aizu.ac.jp &gt;\n\nMail： &lt; s1290238@u-aizu.ac.jp &gt;\n\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;- ```\n6月30日に打ち合わせることになった。",
+        "user": "U039RJU3V36",
+        "ts": "1656382384.895649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1656582311.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nas1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "7月上旬までには三洋印刷との打ち合わせをしたかったため、6月27日(月)にメール送信。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "件名:[学祭]ポスター・パンフレット打ち合わせのお願い\n三洋印刷株式会社営業部　長谷川様\n\n\nお世話になっております。会津大学学園祭実行委員会の三瓶です。\n\n昨年度は、ポスターとチラシの依頼を引き受けていただき、ありがとうございました。\n\n\nこの度、本年度も貴社にポスターやパンフレットの印刷をご依頼したく連絡をいたしました。\n\nつきましては、こちらの都合で申し訳ございませんが、今週の水曜日か木曜日に打ち合わせをしたいと考えております。難しいようでしたら、来週以降でご都合の良い日時、場所を教えていただけると幸いです。\n\nまた、対面での打ち合わせを考えていますが、現在のコロナ情勢を踏まえ、オンラインでの打ち合わせも可能です。\n\n\nご返信よろしくお願いします。\n\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n\n会津大学学園祭実行委員会　広報担当　三瓶晃\n\n学園祭： < a-gakusai@u-aizu.ac.jp >\n\nMail： < s1290238@u-aizu.ac.jp >\n\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>- "
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "6月30日に打ち合わせることになった。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381700.216969",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "6923c514-820b-449d-b753-6ddb99514b32",
+        "type": "message",
+        "text": "三洋印刷長谷川様 --&gt; <mailto:hasegawa@aizu-sanyo.com|hasegawa@aizu-sanyo.com>",
+        "user": "U039RJU3V36",
+        "ts": "1656382630.095149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L4t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "三洋印刷長谷川様 --> "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:hasegawa@aizu-sanyo.com",
+                                "text": "hasegawa@aizu-sanyo.com",
+                                "unsafe": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381700.216969",
+        "parent_user_id": "U039RJU3V36"
+    }
+]

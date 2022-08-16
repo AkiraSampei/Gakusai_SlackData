@@ -1,0 +1,106 @@
+[
+    {
+        "client_msg_id": "d1b9f6a7-992d-44a5-954b-8ec83f976a46",
+        "type": "message",
+        "text": "<!channel> こんにちは、企画部長の駒形です。\n　今週は6\/22(水曜日)からオンライン授業の期間に入ったことによって、顔合わせや企画書作成が本来の予定通りいかなかった企画が多かったと思います。しかし、皆さんのおかげで、無事企画書を予定通り作成することができました。ご協力ありがとうございます:man-bowing::skin-tone-2:\n　本来、来週は企画書添削会議を対面でやる予定でした。しかし、コロナの影響で対面でやることは厳しいです。そこで、*企画書添削会議はzoom*を通して開こうと考えています。日程に関しては一年生の授業を配慮して、*来週の7\/2(土曜日)もしくは7\/3(日曜日)のどちらか片方*に行いたいと考えています。日程を決めたいので、できれば*来週木曜日*までに下記の伝助の方に記入をお願いします:man-bowing:\n\n```<https:\/\/densuke.biz\/list?cd=3NpJG3L2E6BXaL6E>```",
+        "user": "U03BM52KMEC",
+        "ts": "1656148827.500669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ch0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんにちは、企画部長の駒形です。\n　今週は6\/22(水曜日)からオンライン授業の期間に入ったことによって、顔合わせや企画書作成が本来の予定通りいかなかった企画が多かったと思います。しかし、皆さんのおかげで、無事企画書を予定通り作成することができました。ご協力ありがとうございます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　本来、来週は企画書添削会議を対面でやる予定でした。しかし、コロナの影響で対面でやることは厳しいです。そこで、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書添削会議はzoom",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を通して開こうと考えています。日程に関しては一年生の授業を配慮して、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来週の7\/2(土曜日)もしくは7\/3(日曜日)のどちらか片方",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に行いたいと考えています。日程を決めたいので、できれば"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来週木曜日",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までに下記の伝助の方に記入をお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=3NpJG3L2E6BXaL6E"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

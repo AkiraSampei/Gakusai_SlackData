@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "31a033e3-fb53-40ec-bd16-ff4740ff30b8",
+        "type": "message",
+        "text": "企画部会議についてなんですけど、明日の13:00から学祭室で行いたいと思います。対面でやれるときにやって情報共有をしたいので参加のほうをお願いします。",
+        "user": "U03BM52KMEC",
+        "ts": "1653119629.216559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VyN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画部会議についてなんですけど、明日の13:00から学祭室で行いたいと思います。対面でやれるときにやって情報共有をしたいので参加のほうをお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

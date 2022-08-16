@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "90994909-c769-49ad-ae95-f4a719a9b62a",
+        "type": "message",
+        "text": "これは広報課トッピングとして考えてるのですが、……\n\n誰かYouTube広告作りたい人いますか？？",
+        "user": "U039RJU3V36",
+        "ts": "1653380378.367609",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1653380417.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l1YT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これは広報課トッピングとして考えてるのですが、……\n\n誰かYouTube広告作りたい人いますか？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

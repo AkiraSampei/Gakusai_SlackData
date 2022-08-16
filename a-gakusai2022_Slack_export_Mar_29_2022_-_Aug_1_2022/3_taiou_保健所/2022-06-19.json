@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655684192.509619",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655695729.312399",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「3_taiou_hokenjo」から「3_taiou_保健所」に変更しました",
+        "old_name": "3_taiou_hokenjo",
+        "name": "3_taiou_保健所"
+    }
+]

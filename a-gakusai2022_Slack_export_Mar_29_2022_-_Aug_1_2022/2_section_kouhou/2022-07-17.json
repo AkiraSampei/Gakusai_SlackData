@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "d939f95e-03e1-433d-855c-a528e6f945ec",
+        "type": "message",
+        "text": "2019パンフ\n<https:\/\/drive.google.com\/drive\/folders\/12bu5OvbTBOKebN1f68-cuHx2F-s1MTBr|https:\/\/drive.google.com\/drive\/folders\/12bu5OvbTBOKebN1f68-cuHx2F-s1MTBr>",
+        "user": "U039RJU3V36",
+        "ts": "1658063959.360659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1658063977.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Blv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2019パンフ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/12bu5OvbTBOKebN1f68-cuHx2F-s1MTBr",
+                                "text": "https:\/\/drive.google.com\/drive\/folders\/12bu5OvbTBOKebN1f68-cuHx2F-s1MTBr"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381700.216969",
+        "parent_user_id": "U039RJU3V36"
+    }
+]

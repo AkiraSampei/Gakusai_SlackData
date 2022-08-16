@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1649828391.469969",
+        "user": "U039EF90649",
+        "text": "チャンネル名を「department_kikaku」から「1_department_kikaku」に変更しました",
+        "old_name": "department_kikaku",
+        "name": "1_department_kikaku"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "client_msg_id": "FF191063-2349-4AD5-B6E0-4A524722A26E",
+        "type": "message",
+        "text": "球戯舞　佐藤様\n（cc.緊急連絡先　野村様）\n\nお世話になっております。\n学園祭実行委員会対応部の津久井です。\n\n先日ご提出いただいた申請書について、訂正していただきたい箇所がございましたので、連絡いたしました。\n\n⚪︎平面図の記載が正しくされていない。\n\n不備の訂正がございますので、7月21日（木）の12時45分に学祭室にお越しください。\nなお、お越しの際は印鑑の持参をよろしくお願いいたします。\n日時の都合が悪い場合は、ご希望の日時をお知らせください。\n\nよろしくお願いいたします。\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部1年\n学園祭実行委員会　\n対応部　s1300079　津久井羅偉\nEmail:  <mailto:s1300079@u-aizu.ac.jp|s1300079@u-aizu.ac.jp>\n-------------------------------------------------------",
+        "user": "U03CUPE920G",
+        "ts": "1658193806.413309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1uM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "球戯舞　佐藤様\n（cc.緊急連絡先　野村様）\n\nお世話になっております。\n学園祭実行委員会対応部の津久井です。\n\n先日ご提出いただいた申請書について、訂正していただきたい箇所がございましたので、連絡いたしました。\n\n⚪︎平面図の記載が正しくされていない。\n\n不備の訂正がございますので、7月21日（木）の12時45分に学祭室にお越しください。\nなお、お越しの際は印鑑の持参をよろしくお願いいたします。\n日時の都合が悪い場合は、ご希望の日時をお知らせください。\n\nよろしくお願いいたします。\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部1年\n学園祭実行委員会　\n対応部　s1300079　津久井羅偉\nEmail:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300079@u-aizu.ac.jp",
+                                "text": "s1300079@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78FECF4A-CCB2-44AD-963F-B44E7F966923",
+        "type": "message",
+        "text": "そのメールは同じ内容で再度送る予定です（日にちのみ変更）。\nチェックお願いします。",
+        "user": "U03CUPE920G",
+        "ts": "1658193833.126549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CUPE920G",
+            "ts": "1658195015.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Dg+j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そのメールは同じ内容で再度送る予定です（日にちのみ変更）。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "チェックお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,796 @@
+[
+    {
+        "client_msg_id": "fd48fde9-7727-4d24-bca3-b3130542ae5a",
+        "type": "message",
+        "text": "↑↑↑↑↑\n全然急ぎじゃないですけど、メールチェックいただきたいです。",
+        "user": "U039RJU3V36",
+        "ts": "1656750798.543659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kt51",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑↑↑↑↑\n全然急ぎじゃないですけど、メールチェックいただきたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DE5138BD-7183-436B-956D-0D189086ADE7",
+        "type": "message",
+        "text": "以前は依頼していた旨を伝えると、色々教えてもらえるかも",
+        "user": "U0399UH8BKQ",
+        "ts": "1656752718.307059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0399UH8BKQ",
+            "ts": "1656757302.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOL2K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "以前は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "依頼していた旨を伝えると、色々教えてもらえるかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "14b55bfb-1bed-4d82-87ec-e50bd05bdef4",
+        "type": "message",
+        "text": "<@U0399UH8BKQ> もう１社についてもなんですが、本当に依頼して、実際に発行されたかどうか不安なんですよね…",
+        "user": "U039RJU3V36",
+        "ts": "1656754242.468269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8vpj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0399UH8BKQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " もう１社についてもなんですが、本当に依頼して、実際に発行されたかどうか不安なんですよね…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "9B9A9E02-FAB0-4A25-9AF6-69A0D65F9A8F",
+        "type": "message",
+        "text": "引き継ぎ書類が残ってるってことは依頼してたってことでしょう",
+        "user": "U0399UH8BKQ",
+        "ts": "1656756775.866339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xuml1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "引き継ぎ書類が残ってるってことは依頼してたってことでしょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "9e11aa8d-ddc9-4f76-9c0d-da456378dbd7",
+        "type": "message",
+        "text": "<@U0399UH8BKQ> 引継ぎ書類って何ですか？もらってませんが…",
+        "user": "U039RJU3V36",
+        "ts": "1656756817.161499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1656756829.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fiW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0399UH8BKQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 引継ぎ書類って何ですか？もらってませんが…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "7482A914-B8EF-416D-AD8D-9898AD726FF7",
+        "type": "message",
+        "text": "学祭driveの中にあります",
+        "user": "U0399UH8BKQ",
+        "ts": "1656756855.456149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pOO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭driveの中にあります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "bbd959a0-2bca-47fc-889c-59abd501945f",
+        "type": "message",
+        "text": "あったんですか…",
+        "user": "U039RJU3V36",
+        "ts": "1656756888.910789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=pir",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あったんですか…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "5f251dc3-27ab-4aa0-9b2c-cb0c7b6e7b94",
+        "type": "message",
+        "text": "リンクください",
+        "user": "U039RJU3V36",
+        "ts": "1656756898.456069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/OS3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リンクください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "AB32ED70-F0A3-4D37-B770-28C5C5BDEFD9",
+        "type": "message",
+        "text": "場所教えてたんだけどな…",
+        "user": "U0399UH8BKQ",
+        "ts": "1656757079.773889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wWhI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "場所教えてたんだけどな…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "05a88830-dd2b-4306-8238-1a5d50f85561",
+        "type": "message",
+        "text": "えっ",
+        "user": "U039RJU3V36",
+        "ts": "1656757091.820209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "えっ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "1aab6bad-203c-4ad4-a68f-9b5cf94b1c9b",
+        "type": "message",
+        "text": "これはリマインダーです。\nサークル代表各位\n\n学園祭実行委員対応部長渡辺涼太です。\n\n今年度の学園祭におけるサークル申請書の締め切りは*2022年7月5日(火)23:59まで*\nです。\n\nお忘れのないようによろしくお願いいたします。",
+        "user": "U039V55S998",
+        "ts": "1656817953.909149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656818442.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S0t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これはリマインダーです。\nサークル代表各位\n\n学園祭実行委員対応部長渡辺涼太です。\n\n今年度の学園祭におけるサークル申請書の締め切りは"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2022年7月5日(火)23:59まで",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nです。\n\nお忘れのないようによろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656817953.909149",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656818499.762319",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656818499.762319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f0348fc-0e6b-4dbe-a1d4-9891131d0ccf",
+        "type": "message",
+        "text": "リマインダーを送りたいので、メールチェックお願いします。\n件名　[リマインダー]サークル申請書について",
+        "user": "U039V55S998",
+        "ts": "1656818008.466979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cJseG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リマインダーを送りたいので、メールチェックお願いします。\n件名　[リマインダー]サークル申請書について"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656818008.466979",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1656818286.721509",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656818116.919259"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656818245.118459"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656818264.023899"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656818286.721509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "EF60F7B4-62AC-4380-BBE7-5B1E06BE8265",
+        "type": "message",
+        "text": "これはリマインダーです。\n提出期限は〇〇月〇〇日〇〇:〇〇に変更になっていますので、ご注意下さい。\nって文面つけてメール転送すればいいのでは？",
+        "user": "U0399UH8BKQ",
+        "ts": "1656818116.919259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/JIf2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これはリマインダーです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "提出期限は〇〇月〇〇日〇〇:〇〇に変更になっていますので、ご注意"
+                            },
+                            {
+                                "type": "text",
+                                "text": "下さい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "って文面つけてメール転送すればいいのでは？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656818008.466979",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "780e1bf5-8497-4c63-a5d5-2af63b5c1786",
+        "type": "message",
+        "text": "転送だるいので許してください",
+        "user": "U039V55S998",
+        "ts": "1656818245.118459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1GUi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "転送だるいので許してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656818008.466979",
+        "parent_user_id": "U039V55S998",
+        "reactions": [
+            {
+                "name": "large_blue_circle",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5EFE5C30-BFCE-4C70-B6CE-2C65C368F99D",
+        "type": "message",
+        "text": "転送の方が楽では？",
+        "user": "U0399UH8BKQ",
+        "ts": "1656818264.023899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0H2uE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "転送の方が楽では？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656818008.466979",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "b2311b00-1d59-4c4e-bedd-14a7337b31a4",
+        "type": "message",
+        "text": "諸事情により今は新規の方が楽です",
+        "user": "U039V55S998",
+        "ts": "1656818286.721509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qIq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "諸事情により今は新規の方が楽です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656818008.466979",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "0626EBEA-4D3F-4267-A0D7-12C7DE570D53",
+        "type": "message",
+        "text": "締切厳守のニュアンス入れてほしいですね",
+        "user": "U0399UH8BKQ",
+        "ts": "1656818499.762319",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "締切厳守のニュアンス入れてほしいですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656817953.909149",
+        "parent_user_id": "U039V55S998"
+    }
+]

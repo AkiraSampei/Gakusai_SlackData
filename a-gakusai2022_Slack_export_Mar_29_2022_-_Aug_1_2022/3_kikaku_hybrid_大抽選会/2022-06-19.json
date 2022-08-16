@@ -1,0 +1,124 @@
+[
+    {
+        "client_msg_id": "91E3E3EA-D8B1-4CC4-9CC6-030FBAE3AB86",
+        "type": "message",
+        "text": "<!channel>\n返信ありがとう！\nじゃあ*22日(水)の9:00~10:40*で集まろうか！\n場所は学祭室で！\nちょっと朝早いけどよろしくお願いします！:man-bowing:\n",
+        "user": "U039M3UAXFG",
+        "ts": "1655631605.997599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0PC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "返信ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "じゃあ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "22日(水)の9:00~10:40",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "で集まろうか！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "場所は学祭室で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ち"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ょっ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と"
+                            },
+                            {
+                                "type": "text",
+                                "text": "朝早いけど"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

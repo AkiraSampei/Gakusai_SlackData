@@ -1,0 +1,210 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "user": "U0394PQ44FL",
+        "ts": "1655782384.423849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/a-gakusai2022.slack.com\/archives\/C03LNK6TD17\/p1655782332176689?thread_ts=1655771733009789&cid=C03LNK6TD17",
+                "ts": "1655782332.176689",
+                "msg_subtype": "thread_broadcast",
+                "author_id": "U0394PQ44FL",
+                "channel_team": "T038Z0K089K",
+                "channel_id": "C03LNK6TD17",
+                "channel_name": "3_taiou_多文化",
+                "is_msg_unfurl": true,
+                "is_reply_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T038Z0K089K",
+                        "channel": "C03LNK6TD17",
+                        "ts": "1655782332.176689",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "PAWuI",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "協賛一覧GoogleMapです、一つ閉店されてた店舗があったので書き直しました\n去年のリストは私が編集者ではなかったので新しく作り直しました\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[June 21st, 2022 12:32 PM] s1270186: 協賛一覧GoogleMapです、一つ閉店されてた店舗があったので書き直しました\n去年のリストは私が編集者ではなかったので新しく作り直しました\n<https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6>",
+                "text": "協賛一覧GoogleMapです、一つ閉店されてた店舗があったので書き直しました\n去年のリストは私が編集者ではなかったので新しく作り直しました\n<https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6>",
+                "author_name": "増子 廉大良",
+                "author_link": "https:\/\/a-gakusai2022.slack.com\/team\/U0394PQ44FL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_48.png",
+                "author_subname": "増子 廉大良",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#3_taiou_多文化 のスレッドから"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24d439c8-b460-4f61-8ae2-1d415234ff82",
+        "type": "message",
+        "text": "協賛の進捗をここに記入してください\n<https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE>",
+        "user": "U0394PQ44FL",
+        "ts": "1655783597.798549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1655783624.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p8eGj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "協賛の進捗をここに記入してください\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "前年度資料",
+        "files": [
+            {
+                "id": "F03LFAF36DR",
+                "created": 1655783836,
+                "timestamp": 1655783836,
+                "name": "2021協賛のご案内資料.pdf",
+                "title": "2021協賛のご案内資料.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 188847,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LFAF36DR\/2021___________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LFAF36DR\/download\/2021___________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LFAF36DR-221a948181\/2021____________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03LFAF36DR\/2021___________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LFAF36DR-2836148b36",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03L8PTRCH4",
+                "created": 1655783838,
+                "timestamp": 1655783838,
+                "name": "広告サイズ表.pdf",
+                "title": "広告サイズ表.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 106650,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L8PTRCH4\/_____________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L8PTRCH4\/download\/_____________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L8PTRCH4-c42c3cbdaf\/______________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1192,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03L8PTRCH4\/_____________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03L8PTRCH4-08d2897753",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "ts": "1655783839.909209",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fuOl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前年度資料"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fde6f94d-f6ce-4b80-8f8a-9d6aa2be1e88"
+    }
+]

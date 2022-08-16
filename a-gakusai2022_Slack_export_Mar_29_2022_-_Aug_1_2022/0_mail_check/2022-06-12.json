@@ -1,0 +1,625 @@
+[
+    {
+        "type": "message",
+        "text": "メールチェックお願いします。\n写真も添付してます。\n==以下本文======================\n事務局企画連携課企画係　渡邉憲夫様\n学園祭実行委員会 広報担当の三瓶です。\n\nこの度は会津ファンクラブ通信での蒼翔祭紹介のご提案、誠にありがとうございます。\n添付いただいた原稿を確認いたしました。修正していただきたい点はございません。\nまた、過去の学園祭の写真をいくつか添付いたしますので、ご自由にお使いください。\n\nご確認よろしくお願いいたします。\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n会津大学学園祭実行委員会　広報担当　三瓶　晃\n学園祭: &lt; <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> &gt;\nMail: &lt; <mailto:s1290238@u-aizu.ac.jp|s1290238@u-aizu.ac.jp> &gt;\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-",
+        "files": [
+            {
+                "id": "F03KNMGEG7K",
+                "created": 1655031672,
+                "timestamp": 1655031672,
+                "name": "14923.jpg",
+                "title": "14923.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 279774,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KNMGEG7K\/14923.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KNMGEG7K\/download\/14923.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGEG7K-2e4baa1126\/14923_1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 1477,
+                "original_h": 1108,
+                "thumb_tiny": "AwAkADB67l+6xFSrM+CHx7HFU4iE96IyUJ3MSD+lMRZOSAaQMyMSgBI6ZpAV2jnp70xnxuwwBPfNAE3mTt1YCkIkOct\/OmJJhBnLe9M8zZknJpDsVwzGp1kCRoOhz83FRLDNwDgAHrmpBEwj2gjOPvUXCxEzSZOFGKTc5PzAYxU8cWPvEGmY2hRnAB4IHNAx1vcOnDMSoGAPSmTPvclulK0aHbhyH7j6UjFlxxuoAsMxCEjsKgt5nkZgx6VNJ\/qm+lVrT77\/AEpDLVNI9KdSGkBVldlcYNTA5FV5vvCpx0piP\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03KNMGEG7K\/14923.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KNMGEG7K-672ade2225",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03K3DMRZKQ",
+                "created": 1655031677,
+                "timestamp": 1655031677,
+                "name": "14924.jpg",
+                "title": "14924.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 212685,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K3DMRZKQ\/14924.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K3DMRZKQ\/download\/14924.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K3DMRZKQ-d6fc947ac2\/14924_1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 1477,
+                "original_h": 1108,
+                "thumb_tiny": "AwAkADBzHPA6UoFKilhlRmlGT1HQ4rVWS0M3cQCnAUjHYpY44qNXZxknA9BQ5IEmyYsq\/eIFMa5Vfurn3NMIXuKiKRFicnj3qHItREW4eOMlDjj0zUrzuFC5HCjn1qIxEhUZ1GPTmmqRJEU5LqCFI71C2GOE7puDHrTpDIIhjHruFQSMWQLtxjqe9DStINpOcAY4p2AduAGWYtntTyw2dwD6HNRGNyMgcdaIiVY7hlSOlIZfjiTZnHWqBYrM+z5ecYFaUf3KzH\/1r\/WhAyeAZiJPIORjt0zTE+ZwOgPYCn2\/+o\/4E3\/oNMh\/1q\/jQAM5JZc8DtUe0bQ3fNO\/iej\/AJZj\/epiP\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03K3DMRZKQ\/14924.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03K3DMRZKQ-c2e870a7d2",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03K74V856H",
+                "created": 1655031680,
+                "timestamp": 1655031680,
+                "name": "14925.jpg",
+                "title": "14925.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 186481,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K74V856H\/14925.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K74V856H\/download\/14925.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1066,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K74V856H-582f991ad7\/14925_1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 1108,
+                "original_h": 1477,
+                "thumb_tiny": "AwAwACSxtUlhgde1QrGhBzwfY1YAAkbH8qjRcqTj\/OaQEbR4I2sfxoYFELNggelSNwR9aSXGza3QmgCt56eho85PQ01hFngj\/vqkxH6\/+PUwNQnMox6VCuBwzAdcUn2oeasbJjOQDmqtzKrscH1oSAsTyqqgxuCfWqshMpDNjPrTF5PzHp+RqQMDgcMDz\/8AXoAjZApI+97g0m0ejf8AfVSlgKN4pgRMSTlmy3fmmMhBwRinB9rHgdKUuXBzzz1ouAqY2bRkjr7U5AFPpTIgOQWIGO3rUiYYHPUUgFPXpRj2H51JCAyZPc0\/atMD\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03K74V856H\/14925.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03K74V856H-f2058faf26",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03KA28442E",
+                "created": 1655031683,
+                "timestamp": 1655031683,
+                "name": "14926.jpg",
+                "title": "14926.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 236649,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KA28442E\/14926.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KA28442E\/download\/14926.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KA28442E-467ce2bcd2\/14926_1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1706,
+                "original_h": 960,
+                "thumb_tiny": "AwAbADBqcoD7U6ILIeX2gdc1G7HDEcYHFMQlJFA7LlvrQM0RBERw35Gg2q9mNUwy5w52r6g801JizsEcgL6nrQItm1PZh+IqKWFo13EjFILiUZ2lmx14zSmZnZVcg5GRgUDIzuIwWyPemshOeCSetP7UdxQIi2IC5yRn1pmw+biIcYzjNWe1IygDOKLgRAtCG2nDN19qkBAjT1560nalQDd07UAf\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03KA28442E\/14926.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KA28442E-3a4579ea10",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03KNMGNKCH",
+                "created": 1655031689,
+                "timestamp": 1655031689,
+                "name": "14927.jpg",
+                "title": "14927.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 268851,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KNMGNKCH\/14927.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KNMGNKCH\/download\/14927.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KNMGNKCH-1dd624b7b2\/14927_1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 1706,
+                "original_h": 960,
+                "thumb_tiny": "AwAbADC8wwm1Tg9AaYwlEmFYEehFQTzOv3OSO\/oar+e6hGDkk8HnNFgLZkkV9p2j3Bp24\/jVBnOAx9cVK0m1GDZHpSGWuc9KM1HuZkjbIyBk5pvnrv2Z5oAhkYk+wqQQr5IkyB6ZGaTYuDxR2K9h0FMRBtC7fTO4U\/KsoyDn26U9VX0FPUD0FAEHK9DSZyeRk1awPSkIB6igD\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03KNMGNKCH\/14927.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KNMGNKCH-da491a9fac",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RJU3V36",
+        "ts": "1655031701.332349",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wFCW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。\n写真も添付してます。\n==以下本文======================\n事務局企画連携課企画係　渡邉憲夫様\n学園祭実行委員会 広報担当の三瓶です。\n\nこの度は会津ファンクラブ通信での蒼翔祭紹介のご提案、誠にありがとうございます。\n添付いただいた原稿を確認いたしました。修正していただきたい点はございません。\nまた、過去の学園祭の写真をいくつか添付いたしますので、ご自由にお使いください。\n\nご確認よろしくお願いいたします。\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n会津大学学園祭実行委員会　広報担当　三瓶　晃\n学園祭: < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\nMail: < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290238@u-aizu.ac.jp",
+                                "text": "s1290238@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1655032006.000000"
+        },
+        "client_msg_id": "dacce088-76d1-4215-99a2-ecd2d93a35a0",
+        "thread_ts": "1655031701.332349",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655032263.241019",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655031908.838629"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1655032263.241019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "510142BA-CFE3-4D0E-AD2C-D4FE4CDA31B4",
+        "type": "message",
+        "text": "改行ごとに1行スペース入れると見やすいかも\n文面は大丈夫です。",
+        "user": "U0399UH8BKQ",
+        "ts": "1655031908.838629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dn2S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "改行ごとに1行スペース入れると見やすいかも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "文面は大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655031701.332349",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "1daa1ca8-18c8-42ae-ae3b-f87e9e43f896",
+        "type": "message",
+        "text": "<@U0399UH8BKQ> 1つ改行を入れました。",
+        "user": "U039RJU3V36",
+        "ts": "1655032263.241019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N4jF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0399UH8BKQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 1つ改行を入れました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655031701.332349",
+        "parent_user_id": "U039RJU3V36",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0399UH8BKQ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc959e2e-8a4f-47e6-b641-a761dfbd182f",
+        "type": "message",
+        "text": "明日のお昼あたりに送信します。",
+        "user": "U039RJU3V36",
+        "ts": "1655032437.111099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q1pQ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日のお昼あたりに送信します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1b9e6342-99e2-427f-8239-932df087249a",
+        "type": "message",
+        "text": "コンピュータグラフィックス学講座\n西舘さん\n\nご連絡ありがとうございます。\n説明会の件ですが、可能でしたら参加していただいてもよろしいでしょうか。\nまた、説明会後に数分ほど時間をいただければと思います。\n\n参加可能でしょうか。返信よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655090868.058789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P7O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コンピュータグラフィックス学講座\n西舘さん\n\nご連絡ありがとうございます。\n説明会の件ですが、可能でしたら参加していただいてもよろしいでしょうか。\nまた、説明会後に数分ほど時間をいただければと思います。\n\n参加可能でしょうか。返信よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2368a549-7b70-4784-8b03-20c515999e6b",
+        "type": "message",
+        "text": "返信メールチェックお願いします",
+        "user": "U039V55S998",
+        "ts": "1655090878.800499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ub",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "返信メールチェックお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23cb93d6-27d9-4313-a552-3b0deaf6d4d4",
+        "type": "message",
+        "text": "急ぎでメールチェックお願いします\n件名：【学祭】写真の使用における注意点について\n==以下本文====================\n事務局企画連携課企画係　渡邉憲夫様\n\n 学園祭実行委員会 広報担当の三瓶です。\n\n度々申し訳ございません。先ほど送信したメールに添付の写真について注意点がございました。\nフリーマーケットの写真を添付いたしましたが、本年度はフリーマーケットの開催の予定はありませんので、使用を控えて頂きたく願います。\n（屋内(管理棟)で撮影された写真がフリーマーケットの写真です。）\nまた、その他の写真に写っている企画も変更になる可能性があることをご了承ください。\n\nご確認をお願いいたします。\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n会津大学学園祭実行委員会　広報担当　三瓶　晃\n学園祭: &lt; <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> &gt;\nMail: &lt; <mailto:s1290238@u-aizu.ac.jp|s1290238@u-aizu.ac.jp> &gt;\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-",
+        "user": "U039RJU3V36",
+        "ts": "1655101719.663749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1655101909.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BR5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急ぎでメールチェックお願いします\n件名：【学祭】写真の使用における注意点について\n==以下本文====================\n事務局企画連携課企画係　渡邉憲夫様\n\n 学園祭実行委員会 広報担当の三瓶です。\n\n度々申し訳ございません。先ほど送信したメールに添付の写真について注意点がございました。\nフリーマーケットの写真を添付いたしましたが、本年度はフリーマーケットの開催の予定はありませんので、使用を控えて頂きたく願います。\n（屋内(管理棟)で撮影された写真がフリーマーケットの写真です。）\nまた、その他の写真に写っている企画も変更になる可能性があることをご了承ください。\n\nご確認をお願いいたします。\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n会津大学学園祭実行委員会　広報担当　三瓶　晃\n学園祭: < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\nMail: < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290238@u-aizu.ac.jp",
+                                "text": "s1290238@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0391RWR34N",
+                    "U03901B3W69",
+                    "U03CGVA43U3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

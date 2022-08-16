@@ -1,0 +1,244 @@
+[
+    {
+        "client_msg_id": "f39a900b-a8bf-4c7e-8b29-ebc626b40e96",
+        "type": "message",
+        "text": "明日の対応部会議ですが、一年生の役職決めが目的なので先輩方は無理しなくて問題ないですが、対応部一年生が５人揃うので顔を出してくれるだけでも嬉しいです。\nちなみに９時から開いてるので九時半までに来てね\n<@U039P4NSKM1>",
+        "user": "U039V55S998",
+        "ts": "1655210909.475829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KXkE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議ですが、一年生の役職決めが目的なので先輩方は無理しなくて問題ないですが、対応部一年生が５人揃うので顔を出してくれるだけでも嬉しいです。\nちなみに９時から開いてるので九時半までに来てね\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039P4NSKM1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655210909.475829",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655211032.110379",
+        "reply_users": [
+            "U039P4NSKM1"
+        ],
+        "replies": [
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1655211032.110379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0391RWR34N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75194359-036b-41ea-85e7-8085d4b50c00",
+        "type": "message",
+        "text": "名指しする対応部長、怖いです",
+        "user": "U039P4NSKM1",
+        "ts": "1655211032.110379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJIZx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "名指しする対応部長、怖いです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655210909.475829",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "46f146a3-9760-492b-8b79-a547aee06230",
+        "type": "message",
+        "text": "後、７月の第一週に第二回対応部会議を予定してますが、そちらは顔合わして仕事を実際に割り振りたいと考えているので、先輩方は参加よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655211275.569479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2jp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "後、７月の第一週に第二回対応部会議を予定してますが、そちらは顔合わして仕事を実際に割り振りたいと考えているので、先輩方は参加よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f75fcd1-07b4-4f8f-8d6e-9109baa7bf8a",
+        "type": "message",
+        "text": "入れました",
+        "user": "U03KRPKDY8L",
+        "ts": "1655255847.267119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rxu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "入れました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998",
+                    "U03901B3W69",
+                    "U0391RWR34N",
+                    "U039PA9J5JP"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b1aa264-874a-491e-ad7f-6c0770b3de4d",
+        "type": "message",
+        "text": "今日は朝早い中ありがとうございます。\n引き続き、参加できる方は今日の７，８限にあるサークル説明会に参加よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655256076.125009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jAS0B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日は朝早い中ありがとうございます。\n引き続き、参加できる方は今日の７，８限にあるサークル説明会に参加よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

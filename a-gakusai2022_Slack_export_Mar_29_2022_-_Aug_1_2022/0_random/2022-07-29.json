@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "566f8540-4232-488e-8e14-10135bc6fcbd",
+        "type": "message",
+        "text": "ｼﾒﾀ",
+        "user": "U039P4NSKM1",
+        "ts": "1659089480.365779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zxC7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ｼﾒﾀ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5EC4E927-7800-4D46-BD95-E6D2BBF077D3",
+        "type": "message",
+        "text": "開けます",
+        "user": "U039PA9J5JP",
+        "ts": "1659145347.977179",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZXt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開けます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7EFEBAA4-B04D-48A7-BF71-BB9D247B88D0",
+        "type": "message",
+        "text": "閉めました",
+        "user": "U039PA9J5JP",
+        "ts": "1659157212.811209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉めました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

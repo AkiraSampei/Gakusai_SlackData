@@ -1,0 +1,83 @@
+[
+    {
+        "client_msg_id": "4e677a32-dd90-424b-9723-6452c303d9e2",
+        "type": "message",
+        "text": "すみません企画部会議用事で欠席します。終わったら向かいます。",
+        "user": "U03901B3W69",
+        "ts": "1653191198.920469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=WV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません企画部会議用事で欠席します。終わったら向かいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6DDF736A-C908-44A0-8360-1C8774DE2D96",
+        "type": "message",
+        "text": "企画部会議ちょっと遅れます:man-bowing:",
+        "user": "U039M3UAXFG",
+        "ts": "1653191932.429809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "blnJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画部会議ちょっと遅れます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

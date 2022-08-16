@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "dc3f0076-9f0e-46c6-808c-d8c1cbb5d1d9",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/_IWsJsMFIoM?t=330>\n5:30からの曲が好きすぎて無限に聴ける。これだけの動画ないかね…",
+        "user": "U0391RWR34N",
+        "ts": "1653814730.638269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/_IWsJsMFIoM?t=330",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_IWsJsMFIoM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/_IWsJsMFIoM?start=330&feature=oembed&start=330&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/_IWsJsMFIoM?t=330",
+                "fallback": "YouTube Video: 【作業用BGM】高速道路を全速力で走っている気分になるかっこいいトランスBGM Cool trans BGM",
+                "title": "【作業用BGM】高速道路を全速力で走っている気分になるかっこいいトランスBGM Cool trans BGM",
+                "title_link": "https:\/\/youtu.be\/_IWsJsMFIoM?t=330",
+                "author_name": "Free BGM channel",
+                "author_link": "https:\/\/www.youtube.com\/user\/sennninn3",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5C5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/_IWsJsMFIoM?t=330"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n5:30からの曲が好きすぎて無限に聴ける。これだけの動画ないかね…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

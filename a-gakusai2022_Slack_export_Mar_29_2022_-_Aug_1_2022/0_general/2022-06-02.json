@@ -1,0 +1,157 @@
+[
+    {
+        "client_msg_id": "9cf2d697-f268-4a67-a41a-b218517e4b5c",
+        "type": "message",
+        "text": "<!channel> :red_circle:全体会議のお知らせ:red_circle:\n\nテスト明けに6\/11もしくは12に全体会議をやろうと思います。そこで*全員が伝助の記入*していただきたいです。\n今回の会議はあくまで一年生の顔合わせが目的なので、一年生が一番参加する日にします。（一応上の人がどれくらい来るか把握したいので、伝助を記入してください。一年生は伝助ではなく、ライングループの方に投票お願いします）\n今現在、一年生がいるライングループに日程を決めてもらってるところです。\n八日にやる日どちらかに決めます。\n今年度初めての全体での集まりなので、なるべく「全員」が参加してもらいたいです。\nよろしくお願いします〜:parrot_headbanging::takopii:\n\n：伝助：\n<https:\/\/densuke.biz\/list?cd=46GCc2fNHMn2QnRP>",
+        "user": "U039PA9J5JP",
+        "ts": "1654153537.539049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1654153606.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8XK5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "red_circle",
+                                "unicode": "1f534"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全体会議のお知らせ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "red_circle",
+                                "unicode": "1f534"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nテスト明けに6\/11もしくは12に全体会議をやろうと思います。そこで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全員が伝助の記入",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "していただきたいです。\n今回の会議はあくまで一年生の顔合わせが目的なので、一年生が一番参加する日にします。（一応上の人がどれくらい来るか把握したいので、伝助を記入してください。一年生は伝助ではなく、ライングループの方に投票お願いします）\n今現在、一年生がいるライングループに日程を決めてもらってるところです。\n八日にやる日どちらかに決めます。\n今年度初めての全体での集まりなので、なるべく「全員」が参加してもらいたいです。\nよろしくお願いします〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_headbanging"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "takopii"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n：伝助：\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=46GCc2fNHMn2QnRP"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654153537.539049",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654153683.012179",
+        "reply_users": [
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1654153683.012179"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07a5bfca-25de-44d4-81da-5c1fbb3d3d51",
+        "type": "message",
+        "text": "今のところ一年生の希望が６：６で半々です。。。",
+        "user": "U039PA9J5JP",
+        "ts": "1654153683.012179",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v9M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今のところ一年生の希望が６：６で半々です。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654153537.539049",
+        "parent_user_id": "U039PA9J5JP"
+    }
+]

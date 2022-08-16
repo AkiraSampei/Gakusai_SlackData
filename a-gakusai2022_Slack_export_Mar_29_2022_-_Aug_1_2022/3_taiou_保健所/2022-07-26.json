@@ -1,0 +1,172 @@
+[
+    {
+        "client_msg_id": "eb4e86de-9482-4ce4-b63b-46a5ed4bb80c",
+        "type": "message",
+        "text": "<!channel> 当日使用する公民館の場所ってどこですか?",
+        "user": "U039P4NSKM1",
+        "ts": "1658898376.357259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hE0V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 当日使用する公民館の場所ってどこですか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "user": "U03901B3W69",
+        "ts": "1658898549.400769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/a-gakusai2022.slack.com\/archives\/C039FSQ9E3Y\/p1656039377046679?thread_ts=1656039377046679&cid=C039FSQ9E3Y",
+                "ts": "1656039377.046679",
+                "author_id": "U03901B3W69",
+                "channel_team": "T038Z0K089K",
+                "channel_id": "C039FSQ9E3Y",
+                "channel_name": "1_department_taiou",
+                "is_msg_unfurl": true,
+                "is_thread_root_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T038Z0K089K",
+                        "channel": "C039FSQ9E3Y",
+                        "ts": "1656039377.046679",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "U6v",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "お疲れ様です。宮崎です。対応部の仕事で伝達が遅れていた「公民館関係」についてここにまとめておきます。\nまず、公民館は模擬店を出すサークルが利用します。目的は調理です。学内での調理は最終工程の焼く・盛り付ける等の部分でそれ以前の仕込みは公民館の調理室を使って行うことになります。\n2018年度までは一箕町公民館と北公民館の二か所を利用していました。今年もそこを借ります。利用料は予算で確保していますが、もし模擬店希望団体が多く、かつ公民館が定員等を制限していた場合、三つ目の公民館等の施設を借りる必要があるかもしれないことを留意してください。\n\n利用申請は両公民館共に「利用日が属する月の二か月前の5日」からできるようになるので学祭の場合は8月5日から申請できるようになります。その日になったら申請をお願いします。\n\n"
+                                                },
+                                                {
+                                                    "type": "user",
+                                                    "user_id": "U039V55S998"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " 指示出しをお願いします。\n※対応部としての仕事は借りてサークルに提供するまでです。当日の監視等はシフトとして全学祭委員から選ばれた人が行います。\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013010900015\/"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "\n"
+                                                },
+                                                {
+                                                    "type": "link",
+                                                    "url": "https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013031400044\/"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[June 24th, 2022 11:56 AM] s1270250: お疲れ様です。宮崎です。対応部の仕事で伝達が遅れていた「公民館関係」についてここにまとめておきます。\nまず、公民館は模擬店を出すサークルが利用します。目的は調理です。学内での調理は最終工程の焼く・盛り付ける等の部分でそれ以前の仕込みは公民館の調理室を使って行うことになります。\n2018年度までは一箕町公民館と北公民館の二か所を利用していました。今年もそこを借ります。利用料は予算で確保していますが、もし模擬店希望団体が多く、かつ公民館が定員等を制限していた場合、三つ目の公民館等の施設を借りる必要があるかもしれないことを留意してください。\n\n利用申請は両公民館共に「利用日が属する月の二か月前の5日」からできるようになるので学祭の場合は8月5日から申請できるようになります。その日になったら申請をお願いします。\n\n<@U039V55S998> 指示出しをお願いします。\n※対応部としての仕事は借りてサークルに提供するまでです。当日の監視等はシフトとして全学祭委員から選ばれた人が行います。\n<https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013010900015\/>\n<https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013031400044\/>",
+                "text": "お疲れ様です。宮崎です。対応部の仕事で伝達が遅れていた「公民館関係」についてここにまとめておきます。\nまず、公民館は模擬店を出すサークルが利用します。目的は調理です。学内での調理は最終工程の焼く・盛り付ける等の部分でそれ以前の仕込みは公民館の調理室を使って行うことになります。\n2018年度までは一箕町公民館と北公民館の二か所を利用していました。今年もそこを借ります。利用料は予算で確保していますが、もし模擬店希望団体が多く、かつ公民館が定員等を制限していた場合、三つ目の公民館等の施設を借りる必要があるかもしれないことを留意してください。\n\n利用申請は両公民館共に「利用日が属する月の二か月前の5日」からできるようになるので学祭の場合は8月5日から申請できるようになります。その日になったら申請をお願いします。\n\n<@U039V55S998> 指示出しをお願いします。\n※対応部としての仕事は借りてサークルに提供するまでです。当日の監視等はシフトとして全学祭委員から選ばれた人が行います。\n<https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013010900015\/>\n<https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013031400044\/>",
+                "author_name": "Junta Miyazaki",
+                "author_link": "https:\/\/a-gakusai2022.slack.com\/team\/U03901B3W69",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_48.jpg",
+                "author_subname": "Junta Miyazaki",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#1_department_taiou のスレッド"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90146656-b069-474d-8e1c-8d919e0d2317",
+        "type": "message",
+        "text": "一箕町公民館と北公民館を例年お借りしております。",
+        "user": "U03901B3W69",
+        "ts": "1658898565.470169",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zrXC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一箕町公民館と北公民館を例年お借りしております。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

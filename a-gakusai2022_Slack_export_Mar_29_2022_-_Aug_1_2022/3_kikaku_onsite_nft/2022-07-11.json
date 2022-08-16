@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "D7169D1D-2ABE-46E8-B4F6-C338A74CD35E",
+        "type": "message",
+        "text": "添削いつしますか？",
+        "user": "U039WPGBPDH",
+        "ts": "1657526377.111389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AB0+M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "添削いつしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2cb0d3ae-610b-47ec-bbdb-c1616eb0dc4e",
+        "type": "message",
+        "text": "↑<!channel>",
+        "user": "U03BM52KMEC",
+        "ts": "1657592686.309639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TUE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "56c96bea-b058-456f-9762-41420c4580a4",
+        "type": "message",
+        "text": "今日午後いけるよ",
+        "user": "U039BUU0GAH",
+        "ts": "1657592836.622579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X\/d14",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日午後いけるよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88144ce6-4145-41fb-8440-f730d15d39b1",
+        "type": "message",
+        "text": "<@U03CATDUH0A> 忙しいと思うんだけど、来れそうな時間ある？",
+        "user": "U03BM52KMEC",
+        "ts": "1657592995.662409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZMOk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CATDUH0A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 忙しいと思うんだけど、来れそうな時間ある？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

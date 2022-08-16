@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655109317.082489",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1655109317.455919",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「スマブラ大会運営」に設定しました",
+        "purpose": "スマブラ大会運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655109324.640619",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました",
+        "inviter": "U0394PQ44FL"
+    }
+]

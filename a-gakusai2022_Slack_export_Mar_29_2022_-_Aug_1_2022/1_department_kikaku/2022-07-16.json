@@ -1,0 +1,210 @@
+[
+    {
+        "client_msg_id": "fed1e85b-a213-49cc-93c5-079e51bcd2b7",
+        "type": "message",
+        "text": "お願いします。",
+        "user": "U03901B3W69",
+        "ts": "1657962904.067639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z6J7d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "parent_user_id": "U038TMLJW1M"
+    },
+    {
+        "client_msg_id": "7210EF32-A264-433A-BE64-9BD37FA346F0",
+        "type": "message",
+        "text": "ポケサーに協力って言ってもどう協力してもらうんですか？シンプル参加？",
+        "user": "U0399UH8BKQ",
+        "ts": "1657975484.770149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ahmT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポケサーに協力って言ってもどう協力してもらうんですか？シンプル参加？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "parent_user_id": "U038TMLJW1M"
+    },
+    {
+        "client_msg_id": "5A693BF6-E95C-48BE-84A0-E99603FE8422",
+        "type": "message",
+        "text": "実況解説をやってほしいかな　進行はうちでやるかも分かんないけど",
+        "user": "U038TMLJW1M",
+        "ts": "1657975553.688689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yW+jW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "実況解説をやってほしいかな　進行はうちでやるかも分かんないけど"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "parent_user_id": "U038TMLJW1M"
+    },
+    {
+        "client_msg_id": "00AEF626-ECD1-466A-85FE-99CAA93EA88B",
+        "type": "message",
+        "text": "ポケサーでもやってる人はまじでいないっぽい。\nポケモンの皮被ったLoLだからなぁ…",
+        "user": "U0399UH8BKQ",
+        "ts": "1657975631.096539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L0zOm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポケサーでもやってる人はまじでいないっぽい。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ポケモンの皮被ったLoLだからなぁ…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "parent_user_id": "U038TMLJW1M"
+    },
+    {
+        "client_msg_id": "A1726FAA-2C15-433A-A161-255A0677BF6D",
+        "type": "message",
+        "text": "うーん　ちょっと考え直すか",
+        "user": "U038TMLJW1M",
+        "ts": "1657975652.943459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H0v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うーん　ちょっと考え直すか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "parent_user_id": "U038TMLJW1M"
+    }
+]

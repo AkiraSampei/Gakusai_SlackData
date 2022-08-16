@@ -1,0 +1,9 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1653476765.336209",
+        "user": "U03CDMY1V9C",
+        "text": "<@U03CDMY1V9C>さんがチャンネルに参加しました"
+    }
+]

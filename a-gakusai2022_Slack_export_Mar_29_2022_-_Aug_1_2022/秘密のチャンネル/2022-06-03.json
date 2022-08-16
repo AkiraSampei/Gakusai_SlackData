@@ -1,0 +1,352 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03J51HUMGA",
+                "created": 1654240303,
+                "timestamp": 1654240303,
+                "name": "fin.zip",
+                "title": "fin.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 17470194,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03J51HUMGA\/fin.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03J51HUMGA\/download\/fin.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03J51HUMGA\/fin.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03J51HUMGA-5e33e6cf60",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1654240308.292939",
+        "client_msg_id": "e460783e-ab10-45a5-8924-3839d3eb88c1"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03HQD0TFQF",
+                "created": 1654240325,
+                "timestamp": 1654240325,
+                "name": "readme.txt",
+                "title": "readme.txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U0394PQ44FL",
+                "editable": true,
+                "size": 1283,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03HQD0TFQF\/readme.txt?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03HQD0TFQF\/download\/readme.txt?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03HQD0TFQF\/readme.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03HQD0TFQF-eb592d9399",
+                "edit_link": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03HQD0TFQF\/readme.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1654240327.820079",
+        "client_msg_id": "a7fef64f-8fe2-4c19-88bd-88e8c67dcbb7"
+    },
+    {
+        "client_msg_id": "17596583-c654-483c-9252-5fd35b95d525",
+        "type": "message",
+        "text": "Java、問題文英語と日本語両方書いてあったと思います 演習どんな感じだったか振り返るのもいいと思います",
+        "user": "U038TMLJW1M",
+        "ts": "1654240627.846519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ph",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Java、問題文英語と日本語両方書いてあったと思います 演習どんな感じだったか振り返るのもいいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039WPGBPDH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9F30E29D-36F9-43A3-8940-68D447E37DB2",
+        "type": "message",
+        "text": "すみません、アカスキのテストってどんな感じですか？",
+        "user": "U03CDMY1V9C",
+        "ts": "1654314122.449269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QqOS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "アカスキ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "テストっ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "て"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どんな感じで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654314122.449269",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1654326875.410849",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U03CDMY1V9C"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1654315049.479399"
+            },
+            {
+                "user": "U03CDMY1V9C",
+                "ts": "1654316651.733289"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1654323816.356849"
+            },
+            {
+                "user": "U03CDMY1V9C",
+                "ts": "1654326875.410849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9D96AF92-F887-4F02-9089-532349A41804",
+        "type": "message",
+        "text": "⚪︎×クイズ等簡単なクイズをまぁまぁな量解かせられる10分で終われば帰れるよ",
+        "user": "U0399UH8BKQ",
+        "ts": "1654315049.479399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QwLd\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "⚪︎×クイズ等簡単なクイズをまぁまぁな量解かせられる10分で終われば帰れるよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654314122.449269",
+        "parent_user_id": "U03CDMY1V9C"
+    },
+    {
+        "client_msg_id": "87E09393-1F42-468D-921D-CCF8082215EF",
+        "type": "message",
+        "text": "作文とかないんですか？",
+        "user": "U03CDMY1V9C",
+        "ts": "1654316651.733289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "94s3M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "作文"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とかないん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654314122.449269",
+        "parent_user_id": "U03CDMY1V9C"
+    },
+    {
+        "client_msg_id": "8821464a-35a7-4d8e-8e45-24de1ba97528",
+        "type": "message",
+        "text": "なかった気がする...",
+        "user": "U0399UH8BKQ",
+        "ts": "1654323816.356849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CPUK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なかった気がする..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654314122.449269",
+        "parent_user_id": "U03CDMY1V9C"
+    }
+]

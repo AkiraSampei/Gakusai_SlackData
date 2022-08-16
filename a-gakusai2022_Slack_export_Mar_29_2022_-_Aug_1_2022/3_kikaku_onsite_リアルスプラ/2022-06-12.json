@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655036937.840889",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「2_kikaku_リアルスプラ」から「3_kikaku_リアルスプラ」に変更しました",
+        "old_name": "2_kikaku_リアルスプラ",
+        "name": "3_kikaku_リアルスプラ"
+    }
+]

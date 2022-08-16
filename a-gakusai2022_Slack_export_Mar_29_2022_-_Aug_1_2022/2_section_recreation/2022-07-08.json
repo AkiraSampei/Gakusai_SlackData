@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "A7F83A8E-0584-4B3D-B4F6-33BD4D769B1A",
+        "type": "message",
+        "text": "BBQ伝助無記入の一年生\nあかりさん、瑛大さん、後藤さん、ゆりかさん、らいくん、宍戸さん\n--------------------------------------------------\n一年生歓迎会的な感じでもあるので\n参加できるか聞いたほうがいいですよね？？\nOKであれば自分が一年生の力学中間テスト終わったら聞いてみます。",
+        "user": "U039RCZ4E04",
+        "ts": "1657337754.638259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1657337887.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0u=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "BBQ伝助無記入の一年生\nあかりさん、瑛大さん、後藤さん、ゆりかさん、らいくん、宍戸さん\n--------------------------------------------------\n一年生歓迎会的な感じでもあるので\n参加できるか聞いたほうがいいですよね？？\nOKであれば自分が一年生の力学中間テスト終わったら聞いてみます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

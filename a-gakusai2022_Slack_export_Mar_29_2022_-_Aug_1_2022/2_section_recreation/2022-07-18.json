@@ -1,0 +1,365 @@
+[
+    {
+        "client_msg_id": "9BEC8EB7-8D6B-4E0A-87F2-5B61331B6D51",
+        "type": "message",
+        "text": "<@U039RCZ4E04> <@U039WPGBPDH> \n明日の昼休み学祭室集まれる？\n打ち合わせしようか、実施するってなったら買い出しの計画とかもしたいし",
+        "user": "U039M3UAXFG",
+        "ts": "1658127924.522509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jiNF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RCZ4E04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日の昼休み学祭室集まれる？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "打ち合わせしようか、実施するってなったら買い出しの計画とかもしたいし"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2D5B27D4-CA4E-4B42-BC1E-CC0D3A3935E0",
+        "type": "message",
+        "text": "自分は大丈夫です:man-gesturing-ok:",
+        "user": "U039WPGBPDH",
+        "ts": "1658128480.356899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5mGqH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分は大丈夫です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok",
+                                "unicode": "1f646-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A4D25CB7-E190-4925-B3F4-8B5BBD899941",
+        "type": "message",
+        "text": "了解です🫡\nすみません。自動車学校あったので行けないです。",
+        "user": "U039RCZ4E04",
+        "ts": "1658196056.435219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1658197267.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nI=SU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です🫡\nすみません。自動車学校あったので行けないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658196056.435219",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1658214375.604079",
+        "reply_users": [
+            "U039M3UAXFG",
+            "U039RCZ4E04"
+        ],
+        "replies": [
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1658198078.199749"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658203123.593609"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1658213155.048909"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658213997.711079"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1658214375.604079"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d6e9ac5b-4f37-4574-ab02-0d7157376263",
+        "type": "message",
+        "text": "今日何時なら都合いい？",
+        "user": "U039M3UAXFG",
+        "ts": "1658198078.199749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sl68",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日何時なら都合いい？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658196056.435219",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "00953F1C-9541-47C8-BA03-2F8C9C9FF41A",
+        "type": "message",
+        "text": "2時なら都合いいです",
+        "user": "U039RCZ4E04",
+        "ts": "1658203123.593609",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6QfCX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2時なら都合いいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658196056.435219",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "C1736D57-9108-42BF-8852-8020DA810406",
+        "type": "message",
+        "text": "<@U039RCZ4E04> \nごめん返信気づかんかった\n夕方とかはどう？",
+        "user": "U039M3UAXFG",
+        "ts": "1658213155.048909",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "werb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RCZ4E04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ごめん返信気づかんかった"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "夕方とかはどう？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658196056.435219",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "42245F11-1CD1-451D-8C71-BD02AEABF48B",
+        "type": "message",
+        "text": "9時からなら予定空いてます",
+        "user": "U039RCZ4E04",
+        "ts": "1658213997.711079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JGH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "9時からなら予定空いてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658196056.435219",
+        "parent_user_id": "U039RCZ4E04"
+    }
+]

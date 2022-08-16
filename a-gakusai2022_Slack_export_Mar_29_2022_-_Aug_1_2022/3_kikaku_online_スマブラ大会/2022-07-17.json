@@ -1,0 +1,173 @@
+[
+    {
+        "client_msg_id": "672D9F12-4E42-413A-BB76-D10D22B59CAA",
+        "type": "message",
+        "text": "<!channel> \nお疲れ様です。\n遅くなってしまいましたがスマブラ大会の企画書の添削を終えました。\n\n\n添削した要件\n・オンライン想定の旨、オフラインの際は開催しないものとする\n・景品受け渡しは裏\n・配信時間は1時間程度\n・コントローラトラブルはこちらでもコントローラを用意しているという観点から、持参物のトラブルについては責任を負わない。\nーーーーーーーーーーー\n以下現在未確定につき添削不可なもの\n・時間の明記\n・景品について\n・大講義室が使用可能かどうか\n\n\n下の3項目については私の独断では決めかねる為まだ触れておりません。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1658119421.577699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OFJ8V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "遅くなってしまいましたがスマブラ大会の企画書の添削を終えました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "添削した要件"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・オンライン想定の旨、オフラインの際は開催しないものとする"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・景品受け渡しは裏"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・配信時間は1時間程度"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・コントローラトラブルはこちらでもコントローラを用意しているという観点から、持参物のトラブルについては責任を負わない。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ーーーーーーーーーーー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "以下現在未確定につき添削不可なもの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・時間の明記"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・景品について"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・大講義室が使用可能かどうか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "下の3項目については私の独断では決めかねる為まだ触れておりません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039L92GA3X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

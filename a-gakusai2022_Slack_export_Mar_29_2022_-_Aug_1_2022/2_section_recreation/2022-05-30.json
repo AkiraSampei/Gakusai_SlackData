@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "この前自分が考えてたやつ共有しときます。\n1人で考えたやつなので、まだ未定なことが多いのでよろしくお願いします。",
+        "files": [
+            {
+                "id": "F03J5T2G9KJ",
+                "created": 1653895076,
+                "timestamp": 1653895076,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 543788,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03J5T2G9KJ\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03J5T2G9KJ\/download\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________960.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03J5T2G9KJ-cb5bbcb594\/ios___________1024.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1620,
+                "original_h": 2160,
+                "thumb_tiny": "AwAwACSDe3HJ\/OjeR13H\/gVNHTuaOD2xQAuT3Lj8aMn1f\/vqgDB4JoxkdTQA0s395vzo3N\/eb86Q8HqaPxNADh070nfvil7dzRn0yKABT1wT+NDcDhjilBz\/ABH8qa3Hc0AJn3oz70fjR+NADu3Wjr64pdrf3aArHoPzoABx3\/MU09adhieVpCjemaAG\/lR+VLsb+7Rsb+7QB\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03J5T2G9KJ\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03J5T2G9KJ-0e259db6fb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RCZ4E04",
+        "display_as_bot": false,
+        "ts": "1653895210.240419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WbzPF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この前自分が考えてたやつ共有しときます。\n1人で考えたやつなので、まだ未定なことが多いのでよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "F5878479-7049-4581-B174-A316F2A018EE",
+        "reactions": [
+            {
+                "name": "parrot_bouncing",
+                "users": [
+                    "U0391RWR34N",
+                    "U039M3UAXFG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

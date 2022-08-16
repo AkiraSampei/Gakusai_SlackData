@@ -1,0 +1,255 @@
+[
+    {
+        "type": "message",
+        "text": "今日これがあるので昼休みから開室してください。",
+        "user": "U03901B3W69",
+        "ts": "1650844627.204439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/a-gakusai2022.slack.com\/archives\/C0391SF3N91\/p1650366602793169",
+                "ts": "1650366602.793169",
+                "author_id": "U03901B3W69",
+                "channel_team": "T038Z0K089K",
+                "channel_id": "C0391SF3N91",
+                "channel_name": "0_random",
+                "is_msg_unfurl": true,
+                "message_blocks": [
+                    {
+                        "team": "T038Z0K089K",
+                        "channel": "C0391SF3N91",
+                        "ts": "1650366602.793169",
+                        "message": {
+                            "blocks": [
+                                {
+                                    "type": "rich_text",
+                                    "block_id": "WOh",
+                                    "elements": [
+                                        {
+                                            "type": "rich_text_section",
+                                            "elements": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "台湾ニキまさかの院生でした。25日の13時半から、誰か一緒に対応できますか。"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "files": [
+                    {
+                        "id": "F03BX8N31S9",
+                        "created": 1650366481,
+                        "timestamp": 1650366481,
+                        "name": "image.png",
+                        "title": "image.png",
+                        "mimetype": "image\/png",
+                        "filetype": "png",
+                        "pretty_type": "PNG",
+                        "user": "U03901B3W69",
+                        "editable": false,
+                        "size": 51211,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03BX8N31S9\/image.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03BX8N31S9\/download\/image.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "media_display_type": "unknown",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 99,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 132,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 197,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 219,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_960.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 263,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BX8N31S9-7465d82c41\/image_1024.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 281,
+                        "original_w": 1463,
+                        "original_h": 401,
+                        "thumb_tiny": "AwANADDS79qKCM0YoAWiiigApKWigD\/\/2Q==",
+                        "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03901B3W69\/F03BX8N31S9\/image.png",
+                        "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03BX8N31S9-0929429c68",
+                        "comments_count": 0,
+                        "is_starred": false,
+                        "shares": {
+                            "public": {
+                                "C0391SF3N91": [
+                                    {
+                                        "reply_users": [],
+                                        "reply_users_count": 0,
+                                        "reply_count": 0,
+                                        "ts": "1650844627.204439",
+                                        "channel_name": "0_random",
+                                        "team_id": "T038Z0K089K",
+                                        "share_user_id": "U03901B3W69"
+                                    },
+                                    {
+                                        "reply_users": [],
+                                        "reply_users_count": 0,
+                                        "reply_count": 0,
+                                        "ts": "1650366602.793169",
+                                        "channel_name": "0_random",
+                                        "team_id": "T038Z0K089K",
+                                        "share_user_id": "U03901B3W69"
+                                    }
+                                ]
+                            }
+                        },
+                        "channels": [
+                            "C0391SF3N91"
+                        ],
+                        "groups": [],
+                        "ims": [],
+                        "has_rich_preview": false
+                    }
+                ],
+                "color": "D0D0D0",
+                "is_share": true,
+                "fallback": "[April 19th, 2022 8:10 PM] s1270250: 台湾ニキまさかの院生でした。25日の13時半から、誰か一緒に対応できますか。",
+                "text": "台湾ニキまさかの院生でした。25日の13時半から、誰か一緒に対応できますか。",
+                "author_name": "Junta Miyazaki",
+                "author_link": "https:\/\/a-gakusai2022.slack.com\/team\/U03901B3W69",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_48.jpg",
+                "author_subname": "Junta Miyazaki",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "footer": "#0_random に投稿"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZbNa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日これがあるので昼休みから開室してください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd558ec8-1069-47b8-80a5-329999fde7b6",
+        "type": "message",
+        "text": "<!channel>\n「僕・私今年から学祭入りました～」って人はこれにリアクション:slightly_smiling_face:かスレッドで返信:speech_balloon:してください。\n皆さんのこと知りたいので。:smirk:",
+        "user": "U0399UH8BKQ",
+        "ts": "1650856851.977279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ecwHN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n「僕・私今年から学祭入りました～」って人はこれにリアクション"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face",
+                                "unicode": "1f642"
+                            },
+                            {
+                                "type": "text",
+                                "text": "かスレッドで返信"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "speech_balloon",
+                                "unicode": "1f4ac"
+                            },
+                            {
+                                "type": "text",
+                                "text": "してください。\n皆さんのこと知りたいので。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smirk",
+                                "unicode": "1f60f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U0399UH8BKQ",
+                    "U03D0L4BEJU",
+                    "U03CATDUH0A",
+                    "U03CUPE920G"
+                ],
+                "count": 4
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

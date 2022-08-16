@@ -1,0 +1,283 @@
+[
+    {
+        "client_msg_id": "48bdc687-6928-405d-a1ee-2ce8b061d1e9",
+        "type": "message",
+        "text": "<@U039TSY8J67> <@U039LGX8MN1> 突然のメンション失礼します。今月中に挨拶のメールや訪問をしていただきたいのですが、可能でしょうか。よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655969516.910449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wGT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039TSY8J67"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039LGX8MN1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 突然のメンション失礼します。今月中に挨拶のメールや訪問をしていただきたいのですが、可能でしょうか。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U039LGX8MN1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "19b33f92-4720-49c9-bc47-cc8251599781",
+        "type": "message",
+        "text": "来週行こうと思うのですが、\n30期生に挨拶に行く場所を\n来年以降入る人と一緒に挨拶に行くのに\n覚えて貰いたいので着いてきて欲しいです\n来週の空いている時間教えて貰えますか？",
+        "user": "U039LGX8MN1",
+        "ts": "1655988726.586629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge4cceea23c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4cceea23c3c852dd9aef914c9b398f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "白湯",
+            "real_name": "白湯",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "satoyuma3314",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cvn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来週行こうと思うのですが、\n30期生に挨拶に行く場所を\n来年以降入る人と一緒に挨拶に行くのに\n覚えて貰いたいので着いてきて欲しいです\n来週の空いている時間教えて貰えますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63CFD475-2B30-492F-BAE5-8F80BF2F370B",
+        "type": "message",
+        "text": "<!channel> ↑",
+        "user": "U0394PQ44FL",
+        "ts": "1655988752.646929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "srVRk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U039LGX8MN1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "時間割はこんな感じで、水曜日の午後6時以降と金曜日の午後8時以降にはサークル活動の予定です。それ以外の時間なら多分いつでも大丈夫です！",
+        "files": [
+            {
+                "id": "F03LZSD4EFL",
+                "created": 1656039266,
+                "timestamp": 1656039266,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U03K8F1PW82",
+                "editable": false,
+                "size": 45006,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LZSD4EFL\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LZSD4EFL\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 222,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 296,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 444,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 493,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 592,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LZSD4EFL-cbbba667ab\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 631,
+                "thumb_1024_h": 1024,
+                "original_w": 734,
+                "original_h": 1191,
+                "thumb_tiny": "AwAwAB2FIkNruKjO3OarYHpV2EZtlB6EUvkR5+5+tK5o432I44ozb7igzg81VwPStAIFQqBxz3phgj\/u\/rRcHEWD\/j3T6U24dkC7TjJp0A\/0dPpUd391fqaXUb+EkiYtECTyc09s1TjmdQFBGM+lXGoY4u6KkMzgInGOnSpLv7q\/U1WgyzcMq7RnnvTpJnkAyU49KdjPm0sTRQq0YY5z9asNmqaTuqbQY8e9IbyQ9losUpJI\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03K8F1PW82\/F03LZSD4EFL\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LZSD4EFL-e6c2d95ff2",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03K8F1PW82",
+        "display_as_bot": false,
+        "ts": "1656039268.098019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "時間割はこんな感じで、水曜日の午後6時以降と金曜日の午後8時以降にはサークル活動の予定です。それ以外の時間なら多分いつでも大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7C477F01-D1A6-4CCE-8EDE-16B8A37E38C9"
+    },
+    {
+        "client_msg_id": "3fafa644-a95d-4aa1-96db-1d92fcee3798",
+        "type": "message",
+        "text": "<@U039TSY8J67> <@U03K8F1PW82> \n2人とも水曜の3:30なら行けそう？\n良ければその時間に行きたいです",
+        "user": "U039LGX8MN1",
+        "ts": "1656041009.314869",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge4cceea23c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4cceea23c3c852dd9aef914c9b398f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "白湯",
+            "real_name": "白湯",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "satoyuma3314",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039TSY8J67"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03K8F1PW82"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n2人とも水曜の3:30なら行けそう？\n良ければその時間に行きたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

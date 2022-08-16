@@ -1,0 +1,70 @@
+[
+    {
+        "client_msg_id": "B22F9443-9708-44FE-A1FA-17E1FC323EED",
+        "type": "message",
+        "text": "今週空いてる時間は金曜の1・2限です！\n他は厳しそうです、すみません:bow:",
+        "user": "U03CATDUH0A",
+        "ts": "1657612631.369199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "h=cp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今週空いてる時間は金曜の1・2限です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "他は厳しそうです"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

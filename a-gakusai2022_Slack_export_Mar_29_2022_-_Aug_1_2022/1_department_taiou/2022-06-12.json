@@ -1,0 +1,172 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655088992.210129",
+        "user": "U03CUPE920G",
+        "text": "<@U03CUPE920G>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "client_msg_id": "e6a3a779-dd12-46a3-bbd9-b3ab23dfa460",
+        "type": "message",
+        "text": "<!channel> こんにちは、全体会議行けなかった対応部長の渡辺涼太です。\n急ですが、対応部会議を開きたいので今日中に以下のgoogleformに回答いただきたいです。よろしくお願いします。\n<https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdtIrhmwX6-jefQ65w4IHNREiyZIMlIOd4utCWkxaA5TuU16Q\/viewform?usp=sf_link>",
+        "user": "U039V55S998",
+        "ts": "1655089376.292149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hchX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんにちは、全体会議行けなかった対応部長の渡辺涼太です。\n急ですが、対応部会議を開きたいので今日中に以下のgoogleformに回答いただきたいです。よろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdtIrhmwX6-jefQ65w4IHNREiyZIMlIOd4utCWkxaA5TuU16Q\/viewform?usp=sf_link"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655089376.292149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655089608.840579",
+        "reply_users": [
+            "U0391RWR34N",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1655089481.396999"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655089608.840579"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "d92a0425-7b00-449f-9dbb-863cb6549f93",
+        "type": "message",
+        "text": "名前書くところ付けて〜！",
+        "user": "U0391RWR34N",
+        "ts": "1655089481.396999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "utwn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "名前書くところ付けて〜！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655089376.292149",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "26db51f3-aa92-4c69-9ee1-27885d280874",
+        "type": "message",
+        "text": "失礼しました。訂正しました",
+        "user": "U039V55S998",
+        "ts": "1655089608.840579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nzL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼しました。訂正しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655089376.292149",
+        "parent_user_id": "U039V55S998",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "client_msg_id": "5da23a0c-d30d-4dc3-b881-30d9eb847bdf",
+        "type": "message",
+        "text": "<@U03CUPE920G> 今日の会議で決定したのですが、グリーンライフさんに返信のメールを書いてもらおうと思います。\n・返信のお礼\n・７月５日までに出店リストの提示のお願い\n・締めの文\n以上の内容でメールの返信をお願いします。\n一度書いたらメールチェックに出してください",
+        "user": "U039V55S998",
+        "ts": "1656325968.249139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gandp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CUPE920G"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 今日の会議で決定したのですが、グリーンライフさんに返信のメールを書いてもらおうと思います。\n・返信のお礼\n・７月５日までに出店リストの提示のお願い\n・締めの文\n以上の内容でメールの返信をお願いします。\n一度書いたらメールチェックに出してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c3404c9-b78c-4c1f-8edf-281eb33edb02",
+        "type": "message",
+        "text": "メールいい感じなので返信しちゃいましょう。\nccにa-gakusai@u-aizu.ac.jpを忘れずに！",
+        "user": "U039V55S998",
+        "ts": "1656373772.626209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5Is",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールいい感じなので返信しちゃいましょう。\nccにa-gakusai@u-aizu.ac.jpを忘れずに！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FA5FDA79-6970-43EA-8346-479D83C6ED13",
+        "type": "message",
+        "text": "分かりました。",
+        "user": "U03CUPE920G",
+        "ts": "1656377741.689989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GzKC9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分かりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

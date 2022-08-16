@@ -1,0 +1,259 @@
+[
+    {
+        "type": "message",
+        "text": "制限解除です",
+        "files": [
+            {
+                "id": "F03FJ1L2PDH",
+                "created": 1652662944,
+                "timestamp": 1652662944,
+                "name": "スクリーンショット 2022-05-16 10.01.49.png",
+                "title": "スクリーンショット 2022-05-16 10.01.49.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 112660,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03FJ1L2PDH\/____________________________2022-05-16_10.01.49.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03FJ1L2PDH\/download\/____________________________2022-05-16_10.01.49.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 147,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 196,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 294,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 326,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_960.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 392,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FJ1L2PDH-f457e136d5\/____________________________2022-05-16_10.01.49_1024.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 418,
+                "original_w": 1162,
+                "original_h": 474,
+                "thumb_tiny": "AwATADDRbdk4pMt7j8BSMQGOcflSZyOi\/lQBID7Gl4qLnP3R+VOAyeQPyoAfRQAB0FFAETsQ+AaQMc9T1ok+\/SL1\/GgBVY7upqaoF+9U9ABRRRQB\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03FJ1L2PDH\/____________________________2022-05-16_10.01.49.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03FJ1L2PDH-066182924f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1652662953.914129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RCIv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "制限解除です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "f85cf3ab-7efe-46e0-80c5-1be2fec99a77",
+        "reactions": [
+            {
+                "name": "takopii",
+                "users": [
+                    "U0399UH8BKQ",
+                    "U039H10MUTY",
+                    "U0394PQ44FL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039H10MUTY",
+                    "U0394PQ44FL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039H10MUTY",
+                    "U0394PQ44FL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039H10MUTY",
+                    "U0394PQ44FL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039H10MUTY",
+                    "U03901B3W69",
+                    "U039M3UAXFG",
+                    "U0391RWR34N",
+                    "U0394PQ44FL",
+                    "U03CUPE920G"
+                ],
+                "count": 7
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3A6F0935-8CA7-4A30-9F68-60AE407165A9",
+        "type": "message",
+        "text": "開けました\nただ、警備の人に聞いたら一応20時まででお願いしますと言われました",
+        "user": "U039PA9J5JP",
+        "ts": "1652666776.224259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qlb4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開けました\nただ、警備の人に聞いたら一応20時まででお願いしますと言われました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652666776.224259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1652666816.935149",
+        "reply_users": [
+            "U039WPGBPDH"
+        ],
+        "replies": [
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1652666816.935149"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "takopii",
+                "users": [
+                    "U0399UH8BKQ",
+                    "U039WPGBPDH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7474C64A-D83F-43F7-8CF1-1C09497592B9",
+        "type": "message",
+        "text": "縛りなくなったの！？",
+        "user": "U039WPGBPDH",
+        "ts": "1652666816.935149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uo7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "縛りなくなったの！？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652666776.224259",
+        "parent_user_id": "U039PA9J5JP",
+        "reactions": [
+            {
+                "name": "takopii",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039BUU0GAH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

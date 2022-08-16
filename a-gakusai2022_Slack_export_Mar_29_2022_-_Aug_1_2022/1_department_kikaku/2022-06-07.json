@@ -1,0 +1,206 @@
+[
+    {
+        "client_msg_id": "bde8d690-8c83-45c8-b236-2e6fb479dc3a",
+        "type": "message",
+        "text": "<!channel> お疲れ様です。テスト期間中なのに勉強に身が入っていない駒形です。全体会議が6\/11にありますが、事前に2年生以上の企画者担当の確認を行いたいと思います。全体会議後に企画部会議を行いますが、その際に1年生の企画の担当決めも行いたいと考えています。事前に2年生以上の企画担当を割り振ることによって企画部会議のときに1年生と企画の顔合わせや企画書作成の為のアポ調整などもスムーズにできると考えています。テスト期間で忙しい中大変だと思いますが、Googleスプレッドシートに企画の担当者の欄に記入の方をお願いします。スプレッドシートには去年度の企画者の担当者の名前が記入されていますが、もし今年度はほかの企画の担当に変わりたい。または、企画を掛け持ちしてしても大丈夫な方はスプレッドシートを変更,記入しても大丈夫です。6\/10まで変更,記入の方をお願いします。\n\n<https:\/\/docs.google.com\/spreadsheets\/d\/1eXWUiTyaVHPArTMRPebHu9Jq5kDplhNq9Lbg1AFYAtE\/edit#gid=754940793>",
+        "user": "U03BM52KMEC",
+        "ts": "1654608984.235669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x8zCU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です。テスト期間中なのに勉強に身が入っていない駒形です。全体会議が6\/11にありますが、事前に2年生以上の企画者担当の確認を行いたいと思います。全体会議後に企画部会議を行いますが、その際に1年生の企画の担当決めも行いたいと考えています。事前に2年生以上の企画担当を割り振ることによって企画部会議のときに1年生と企画の顔合わせや企画書作成の為のアポ調整などもスムーズにできると考えています。テスト期間で忙しい中大変だと思いますが、Googleスプレッドシートに企画の担当者の欄に記入の方をお願いします。スプレッドシートには去年度の企画者の担当者の名前が記入されていますが、もし今年度はほかの企画の担当に変わりたい。または、企画を掛け持ちしてしても大丈夫な方はスプレッドシートを変更,記入しても大丈夫です。6\/10まで変更,記入の方をお願いします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1eXWUiTyaVHPArTMRPebHu9Jq5kDplhNq9Lbg1AFYAtE\/edit#gid=754940793"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654608984.235669",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1654651313.872289",
+        "reply_users": [
+            "U0391RWR34N",
+            "U03BM52KMEC"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1654611904.150059"
+            },
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1654651313.872289"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "fc09cc2f-240c-48ce-8e4f-a2683cfc1b0e",
+        "type": "message",
+        "text": "急な連絡で本当にすいません。",
+        "user": "U03BM52KMEC",
+        "ts": "1654609061.234209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qHUs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急な連絡で本当にすいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0391RWR34N",
+                    "U039M3UAXFG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8BBA1BB2-7AE4-4C42-969D-06698E1D6129",
+        "type": "message",
+        "text": "前年度と同じ企画受け持つよーって事なら、特にシートに変更加えなくて良いって事だね？",
+        "user": "U0391RWR34N",
+        "ts": "1654611904.150059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z5V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前年度と同じ企画受け持つよーって事なら、特にシートに変更加えなくて良いって事だね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654608984.235669",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "6646626d-b46a-4aed-876d-f31768b28a00",
+        "type": "message",
+        "text": "はい、変更加えなくて大丈夫です。",
+        "user": "U03BM52KMEC",
+        "ts": "1654651313.872289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BJD9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい、変更加えなくて大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654608984.235669",
+        "parent_user_id": "U03BM52KMEC",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

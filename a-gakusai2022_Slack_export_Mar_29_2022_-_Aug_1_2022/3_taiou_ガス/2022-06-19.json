@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655684525.955039",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655684787.363979",
+        "user": "U03KRPKDY8L",
+        "text": "<@U03KRPKDY8L>さんがチャンネルに参加しました",
+        "inviter": "U039V55S998"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655684797.714219",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました",
+        "inviter": "U039V55S998"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655695582.665549",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました",
+        "inviter": "U039V55S998"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655695775.707609",
+        "user": "U039V55S998",
+        "text": "チャンネル名を「3_taiou_gas」から「3_taiou_ガス」に変更しました",
+        "old_name": "3_taiou_gas",
+        "name": "3_taiou_ガス"
+    }
+]

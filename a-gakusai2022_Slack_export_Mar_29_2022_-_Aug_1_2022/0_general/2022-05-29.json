@@ -1,0 +1,347 @@
+[
+    {
+        "client_msg_id": "e448b162-246d-4bda-beb6-a1cd51449fe1",
+        "type": "message",
+        "text": "<!channel> *主に２、3年生の方々へ*\n今日の議事録の通り一年生の勧誘のため、食堂でプチ説明会を設けたいと考えております。\n＜日時＞\n・6月1日（水）13:20~18:30\n・6月2日（木）13:20~18:30\n＜主な仕事＞\n・説明のために食堂or学祭室で待機\n・一年生に向けて学祭の組織の説明する（５分程度）\n（説明自体はだいぶざっくりしたもので構いません。）\n\nというわけでどうしても人手が必要です！！\n入れそうな時間を伝助で記入してください！！！\nそれを元にしてざっくりしたシフトみたいなものを作成したいと思います。\nご協力お願いします:pray:",
+        "user": "U039PA9J5JP",
+        "ts": "1653820389.176219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lQKV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "主に２、3年生の方々へ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日の議事録の通り一年生の勧誘のため、食堂でプチ説明会を設けたいと考えております。\n＜日時＞\n・6月1日（水）13:20~18:30\n・6月2日（木）13:20~18:30\n＜主な仕事＞\n・説明のために食堂or学祭室で待機\n・一年生に向けて学祭の組織の説明する（５分程度）\n（説明自体はだいぶざっくりしたもので構いません。）\n\nというわけでどうしても人手が必要です！！\n入れそうな時間を伝助で記入してください！！！\nそれを元にしてざっくりしたシフトみたいなものを作成したいと思います。\nご協力お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59abaa13-c570-40a7-a88f-1057679d9708",
+        "type": "message",
+        "text": "```<https:\/\/densuke.biz\/list?cd=HfSGT2XNGaTSTEEC>```",
+        "user": "U039PA9J5JP",
+        "ts": "1653820448.986469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wL5g",
+                "elements": [
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=HfSGT2XNGaTSTEEC"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1653820448.986469",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1654063356.077239",
+        "reply_users": [
+            "U039PA9J5JP",
+            "U0391RWR34N",
+            "U039L92GA3X"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1653820735.639049"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1654057307.240009"
+            },
+            {
+                "user": "U039L92GA3X",
+                "ts": "1654063356.077239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "入る時間はI時間だけとかなく、当日は入れるだけ入っても大丈夫です。複数選択おkです。何卒何卒です:pray:",
+        "user": "U039PA9J5JP",
+        "ts": "1653820735.639049",
+        "thread_ts": "1653820448.986469",
+        "root": {
+            "client_msg_id": "59abaa13-c570-40a7-a88f-1057679d9708",
+            "type": "message",
+            "text": "```<https:\/\/densuke.biz\/list?cd=HfSGT2XNGaTSTEEC>```",
+            "user": "U039PA9J5JP",
+            "ts": "1653820448.986469",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wL5g",
+                    "elements": [
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/densuke.biz\/list?cd=HfSGT2XNGaTSTEEC"
+                                }
+                            ],
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1653820448.986469",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1654063356.077239",
+            "reply_users": [
+                "U039PA9J5JP",
+                "U0391RWR34N",
+                "U039L92GA3X"
+            ],
+            "replies": [
+                {
+                    "user": "U039PA9J5JP",
+                    "ts": "1653820735.639049"
+                },
+                {
+                    "user": "U0391RWR34N",
+                    "ts": "1654057307.240009"
+                },
+                {
+                    "user": "U039L92GA3X",
+                    "ts": "1654063356.077239"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IzMsR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "入る時間はI時間だけとかなく、当日は入れるだけ入っても大丈夫です。複数選択おkです。何卒何卒です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "200bec0b-faf9-415f-bd5f-9e4637801821"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "皆さんお疲れ様です\n\nこの予算総会なのですが15:00からになりました\n\n新入生対応しない方やお手隙の方は必ず参加をお願いいたします",
+        "user": "U0394PQ44FL",
+        "ts": "1653890990.629839",
+        "thread_ts": "1653553632.322909",
+        "root": {
+            "client_msg_id": "7c896087-0a9e-46ef-9f9e-a5618a1aab81",
+            "type": "message",
+            "text": "<!channel>\n皆さんこんにちは、学生会執行部員 兼 学園祭実行委員のましこです。\n\n*とっても大切な連絡です。*\n６月１日に予算総会が執り行われます。この総会を執り行うためには参加人数が学生会員の１\/１０（１１０人）を超える必要があります。そのため学園祭実行委員会の皆さまに、参加のご協力をお願いしたいと思います。\n\n日付：６月１日\n時間：未定\n場所：Zoom\n\nこの総会は我々学園祭実行委員会の予算を申請できるかできないかの明暗を分ける非常に重要なものです。*総会が実施できなかった場合、今年度の予算を受け取ることができません。つまり学園祭を開催することができません。*\nそのため、ご都合のつく方は積極的な参加をお願いします。\n\n開催前日ほどにもう一度ご連絡させていただきます。\n皆さま、よろしくお願いいたします。",
+            "user": "U0394PQ44FL",
+            "ts": "1653553632.322909",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "xnB",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "broadcast",
+                                    "range": "channel"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n皆さんこんにちは、学生会執行部員 兼 学園祭実行委員のましこです。\n\n"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "とっても大切な連絡です。",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n６月１日に予算総会が執り行われます。この総会を執り行うためには参加人数が学生会員の１\/１０（１１０人）を超える必要があります。そのため学園祭実行委員会の皆さまに、参加のご協力をお願いしたいと思います。\n\n日付：６月１日\n時間：未定\n場所：Zoom\n\nこの総会は我々学園祭実行委員会の予算を申請できるかできないかの明暗を分ける非常に重要なものです。"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "総会が実施できなかった場合、今年度の予算を受け取ることができません。つまり学園祭を開催することができません。",
+                                    "style": {
+                                        "bold": true
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\nそのため、ご都合のつく方は積極的な参加をお願いします。\n\n開催前日ほどにもう一度ご連絡させていただきます。\n皆さま、よろしくお願いいたします。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1653553632.322909",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1653890990.629839",
+            "reply_users": [
+                "U0394PQ44FL"
+            ],
+            "replies": [
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1653890990.629839"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1653890990.629839"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=iL1e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さんお疲れ様です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この予算総会なのですが15:00からになりました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n新入生対応"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しない"
+                            },
+                            {
+                                "type": "text",
+                                "text": "方"
+                            },
+                            {
+                                "type": "text",
+                                "text": "や"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お手隙の方"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "必ず参加"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "70D753D8-5C8A-4458-950B-3E597CB48AA7"
+    }
+]

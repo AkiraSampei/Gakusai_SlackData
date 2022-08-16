@@ -1,0 +1,137 @@
+[
+    {
+        "type": "message",
+        "text": "装飾課の議事録",
+        "files": [
+            {
+                "id": "F03NWSP9VE1",
+                "created": 1657525478,
+                "timestamp": 1657525478,
+                "name": "装飾_UOA.pdf",
+                "title": "装飾_UOA.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039L92GA3X",
+                "editable": false,
+                "size": 78467,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NWSP9VE1\/_______uoa.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NWSP9VE1\/download\/_______uoa.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NWSP9VE1-598ddf2f0a\/_______uoa_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039L92GA3X\/F03NWSP9VE1\/_______uoa.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03NWSP9VE1-3d58d4df4a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039L92GA3X",
+        "display_as_bot": false,
+        "ts": "1657525494.966839",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fqtng",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "装飾課の議事録"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4af8b5ac-2c3e-4d0d-833c-b8a637caf33c",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "日曜日ピタさんとステージの確認した会議の内容です。",
+        "files": [
+            {
+                "id": "F03NX8S04MT",
+                "created": 1657531423,
+                "timestamp": 1657531423,
+                "name": "20220710ステージ.pdf",
+                "title": "20220710ステージ.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 363025,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NX8S04MT\/20220710____________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NX8S04MT\/download\/20220710____________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NX8S04MT-5eb07fe296\/20220710_____________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03NX8S04MT\/20220710____________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03NX8S04MT-91e1c99155",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RCZ4E04",
+        "display_as_bot": false,
+        "ts": "1657531466.461719",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4z6l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日曜日ピタさんとステージの確認した会議の内容です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e94e68be-de97-48d9-8fc0-36db7f7986f0",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

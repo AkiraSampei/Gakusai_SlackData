@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "4B8D16AE-33C1-4A83-A52C-CA08129E9B98",
+        "type": "message",
+        "text": "保健所関係の人の会議でしょうか？\n一度会議をおこなっても大丈夫だと思います:woman-gesturing-ok:",
+        "user": "U03A9180MAN",
+        "ts": "1656146448.920149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=GMMe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "保健所関係の人の会議でしょうか？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一度会議をおこなっても大丈夫だと思います"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656122154.136969",
+        "parent_user_id": "U039P4NSKM1"
+    },
+    {
+        "client_msg_id": "25a61a88-a38a-459f-b7d2-d293dfe1a524",
+        "type": "message",
+        "text": "了解です",
+        "user": "U039P4NSKM1",
+        "ts": "1656152955.630619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ieA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656122154.136969",
+        "parent_user_id": "U039P4NSKM1"
+    },
+    {
+        "client_msg_id": "53035f95-b274-4a27-998a-802e1dcd7ff6",
+        "type": "message",
+        "text": "保健所についての会議をします",
+        "user": "U039P4NSKM1",
+        "ts": "1656153170.955689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jQi3\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "保健所についての会議をします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656122154.136969",
+        "parent_user_id": "U039P4NSKM1"
+    }
+]

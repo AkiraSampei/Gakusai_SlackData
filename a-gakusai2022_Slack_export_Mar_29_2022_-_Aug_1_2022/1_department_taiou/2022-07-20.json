@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "D5EA054D-E411-47EE-8906-FDB32F3CEDC1",
+        "type": "message",
+        "text": "この資料はどっからか引っ張って来たのですか？",
+        "user": "U039V55S998",
+        "ts": "1658301239.354179",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15PQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この資料はどっからか引っ張って来たのですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658299735.914879",
+        "parent_user_id": "U039PA9J5JP",
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

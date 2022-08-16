@@ -1,0 +1,233 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046241.854519",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1649046242.250999",
+        "user": "U0399UH8BKQ",
+        "text": "がこのチャンネルの説明を「全体会議・各部会議の議事録の保管場所です。」に設定しました",
+        "purpose": "全体会議・各部会議の議事録の保管場所です。"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1649046347.936019",
+        "user": "U0399UH8BKQ",
+        "text": "がこのチャンネルの説明を「全体会議・各部会議の議事録の保管場所です。\n\n:warning:a-gakusaiでメール流すのも忘れずに！:warning:\n\n追加等あればスレッド等で追加してください。\n序文の小粋なジョーク推奨。」に設定しました",
+        "purpose": "全体会議・各部会議の議事録の保管場所です。\n\n:warning:a-gakusaiでメール流すのも忘れずに！:warning:\n\n追加等あればスレッド等で追加してください。\n序文の小粋なジョーク推奨。"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.142019",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.199079",
+        "user": "U039E77FQ3H",
+        "text": "<@U039E77FQ3H>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.257829",
+        "user": "U03AJV9QH96",
+        "text": "<@U03AJV9QH96>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.309019",
+        "user": "U039PA9J5JP",
+        "text": "<@U039PA9J5JP>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.366889",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.423089",
+        "user": "U039BUU0GAH",
+        "text": "<@U039BUU0GAH>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.479049",
+        "user": "U039L92GA3X",
+        "text": "<@U039L92GA3X>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.547719",
+        "user": "U039RJU3V36",
+        "text": "<@U039RJU3V36>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.603719",
+        "user": "U039D5XVCJ3",
+        "text": "<@U039D5XVCJ3>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.667699",
+        "user": "U039EF90649",
+        "text": "<@U039EF90649>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.727369",
+        "user": "U03A1N54PJM",
+        "text": "<@U03A1N54PJM>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.737059",
+        "user": "U03A1N54PJM",
+        "text": "<@U03A1N54PJM>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.786529",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.794849",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.841739",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.856609",
+        "user": "U03A1S6RAF3",
+        "text": "<@U03A1S6RAF3>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.907279",
+        "user": "U039RCZ4E04",
+        "text": "<@U039RCZ4E04>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.920039",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.968099",
+        "user": "U039TSY8J67",
+        "text": "<@U039TSY8J67>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046376.983509",
+        "user": "U039T9DE072",
+        "text": "<@U039T9DE072>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046377.029439",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046377.043759",
+        "user": "U039LGX8MN1",
+        "text": "<@U039LGX8MN1>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046377.090179",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046377.095509",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046377.145519",
+        "user": "U039H10MUTY",
+        "text": "<@U039H10MUTY>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649046377.147979",
+        "user": "U039H10MUTY",
+        "text": "<@U039H10MUTY>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    }
+]

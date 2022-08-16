@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "ba38c4e6-5b49-4d4b-962f-ffe589741092",
+        "type": "message",
+        "text": "雑誌まとめ\nvoice\n10\/22号\n掲載料80,000円\n表紙面の下のスペース（8.8×25）\n締切：完全データは10\/14、素材は10\/7\n入金：振込or集金（月末まで）\n\nquick\n10\/21号\n掲載料60,500円\n表紙枠（99.5mm×245mm）\n締切：初稿10\/5頃\n入金：振込（11月末まで）",
+        "user": "U039RJU3V36",
+        "ts": "1657976730.747729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bin0c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "雑誌まとめ\nvoice\n10\/22号\n掲載料80,000円\n表紙面の下のスペース（8.8×25）\n締切：完全データは10\/14、素材は10\/7\n入金：振込or集金（月末まで）\n\nquick\n10\/21号\n掲載料60,500円\n表紙枠（99.5mm×245mm）\n締切：初稿10\/5頃\n入金：振込（11月末まで）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381709.854409",
+        "parent_user_id": "U039RJU3V36"
+    }
+]

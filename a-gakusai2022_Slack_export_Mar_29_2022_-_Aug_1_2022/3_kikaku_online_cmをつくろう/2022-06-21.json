@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "039b87c0-b049-44ff-8556-d34e9eaf2f79",
+        "type": "message",
+        "text": "こっちは場所どうする？食堂？",
+        "user": "U038TMLJW1M",
+        "ts": "1655863462.656579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6J2l7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こっちは場所どうする？食堂？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "266e6665-12ba-4b8f-aa9b-cb37aee6b623",
+        "type": "message",
+        "text": "食堂で午後1時にやります",
+        "user": "U03BM52KMEC",
+        "ts": "1655863488.608999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HPx1q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "食堂で午後1時にやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "了解",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df44bfcf-3acd-4c87-b581-bc76597e2f1b",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg>",
+        "user": "U03BM52KMEC",
+        "ts": "1655872229.612709",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MyN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

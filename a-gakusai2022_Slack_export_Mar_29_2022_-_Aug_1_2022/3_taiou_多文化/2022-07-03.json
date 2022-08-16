@@ -1,0 +1,315 @@
+[
+    {
+        "client_msg_id": "D7ADF00F-AB0E-47D2-81FC-AF6CC876E644",
+        "type": "message",
+        "text": "津久井様\n\nお世話になります。\n候補車両、下記になります。\nご希望の車両をご指定ください。（メニュー調整必要な場合はご相談ください）\n\n①めろんぱん A GO! GO!\nメロンパン各種、クロワッサン、パイ各種、ベーグル、メロンパンアイス、ドリンク各種\n\n②そらcafe\nクレープ（ホイップクリーム系とおかず系各種）\n\n③ふくふく\n小籠包、ひとくち餃子、手作りフランク、フリフリポテト、、焼き鳥、牛タン串、焼きそば\n\n④D-kitchen Hiro\nパスタ各種、パフェ各種、ドリンク、クリームソーダ\n\n⑤ロイヤルヒル\n·のむすいーつ、·タピオカドリンク、·けずりいちご\n\n⑥Show-me\nチーズハットグ、ロングトルネードポテト、ポテト&amp;唐揚げ、クマさんボトル入りドリンク、ソフトクリームソーダ、レインボー&amp;キャラクターわたあめ\n\n⑦リリーズカフェ\nこぼれタルタルチキンドッグ、ステーキ丼、ブルーシールアイス\n\n⑧AB'SDINER\nヤンニョムチキン、ヤンニョムライスバーガー、ライスバーガーポテトセット\n\n⑨ら・さんた\n厚切りハムカツバーガー、たまごサラダドック、元気な揚げカレーパン、極みのソフトクリーム、揚げクリームパン\n\nよろしくお願いします。\n\n=======================================\nグリーンライフJP　笹崎宣男\n〒960-8253 福島県福島市泉字火焼津１５－４\n<tel:090-2244-7189|tel:090-2244-7189>　fax:<tel:024-502-4338|024-502-4338>\nmail:<mailto:glif30@yahoo.co.jp|glif30@yahoo.co.jp>\nリリーズカフェ　 <http:\/\/liliscafe.wix.com\/index|http:\/\/liliscafe.wix.com\/index>\n=======================================",
+        "user": "U03CUPE920G",
+        "ts": "1656895319.339809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/liliscafe.wix.com\/index",
+                "service_icon": "https:\/\/www.wix.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/liliscafe.wix.com\/index",
+                "fallback": "index: 福島のクレープ・メロンパン移動販売 | 移動販売リリーズカフェ福島",
+                "text": "福島の移動販売のリリーズカフェ。こだわりのスイーツ、クレープからホットドッグ、アイスにコーヒーまで取りそろえた移動販売車です。福島県内全域のほかに山形県・栃木県もキッチンカーでの出店場所、イベント依頼募集中。",
+                "title": "福島のクレープ・メロンパン移動販売 | 移動販売リリーズカフェ福島",
+                "title_link": "http:\/\/liliscafe.wix.com\/index",
+                "service_name": "index"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FpcsC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "津久井様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話になります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "候補車両、下記になります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご希望の車両をご指定ください。（メニュー調整必要な場合はご相談ください）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n①めろんぱん A GO! GO!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メロンパン各種、クロワッサン、パイ各種、ベーグル、メロンパンアイス、ドリンク各種"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n②そらcafe"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "クレープ（ホイップクリーム系とおかず系各種）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n③ふくふく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "小籠包、ひとくち餃子、手作りフランク、フリフリポテト、、焼き鳥、牛タン串、焼きそば"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n④D-kitchen Hiro"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パスタ各種、パフェ各種、ドリンク、クリームソーダ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n⑤ロイヤルヒル"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "·のむすいーつ、·タピオカドリンク、·けずりいちご"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n⑥Show-me"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "チーズハットグ、ロングトルネードポテト、ポテト&唐揚げ、クマさんボトル入りドリンク、ソフトクリームソーダ、レインボー&キャラクターわたあめ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n⑦リリーズカフェ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こぼれタルタルチキンドッグ、ステーキ丼、ブルーシールアイス"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n⑧AB'SDINER"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ヤンニョムチキン、ヤンニョムライスバーガー、ライスバーガーポテトセット"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n⑨ら・さんた"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "厚切りハムカツバーガー、たまごサラダドック、元気な揚げカレーパン、極みのソフトクリーム、揚げクリームパン"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n======================================="
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "グリーンライフJP　笹崎宣男"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "〒960-8253 福島県福島市泉字火焼津１５－４"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:090-2244-7189",
+                                "text": "tel:090-2244-7189"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　fax:"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:024-502-4338",
+                                "text": "024-502-4338"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "mail:"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:glif30@yahoo.co.jp",
+                                "text": "glif30@yahoo.co.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "リリーズカフェ　 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/liliscafe.wix.com\/index",
+                                "text": "http:\/\/liliscafe.wix.com\/index"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "======================================="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

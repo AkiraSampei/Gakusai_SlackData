@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "4f41f2d8-ccc7-4055-8263-87c3309ca34f",
+        "type": "message",
+        "text": "↑<!channel>",
+        "user": "U03BM52KMEC",
+        "ts": "1657692241.860259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3fFq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cacb26d9-7806-4990-88ff-137e6f4ef926",
+        "type": "message",
+        "text": "企画書の改良、完成しました。",
+        "user": "U03GW267PQE",
+        "ts": "1657693736.000059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "8d4cd923fe95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3667185878081_8d4cd923fe95f2c88bc0_72.png",
+            "first_name": "Akito",
+            "real_name": "Akito Sudo",
+            "display_name": "須藤",
+            "team": "T038Z0K089K",
+            "name": "s1300140",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "reax",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画書の改良、完成しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "client_msg_id": "61614971-5e3c-4754-85cd-f80b9fb31354",
+        "type": "message",
+        "text": "添削終わった企画は報告書いた方がいいですかね\n友情マックは一応終わりました。",
+        "user": "U038TMLJW1M",
+        "ts": "1657792515.301449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ahU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "添削終わった企画は報告書いた方がいいですかね\n友情マックは一応終わりました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94039FC4-3AEF-43FE-AAC8-BE00C64E57B0",
+        "type": "message",
+        "text": "<!channel>そしたら進捗報告はこのスレッドお願いします！",
+        "user": "U039BUU0GAH",
+        "ts": "1657793665.058879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X8XAg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そしたら進捗報告はこのスレッドお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "catshake",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931620.842379",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654931621.246379",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「ドローン体験会運営」に設定しました",
+        "purpose": "ドローン体験会運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931632.798839",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「11_kikaku_ドローン体験会」から「15_kikaku_ドローン体験会」に変更しました",
+        "old_name": "11_kikaku_ドローン体験会",
+        "name": "15_kikaku_ドローン体験会"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931752.422469",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「15_kikaku_ドローン体験会」から「2_kikaku_ドローン体験会」に変更しました",
+        "old_name": "15_kikaku_ドローン体験会",
+        "name": "2_kikaku_ドローン体験会"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931833.579549",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    }
+]

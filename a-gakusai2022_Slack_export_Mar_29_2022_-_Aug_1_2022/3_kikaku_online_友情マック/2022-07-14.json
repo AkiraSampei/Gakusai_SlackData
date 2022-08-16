@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "a428775a-b222-4869-9bbc-8acd71d7c1be",
+        "type": "message",
+        "text": "友情マック　議事録抜粋\n・人柱に部長、課長が選ばれそう\nというか選びたい（筆者願望\n・収録日に車持ちを４人同時に準備できるか？\n→可能\n・動画時間はどのくらいなのか？\n→可能",
+        "user": "U038TMLJW1M",
+        "ts": "1657791443.666819",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j5epW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "友情マック　議事録抜粋\n・人柱に部長、課長が選ばれそう\nというか選びたい（筆者願望\n・収録日に車持ちを４人同時に準備できるか？\n→可能\n・動画時間はどのくらいなのか？\n→可能"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

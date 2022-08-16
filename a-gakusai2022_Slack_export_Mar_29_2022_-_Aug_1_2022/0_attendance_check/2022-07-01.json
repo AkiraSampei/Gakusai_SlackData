@@ -1,0 +1,288 @@
+[
+    {
+        "client_msg_id": "1913df58-a956-48f8-8895-fa85f7008ea6",
+        "type": "message",
+        "text": "日曜日の添削会議、法事で千葉にいるので参加できません、申し訳ないです。",
+        "user": "U03KPT8FAD7",
+        "ts": "1656677223.410879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QYyh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日曜日の添削会議、法事で千葉にいるので参加できません、申し訳ないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A3E1D481-6456-4E92-834E-EFC69816F256",
+        "type": "message",
+        "text": "急用により日曜日の添削会議を欠席します。すみません。",
+        "user": "U03CDMY1V9C",
+        "ts": "1656698720.952489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MXge",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急用により日曜日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "添削会議"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "欠席"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します。すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ABD969B-352B-47F8-82F4-790F4593E92F",
+        "type": "message",
+        "text": "10日の全体会議予定があるため、参加できないです。",
+        "user": "U039RCZ4E04",
+        "ts": "1656733914.318719",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6c4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10日の全体会議予定があるため、参加できないです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c5cadc04-0919-4f01-bdb3-ef72bd65e7c2",
+        "type": "message",
+        "text": "10日の全体会議は参加できないです",
+        "user": "U039P4NSKM1",
+        "ts": "1656734532.013739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fHdO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10日の全体会議は参加できないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9de07830-41e4-4344-8398-d13953e0d27e",
+        "type": "message",
+        "text": "10日の全体会議、参加出来なそうです",
+        "user": "U039RJU3V36",
+        "ts": "1656734841.589439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UvCi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10日の全体会議、参加出来なそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6909f77-1cf9-415e-9b13-111f2330119e",
+        "type": "message",
+        "text": "添削会と全体会議他に予定あるため参加できません。",
+        "user": "U03JVEZF16K",
+        "ts": "1656735409.574079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gce3b8c064d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce3b8c064d631f71df30389c596bff69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "木村好誠",
+            "real_name": "木村好誠",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "kimurakousei0606",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vbw8L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "添削会と全体会議他に予定あるため参加できません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "326a2e60-8356-4aa6-8459-40249f0d7175",
+        "type": "message",
+        "text": "全体会議参加できません",
+        "user": "U039V55S998",
+        "ts": "1656744639.489099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oqEA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全体会議参加できません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

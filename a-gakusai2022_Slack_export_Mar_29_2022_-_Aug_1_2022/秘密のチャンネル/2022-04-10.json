@@ -1,0 +1,182 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649647519.688879",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1649647520.061859",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「みつけてしまいましたね（ry」に設定しました",
+        "purpose": "みつけてしまいましたね（ry"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649647530.352179",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649647534.471699",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649647553.856159",
+        "user": "U039H10MUTY",
+        "text": "<@U039H10MUTY>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03AX9ERLE7",
+                "created": 1649647736,
+                "timestamp": 1649647736,
+                "name": "Fourier3 2020-04-23 09_04_10.pdf.zip",
+                "title": "Fourier3 2020-04-23 09_04_10.pdf.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 4378031,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AX9ERLE7\/fourier3_2020-04-23_09_04_10.pdf.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AX9ERLE7\/download\/fourier3_2020-04-23_09_04_10.pdf.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03AX9ERLE7\/fourier3_2020-04-23_09_04_10.pdf.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03AX9ERLE7-79a1e5a80c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1649647746.833749",
+        "client_msg_id": "5f042368-2c5b-4fc2-a659-2aa709b426cb"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03AQL96VHC",
+                "created": 1649648662,
+                "timestamp": 1649648662,
+                "name": "comparch.zip",
+                "title": "comparch.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 4217728,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AQL96VHC\/comparch.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AQL96VHC\/download\/comparch.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03AQL96VHC\/comparch.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03AQL96VHC-e4aa97481d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1649648665.755169",
+        "client_msg_id": "641b95c8-8d1b-486d-a240-dc54f57620e8"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649648682.660279",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1649648699.795649",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「過去問こじき」から「秘密のチャンネル」に変更しました",
+        "old_name": "過去問こじき",
+        "name": "秘密のチャンネル"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649648702.909739",
+        "user": "U039BUU0GAH",
+        "text": "<@U039BUU0GAH>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649648705.374059",
+        "user": "U039RCZ4E04",
+        "text": "<@U039RCZ4E04>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03AXA71JH0",
+                "created": 1649648864,
+                "timestamp": 1649648864,
+                "name": "信号処理.zip",
+                "title": "信号処理.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 45843337,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AXA71JH0\/____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AXA71JH0\/download\/____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03AXA71JH0\/____________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03AXA71JH0-4c4d100195",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1649648877.971559",
+        "client_msg_id": "5d32eca6-cfa4-4ae2-8011-59ae016854f5"
+    }
+]

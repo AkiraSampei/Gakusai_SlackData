@@ -1,0 +1,127 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03BM52KMEC>\n全体会議の企画部のスライドつくりました。\nすぐに作成できそうだったので委員長より企画部のわたしが作りました。\n.pptxと.pdfで送ります。もし訂正箇所があったら修正してほしいです。",
+        "files": [
+            {
+                "id": "F03JX1K4T19",
+                "created": 1654755431,
+                "timestamp": 1654755431,
+                "name": "企画部説明.pdf",
+                "title": "企画部説明.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 631589,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JX1K4T19\/_______________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JX1K4T19\/download\/_______________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JX1K4T19-0d65b354ba\/________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03JX1K4T19\/_______________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03JX1K4T19-0e3dea9ae1",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03JGF71KQX",
+                "created": 1654755436,
+                "timestamp": 1654755436,
+                "name": "企画部説明.pptx",
+                "title": "企画部説明.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 1518291,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JGF71KQX\/_______________.pptx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03JGF71KQX\/download\/_______________.pptx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JGF71KQX-eddde19498\/________________converted.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03JGF71KQX-eddde19498\/________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03JGF71KQX\/_______________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03JGF71KQX-b5968d10d9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "ts": "1654755443.465629",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D5Jp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03BM52KMEC"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n全体会議の企画部のスライドつくりました。\nすぐに作成できそうだったので委員長より企画部のわたしが作りました。\n.pptxと.pdfで送ります。もし訂正箇所があったら修正してほしいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "0719379b-3891-4cb2-91b2-cbe18017c089",
+        "thread_ts": "1654755443.465629",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654771141.394329",
+        "reply_users": [
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1654771141.394329"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1654771141.394329",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03901B3W69"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

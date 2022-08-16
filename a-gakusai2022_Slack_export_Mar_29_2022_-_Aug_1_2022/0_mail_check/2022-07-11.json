@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "D41C1B4B-FF3A-42F6-825D-FE0CAE345CA0",
+        "type": "message",
+        "text": "グリーンライフ　笹崎様\n\nご返信ありがとうございます。\n\nメニューの調整につきましては、8月上旬に決定する予定です。\nメニューが確定しましたら、連絡いたします。\n\nよろしくお願いいたします。\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部1年\n学園祭実行委員会　\n対応部　s1300079　津久井羅偉\nEmail:  <mailto:s1300079@u-aizu.ac.jp|s1300079@u-aizu.ac.jp>\n-------------------------------------------------------",
+        "user": "U03CUPE920G",
+        "ts": "1657532102.385749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F=NM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "グリーンライフ　笹崎様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご返信ありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメニューの調整につきましては、8月上旬に決定する予定です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メニューが確定しましたら、連絡いたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いいたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会津大学　コンピュータ理工学部"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学部1年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学園祭実行委員会　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対応部　s1300079　津久井羅偉"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Email:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300079@u-aizu.ac.jp",
+                                "text": "s1300079@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "-------------------------------------------------------"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sent",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "255EF56D-7CD6-405F-8764-BEFA4ED355AB",
+        "type": "message",
+        "text": "チェックお願いします。\nこのメールは明日の午前中に送る予定です。",
+        "user": "U03CUPE920G",
+        "ts": "1657532119.166059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Ck6k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チェックお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "このメールは明日の午前中に送る予定です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

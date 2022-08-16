@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655109194.877549",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「3_kikaku_ここどこ」から「3_kikaku_onsite_ここどこ」に変更しました",
+        "old_name": "3_kikaku_ここどこ",
+        "name": "3_kikaku_onsite_ここどこ"
+    }
+]

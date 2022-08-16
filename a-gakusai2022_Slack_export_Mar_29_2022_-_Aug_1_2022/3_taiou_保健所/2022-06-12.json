@@ -1,0 +1,279 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655092376.495349",
+        "user": "U03A9180MAN",
+        "text": "<@U03A9180MAN>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1655092376.784569",
+        "user": "U03A9180MAN",
+        "text": "がこのチャンネルの説明を「対応部保健所」に設定しました",
+        "purpose": "対応部保健所"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655092388.457799",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました",
+        "inviter": "U03A9180MAN"
+    },
+    {
+        "client_msg_id": "80ECFA85-BE2A-4F06-989C-1C5AB3B4C8FD",
+        "type": "message",
+        "text": "保健所引継書",
+        "user": "U03A9180MAN",
+        "ts": "1655092630.469559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WLA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "保健所引継書"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30EC3F1C-01AF-4806-B9D0-CD67DB8AA7CD",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1oD1rxR6ps2f3Vu6KDNCS7g61mYFpEH4irPdm4PQtGQE\/edit?usp=sharing|https:\/\/docs.google.com\/document\/d\/1oD1rxR6ps2f3Vu6KDNCS7g61mYFpEH4irPdm4PQtGQE\/edit?usp=sharing>",
+        "user": "U03A9180MAN",
+        "ts": "1655092634.322139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kN1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1oD1rxR6ps2f3Vu6KDNCS7g61mYFpEH4irPdm4PQtGQE\/edit?usp=sharing",
+                                "text": "https:\/\/docs.google.com\/document\/d\/1oD1rxR6ps2f3Vu6KDNCS7g61mYFpEH4irPdm4PQtGQE\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0f73273-cf87-433c-8480-14d9dfb13445",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "U039P4NSKM1",
+        "ts": "1655092680.129279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hLTq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "去年作成した資料",
+        "files": [
+            {
+                "id": "F03KQ42231P",
+                "created": 1655098954,
+                "timestamp": 1655098954,
+                "name": "保健所.zip",
+                "title": "保健所",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U03A9180MAN",
+                "editable": false,
+                "size": 426441,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KQ42231P\/_________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KQ42231P\/download\/_________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03A9180MAN\/F03KQ42231P\/_________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KQ42231P-2876b3ce8b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03A9180MAN",
+        "display_as_bot": false,
+        "ts": "1655098976.035279",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NVDGo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "作成した"
+                            },
+                            {
+                                "type": "text",
+                                "text": "資料"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "58620B69-2A35-4AE2-A802-506847E7FB3B"
+    },
+    {
+        "client_msg_id": "456C896C-7C6A-4284-BBF1-14D321500E9D",
+        "type": "message",
+        "text": "その他わからないことがあれば、遠慮なく聞いてください！",
+        "user": "U03A9180MAN",
+        "ts": "1655099010.173369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I6OU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その他わからないことがあれば、遠慮なく聞いてください！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "38a0bff1-71ad-4506-bc7f-7d08d0713131",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "U039P4NSKM1",
+        "ts": "1655099674.094289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXac",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "client_msg_id": "0E414335-3E23-4BD8-BF45-F42BEACBEC97",
+        "type": "message",
+        "text": "予定の被りのため今日のBBQ欠席します。",
+        "user": "U03CATDUH0A",
+        "ts": "1658622449.166439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQDi7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定の被りのため今日のBBQ欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F06055EC-963A-44D3-9D66-46B12AAB9024",
+        "type": "message",
+        "text": "体調が悪いのでBBQ欠席します。",
+        "user": "U03K1SMDYHL",
+        "ts": "1658627197.240329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge683ef399c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e683ef399c613c17f30ae6a6f1b11d81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Akari",
+            "real_name": "Akari Moriya",
+            "display_name": "あかり",
+            "team": "T038Z0K089K",
+            "name": "s1300231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K7SK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調が悪いのでBBQ欠席"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9267F48C-FF28-40B0-BE43-DB35CA4AC911",
+        "type": "message",
+        "text": "気分が良くないのでBBQ欠席します。",
+        "user": "U03K8F1PW82",
+        "ts": "1658627702.942849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "6576e03f9907",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-12\/3801061478977_6576e03f9907f0383e04_72.png",
+            "first_name": "Takuya",
+            "real_name": "Takuya Eguchi",
+            "display_name": "たくや",
+            "team": "T038Z0K089K",
+            "name": "s1300049",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0Lu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "気分が良くないのでBBQ欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,321 @@
+[
+    {
+        "client_msg_id": "B58F3B60-8AA6-4530-BB9D-171E3E50B656",
+        "type": "message",
+        "text": "レポートの反論を自分で考えられないため、その立場で述べてる文を引用するのはありでしょうか？それとも自分の立場を裏付けるものを探すべきでしょうか？~どなたか教えていただけたら幸いです~",
+        "user": "U03K8CWK5LK",
+        "ts": "1659073476.661459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03K8CWK5LK",
+            "ts": "1659074239.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H7p55",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "レポートの反論を自分で考えられないため、その立場で述べてる文を引用するのはありでしょうか？それとも自分の立場を裏付けるものを探すべきでしょうか？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どなたか教えていただけたら幸いです",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1659073476.661459",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1659074217.572159",
+        "reply_users": [
+            "U039WPGBPDH",
+            "U03K8CWK5LK",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1659073599.319519"
+            },
+            {
+                "user": "U03K8CWK5LK",
+                "ts": "1659073801.665919"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1659073989.686389"
+            },
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1659074025.616969"
+            },
+            {
+                "user": "U03K8CWK5LK",
+                "ts": "1659074217.572159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "261ABD42-48DC-46D0-BC37-17FC947134DB",
+        "type": "message",
+        "text": "何の教科?",
+        "user": "U039WPGBPDH",
+        "ts": "1659073599.319519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OGMf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何の教科?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1659073476.661459",
+        "parent_user_id": "U03K8CWK5LK"
+    },
+    {
+        "client_msg_id": "b9cf4458-0d0d-46e1-b817-8932188f3d2a",
+        "type": "message",
+        "text": "科学史です",
+        "user": "U03K8CWK5LK",
+        "ts": "1659073801.665919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R4Ti",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "科学史です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1659073476.661459",
+        "parent_user_id": "U03K8CWK5LK"
+    },
+    {
+        "client_msg_id": "4B78A4FD-41E0-4E57-A04C-12E76A67BDE6",
+        "type": "message",
+        "text": "友達にレポート読ませて「論破して♡」って聞いてみるのはどうでしょう",
+        "user": "U0399UH8BKQ",
+        "ts": "1659073989.686389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jtKS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "友達にレポート読ませて「論破して"
+                            },
+                            {
+                                "type": "text",
+                                "text": "♡"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」って聞いてみるのはどうでしょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1659073476.661459",
+        "parent_user_id": "U03K8CWK5LK"
+    },
+    {
+        "client_msg_id": "45A14BDF-DF38-4C7E-B4FF-017B0E2170B3",
+        "type": "message",
+        "text": "まじか！俺とってなかったから分かんないや:sweat_drops:\nとりあえず分かんないとこあったら教授にメール書くのはありかも！",
+        "user": "U039WPGBPDH",
+        "ts": "1659074025.616969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/Ny",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まじか！俺とってなかったから分かんないや"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とりあえず分かんないとこあったら教授にメール書くのはありかも！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1659073476.661459",
+        "parent_user_id": "U03K8CWK5LK"
+    },
+    {
+        "client_msg_id": "20396524-1d42-4460-85df-5fd0c36afb20",
+        "type": "message",
+        "text": "調べてみたら反論するための引用もありっぽさそうというのをやっと見つけました。論破されそうな論文もネットで見つけたので頑張って反論してみようかと思います:sob:",
+        "user": "U03K8CWK5LK",
+        "ts": "1659074217.572159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+x=kw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "調べてみたら反論するための引用もありっぽさそうというのをやっと見つけました。論破されそうな論文もネットで見つけたので頑張って反論してみようかと思います"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1659073476.661459",
+        "parent_user_id": "U03K8CWK5LK",
+        "reactions": [
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039WPGBPDH",
+                    "U039V55S998",
+                    "U03D0L4BEJU"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

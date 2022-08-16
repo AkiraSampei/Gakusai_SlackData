@@ -1,0 +1,73 @@
+[
+    {
+        "type": "message",
+        "text": "本日の学生課合同会議の議事録です。\n開催形式や今後の予定などが記載されています。ご確認ください。",
+        "files": [
+            {
+                "id": "F03HXS461FH",
+                "created": 1654488622,
+                "timestamp": 1654488622,
+                "name": "ー６月６日 学生課合同会議ー.pdf",
+                "title": "ー６月６日 学生課合同会議ー.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 54182,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03HXS461FH\/_________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03HXS461FH\/download\/_________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03HXS461FH-feaaa8094d\/__________________________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03HXS461FH\/_________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03HXS461FH-92ee05a1ef",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1654488625.758489",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日の学生課合同会議の議事録です。\n開催形式や今後の予定などが記載されています。ご確認ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d99314f8-def0-40f6-9708-efc4c0769323",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0399UH8BKQ",
+                    "U0391RWR34N",
+                    "U039RCZ4E04",
+                    "U03BM52KMEC"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

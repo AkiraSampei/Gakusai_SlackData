@@ -1,0 +1,271 @@
+[
+    {
+        "client_msg_id": "ed7fe5a1-b8d8-4bbf-b930-0c0d8535cf41",
+        "type": "message",
+        "text": "<!channel>\nみなさんお疲れさまです、ましこです。\ncampus-helpからメールが届いたとは思いますが、明日の１５：００より決算総会を行います。参加人数が規定に届かない場合、総会を開催することができません。もし余力のある方はご協力お願いいたします。\n\nZoomにて開催する予定です。よろしくお願いいたします。\n\n<https:\/\/us06web.zoom.us\/j\/87671894984?pwd=Tks5cDhNRHlHamZkOXdadGdFSFlCQT09>",
+        "user": "U0394PQ44FL",
+        "ts": "1650979359.769389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zIfj3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nみなさんお疲れさまです、ましこです。\ncampus-helpからメールが届いたとは思いますが、明日の１５：００より決算総会を行います。参加人数が規定に届かない場合、総会を開催することができません。もし余力のある方はご協力お願いいたします。\n\nZoomにて開催する予定です。よろしくお願いいたします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/87671894984?pwd=Tks5cDhNRHlHamZkOXdadGdFSFlCQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U039M3UAXFG",
+                    "U039V55S998",
+                    "U039D5XVCJ3",
+                    "U039H10MUTY",
+                    "U039RCZ4E04",
+                    "U0399UH8BKQ"
+                ],
+                "count": 7
+            },
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8135adeb-5469-4e0a-91a0-8788a5f5a844",
+        "type": "message",
+        "text": "<!channel> 　↑　リマインダーです、よろしくおねがいします。",
+        "user": "U0394PQ44FL",
+        "ts": "1651039149.878589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uJCu0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　↑　リマインダーです、よろしくおねがいします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1a0b5f16-e160-4aa8-bcfd-79f662b4ec28",
+        "type": "message",
+        "text": "皆さん音聞こえてます？",
+        "user": "U0399UH8BKQ",
+        "ts": "1651039434.774719",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "93j4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "皆さん音聞こえてます？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "deb7b362-b86b-4c42-9ee4-d1b58557bf34",
+        "type": "message",
+        "text": "しばしお待ちを",
+        "user": "U0394PQ44FL",
+        "ts": "1651039488.824469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v0n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しばしお待ちを"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f557786a-937b-40a7-90fe-f918e3282820",
+        "type": "message",
+        "text": "おけです",
+        "user": "U0394PQ44FL",
+        "ts": "1651039527.192939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yaw=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おけです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3F8F46B5-D82F-47D7-9A5D-80D0DDA4989E",
+        "type": "message",
+        "text": "御協力ありがとうございました、無事終えることができました",
+        "user": "U0394PQ44FL",
+        "ts": "1651042023.215329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FSQQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "御協力ありがとうございました、無事終えることができました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

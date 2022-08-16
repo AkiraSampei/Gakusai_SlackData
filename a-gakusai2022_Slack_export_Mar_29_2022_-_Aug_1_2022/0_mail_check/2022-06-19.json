@@ -1,0 +1,216 @@
+[
+    {
+        "client_msg_id": "66C00E1E-7E62-415F-A16C-D0623572E344",
+        "type": "message",
+        "text": "漫画研究部ccc 田中皓大様\n\n会津大学学園祭実行委員の渡辺涼太です。\n質問についてですが、 \n\n・補助金の説明が不明瞭であるため、冊子の印刷と無料頒布での活動の場合申請可能であるか \n→サークル補助金につきましては、利益の出ない団体のみが申請可能である制度であり、無料頒布であれば申請可能です。\n\n・補助金が利用できる場合、具体的にいくらまで申請可能であるか \n→補助金は各団体3万円までです。\n\n・電力使用申請書は講義棟にあるプロジェクターを使用する場合も書く必要があるのか \n→プロジェクターを使用する際も書く必要はあります。\n\nまた質問等ございましたらよろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655695426.730479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1655695491.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o72",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "漫画研究部ccc 田中皓大様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会津大学学園祭実行委員の渡辺涼太です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "質問についてですが、 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・補助金の説明が不明瞭であるため、冊子の印刷と無料頒布での活動の場合申請可能であるか "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "→"
+                            },
+                            {
+                                "type": "text",
+                                "text": "サークル補助金につきましては、利益の出ない団体のみが申請可能である制度であり、無料頒布であれば申請可能です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・補助金が利用できる場合、具体的にいくらまで申請可能であるか "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "→"
+                            },
+                            {
+                                "type": "text",
+                                "text": "補助金は各団体3万円までです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・電力使用申請書は講義棟にあるプロジェクターを使用する場合も書く必要があるのか "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "→"
+                            },
+                            {
+                                "type": "text",
+                                "text": "プロジェクターを使用する際も書く必要はあります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "また質問等ございましたらよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655695426.730479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655695587.997379",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655695587.997379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sent",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "202bf5ce-fe04-4928-abfe-b676e05d188c",
+        "type": "message",
+        "text": "「質問についてですが、」→「ご質問いただきありがとうございます。」\n「～使用する際も書く必要はあります。」　→　「～使用する際も記入をお願いいたします。」\n「また質問等～よろしくお願いします。」　→　「別途質問等ございましたら、再度ご連絡いただければ幸いです。(改行)よろしくお願いいたします。」",
+        "user": "U0399UH8BKQ",
+        "ts": "1655695587.997379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0399UH8BKQ",
+            "ts": "1655695726.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNL4G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「質問についてですが、」→「ご質問いただきありがとうございます。」\n「～使用する際も書く必要はあります。」　→　「～使用する際も記入をお願いいたします。」\n「また質問等～よろしくお願いします。」　→　「別途質問等ございましたら、再度ご連絡いただければ幸いです。(改行)よろしくお願いいたします。」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655695426.730479",
+        "parent_user_id": "U039V55S998"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "cf012b03-b97b-46dc-a8e8-c7506cae6c86",
+        "type": "message",
+        "text": "<!channel> リマインド　↑↑↑伝助の入力お願いします",
+        "user": "U039P4NSKM1",
+        "ts": "1656325140.706779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oVpYg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " リマインド　↑↑↑伝助の入力お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

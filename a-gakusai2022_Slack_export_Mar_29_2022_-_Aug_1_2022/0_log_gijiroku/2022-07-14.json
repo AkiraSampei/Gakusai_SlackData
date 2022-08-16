@@ -1,0 +1,92 @@
+[
+    {
+        "type": "message",
+        "text": "最近柴犬の赤ちゃんの動画を見ないと寝れなくなりました。3年松田です。\n本日の全体会議の議事録です。文句言われたのでPDFにしておきました。\n会議を欠席した人はもちろん、出席した人も目を通しておきましょう。",
+        "files": [
+            {
+                "id": "F03Q6A4N41E",
+                "created": 1657789455,
+                "timestamp": 1657789455,
+                "name": "20220714_全体会議.pdf",
+                "title": "20220714_全体会議.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 87532,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03Q6A4N41E\/20220714_____________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03Q6A4N41E\/download\/20220714_____________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03Q6A4N41E-938d148980\/20220714______________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03Q6A4N41E\/20220714_____________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03Q6A4N41E-0a690fbb45",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1657789488.894939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MnM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近柴犬の赤ちゃんの動画を見ないと寝れなくなりました。3年松田です。\n本日の全体会議の議事録です。文句言われたのでPDFにしておきました。\n会議を欠席した人はもちろん、出席した人も目を通しておきましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "fa991c45-0023-487f-924e-483d8ce45799",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pray",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03CUPE920G"
+                ],
+                "count": 2
+            },
+            {
+                "name": "doge",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039M3UAXFG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

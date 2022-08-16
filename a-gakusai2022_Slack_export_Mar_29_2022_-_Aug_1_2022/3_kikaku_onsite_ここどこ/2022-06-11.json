@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931657.863749",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654931658.220639",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「ここどこスタンプラリー運営」に設定しました",
+        "purpose": "ここどこスタンプラリー運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931741.858309",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「16_kikaku_ここどこ」から「2_kikaku_ここどこ」に変更しました",
+        "old_name": "16_kikaku_ここどこ",
+        "name": "2_kikaku_ここどこ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931823.252509",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654940917.860949",
+        "user": "U039D5XVCJ3",
+        "text": "<@U039D5XVCJ3>さんがチャンネルに参加しました"
+    }
+]

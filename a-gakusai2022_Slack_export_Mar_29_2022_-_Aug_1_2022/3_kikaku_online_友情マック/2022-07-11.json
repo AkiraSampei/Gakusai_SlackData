@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "A0CAF843-0F14-4FF7-9CDE-206B1EC2998C",
+        "type": "message",
+        "text": "14日の午後がいいです",
+        "user": "U03BW9Q5DF1",
+        "ts": "1657585023.429779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g3f40866b668",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f40866b66891959e05160242ff64f83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "USAMI",
+            "real_name": "USAMI",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uor6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "14日の午後がいいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AB18AFE3-6F68-49DE-BAD4-98BE5FAE46F1",
+        "type": "message",
+        "text": "2人ともそこしか空いてないですか\n土日は？",
+        "user": "U038TMLJW1M",
+        "ts": "1657592741.534009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038TMLJW1M",
+            "ts": "1657592772.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ta3j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2人ともそこしか空いてないですか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "土日は？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657592741.534009",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657696867.934309",
+        "reply_users": [
+            "U03BM52KMEC",
+            "U03BW9Q5DF1"
+        ],
+        "replies": [
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1657592837.224279"
+            },
+            {
+                "user": "U03BW9Q5DF1",
+                "ts": "1657696867.934309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "80b6c1e2-8924-4abc-acea-3322b5beb627",
+        "type": "message",
+        "text": "多分よさこいとかで土日潰れてんじゃないですか？",
+        "user": "U03BM52KMEC",
+        "ts": "1657592837.224279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=+4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分よさこいとかで土日潰れてんじゃないですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657592741.534009",
+        "parent_user_id": "U038TMLJW1M"
+    }
+]

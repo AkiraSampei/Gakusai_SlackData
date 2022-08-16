@@ -1,0 +1,645 @@
+[
+    {
+        "client_msg_id": "6e327c10-a016-481e-a5ef-99b5f35e72fe",
+        "type": "message",
+        "text": "<@U03A9180MAN> 去年保健所で対応してもらった職員さんの名刺のありかって分かります?",
+        "user": "U039P4NSKM1",
+        "ts": "1658722902.020569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rBrT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03A9180MAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 去年保健所で対応してもらった職員さんの名刺のありかって分かります?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cab0399-dec5-4b52-b360-9bb14dbbfd94",
+        "type": "message",
+        "text": "学祭室に置いてある、保健所ファイルの中にたぶん入っているはずです！",
+        "user": "U03A9180MAN",
+        "ts": "1658725755.540639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s=o2+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭室に置いてある、保健所ファイルの中にたぶん入っているはずです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "保健所ファイルがちょっとわからなかったのですが、おそらく対応部ファイルと思われるものの中に保健所の封筒は出てきました",
+        "files": [
+            {
+                "id": "F03QLN1USG6",
+                "created": 1658726382,
+                "timestamp": 1658726382,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 1340083,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QLN1USG6\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QLN1USG6\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN1USG6-7d854183d0\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS1IWHSo2JqR+tQtSGNPPNJS000AFFJRmqEWn6momqaTrVdmHqKkYlJRuX1FJkHoaAEPWig0lMRbmODUBAJyKllPzVETSGJgetJxilBwKQ4oASiiimI\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03QLN1USG6\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QLN1USG6-4b58d4a0d1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1658726388.760659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "65r9Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "保健所ファイルがちょっとわからなかったのですが、おそらく対応部ファイルと思われるものの中に保健所の封筒は出てきました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2B59DECC-783F-4BD0-8437-FC6BF49ED451"
+    },
+    {
+        "client_msg_id": "95F1F870-0D1A-4ECD-8761-6090FBF2EEDB",
+        "type": "message",
+        "text": "この封筒の中に名刺は入ってませんでした",
+        "user": "U0394PQ44FL",
+        "ts": "1658726410.219039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F7f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この封筒の中に名刺は入ってませんでした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U03A9180MAN>どれだか分かりますか？",
+        "files": [
+            {
+                "id": "F03QLN6KCBG",
+                "created": 1658726502,
+                "timestamp": 1658726502,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 1581270,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QLN6KCBG\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QLN6KCBG\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QLN6KCBG-d715ddc03a\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCOZT5nAzz2qRoDtyFPHWlnHzK2OQwqzIDhh2INIZTEWcYXINNMJDkEECpYSfLi\/Efzp86sct6DP6UCKRVSTzgKMk0+3yqu5GMKcUkMZ2gsOOuD39KmcBUKj2FJjRJLuJACggjPWmGeVIy5QYzjqacTkRnGcrnHuKluAHhz2IpsRVimBIXYB1K80G8Zxs8vj\/ZNSOoWGDAAPf8AKkucC4X5tmE7D3oAQyEsSUYDrSRkSEHB+Z+9JIybT\/pO\/j7u3rS2igrGT1ySKLAG8paRkAH5sc0vnNs2YG2o5P8Ajzj\/AN40d6BomB3bVPQHiormZ45hIpwcYqRfvj61XvOtAkKL2ZvlJXnvtqxbjEC47Kf5VnL96tGD\/UD\/AHT\/ACpgf\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03QLN6KCBG\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QLN6KCBG-1834924f6e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1658726521.552879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J\/SA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03A9180MAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どれだか分かりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "A7065D15-8A1D-49C5-BA87-BEA5AF728DF0"
+    },
+    {
+        "client_msg_id": "5C85E107-786D-4859-8387-4C8F34FAB8EF",
+        "type": "message",
+        "text": "確か保健所ファイルは青いやつだった気がするのですが、プラスチック(?)の青いファイルってありますか？",
+        "user": "U03A9180MAN",
+        "ts": "1658726702.913219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MA4B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確か保健所ファイルは青いやつだった気がするのですが、プラスチック(?)の青いファイルってありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B5C4A03B-CC6B-40AD-B7F1-59DEFC0BC0C2",
+        "type": "message",
+        "text": "大きさってどのくらいだかわかりますか？",
+        "user": "U0394PQ44FL",
+        "ts": "1658726931.260699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FX5D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大きさってどのくらいだかわかりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8E42A36C-CDAE-4398-BD9F-EA6F0D873BFC",
+        "type": "message",
+        "text": "ペラペラか厚めか",
+        "user": "U0394PQ44FL",
+        "ts": "1658726949.359679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "quUgc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ペラペラか厚めか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "95DA22EB-36FB-4A8C-934B-B94D2DDEB35F",
+        "type": "message",
+        "text": "いろいろ資料入ってたはずなので、そこそこ厚めだった気がします",
+        "user": "U03A9180MAN",
+        "ts": "1658727039.922109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yLxXu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "いろいろ資料入ってたはずなので、そこそこ厚めだった気がします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CBEC58B1-5E48-4B68-8D58-6F95B6FEE417",
+        "type": "message",
+        "text": "ちょっと探してみたけど見つかりませんでした:sob:",
+        "user": "U0394PQ44FL",
+        "ts": "1658727144.238609",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ic2E=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちょっと探してみたけど見つかりませんでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03ED5E41-D172-4A79-818F-333870F8832C",
+        "type": "message",
+        "text": "捜索ありがとうございます！\n後ほど探しに行きます！",
+        "user": "U03A9180MAN",
+        "ts": "1658727264.951779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w0j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "捜索ありがとうございます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "後ほど探しに行きます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99f19ca6-47ef-42b4-a1bb-0acd0f813342",
+        "type": "message",
+        "text": "おねがいします！",
+        "user": "U0394PQ44FL",
+        "ts": "1658727275.654439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FH2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おねがいします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5CB480A8-6B47-49EA-B54D-9B81DAC9C1D8",
+        "type": "message",
+        "text": "保健所資料見つかりました。\n緑のファイルです。失礼しました。",
+        "user": "U03A9180MAN",
+        "ts": "1658729379.518159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9V=w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "保健所資料見つかりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "緑のファイルです。失礼しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F838B765-3A1A-41F5-BDC3-49812103E9E0",
+        "type": "message",
+        "text": "おお！よかったです！",
+        "user": "U0394PQ44FL",
+        "ts": "1658729410.218749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NJ6J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おお！よかったです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

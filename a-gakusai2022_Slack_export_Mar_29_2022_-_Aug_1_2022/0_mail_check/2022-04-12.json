@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1649828485.752699",
+        "user": "U039EF90649",
+        "text": "チャンネル名を「mail_check」から「0_mail_check」に変更しました",
+        "old_name": "mail_check",
+        "name": "0_mail_check"
+    }
+]

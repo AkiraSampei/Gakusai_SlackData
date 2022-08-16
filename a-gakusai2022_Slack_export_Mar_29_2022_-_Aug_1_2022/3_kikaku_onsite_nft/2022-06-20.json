@@ -1,0 +1,1221 @@
+[
+    {
+        "client_msg_id": "cecc15fa-f8de-483b-8946-578b7bfe85b2",
+        "type": "message",
+        "text": "<!channel> おはようございます!!企画部長の駒形です。\n再度連絡ですが*企画書(仮)の作成*が*6\/24日(金曜日)*までになっております。\t\nほとんどの企画では顔合わせの日程が決まっていますが、*nft企画の顔合わせ日程はまだ決まっていません*。*二年生以上が主体*となって*顔合わせの日程*を*早めに決めましょう!!!*\n学校生活で忙しいのは承知していますが、ご協力の方をよろしくお願いします。",
+        "user": "U03BM52KMEC",
+        "ts": "1655773438.681049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03BM52KMEC",
+            "ts": "1655773585.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GCMWk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おはようございます!!企画部長の駒形です。\n再度連絡ですが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書(仮)の作成",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6\/24日(金曜日)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までになっております。\t\nほとんどの企画では顔合わせの日程が決まっていますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "nft企画の顔合わせ日程はまだ決まっていません",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "二年生以上が主体",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "顔合わせの日程",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "早めに決めましょう!!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n学校生活で忙しいのは承知していますが、ご協力の方をよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B531CE2B-6358-4677-BA94-A92AFD321C3B",
+        "type": "message",
+        "text": "ごめん遅くなりました\n今日の昼まで　水曜昼から16時までなら",
+        "user": "U039BUU0GAH",
+        "ts": "1655776593.988439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eI8Nx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん遅くなりました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日の昼まで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "水曜昼から"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16時までなら"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "618D19A0-691E-442C-9451-AB3AA776FF60",
+        "type": "message",
+        "text": "水曜日だと皆さん都合よさそう？なので明日の１２時頃からで大丈夫ですか？",
+        "user": "U039WPGBPDH",
+        "ts": "1655778501.041239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LVmn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "水曜日だと皆さん都合よさそう？なので明日の１２時頃からで大丈夫"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7481C601-0BB8-4157-90FA-360087001A0E",
+        "type": "message",
+        "text": "ごめんなさい！\nさっきメールが来て、\n個別面談が水曜12:00〜になってたので\n少しずらして欲しいです...",
+        "user": "U03CATDUH0A",
+        "ts": "1655779100.660479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zMt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さっきメールが来て、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "個別面談が水曜12:00〜になってたので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "少しずらして欲しいです..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6CAFF0C7-5E64-4B29-AE9F-CDD0392AF4FD",
+        "type": "message",
+        "text": "なるほど、",
+        "user": "U039WPGBPDH",
+        "ts": "1655779172.234619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kL0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほど、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7E14C4BB-C2D3-40F7-872F-DB2F7C45E155",
+        "type": "message",
+        "text": "友情マックも今井の都合で遅くなりそうだから２時からとかにならずらせそうかなー、？",
+        "user": "U039WPGBPDH",
+        "ts": "1655779200.309709",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gDnx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "友情マックも今井の都合で遅くなりそうだから２時からとかになら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ずらせそうかなー、？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "67CBB48A-7A6E-4965-936A-847799411C2E",
+        "type": "message",
+        "text": "はい！大丈夫です！",
+        "user": "U03CATDUH0A",
+        "ts": "1655779359.489339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=Pqx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい！大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "458CD9AF-3D3D-4D74-B3EC-1BBE8DCE907E",
+        "type": "message",
+        "text": "おっけ！じゃあ他の方がよければそれで行きましょう！:man-bowing:",
+        "user": "U039WPGBPDH",
+        "ts": "1655779560.690119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c8H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おっけ！じゃあ他の方がよければそれで行きましょう！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "hand",
+                "users": [
+                    "U03CATDUH0A"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F3DB6677-2585-4C80-A1D7-6A559A8495DA",
+        "type": "message",
+        "text": "何度もすみません！\nぼく色々あって\n自宅療養になってしまったので\n今週大学行けないです...:bow:\n",
+        "user": "U03CATDUH0A",
+        "ts": "1655781851.760699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fQn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何度もすみません"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぼく色々あって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自宅療養になってしまったので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今週大学行けないです..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U039WPGBPDH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B38F6FC6-D804-4358-9FF8-B6D48345843B",
+        "type": "message",
+        "text": "それはお大事に…！\n<@U039WPGBPDH> ズームでも良き？",
+        "user": "U039BUU0GAH",
+        "ts": "1655781880.558079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2nau",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それはお大事に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "ズームでも良き？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655781880.558079",
+        "reply_count": 6,
+        "reply_users_count": 4,
+        "latest_reply": "1655782631.407849",
+        "reply_users": [
+            "U039WPGBPDH",
+            "U0394PQ44FL",
+            "U039BUU0GAH",
+            "U03CATDUH0A"
+        ],
+        "replies": [
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1655781904.982999"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655782075.697619"
+            },
+            {
+                "user": "U039BUU0GAH",
+                "ts": "1655782103.082219"
+            },
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1655782108.074049"
+            },
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1655782121.076329"
+            },
+            {
+                "user": "U03CATDUH0A",
+                "ts": "1655782631.407849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655782631.407849"
+    },
+    {
+        "client_msg_id": "C43E5FA0-D66C-4FE5-8D91-C5E3AAEE8340",
+        "type": "message",
+        "text": "まじか",
+        "user": "U039WPGBPDH",
+        "ts": "1655781884.608919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "me4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まじか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AF43B7BB-9553-4829-BB47-44A3493453A6",
+        "type": "message",
+        "text": "来れない感じですか？:sweat_drops:",
+        "user": "U039WPGBPDH",
+        "ts": "1655781904.982999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WrPSK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来れない感じですか？"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655781880.558079",
+        "parent_user_id": "U039BUU0GAH"
+    },
+    {
+        "client_msg_id": "e8fed114-251a-4395-95e8-f76dda1ccc84",
+        "type": "message",
+        "text": "しょうくんが自宅療養中だからZoomで会議するのはどう？てっことだとおもうよ",
+        "user": "U0394PQ44FL",
+        "ts": "1655782075.697619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "t3HA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "しょうくんが自宅療養中だからZoomで会議するのはどう？てっことだとおもうよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655781880.558079",
+        "parent_user_id": "U039BUU0GAH"
+    },
+    {
+        "client_msg_id": "F51F3076-9A58-418C-B5FD-7CB2A20220D1",
+        "type": "message",
+        "text": "そう言うことです\nおれは対面でもいいよ",
+        "user": "U039BUU0GAH",
+        "ts": "1655782103.082219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qECyE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そう言うことです"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "おれは対面でもいいよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655781880.558079",
+        "parent_user_id": "U039BUU0GAH"
+    },
+    {
+        "client_msg_id": "2A3129B4-2ACA-4C87-9A86-43F2FC4D9863",
+        "type": "message",
+        "text": "なるほどです！理解力死んでました:innocent:\nありだと思います！",
+        "user": "U039WPGBPDH",
+        "ts": "1655782108.074049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uPI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるほどです！理解力死んでました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありだと思います"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655781880.558079",
+        "parent_user_id": "U039BUU0GAH",
+        "reactions": [
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH",
+                    "U0394PQ44FL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8B1E01D4-1B1B-44B5-AB0C-C4AB1FE506C5",
+        "type": "message",
+        "text": "来れる方は対面だと嬉しいです！",
+        "user": "U039WPGBPDH",
+        "ts": "1655782121.076329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Bq+F",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来れる方は対面だと嬉しい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655781880.558079",
+        "parent_user_id": "U039BUU0GAH",
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9A04FA12-16F5-4515-84B9-4D22828811E1",
+        "type": "message",
+        "text": "じゃあ水曜13時とかでいいですか？",
+        "user": "U039BUU0GAH",
+        "ts": "1655782469.845159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cn3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃあ水曜13時とかでいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7BBB5BC2-D61D-4C7C-ADBD-61E0DA33C5E1",
+        "type": "message",
+        "text": "Zoomを考慮していただき\nありがとうございます！！\nZoomをする際はぜひ参加します！",
+        "user": "U03CATDUH0A",
+        "ts": "1655782631.407849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O36L1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zoom"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を考慮していただき"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Zoom"
+                            },
+                            {
+                                "type": "text",
+                                "text": "をする際はぜひ参加します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655781880.558079",
+        "parent_user_id": "U039BUU0GAH",
+        "reactions": [
+            {
+                "name": "fire",
+                "users": [
+                    "U039BUU0GAH",
+                    "U0394PQ44FL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C8CE79AF-ED1B-4451-A5A7-6C9F44CE6E99",
+        "type": "message",
+        "text": "２時って多分上に書きました！そっちでお願いします！",
+        "user": "U039WPGBPDH",
+        "ts": "1655786364.398729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i0ao",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "２時って多分上に書きました！そっちでお願い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03CATDUH0A"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ea4e8076-eda3-4b07-93bb-67ff02d3b3a8",
+        "type": "message",
+        "text": "↑<!channel>",
+        "user": "U03BM52KMEC",
+        "ts": "1655786492.293109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2=m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3B95BF97-D52C-442E-8DC8-8B62281F8DAF",
+        "type": "message",
+        "text": "見逃してた！ごめんよ！\n了解です！",
+        "user": "U039BUU0GAH",
+        "ts": "1655788655.534479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DBRs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "見逃してた！ごめんよ！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

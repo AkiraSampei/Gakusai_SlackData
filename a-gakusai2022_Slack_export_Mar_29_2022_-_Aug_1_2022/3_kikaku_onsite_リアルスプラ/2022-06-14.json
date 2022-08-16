@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655272473.411539",
+        "user": "U03GZQ9T32R",
+        "text": "<@U03GZQ9T32R>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655272490.238299",
+        "user": "U039L92GA3X",
+        "text": "<@U039L92GA3X>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "5df23ff7-5b2a-4c6c-bee4-c47810fcf3f0",
+        "type": "message",
+        "text": "学部3年の京谷です。今年もよろしくお願いいたします",
+        "user": "U03M2QM8F36",
+        "ts": "1656052763.133019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g13ac46d29bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/13ac46d29bfa16a7be51d11765ed65b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "京谷凌汰",
+            "real_name": "京谷凌汰",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pAe17",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学部3年の京谷です。今年もよろしくお願いいたします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U039V55S998",
+                    "U0391RWR34N",
+                    "U03901B3W69",
+                    "U0399UH8BKQ",
+                    "U039RJU3V36",
+                    "U038TMLJW1M",
+                    "U03D0L4BEJU",
+                    "U03BW9Q5DF1",
+                    "U039PA9J5JP"
+                ],
+                "count": 10
+            }
+        ]
+    }
+]

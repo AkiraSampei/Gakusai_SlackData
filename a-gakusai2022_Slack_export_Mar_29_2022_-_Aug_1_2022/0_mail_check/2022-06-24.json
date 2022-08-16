@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "81ff1079-8ddd-4a0d-af32-82a0e58f8a3e",
+        "type": "message",
+        "text": "企画開発部代表　石山様\n\n連絡ありがとうございます。\n申請書の件承知しました。\n今回のサークル活動の自粛を考慮して、全体に電子媒体で再配布をしますのでお待ち下さい。\n\n別途質問等ございましたら再度ご連絡いただければ幸いです。\n\nよろしくお願いします。\n\nメールチェックお願いします",
+        "user": "U039V55S998",
+        "ts": "1656057142.609519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656058562.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CfNzy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画開発部代表　石山様\n\n連絡ありがとうございます。\n申請書の件承知しました。\n今回のサークル活動の自粛を考慮して、全体に電子媒体で再配布をしますのでお待ち下さい。\n\n別途質問等ございましたら再度ご連絡いただければ幸いです。\n\nよろしくお願いします。\n\nメールチェックお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sent",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "3468cd5c-58c0-4b87-a9ee-ce476d9b4f05",
+        "type": "message",
+        "text": "メールチェックお願いします\n消防署宛、返信です\n\nーーーーーーーーーーーーーーーーーーーーーーーーーー\n会津若松消防署救急係　増井様\n\nお忙しい中ご返信いただきありがとうございます。\n救急講習会について、承知いたしました。\n\n今後ともよろしくお願いいたします。",
+        "user": "U0394PQ44FL",
+        "ts": "1659326129.972249",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04w7y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします\n消防署宛、返信です\n\nーーーーーーーーーーーーーーーーーーーーーーーーーー\n会津若松消防署救急係　増井様\n\nお忙しい中ご返信いただきありがとうございます。\n救急講習会について、承知いたしました。\n\n今後ともよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03901B3W69"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

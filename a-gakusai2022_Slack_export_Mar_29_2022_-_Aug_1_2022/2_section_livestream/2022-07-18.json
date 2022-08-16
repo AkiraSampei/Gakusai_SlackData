@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "c49d6d26-04db-41a6-bf89-62e8f59972c0",
+        "type": "message",
+        "text": "事務局企画連携課企画係　長田様\n\n学園祭実行委員会配信課の釘宮舜です。\n\n先日連絡をいただいた「学際研究フォーラム」についてご連絡申し上げます。\n\n今年度も参加させていただきます。\n\n打ち合わせの日程など、決定しましたら連絡をお願いいたします。",
+        "user": "U039P4NSKM1",
+        "ts": "1658213416.890209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wyCsK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "事務局企画連携課企画係　長田様\n\n学園祭実行委員会配信課の釘宮舜です。\n\n先日連絡をいただいた「学際研究フォーラム」についてご連絡申し上げます。\n\n今年度も参加させていただきます。\n\n打ち合わせの日程など、決定しましたら連絡をお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f17ef39c-13c3-4b28-9d82-d71da8d8e9ae",
+        "type": "message",
+        "text": "この文面で返信しようと思うんですけど、大丈夫ですかね",
+        "user": "U039P4NSKM1",
+        "ts": "1658213455.222599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pH\/w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この文面で返信しようと思うんですけど、大丈夫ですかね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,505 @@
+[
+    {
+        "client_msg_id": "ab5afca5-bdad-4929-8ef1-2368841cf2e1",
+        "type": "message",
+        "text": "<!channel>\nでは明日9時からよろしくお願いします！\n遅刻しても怒んないよ！",
+        "user": "U039M3UAXFG",
+        "ts": "1655808924.548189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/PGFB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nでは明日9時からよろしくお願いします！\n遅刻しても怒んないよ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CEEC5C4F-922A-4A2B-A9DC-1B72DCD9241B",
+        "type": "message",
+        "text": "寝坊しないように気をつけます！よろしくお願いします！",
+        "user": "U03K4J7KXTQ",
+        "ts": "1655809395.653889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JIS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "寝坊しないように気をつけます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0F3254D0-FF08-4036-AF2C-E16954C4E43C",
+        "type": "message",
+        "text": "おはようございます！\nオンライン授業の連絡がありましたがサークル等の活動に関してはまだ何も言われてないので予定通り対面でやります\nもし学祭室借りれなかったら食堂でやるのでその時は連絡します！",
+        "user": "U039M3UAXFG",
+        "ts": "1655846530.154749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3XFCD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "オンライン授業"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "連絡が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "がサークル等の活動に関してはまだ何も言われてないので予定通り対面で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やります"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もし"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学祭室借りれなかったら食堂で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やるの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でその時は連絡します"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A5E215D6-43E3-4B24-A844-4BDFAC3DF60E",
+        "type": "message",
+        "text": "学祭室開けれないそうなので食堂でやります！\n食堂南側の丸いテーブルにいます",
+        "user": "U039M3UAXFG",
+        "ts": "1655855139.770469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ef9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭室開けれないそうなので食堂で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やります！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "食堂南側の丸いテーブル"
+                            },
+                            {
+                                "type": "text",
+                                "text": "にいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ACAD4D1F-0C0E-4C17-AB7D-C35CE2223A05",
+        "type": "message",
+        "text": "黒い服着てる男です",
+        "user": "U039M3UAXFG",
+        "ts": "1655855217.021539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "G6RLd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "黒い服着てる男です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11972763-ABAF-4D60-9A22-BEA1A44D95C7",
+        "type": "message",
+        "text": "了解です！",
+        "user": "U03K4J7KXTQ",
+        "ts": "1655855407.957159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Iu1hy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8EE03761-D8E9-4A70-BA7A-8A2362140CBD",
+        "type": "message",
+        "text": "御手洗をすませたら向かいます！",
+        "user": "U03K4J7KXTQ",
+        "ts": "1655855413.193449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RWCS2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "御手洗を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すませたら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "向かいます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6c4e84c4-794b-4aeb-9442-d97692691231",
+        "type": "message",
+        "text": "2021: <https:\/\/docs.google.com\/document\/d\/1Bt1A7HSuCKSEHZw7VL8iRM_-4AMEovUMsOHwwfF-GXI\/edit?usp=sharing>",
+        "user": "U039M3UAXFG",
+        "ts": "1655855734.655379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1wO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2021: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1Bt1A7HSuCKSEHZw7VL8iRM_-4AMEovUMsOHwwfF-GXI\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BFF7D121-281E-46D8-AB83-E2715D3B43CE",
+        "type": "message",
+        "text": "本当にすみません。今向かってます",
+        "user": "U03KPT8FAD7",
+        "ts": "1655857088.480989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y99AM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当にすみません。今向かってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03L6K6UDM5",
+                "created": 1655859524,
+                "timestamp": 1655859524,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039M3UAXFG",
+                "editable": false,
+                "size": 565820,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L6K6UDM5\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L6K6UDM5\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L6K6UDM5-16cb64170a\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSWDoamzUEP3akBxQBJmimBqcDQBHKMt+FM21MwyabikBFF9ynZpkZ+Wlz70wJAacDUYNPBoAfRSUUAVUPy0uaYDxSZpDJQakU1ArVIrUxE4opoPFGaAP\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039M3UAXFG\/F03L6K6UDM5\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03L6K6UDM5-cef16ffacc",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039M3UAXFG",
+        "display_as_bot": false,
+        "ts": "1655859530.180039",
+        "client_msg_id": "C9EAF237-561E-43CE-84AA-AACA1BFCD8CD"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655860224.324139",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    }
+]

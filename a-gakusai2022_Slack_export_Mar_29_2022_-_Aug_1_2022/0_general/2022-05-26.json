@@ -1,0 +1,188 @@
+[
+    {
+        "client_msg_id": "7c896087-0a9e-46ef-9f9e-a5618a1aab81",
+        "type": "message",
+        "text": "<!channel>\n皆さんこんにちは、学生会執行部員 兼 学園祭実行委員のましこです。\n\n*とっても大切な連絡です。*\n６月１日に予算総会が執り行われます。この総会を執り行うためには参加人数が学生会員の１\/１０（１１０人）を超える必要があります。そのため学園祭実行委員会の皆さまに、参加のご協力をお願いしたいと思います。\n\n日付：６月１日\n時間：未定\n場所：Zoom\n\nこの総会は我々学園祭実行委員会の予算を申請できるかできないかの明暗を分ける非常に重要なものです。*総会が実施できなかった場合、今年度の予算を受け取ることができません。つまり学園祭を開催することができません。*\nそのため、ご都合のつく方は積極的な参加をお願いします。\n\n開催前日ほどにもう一度ご連絡させていただきます。\n皆さま、よろしくお願いいたします。",
+        "user": "U0394PQ44FL",
+        "ts": "1653553632.322909",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n皆さんこんにちは、学生会執行部員 兼 学園祭実行委員のましこです。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とっても大切な連絡です。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n６月１日に予算総会が執り行われます。この総会を執り行うためには参加人数が学生会員の１\/１０（１１０人）を超える必要があります。そのため学園祭実行委員会の皆さまに、参加のご協力をお願いしたいと思います。\n\n日付：６月１日\n時間：未定\n場所：Zoom\n\nこの総会は我々学園祭実行委員会の予算を申請できるかできないかの明暗を分ける非常に重要なものです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "総会が実施できなかった場合、今年度の予算を受け取ることができません。つまり学園祭を開催することができません。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nそのため、ご都合のつく方は積極的な参加をお願いします。\n\n開催前日ほどにもう一度ご連絡させていただきます。\n皆さま、よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1653553632.322909",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1653890990.629839",
+        "reply_users": [
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1653890990.629839"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1653890990.629839",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U039D5XVCJ3"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E46CE76B-8A62-445D-9E25-35A5BBDAA1DB",
+        "type": "message",
+        "text": "お疲れ様です。\n6月25日か26日にBBQをやりたいと考えています！\n時間は10時〜15時までを予定してます！\n6月12日までにどちらが都合良いか伝助の記入をよろしくお願いします:pray::pray:\n\n<https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM|https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM>",
+        "user": "U039RCZ4E04",
+        "ts": "1653624600.385079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                "fallback": "伝助（BBQ）",
+                "title": "伝助（BBQ）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sBDBy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。\n6月25日か26日にBBQをやりたいと考えています！\n時間は10時〜15時までを予定してます！\n6月12日までにどちらが都合良いか伝助の記入をよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM",
+                                "text": "https:\/\/densuke.biz\/list?cd=zGTTUuWdXAquuGsM"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0391RWR34N",
+                    "U03BM52KMEC",
+                    "U039P4NSKM1",
+                    "U03CDMY1V9C",
+                    "U039V55S998",
+                    "U03D0L4BEJU"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

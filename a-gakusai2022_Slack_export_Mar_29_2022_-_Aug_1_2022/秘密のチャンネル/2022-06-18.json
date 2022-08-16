@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "text": "PDF変換したやつ追加",
+        "files": [
+            {
+                "id": "F03L608MGJH",
+                "created": 1655618682,
+                "timestamp": 1655618682,
+                "name": "理工学演習1.zip",
+                "title": "理工学演習1.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 8169172,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L608MGJH\/_______________1.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L608MGJH\/download\/_______________1.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03L608MGJH\/_______________1.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03L608MGJH-6304803f08",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1655618699.244919",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MAVsy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "PDF変換したやつ追加"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "485df48d-f32a-4eed-9bb8-57d9c26b6362"
+    }
+]

@@ -1,0 +1,1557 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654333750.559299",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "client_msg_id": "2c0f6355-d999-498c-bfc2-e42d381f8605",
+        "type": "message",
+        "text": "<@U039V55S998>\n対応部長に質問があるため、連絡いたします。\n申請書は、どうなっていますか？\nステージ課として、ステージ参加団体を知りたいのでご返信よろしくお願いいたします。",
+        "user": "U039RCZ4E04",
+        "ts": "1654333836.878299",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2+bD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039V55S998"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n対応部長に質問があるため、連絡いたします。\n申請書は、どうなっていますか？\nステージ課として、ステージ参加団体を知りたいのでご返信よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "reply_count": 22,
+        "reply_users_count": 5,
+        "latest_reply": "1654340842.216239",
+        "reply_users": [
+            "U039V55S998",
+            "U03901B3W69",
+            "U039PA9J5JP",
+            "U039RCZ4E04",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U039V55S998",
+                "ts": "1654334053.384369"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1654334106.547689"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1654334134.797449"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654334241.224059"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654334559.175699"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1654334840.047429"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654335114.254549"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1654335142.181149"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654335214.556329"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1654335222.200289"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1654335246.570849"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654335280.958229"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1654335410.787379"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1654335492.819409"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654335557.159969"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1654335587.530149"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1654335604.479109"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1654335737.878029"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1654338227.478039"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1654338650.347199"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1654340400.388699"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1654340842.216239"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1654340842.216239"
+    },
+    {
+        "client_msg_id": "50440140-1611-4bcb-88da-50e91ef6f1dc",
+        "type": "message",
+        "text": "申請書はまだ作成しておりません。また、私自身作成方法をしらないので、急ぎの場合は来週中にも作成しますがどうしますか？",
+        "user": "U039V55S998",
+        "ts": "1654334053.384369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k8Cf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申請書はまだ作成しておりません。また、私自身作成方法をしらないので、急ぎの場合は来週中にも作成しますがどうしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "81880847-b98f-42ca-944e-82222ef2f4fe",
+        "type": "message",
+        "text": "申請書ってサークルに出してもらう書類でしょ？",
+        "user": "U03901B3W69",
+        "ts": "1654334106.547689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Kf5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申請書ってサークルに出してもらう書類でしょ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "59efed95-be0d-43e1-8aaf-514c6a2574d3",
+        "type": "message",
+        "text": "そうです",
+        "user": "U039PA9J5JP",
+        "ts": "1654334134.797449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3WSa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "66dee4f8-47d8-48cf-a6d6-2b5b0e20e2d0",
+        "type": "message",
+        "text": "すみません。色々ごっちゃになってました",
+        "user": "U039V55S998",
+        "ts": "1654334241.224059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ujHUI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません。色々ごっちゃになってました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "c535699d-53ed-4a5d-8a86-1ecae90c566f",
+        "type": "message",
+        "text": "テスト後に対応部会議を考えており、その後に集める予定でしたが遅いですか？自分としては一年生も交えたいのですがどうですか？",
+        "user": "U039V55S998",
+        "ts": "1654334559.175699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IozAn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "テスト後に対応部会議を考えており、その後に集める予定でしたが遅いですか？自分としては一年生も交えたいのですがどうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "2e4549d8-1c0c-4f99-b54a-d64ee94b16ba",
+        "type": "message",
+        "text": "去年の対応部長さんは、6月25日にDriveで各サークルの申請書をまとめてす。申請書集めることに関しては、おそらく１年生は関与しないので大丈夫だと思います。",
+        "user": "U039RCZ4E04",
+        "ts": "1654334840.047429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1654334862.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vSJv+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年の対応部長さんは、6月25日にDriveで各サークルの申請書をまとめてす。申請書集めることに関しては、おそらく１年生は関与しないので大丈夫だと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "faa8c6dc-4838-499b-a3f6-25138d08f0a8",
+        "type": "message",
+        "text": "今すぐどうしても必要でしたら明日にでも各サークルにメールを出して提出を申請しますが、どうしますか？",
+        "user": "U039V55S998",
+        "ts": "1654335114.254549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "euO4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今すぐどうしても必要でしたら明日にでも各サークルにメールを出して提出を申請しますが、どうしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "919de889-c039-40e2-9975-9ec1d894c007",
+        "type": "message",
+        "text": "Zoomでも対面でもいいけど説明会は一回開いておきたい",
+        "user": "U03901B3W69",
+        "ts": "1654335142.181149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yCf3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Zoomでも対面でもいいけど説明会は一回開いておきたい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "670f5fea-2e01-40ee-ba5d-56e1f966f72d",
+        "type": "message",
+        "text": "去年その説明会って一年生参加しませんでしたっけ？",
+        "user": "U039V55S998",
+        "ts": "1654335214.556329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yL5t\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年その説明会って一年生参加しませんでしたっけ？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "f3f632e0-0356-4bf7-a7c3-c6402917cd3e",
+        "type": "message",
+        "text": "それはサークル交えてですか？\nそれとも学祭だけでですか？",
+        "user": "U039PA9J5JP",
+        "ts": "1654335222.200289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YiBbd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それはサークル交えてですか？\nそれとも学祭だけでですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "b7808542-0ad6-4e02-ba6f-0fe8c358e549",
+        "type": "message",
+        "text": "サークル向けにする説明会。一年も立ち会えたらベスト",
+        "user": "U03901B3W69",
+        "ts": "1654335246.570849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qqXU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル向けにする説明会。一年も立ち会えたらベスト"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "5c9cf724-0f40-430a-b42c-75ee76cdcda7",
+        "type": "message",
+        "text": "なので対応部会議後ではだめですか？",
+        "user": "U039V55S998",
+        "ts": "1654335280.958229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HZ0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なので対応部会議後ではだめですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "721cece2-904f-481b-a805-3e3781f174d7",
+        "type": "message",
+        "text": "全体会議の日、会議の後に部署ごとに分かれて話してもらおうと思ってたんだけど言ってる対応部会議はそれと別日で開くの？\n全体会議→説明会＆申請書回収→対応部会議で添削\nって流れかな",
+        "user": "U03901B3W69",
+        "ts": "1654335410.787379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xZF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全体会議の日、会議の後に部署ごとに分かれて話してもらおうと思ってたんだけど言ってる対応部会議はそれと別日で開くの？\n全体会議→説明会＆申請書回収→対応部会議で添削\nって流れかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "6d2ea157-921a-4c4e-b2e3-205cc69c0099",
+        "type": "message",
+        "text": "説明会ってステージ参加団体の説明会ですか？申請書に関する説明会ですか？",
+        "user": "U039PA9J5JP",
+        "ts": "1654335492.819409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIVnv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "説明会ってステージ参加団体の説明会ですか？申請書に関する説明会ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "4ABF3674-02B8-49A8-BACB-55322AF79B51",
+        "type": "message",
+        "text": "自分はてっきり説明会と対応部会議が逆で考えていました。失礼しました。",
+        "user": "U039V55S998",
+        "ts": "1654335557.159969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ia\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分はてっきり説明会と対応部会議が逆で考えていました。失礼しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "f056def0-c1f4-4b2b-9f32-25567871c567",
+        "type": "message",
+        "text": "参加の仕方はどうあれ参加団体に提出してもらう共通の申請書があるのでそれの説明会です。それと最近は開催形式に対する説明もちょっと挟んだりする",
+        "user": "U03901B3W69",
+        "ts": "1654335587.530149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGYxr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "参加の仕方はどうあれ参加団体に提出してもらう共通の申請書があるのでそれの説明会です。それと最近は開催形式に対する説明もちょっと挟んだりする"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "6f548682-51a6-4527-a70d-be7e0b502759",
+        "type": "message",
+        "text": "ステージ参加でも講義棟でも模擬店でもその説明会を受けて申請書を出してもらう",
+        "user": "U03901B3W69",
+        "ts": "1654335604.479109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qft",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ステージ参加でも講義棟でも模擬店でもその説明会を受けて申請書を出してもらう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "f828ec0f-c1bc-4342-a50a-3611df4ecc6c",
+        "type": "message",
+        "text": "ステージ課としては、対応部長に６月末か７月上旬までには、ステージ参加団体を把握してステージ参加団体と説明会をしてほしいです。去年は予定より遅かったためPAシートを集めるのが遅くなってしまいました。去年の二の舞にはなりたくないので早めにしてほしいです。",
+        "user": "U039RCZ4E04",
+        "ts": "1654335737.878029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1654335800.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hquTK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ステージ課としては、対応部長に６月末か７月上旬までには、ステージ参加団体を把握してステージ参加団体と説明会をしてほしいです。去年は予定より遅かったためPAシートを集めるのが遅くなってしまいました。去年の二の舞にはなりたくないので早めにしてほしいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "8104f3ce-f168-4765-870e-6315fcd27137",
+        "type": "message",
+        "text": "ステージ課としては、早めにステージ参加団体を把握したいということです。その上で申請書を早くほしいので、こうやって今涼太くんに促してます。",
+        "user": "U039PA9J5JP",
+        "ts": "1654337327.443159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xXxpY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ステージ課としては、早めにステージ参加団体を把握したいということです。その上で申請書を早くほしいので、こうやって今涼太くんに促してます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84679851-A782-4250-8EEA-5592E46E4963",
+        "type": "message",
+        "text": "横から失礼します。結局どういう感じでお話がまとまったのか確認したいのでいくつか質問を。\n\n```・申請書についての詳細を対外的に行う（サークル説明会）のはいつか\n・それに一年生は参加するのか\n　\n・申請書について内部で話し合う会議（対応部会議）はあるのか\n・それに一年生は参加するのか```\n知ってる方が知ってる分だけ教えていただければ大丈夫です。よろしくお願いします。",
+        "user": "U0394PQ44FL",
+        "ts": "1654338227.478039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2sdD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "横から失礼します"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "結局ど"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ういう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "感じでお話が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "まとま"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "たのか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認"
+                            },
+                            {
+                                "type": "text",
+                                "text": "したいの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でいくつか質問を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・申請書についての詳細を対外的に行う（サークル説明会）のはいつか\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・それに一年生は参加するのか\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・申請書について内部で話し合う会議（対応部会議）はあるのか\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・それに一年生は参加するのか"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "知ってる方が知ってる分だけ教えていただければ大丈夫で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す。よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "C057C36B-B0F4-4645-B476-A734A63E8A89",
+        "type": "message",
+        "text": "<@U039V55S998> 申請書に関しては何か説明はされてるの？そもそも",
+        "user": "U039PA9J5JP",
+        "ts": "1654338650.347199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039V55S998"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "申請書に関しては何か説明はされてるの？そもそも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "0AAF2FDC-2610-462F-9A45-C0F4B69808C1",
+        "type": "message",
+        "text": "<@U0394PQ44FL> \nおそらくですけど、サークル説明会は全体会議の後にやる予定だと思います。\n\n申請書に関する内部の会議というのは申請書の添削ということですか？だとしたら申請書がサークルから届き次第にやるとは思います。\n上二つの詳しい日程と一年生を参加とかは決まってないので涼太くんかみじゅさんに決めてもらいたいです",
+        "user": "U039PA9J5JP",
+        "ts": "1654340400.388699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pl8sr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0394PQ44FL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nおそらくですけど、サークル説明会は全体会議の後にやる予定だと思います。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "申請書に関する内部の会議というのは申請書の添削ということですか？だとしたら申請書がサークルから届き次第にやるとは思います。\n上二つの詳しい日程と一年生を参加とかは決まってないので涼太"
+                            },
+                            {
+                                "type": "text",
+                                "text": "くん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "かみじゅさんに決めてもらいたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U039RCZ4E04"
+                ],
+                "count": 2
+            },
+            {
+                "name": "300-num",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "449BD2B1-7773-480F-A3E0-0F9A4201FDE4",
+        "type": "message",
+        "text": "<@U039PA9J5JP> そゆことです！ありがとう",
+        "user": "U0394PQ44FL",
+        "ts": "1654340842.216239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lju",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039PA9J5JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そゆこと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654333836.878299",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "c7a651bd-0837-4caf-b0de-685cb8e2f2d2",
+        "type": "message",
+        "text": "りょうこさんの引継ぎ書によると、去年は説明会のメールは5月１６日送信で、模擬店の説明会は5月１９日開催でした。\n申請書の作成は5月中に実施、申請書を提出仕切ったら添削をして７月に不備のあった団体を呼び出して訂正してました。\n\n私は、すでに遅いことは重々承知ですが、まず、テスト期間中と6月11日から13日のいずれか計2回サークル説明会についてのメールを送信後、１５日の17時以降と16日の昼休みの計2回サークル説明会を実施、（来れなかったサークルは直接伺おうと考えております）。一年生は参加可能(授業とかぶってない)でしたら参加して欲しいです。\n締め切りは6月の最終週を検討しております。不備等の添削は7月の第一週までには終わらせる予定です。申請書についての会議が添削のことであれば、その後に第二回対応部会議を実施（なるべく早く）して一年生には参加して欲しいです。\nこれは私の都合の良いように書いたので具体的な日程は宮崎さんと詰めていきます。\nまた、サークル説明会は最悪自分一人いればなんとかなると考えておりますが、他の方がいた方がいいのでしたら、日程を改めます。",
+        "user": "U039V55S998",
+        "ts": "1654340884.147389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gbzIN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "りょうこさんの引継ぎ書によると、去年は説明会のメールは5月１６日送信で、模擬店の説明会は5月１９日開催でした。\n申請書の作成は5月中に実施、申請書を提出仕切ったら添削をして７月に不備のあった団体を呼び出して訂正してました。\n\n私は、すでに遅いことは重々承知ですが、まず、テスト期間中と6月11日から13日のいずれか計2回サークル説明会についてのメールを送信後、１５日の17時以降と16日の昼休みの計2回サークル説明会を実施、（来れなかったサークルは直接伺おうと考えております）。一年生は参加可能(授業とかぶってない)でしたら参加して欲しいです。\n締め切りは6月の最終週を検討しております。不備等の添削は7月の第一週までには終わらせる予定です。申請書についての会議が添削のことであれば、その後に第二回対応部会議を実施（なるべく早く）して一年生には参加して欲しいです。\nこれは私の都合の良いように書いたので具体的な日程は宮崎さんと詰めていきます。\nまた、サークル説明会は最悪自分一人いればなんとかなると考えておりますが、他の方がいた方がいいのでしたら、日程を改めます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654340884.147389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654342887.310049",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1654342887.310049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0394PQ44FL",
+                    "U038TMLJW1M",
+                    "U039PA9J5JP",
+                    "U039RCZ4E04",
+                    "U0391RWR34N"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8d54567e-705b-4958-b531-be7eb70b3750",
+        "type": "message",
+        "text": "長文失礼しました。今回は私の不備によって混乱を招いてしまってすみません。このようなことがないように宮崎さんと予定を詰めていきますので、よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1654340946.972819",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "長文失礼しました。今回は私の不備によって混乱を招いてしまってすみません。このようなことがないように宮崎さんと予定を詰めていきますので、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ebd7bfaa-1a3b-4621-997d-c2a0339ffb27",
+        "type": "message",
+        "text": "<@U039RCZ4E04> また、期限を守れず去年の二の舞になってしまってすみませんでした。",
+        "user": "U039V55S998",
+        "ts": "1654340987.458729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FELLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RCZ4E04"
+                            },
+                            {
+                                "type": "text",
+                                "text": " また、期限を守れず去年の二の舞になってしまってすみませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654340987.458729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654347780.255679",
+        "reply_users": [
+            "U039RCZ4E04"
+        ],
+        "replies": [
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1654347780.255679"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039RCZ4E04"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "59FF4F14-4BB7-4C7C-8C7D-D082C666B6C6",
+        "type": "message",
+        "text": "サークル説明会に出席しなかったサークルにはs-leaderってサークルの重役だけが入ってるメーリングリストがあるのでそこに書類まとめて投げればいいよ。\nわざわざこっちから出向く必要はない。",
+        "user": "U0399UH8BKQ",
+        "ts": "1654342887.310049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yUqLK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル説明会に出席しなかったサークルにはs-"
+                            },
+                            {
+                                "type": "text",
+                                "text": "leader"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ってサークルの重役だけが入ってるメーリングリストがあるのでそこに書類まとめて投げればいいよ。\nわざわざこっちから出向く必要はない。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654340884.147389",
+        "parent_user_id": "U039V55S998",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A0DEB20A-5F3A-4998-A4B6-0378990B5818",
+        "type": "message",
+        "text": "まだ全然間に合うのと\n二の舞にはなってないから、\nとりあえずテストに集中して:raised_hands:\nあとテスト前なのにごめんよ:pray::pray:",
+        "user": "U039RCZ4E04",
+        "ts": "1654347780.255679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1654347933.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Lav",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだ全然間に合うのと\n二の舞にはなってないから、\nとりあえずテストに集中して"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nあとテスト前なのにごめんよ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654340987.458729",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654405579.206659",
+        "user": "U03CGVA43U3",
+        "text": "<@U03CGVA43U3>さんがチャンネルに参加しました"
+    }
+]

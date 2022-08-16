@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "1848df09-c41b-4438-854b-b1b73324e164",
+        "type": "message",
+        "text": "request; 配信の環境を整えるためにステージの詳細情報を知りたいです",
+        "user": "U039P4NSKM1",
+        "ts": "1658985032.920579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4sSo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "request; 配信の環境を整えるためにステージの詳細情報を知りたいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658985032.920579",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658985070.948159",
+        "reply_users": [
+            "U039P4NSKM1"
+        ],
+        "replies": [
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1658985070.948159"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "499719f8-3908-4233-ad0f-2b0a36b5506c",
+        "type": "message",
+        "text": "見取り図などがあれば欲しいです",
+        "user": "U039P4NSKM1",
+        "ts": "1658985070.948159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HpI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "見取り図などがあれば欲しいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658985032.920579",
+        "parent_user_id": "U039P4NSKM1"
+    }
+]

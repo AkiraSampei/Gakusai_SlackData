@@ -1,0 +1,16 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654927636.332989",
+        "user": "U03K8CWK5LK",
+        "text": "<@U03K8CWK5LK>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654927637.093269",
+        "user": "U03K8F1PW82",
+        "text": "<@U03K8F1PW82>さんがチャンネルに参加しました"
+    }
+]

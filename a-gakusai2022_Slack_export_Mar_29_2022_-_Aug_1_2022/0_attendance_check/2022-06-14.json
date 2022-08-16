@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "95F24CEE-C61C-4E90-8674-09E3EEDAA4C7",
+        "type": "message",
+        "text": "明日の対応部会議、欠席します。",
+        "user": "U03A9180MAN",
+        "ts": "1655190520.263309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/gA8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議、欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9A5B65CD-D9F2-457B-99A5-2AA2D76D72BE",
+        "type": "message",
+        "text": "明日の対応部会議欠席します。",
+        "user": "U03AJV9QH96",
+        "ts": "1655190539.922659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge7ad0ebd24b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7ad0ebd24bae41cc75a4c7fe88358d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280138",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lksM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ED93C72-D1E7-4BE7-BBBB-C3BA0D74C42B",
+        "type": "message",
+        "text": "明日の対応部会議欠席します。",
+        "user": "U039T9DE072",
+        "ts": "1655211063.390259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9zLSO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議欠席します"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7F0F13CB-6736-4254-9BD7-E5514DD025DE",
+        "type": "message",
+        "text": "明日の対応部会議、欠席します",
+        "user": "U039TSY8J67",
+        "ts": "1655237876.996689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議、欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

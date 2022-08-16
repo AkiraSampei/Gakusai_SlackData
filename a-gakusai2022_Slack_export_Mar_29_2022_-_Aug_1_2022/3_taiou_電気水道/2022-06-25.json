@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "CBC2DEA3-2DEC-4A4A-BD3C-1285B4907A70",
+        "type": "message",
+        "text": "おけです",
+        "user": "U039TSY8J67",
+        "ts": "1656162189.092329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oOEL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おけです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92AB0AED-B310-496E-91FA-4BD881B21334",
+        "type": "message",
+        "text": "水曜15時半いけますよ",
+        "user": "U039TSY8J67",
+        "ts": "1656162211.037689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f0H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "水曜15時半"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いけますよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "b594e1fe-5e47-4904-8ad8-5508af7038f2",
+        "type": "message",
+        "text": "明日の対応部会議ですが、私用により欠席します。議事録読みます。",
+        "user": "U039RJU3V36",
+        "ts": "1655173128.057619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "R5ku=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議ですが、私用により欠席します。議事録読みます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bc0f2ca7-6b60-401d-8e37-27aaae3d6a8c",
+        "type": "message",
+        "text": "明日の対応部会議ですが、諸事情により遅刻する可能性があります",
+        "user": "U039P4NSKM1",
+        "ts": "1655186617.930929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Av4S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議ですが、諸事情により遅刻する可能性があります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sleepy",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0391RWR34N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "zzz",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sleeping_accommodation",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd258ca0-4f52-47c4-b7f0-0b1e3e599b79",
+        "type": "message",
+        "text": "明日の対応部会議欠席します。\n何かあればDMください。",
+        "user": "U0399UH8BKQ",
+        "ts": "1655186929.886229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9GO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の対応部会議欠席します。\n何かあればDMください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,660 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "今誰か食堂おる？（用事あって遅れる人より）",
+        "user": "U0391RWR34N",
+        "ts": "1654057307.240009",
+        "thread_ts": "1653820448.986469",
+        "root": {
+            "client_msg_id": "59abaa13-c570-40a7-a88f-1057679d9708",
+            "type": "message",
+            "text": "```<https:\/\/densuke.biz\/list?cd=HfSGT2XNGaTSTEEC>```",
+            "user": "U039PA9J5JP",
+            "ts": "1653820448.986469",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "wL5g",
+                    "elements": [
+                        {
+                            "type": "rich_text_preformatted",
+                            "elements": [
+                                {
+                                    "type": "link",
+                                    "url": "https:\/\/densuke.biz\/list?cd=HfSGT2XNGaTSTEEC"
+                                }
+                            ],
+                            "border": 0
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1653820448.986469",
+            "reply_count": 3,
+            "reply_users_count": 3,
+            "latest_reply": "1654063356.077239",
+            "reply_users": [
+                "U039PA9J5JP",
+                "U0391RWR34N",
+                "U039L92GA3X"
+            ],
+            "replies": [
+                {
+                    "user": "U039PA9J5JP",
+                    "ts": "1653820735.639049"
+                },
+                {
+                    "user": "U0391RWR34N",
+                    "ts": "1654057307.240009"
+                },
+                {
+                    "user": "U039L92GA3X",
+                    "ts": "1654063356.077239"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OOY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今誰か食堂おる？（用事あって遅れる人より）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "88dae899-bcc0-4751-a3c4-c47b4f4c8465"
+    },
+    {
+        "type": "message",
+        "text": "<!channel> 二年生以上の方へ　\n上の伝助の通り、今日明日で新入生と話す場所を食堂に設けています。それについて1年生にはcampus-helpでメールを送っています。内容は添付したtxtファイルの通りです。\nしかし伝助に記入された人数では明日(15時～18時半終了予定)の人手が厳しいため、もう少し時間が空いているという人に力を借りたいです。直前の連絡になってすみませんが、協力してくれるという人は連絡ください。1時間でも30分でも助かります。",
+        "files": [
+            {
+                "id": "F03HB97SZRT",
+                "created": 1653810260,
+                "timestamp": 1653810260,
+                "name": "メール原稿(プチ説明会).txt",
+                "title": "メール原稿(プチ説明会).txt",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "U03901B3W69",
+                "editable": true,
+                "size": 633,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03HB97SZRT\/________________________________.txt?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03HB97SZRT\/download\/________________________________.txt?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03901B3W69\/F03HB97SZRT\/________________________________.txt",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03HB97SZRT-a369c2db20",
+                "edit_link": "https:\/\/a-gakusai2022.slack.com\/files\/U03901B3W69\/F03HB97SZRT\/________________________________.txt\/edit",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03901B3W69",
+        "display_as_bot": false,
+        "ts": "1654060947.821019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2DaCx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 二年生以上の方へ　\n上の伝助の通り、今日明日で新入生と話す場所を食堂に設けています。それについて1年生にはcampus-helpでメールを送っています。内容は添付したtxtファイルの通りです。\nしかし伝助に記入された人数では明日(15時～18時半終了予定)の人手が厳しいため、もう少し時間が空いているという人に力を借りたいです。直前の連絡になってすみませんが、協力してくれるという人は連絡ください。1時間でも30分でも助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c5a00986-0291-402d-80f7-5c19e8bff875"
+    },
+    {
+        "client_msg_id": "f3114f73-54f4-4bc1-8e76-759e95cc460a",
+        "type": "message",
+        "text": "<!channel>\n皆さんこんにちは、４年のましこです。\n新入生説明会を行っていただいている皆さん、ありがとうございます。\n\nさて、本日ですが予算総会が実施されます。先日連絡したとおり、本総会は本年度の予算案を確保するための重要な会となっております。実施するにあたり、参加人数が１１０名を超える必要があります。みなさま、ご協力お願いいたします。\n\n<https:\/\/us06web.zoom.us\/j\/86420190484?pwd=Nnk2b3NPNnoraFBLQnI5LzhGeXJ0UT09>",
+        "user": "U0394PQ44FL",
+        "ts": "1654063176.154739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1654063770.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BNq0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n皆さんこんにちは、４年のましこです。\n新入生説明会を行っていただいている皆さん、ありがとうございます。\n\nさて、本日ですが予算総会が実施されます。先日連絡したとおり、本総会は本年度の予算案を確保するための重要な会となっております。実施するにあたり、参加人数が１１０名を超える必要があります。みなさま、ご協力お願いいたします。\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us06web.zoom.us\/j\/86420190484?pwd=Nnk2b3NPNnoraFBLQnI5LzhGeXJ0UT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH",
+                    "U038TMLJW1M",
+                    "U039PA9J5JP",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_stable",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9947d93d-d2ea-4ad4-a857-bcd9376ca420",
+        "type": "message",
+        "text": "今50人ぐらいしか居ないです。\n参加のほどよろしくお願いします。",
+        "user": "U0399UH8BKQ",
+        "ts": "1654063285.409929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/ZWi1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今50人ぐらいしか居ないです。\n参加のほどよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D4D0458D-76BC-4F80-B947-FC6F641A60D4",
+        "type": "message",
+        "text": "荷物送られて来て行けないかも",
+        "user": "U039L92GA3X",
+        "ts": "1654063356.077239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GZXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "荷物送られて来て行けない"
+                            },
+                            {
+                                "type": "text",
+                                "text": "かも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1653820448.986469",
+        "parent_user_id": "U039PA9J5JP"
+    },
+    {
+        "client_msg_id": "0f42d291-6355-4079-9f91-0e0372dc2ae9",
+        "type": "message",
+        "text": "あと20",
+        "user": "U03901B3W69",
+        "ts": "1654064396.269559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Qn8qt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと20"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b9f0e7c0-4eaa-4042-84fa-2696ca1c328a",
+        "type": "message",
+        "text": "他サークルのライングルでも告知しときました",
+        "user": "U039BUU0GAH",
+        "ts": "1654064522.023649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nrs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "他サークルのライングルでも告知しときました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U0394PQ44FL",
+                    "U0399UH8BKQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U0394PQ44FL",
+                    "U0399UH8BKQ"
+                ],
+                "count": 2
+            },
+            {
+                "name": "300-num",
+                "users": [
+                    "U0399UH8BKQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yoki",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "11bc4c55-a9c6-4a1a-b35f-3865f1191d71",
+        "type": "message",
+        "text": "開始さえできれば総会中に人数が規定を下回っても大丈夫ですので、少しの間だけお時間を頂戴いただければ大丈夫です。",
+        "user": "U0394PQ44FL",
+        "ts": "1654064626.022559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5jY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開始さえできれば総会中に人数が規定を下回っても大丈夫ですので、少しの間だけお時間を頂戴いただければ大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B8AAE3FF-9ADB-40F2-AE51-ABD42724116A",
+        "type": "message",
+        "text": "そうだね",
+        "user": "U039EF90649",
+        "ts": "1654064737.424029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xsJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "う"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a02a64e3-a330-41df-b265-3167ac50c92f",
+        "type": "message",
+        "text": "少々お待ちを",
+        "user": "U0394PQ44FL",
+        "ts": "1654064745.747349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OxWUc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "少々お待ちを"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "643D2D5D-1B94-43FC-BFED-FEAED2F4487C",
+        "type": "message",
+        "text": "zoomの場所変わってます？",
+        "user": "U039L92GA3X",
+        "ts": "1654064914.571729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4srM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "zoomの場所変わって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ます？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "585b2573-e160-4969-ad06-38b5bc3e4b51",
+        "type": "message",
+        "text": "人数めちゃ減った？？？",
+        "user": "U039BUU0GAH",
+        "ts": "1654064932.705639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gkj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "人数めちゃ減った？？？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C03C2981-8450-4329-974D-02B300660D4D",
+        "type": "message",
+        "text": "みたいです",
+        "user": "U039L92GA3X",
+        "ts": "1654064941.287679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jlxdC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みたい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

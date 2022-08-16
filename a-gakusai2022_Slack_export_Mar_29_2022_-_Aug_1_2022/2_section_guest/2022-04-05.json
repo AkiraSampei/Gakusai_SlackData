@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649214253.293739",
+        "user": "U039EF90649",
+        "text": "<@U039EF90649>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649214264.936779",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました",
+        "inviter": "U039EF90649"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649214264.999789",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました",
+        "inviter": "U039EF90649"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649214469.526939",
+        "user": "U039H10MUTY",
+        "text": "<@U039H10MUTY>さんがチャンネルに参加しました",
+        "inviter": "U039EF90649"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649214469.596629",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました",
+        "inviter": "U039EF90649"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649214547.348399",
+        "user": "U039PA9J5JP",
+        "text": "<@U039PA9J5JP>さんがチャンネルに参加しました",
+        "inviter": "U039EF90649"
+    },
+    {
+        "client_msg_id": "c52bbe57-2ccc-46ec-a64f-26729be579c5",
+        "type": "message",
+        "text": "明日10:00~11:00の間でゲストの打ち合わせをします",
+        "user": "U039EF90649",
+        "ts": "1649214593.682849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3gLk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日10:00~11:00の間でゲストの打ち合わせをします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

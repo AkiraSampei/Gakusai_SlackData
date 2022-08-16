@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655695594.213569",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655695662.648339",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「2_sectiuon_sponser」から「2_section_sponser」に変更しました",
+        "old_name": "2_sectiuon_sponser",
+        "name": "2_section_sponser"
+    }
+]

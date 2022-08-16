@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "9c7ee4d6-e981-442a-a56a-a3e5985955fc",
+        "type": "message",
+        "text": "<@U039H10MUTY> １１日の全体会議後、各部に別れて会議をする予定だと思うんだけど、具体的に何話すかってきめました？企画の割り振りとか？",
+        "user": "U0394PQ44FL",
+        "ts": "1654490137.280739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uMDLa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039H10MUTY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " １１日の全体会議後、各部に別れて会議をする予定だと思うんだけど、具体的に何話すかってきめました？企画の割り振りとか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "32B7105B-84AB-44F3-82B2-164785A4FC87",
+        "type": "message",
+        "text": "主に企画の割り振り、進め方、いつぐらいまでに企画書を完成させるかについて話したいと思います。",
+        "user": "U039H10MUTY",
+        "ts": "1654490356.906219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ga71d2c7eed2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a71d2c7eed28c6fec824645efddc1980.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+            "first_name": "あ",
+            "real_name": "あ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290196",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "主に企画の割り振り、進め方、いつぐらいまでに企画書を完成させるかについて話したいと思います"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654490356.906219",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654490783.068309",
+        "reply_users": [
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1654490783.068309"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1654490783.068309"
+    },
+    {
+        "client_msg_id": "25462E24-8985-43DD-815C-F8F1E10DFE97",
+        "type": "message",
+        "text": "ありがとうございます！！",
+        "user": "U0394PQ44FL",
+        "ts": "1654490783.068309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Za+Dn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654490356.906219",
+        "parent_user_id": "U039H10MUTY"
+    }
+]

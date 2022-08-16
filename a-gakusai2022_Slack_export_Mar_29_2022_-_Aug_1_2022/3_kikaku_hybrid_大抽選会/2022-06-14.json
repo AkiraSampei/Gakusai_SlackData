@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655271436.732769",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655271469.887499",
+        "user": "U039RJU3V36",
+        "text": "<@U039RJU3V36>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655271541.245819",
+        "user": "U03K4J7KXTQ",
+        "text": "<@U03K4J7KXTQ>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655271590.319969",
+        "user": "U03KPT8FAD7",
+        "text": "<@U03KPT8FAD7>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1653545658.186829",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "29669cd2-fbd5-4961-b2f6-2c44fafc5aaa",
+        "type": "message",
+        "text": "<@U039EF90649>\n今、外部業者から電話がありました。\n\nクラフトワーク（<http:\/\/craft-work.com\/>）という会社の加藤様からです。\n内容・目的などを聞こうとしましたが、「電話でゲスト担当の方と話をしたい」とのことなので、コンタクトお願いします。\n連絡先 会社TEL: <tel:0369090605|03-6909-0605>,   個人TEL: <tel:08085489466|080-8548-9466>\n\n自分の名前等は伝えてあるので、電話の際話があれば相槌打ってください。",
+        "user": "U0391RWR34N",
+        "ts": "1653545905.474879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TK9Lq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039EF90649"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今、外部業者から電話がありました。\n\nクラフトワーク（"
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/craft-work.com\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）という会社の加藤様からです。\n内容・目的などを聞こうとしましたが、「電話でゲスト担当の方と話をしたい」とのことなので、コンタクトお願いします。\n連絡先 会社TEL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:0369090605",
+                                "text": "03-6909-0605"
+                            },
+                            {
+                                "type": "text",
+                                "text": ",   個人TEL: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:08085489466",
+                                "text": "080-8548-9466"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n自分の名前等は伝えてあるので、電話の際話があれば相槌打ってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

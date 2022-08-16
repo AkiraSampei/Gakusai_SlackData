@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "467db5f0-2455-4de8-a3a0-68c48c1617e8",
+        "type": "message",
+        "text": "<!channel>\n対応部のDriveの場所が変わりました\n今後はこちらのURLを使うようにしてください\n<https:\/\/drive.google.com\/drive\/folders\/1RHlzuDJAn8F65bH7Yq9ssARhrGbCN18d?usp=sharing>",
+        "user": "U0394PQ44FL",
+        "ts": "1658811655.804039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S\/Vp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n対応部のDriveの場所が変わりました\n今後はこちらのURLを使うようにしてください\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1RHlzuDJAn8F65bH7Yq9ssARhrGbCN18d?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

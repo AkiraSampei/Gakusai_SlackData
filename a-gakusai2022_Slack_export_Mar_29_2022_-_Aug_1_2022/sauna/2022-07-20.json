@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "A743DB43-BF4B-4071-A5AD-E5D55DF9BA97",
+        "type": "message",
+        "text": "明日サウナ行きたい:person_in_steamy_room:",
+        "user": "U039RCZ4E04",
+        "ts": "1658365484.626669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WBm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日サウナ行きたい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "person_in_steamy_room",
+                                "unicode": "1f9d6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ikemasen",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

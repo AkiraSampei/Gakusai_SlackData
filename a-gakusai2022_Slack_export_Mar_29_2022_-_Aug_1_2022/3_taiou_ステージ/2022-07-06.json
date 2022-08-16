@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "fce26648-e788-406b-9649-f7b315846a91",
+        "type": "message",
+        "text": "ステージ業者担当・・・髙橋尚\n学内担当・・・玉田紗楽\n外部業者担当・・・木村好誠\nサークル担当・・・布施孝太",
+        "user": "U039PA9J5JP",
+        "ts": "1657098259.860559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1657100070.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TKs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ステージ業者担当・・・髙橋尚\n学内担当・・・玉田紗楽\n外部業者担当・・・木村好誠\nサークル担当・・・布施孝太"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657098259.860559",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657100105.923189",
+        "reply_users": [
+            "U03GF2N1X63",
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U03GF2N1X63",
+                "ts": "1657099055.182209"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1657100105.923189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "06AE6DEB-9667-4078-B56E-D2311A3CB82C",
+        "type": "message",
+        "text": "全然気にしなくていいですし、一応なんですけど、紗楽です笑",
+        "user": "U03GF2N1X63",
+        "ts": "1657099055.182209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "dd1e1372ee9a",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-15\/3669418199058_dd1e1372ee9adcb210a6_72.png",
+            "first_name": "Tamada",
+            "real_name": "Tamada Sara",
+            "display_name": "さら",
+            "team": "T038Z0K089K",
+            "name": "tamago420530ri",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UF\/d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全然気にしなくていいです"
+                            },
+                            {
+                                "type": "text",
+                                "text": "し、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一応"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すけ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ど"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "紗楽で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す"
+                            },
+                            {
+                                "type": "text",
+                                "text": "笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657098259.860559",
+        "parent_user_id": "U039PA9J5JP"
+    },
+    {
+        "client_msg_id": "ce15013a-9e39-4901-b98f-cfde9b97f42e",
+        "type": "message",
+        "text": "ごめんなさい、直しました。:man-bowing:",
+        "user": "U039PA9J5JP",
+        "ts": "1657100105.923189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f54cA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい、直しました。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657098259.860559",
+        "parent_user_id": "U039PA9J5JP"
+    },
+    {
+        "client_msg_id": "87558269-28ca-4186-a955-bf421fed6324",
+        "type": "message",
+        "text": "<@U03GF2N1X63> <@U03JVEZF16K>\n先ほどの会議、お疲れ様でした。\n学祭参加団体のスラックを作ったので、二人には入ってほしいです。\n名前は[学祭]をつけてください。お願いします。:cat_handsup:\n<https:\/\/join.slack.com\/t\/w1657064682-ybb918046\/shared_invite\/zt-1c27it1k4-GzjVz5eqRAJIM5wFEgYfcw>",
+        "user": "U039PA9J5JP",
+        "ts": "1657100823.758509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XQm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03GF2N1X63"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03JVEZF16K"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先ほどの会議、お疲れ様でした。\n学祭参加団体のスラックを作ったので、二人には入ってほしいです。\n名前は[学祭]をつけてください。お願いします。"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cat_handsup"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.slack.com\/t\/w1657064682-ybb918046\/shared_invite\/zt-1c27it1k4-GzjVz5eqRAJIM5wFEgYfcw"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

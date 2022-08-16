@@ -1,0 +1,607 @@
+[
+    {
+        "client_msg_id": "78762c16-9648-4a2d-b984-02f56fb5850d",
+        "type": "message",
+        "text": "サークル代表各位\n\n会津大学学園祭実行委員の渡辺涼太です。\n\n今回のサークル活動の自粛に伴い、申請書をdocxでの配布を要望するサークルがいらっしゃったので、docxの申請書を配布します。\n\n締切厳守でよろしくお願いします。\n\n上のと合わせてメールチェックお願いします。",
+        "user": "U039V55S998",
+        "ts": "1656246295.042259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656246327.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nGIod",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル代表各位\n\n会津大学学園祭実行委員の渡辺涼太です。\n\n今回のサークル活動の自粛に伴い、申請書をdocxでの配布を要望するサークルがいらっしゃったので、docxの申請書を配布します。\n\n締切厳守でよろしくお願いします。\n\n上のと合わせてメールチェックお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656246295.042259",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656249292.902539",
+        "reply_users": [
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1656249292.902539"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sent",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4A9BAD9E-1F66-44BC-BAD4-596410224AD3",
+        "type": "message",
+        "text": "「申請書をdocxでの配布を要望するサークルがいらっしゃったので」の部分は省いて良いと思う　「しゃーないから用意してやったぜ」感を感じちゃうので…\n（活動出来ないから実質的に全サークルオンラインで受け取りになる可能性高いし… 該当部消すだけで文脈的にも問題はないかと。）",
+        "user": "U0391RWR34N",
+        "ts": "1656249292.902539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2dry0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「申請書をdocxでの配布を要望するサークルがいらっしゃったので」の部分は省いて良いと思う　「しゃーないから用意してやったぜ」感を感じちゃうので…\n（活動出来ないから実質的に全サークルオンラインで受け取りになる可能性高いし… 該当部消すだけで文脈的にも問題はないかと。）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656246295.042259",
+        "parent_user_id": "U039V55S998",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "580e746e-20b0-4f10-a2b2-10522f546757",
+        "type": "message",
+        "text": "メールチェックお願いします。\n太字部分→追加した箇所\n件名：~【学祭】~*[学祭]*ポスター・パンフレット打ち合わせのお願い\n----以下本文--------------\n三洋印刷株式会社営業部　長谷川様\n\nお世話になっております。会津大学学園祭実行委員会の三瓶です。\n昨年度は、ポスターとチラシの依頼を引き受けていただき、ありがとうございました。\n\nこの度~は~、本年度も貴社にポスターやパンフレット*の印刷*をご依頼したく連絡をいたしました。\nつきましては、こちらの都合で申し訳ございませんが、~今週中に~*今週の水曜日か木曜日に*打ち合わせをしたいと考えております。*~もし厳しければ~難しいようでしたら、来週以降でご都合の良い日時、場所を教えていただけると幸いです。*\nまた、対面での打ち合わせを考えていますが、現在のコロナ情勢を踏まえ、オンラインでの打ち合わせも~視野に入れています~*可能です*。\n~ご都合の良い日時、場所をご教示いただけると幸いです。~\n\nご返信よろしくお願いします。\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n会津大学学園祭実行委員会　広報担当　三瓶晃\n学園祭： &lt; <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> &gt;\nMail： &lt; <mailto:s1290238@u-aizu.ac.jp|s1290238@u-aizu.ac.jp> &gt;\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n\n個人的に気に食わない箇所：\n対面なのかオンラインなのか、いつどこでを全て相手に丸投げなところ。\n件名がこれでいいのか。",
+        "user": "U039RJU3V36",
+        "ts": "1656297381.632579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1656298895.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7v0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。\n太字部分→追加した箇所\n件名："
+                            },
+                            {
+                                "type": "text",
+                                "text": "【学祭】",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "[学祭]",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ポスター・パンフレット打ち合わせのお願い\n----以下本文--------------\n三洋印刷株式会社営業部　長谷川様\n\nお世話になっております。会津大学学園祭実行委員会の三瓶です。\n昨年度は、ポスターとチラシの依頼を引き受けていただき、ありがとうございました。\n\nこの度"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、本年度も貴社にポスターやパンフレット"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の印刷",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "をご依頼したく連絡をいたしました。\nつきましては、こちらの都合で申し訳ございませんが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今週中に",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "今週の水曜日か木曜日に",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "打ち合わせをしたいと考えております。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もし厳しければ",
+                                "style": {
+                                    "bold": true,
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "難しいようでしたら、来週以降でご都合の良い日時、場所を教えていただけると幸いです。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nまた、対面での打ち合わせを考えていますが、現在のコロナ情勢を踏まえ、オンラインでの打ち合わせも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "視野に入れています",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "可能です",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご都合の良い日時、場所をご教示いただけると幸いです。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nご返信よろしくお願いします。\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n会津大学学園祭実行委員会　広報担当　三瓶晃\n学園祭： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\nMail： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290238@u-aizu.ac.jp",
+                                "text": "s1290238@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n\n個人的に気に食わない箇所：\n対面なのかオンラインなのか、いつどこでを全て相手に丸投げなところ。\n件名がこれでいいのか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656297381.632579",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1656298621.816519",
+        "reply_users": [
+            "U038TMLJW1M",
+            "U0394PQ44FL",
+            "U0391RWR34N",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1656297687.980699"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656297825.508549"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1656297865.323479"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656298621.816519"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1656298621.816519"
+    },
+    {
+        "client_msg_id": "9FC0E1B5-07D7-4004-A702-907A4F78D349",
+        "type": "message",
+        "text": "件名のカッコは［］でやってた気がします\nこの度は→この度\nオンライン…視野に入れています→可能です\n選択肢与えた方が相手にとっては分かりやすかったりするからそれでいいと思う\n\n自信ないので他の人指摘よろしく",
+        "user": "U038TMLJW1M",
+        "ts": "1656297687.980699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038TMLJW1M",
+            "ts": "1656297707.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U8yO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "件名のカッコは［］でやってた気がします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この度は→この度"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "オンライン…視野に入れています→可能です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "選択肢与えた方が相手にとっては分かりやすかったりするからそれでいいと思う"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n自信ないので他の人指摘よろしく"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656297381.632579",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "25dcf6c3-d11a-4424-9920-04098c64b740",
+        "type": "message",
+        "text": "「ご教示」は教えを乞うときとか、ご指導いただくときに使う言葉なので、無難に「教えていただけると」で大丈夫だと思います。\n\n日程はこちらから候補をあげたほうがいいかもしれません\n相手方の日程がすべてダメになる可能性があります\n\n件名、開催形式はばっちりだとおもいます\n[]か【】かはどっちでも大丈夫だと思います、こっちのルールを向こうはしらないので",
+        "user": "U0394PQ44FL",
+        "ts": "1656297825.508549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gsN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「ご教示」は教えを乞うときとか、ご指導いただくときに使う言葉なので、無難に「教えていただけると」で大丈夫だと思います。\n\n日程はこちらから候補をあげたほうがいいかもしれません\n相手方の日程がすべてダメになる可能性があります\n\n件名、開催形式はばっちりだとおもいます\n[]か【】かはどっちでも大丈夫だと思います、こっちのルールを向こうはしらないので"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656297381.632579",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "4a3b7749-e986-40ae-954f-4808ca75768a",
+        "type": "message",
+        "text": "それよりも今週にメール送って今週中に…ってのがいきなりすぎじゃね？って思う　課として緊迫してなければ、来週中までってしたほうが先方への印象はいいかと。（最終的に訪問が今週になるのは問題なし）\n\nps. []は、人によって差異あるっぽい。メール講習会の資料的に[ ]で統一する方が良いかも。",
+        "user": "U0391RWR34N",
+        "ts": "1656297865.323479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H7I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それよりも今週にメール送って今週中に…ってのがいきなりすぎじゃね？って思う　課として緊迫してなければ、来週中までってしたほうが先方への印象はいいかと。（最終的に訪問が今週になるのは問題なし）\n\nps. []は、人によって差異あるっぽい。メール講習会の資料的に[ ]で統一する方が良いかも。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656297381.632579",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "4753b2bf-32d2-4b15-ae05-ec0a9d02ccdb",
+        "type": "message",
+        "text": "読みにくいですが、修正前が見えるように直しました。",
+        "user": "U039RJU3V36",
+        "ts": "1656298339.935979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Uok",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "読みにくいですが、修正前が見えるように直しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0394PQ44FL",
+                    "U0391RWR34N",
+                    "U038TMLJW1M"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DF81D27F-129B-413D-A6C3-D4068E80EB96",
+        "type": "message",
+        "text": "ポスターやパンフレットをご依頼したく→〜パンフレットの印刷をご依頼したく\n厳しければ→難しいようでしたら",
+        "user": "U0399UH8BKQ",
+        "ts": "1656298621.816519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=lo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポスターやパンフレットをご依頼したく→〜パンフレットの印刷をご依頼したく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "厳しければ→難しいようでしたら"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656297381.632579",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "934ddfd0-500a-4a35-9ace-62e6e5158383",
+        "type": "message",
+        "text": "直しました。3時頃までに新たな指摘がなければ送信します。",
+        "user": "U039RJU3V36",
+        "ts": "1656298840.519139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XGywa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "直しました。3時頃までに新たな指摘がなければ送信します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

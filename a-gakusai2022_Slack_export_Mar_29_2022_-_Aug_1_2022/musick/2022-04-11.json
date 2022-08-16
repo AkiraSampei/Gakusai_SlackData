@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "d255dc91-0c13-4990-87ee-87a968b3b77b",
+        "type": "message",
+        "text": "<https:\/\/soundcloud.com\/nerds-hub\/erunika?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing>\n音圧バケモンなので注意",
+        "user": "U039BUU0GAH",
+        "ts": "1649729470.464099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039BUU0GAH",
+            "ts": "1649735430.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/soundcloud.com\/nerds-hub\/erunika?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1150046683&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "thumb_url": "https:\/\/i1.sndcdn.com\/artworks-1e6JcmEkeFogpuOR-092sOw-t500x500.jpg",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/soundcloud.com\/nerds-hub\/erunika?utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing",
+                "fallback": "SoundCloud Audio: Ёруника 蹴る by nerdshub",
+                "title": "Ёруника 蹴る by nerdshub",
+                "title_link": "https:\/\/soundcloud.com\/nerds-hub\/erunika?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+                "author_name": "nerdshub",
+                "author_link": "https:\/\/soundcloud.com\/nerds-hub",
+                "service_name": "SoundCloud",
+                "service_url": "https:\/\/soundcloud.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vC9t",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/soundcloud.com\/nerds-hub\/erunika?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n音圧バケモンなので注意"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef1b227c-a31b-4d5a-ab85-b386a88cd8a8",
+        "type": "message",
+        "text": "最近のJKって歌うまいよな\n最初は映像見ないで聴くといいぞ\n<https:\/\/www.youtube.com\/watch?v=KpEHo9j2LNg>",
+        "user": "U038TMLJW1M",
+        "ts": "1649729695.191139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038TMLJW1M",
+            "ts": "1649730066.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.youtube.com\/watch?v=KpEHo9j2LNg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KpEHo9j2LNg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/KpEHo9j2LNg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=KpEHo9j2LNg",
+                "fallback": "YouTube Video: 『eBASEBALLパワフルプロ野球2022』オープニングムービー",
+                "title": "『eBASEBALLパワフルプロ野球2022』オープニングムービー",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=KpEHo9j2LNg",
+                "author_name": "パワプロ・プロスピ公式チャンネル",
+                "author_link": "https:\/\/www.youtube.com\/c\/パワプロ-プロスピ公式チャンネル",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CarrD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "最近のJKって歌うまいよな\n最初は映像見ないで聴くといいぞ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.youtube.com\/watch?v=KpEHo9j2LNg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "baseball",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

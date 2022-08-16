@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655036923.387219",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「2_kikaku_ドローン体験会」から「3_kikaku_ドローン体験会」に変更しました",
+        "old_name": "2_kikaku_ドローン体験会",
+        "name": "3_kikaku_ドローン体験会"
+    }
+]

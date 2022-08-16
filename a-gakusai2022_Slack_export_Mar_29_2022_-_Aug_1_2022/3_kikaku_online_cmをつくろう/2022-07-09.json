@@ -1,0 +1,231 @@
+[
+    {
+        "client_msg_id": "8D161357-D346-42C5-8C68-E460AA44E72C",
+        "type": "message",
+        "text": "お疲れ様です！\n7\/12(火) 17:00〜\n7\/13(水) 12:30〜\n7\/15(金) 17:00〜\n上記の時間であれば問題ないです！\n一応、7\/14(木) 15:00〜も空いていますが、大抽選の方の企画書修正会議があると思うので難しいと思います。\n(大抽選の方の詳しい時間はまだ決まってないので決まり次第また連絡します)\nよろしくお願いします！",
+        "user": "U03KPT8FAD7",
+        "ts": "1657352201.922589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WbT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/12(火)"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "17:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/13(水"
+                            },
+                            {
+                                "type": "text",
+                                "text": ") "
+                            },
+                            {
+                                "type": "text",
+                                "text": "12:30〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/15(金)"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "17:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "上記の時間であれば問題ないです！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一応、7\/14(木)"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "15:00〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "も空いていますが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、大抽選の方の企画書修正会議があると思うので難しいと思います。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(大抽選の方の詳しい時間はまだ決まってないので決まり次第また連絡します)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ed9ee1a-3192-4ea4-8a24-eaca3fd857c4",
+        "type": "message",
+        "text": "では、企画書の修正は*来週水曜の12:30に学祭室*でやりましょう!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1657364302.997049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fzxX9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では、企画書の修正は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来週水曜の12:30に学祭室",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "でやりましょう!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6c654e2-d632-4ab4-b5bf-b609a4486324",
+        "type": "message",
+        "text": "わかりました！",
+        "user": "U03KPT8FAD7",
+        "ts": "1657386819.164259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=HVuX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

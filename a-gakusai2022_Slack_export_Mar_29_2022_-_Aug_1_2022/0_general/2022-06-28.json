@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "ea447045-cc08-4b82-91e7-32b70daf851c",
+        "type": "message",
+        "text": "おはようございます！今日三時からメール講習会の第二回を行いますのでまだ参加できていない方は参加をお願いいたします！\n※Zoomのリンクをここに送ります。",
+        "user": "U03901B3W69",
+        "ts": "1656461107.255289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+gr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます！今日三時からメール講習会の第二回を行いますのでまだ参加できていない方は参加をお願いいたします！\n※Zoomのリンクをここに送ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "92d428ee-7cb1-4be9-a2e8-e965e33d062c",
+        "type": "message",
+        "text": "メール講習会こちらです。\n<https:\/\/us02web.zoom.us\/j\/87893205040?pwd=a699PmnbFGfR1-1812x4f8U0fL-U75.1>",
+        "user": "U03901B3W69",
+        "ts": "1656481474.470799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Smg4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メール講習会こちらです。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/87893205040?pwd=a699PmnbFGfR1-1812x4f8U0fL-U75.1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

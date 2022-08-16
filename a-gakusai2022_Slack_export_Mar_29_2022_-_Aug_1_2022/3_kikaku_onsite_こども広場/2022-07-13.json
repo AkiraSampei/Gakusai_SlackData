@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "f10fdcbe-319e-406f-a3c2-27973f121e98",
+        "type": "message",
+        "text": "↑<!channel>忘れてました、どうしますか？",
+        "user": "U03BM52KMEC",
+        "ts": "1657771180.334309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A5=s4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "忘れてました、どうしますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

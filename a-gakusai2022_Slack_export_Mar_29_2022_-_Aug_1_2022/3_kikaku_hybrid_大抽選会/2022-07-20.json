@@ -1,0 +1,378 @@
+[
+    {
+        "client_msg_id": "45786239-994e-40c8-96d7-a8f268dc2ae8",
+        "type": "message",
+        "text": "<@U03KPT8FAD7> <@U03K4J7KXTQ>\nお疲れ！！\n来週のどこかで大抽選会の景品決めの会議をしたいと思います！\n2人の都合の良い日程を教えてください！\n大体1時間ぐらいかかるんじゃないかと思います。\n僕は\n7月25日(月) 13:00〜\n7月26日(火) 13:00〜\n7月28日(木) 13:00〜\nなら空いてます！",
+        "user": "U039M3UAXFG",
+        "ts": "1658314418.090739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=jpD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ！！\n来週のどこかで大抽選会の景品決めの会議をしたいと思います！\n2人の都合の良い日程を教えてください！\n大体1時間ぐらいかかるんじゃないかと思います。\n僕は\n7月25日(月) 13:00〜\n7月26日(火) 13:00〜\n7月28日(木) 13:00〜\nなら空いてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0906cbf0-bda4-49c5-ba2c-21564c19e369",
+        "type": "message",
+        "text": "<@U039RJU3V36> 一応ぺいぺいも笑",
+        "user": "U039M3UAXFG",
+        "ts": "1658314443.756739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WIi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RJU3V36"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一応ぺいぺいも笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83E06441-4892-4711-ADA9-3C08375C46B9",
+        "type": "message",
+        "text": "お疲れ様です。\nその日程に合わせると\n7月28日(木)17:00～\nくらいしか授業の関係で厳しいです、すみません。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1658315386.344649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IxF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "その日程に合わせると"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7月28日(木)17:00～"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "くらいしか授業の関係で厳しいです、すみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yoki",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27be4e42-8c6c-47f9-a31b-54216f62cdb7",
+        "type": "message",
+        "text": "お疲れ様です！自分は\n7月25日(月) 17:00〜\n7月26日(火) 17:00〜\n7月27日(水) 13:00～\n7月28日(木) 15:00〜\nであれば問題ないです！",
+        "user": "U03KPT8FAD7",
+        "ts": "1658363882.866689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vXqh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！自分は\n7月25日(月) 17:00〜\n7月26日(火) 17:00〜\n7月27日(水) 13:00～\n7月28日(木) 15:00〜\nであれば問題ないです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-gesturing-ok",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fd9cca26-eba8-440c-acf6-9fa5d6a033a8",
+        "type": "message",
+        "text": "<@U03K4J7KXTQ> <@U03KPT8FAD7>\n了解！\nでは*7月28日(木)の17:00~学祭室でやりましょう！*",
+        "user": "U039M3UAXFG",
+        "ts": "1658380205.965249",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xft=k",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n了解！\nでは"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7月28日(木)の17:00~学祭室でやりましょう！",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E0485187-F2EF-400B-9AF5-A06A31B16814",
+        "type": "message",
+        "text": "了解致しました。\nよろしくお願い致します。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1658381361.999919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5RQ+N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解致しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "328d5f44-45a9-4de0-b2ee-1d8fedaece13",
+        "type": "message",
+        "text": "承知しました　よろしくお願いします！",
+        "user": "U03KPT8FAD7",
+        "ts": "1658383521.931849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KKW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "承知しました　よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

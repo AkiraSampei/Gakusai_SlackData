@@ -1,0 +1,146 @@
+[
+    {
+        "client_msg_id": "a73e3fc8-60a4-46dc-b457-08afcec4e745",
+        "type": "message",
+        "text": "<@U0394PQ44FL>\nこういう上の場合って返信するべきなのでしょうか？\nメニューが決まったら連絡でも問題ないでしょうか？",
+        "user": "U039V55S998",
+        "ts": "1657523803.325119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1657523830.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x3vpC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0394PQ44FL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこういう上の場合って返信するべきなのでしょうか？\nメニューが決まったら連絡でも問題ないでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657523803.325119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657524091.469619",
+        "reply_users": [
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1657524091.469619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1657524091.469619"
+    },
+    {
+        "client_msg_id": "9ac9d654-65c3-43ce-883f-01a5601412e2",
+        "type": "message",
+        "text": "一度メールしちゃったほうがいいと思います\nまだ決まってないので少し待って下さい的な",
+        "user": "U0394PQ44FL",
+        "ts": "1657524091.469619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zOaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一度メールしちゃったほうがいいと思います\nまだ決まってないので少し待って下さい的な"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657523803.325119",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "df02b7c3-1115-452b-8aad-665e641bf024",
+        "type": "message",
+        "text": "<@U03CUPE920G>メールお願いします\n返信ありがとうございます。\n8月上旬頃決まります\nきまりしだいメールします。\nよろしくお願いします",
+        "user": "U039V55S998",
+        "ts": "1657524185.935559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sbbS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CUPE920G"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メールお願いします\n返信ありがとうございます。\n8月上旬頃決まります\nきまりしだいメールします。\nよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

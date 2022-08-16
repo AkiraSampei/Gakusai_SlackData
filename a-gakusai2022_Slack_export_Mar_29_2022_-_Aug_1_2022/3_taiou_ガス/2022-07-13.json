@@ -1,0 +1,57 @@
+[
+    {
+        "client_msg_id": "40E338C1-2D9D-4399-B734-A00EC025918F",
+        "type": "message",
+        "text": "<@U03KRPKDY8L> \n今日の19時くらいに学祭室でお願いします:woman-bowing:",
+        "user": "U039T9DE072",
+        "ts": "1657774574.269339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UpeGT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03KRPKDY8L"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日の19時くらいに学祭室でお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

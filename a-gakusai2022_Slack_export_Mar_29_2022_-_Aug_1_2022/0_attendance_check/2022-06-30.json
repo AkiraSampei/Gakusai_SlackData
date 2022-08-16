@@ -1,0 +1,194 @@
+[
+    {
+        "client_msg_id": "26C09860-E3A6-4CE2-AB38-8C9309C6C70C",
+        "type": "message",
+        "text": "日曜の企画書添削会議遅れて参加します",
+        "user": "U039M3UAXFG",
+        "ts": "1656655839.248539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUhBV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日曜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書添削会議遅れて参加します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3526605F-34DC-4E1E-899C-A95A8E796DC6",
+        "type": "message",
+        "text": "日曜日の添削会参加できないです…",
+        "user": "U039EF90649",
+        "ts": "1656656785.042839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q\/7V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日曜日の添削会参加できな"
+                            },
+                            {
+                                "type": "text",
+                                "text": "い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "…"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B7889A1E-CA13-4E6D-8C2A-1B311B1A1B16",
+        "type": "message",
+        "text": "日曜日の添削会参加出来ません、申し訳ありません。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1656657741.303199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NorJJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日曜日の添削会参加出来ません、申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7B872E14-1767-42AA-B06D-B36A36F75822",
+        "type": "message",
+        "text": "日曜日の添削会参加できないです、、\nご迷惑おかけします。",
+        "user": "U03CATDUH0A",
+        "ts": "1656658011.693489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pw7Yx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日曜日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "添削会参加できないです、、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご迷惑"
+                            },
+                            {
+                                "type": "text",
+                                "text": "おかけします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

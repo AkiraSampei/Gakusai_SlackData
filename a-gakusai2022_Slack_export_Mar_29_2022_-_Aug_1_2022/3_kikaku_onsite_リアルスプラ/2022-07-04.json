@@ -1,0 +1,330 @@
+[
+    {
+        "client_msg_id": "95136BF6-30DF-4A22-BE02-803C7FC0141C",
+        "type": "message",
+        "text": "了解いたしました、では校庭は中澤先生に確認をしてよろしいということですね",
+        "user": "U0394PQ44FL",
+        "ts": "1656918218.701879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7mkRT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解いたしました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "校庭"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "中澤先生"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "してよろしいということ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "すね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "E87CD957-43D3-4A2A-B74D-C8B052B44AE6",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "U0394PQ44FL",
+        "ts": "1656918223.110599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KQrKL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "cc42fb17-1594-4c51-838b-a4aa4b91a754",
+        "type": "message",
+        "text": "校庭は中澤先生の確認必要ないです",
+        "user": "U03BM52KMEC",
+        "ts": "1656918356.696749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "校庭は中澤先生の確認必要ないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "4B36F88C-A23B-4DB8-AE32-3E43F2692EFE",
+        "type": "message",
+        "text": "あえ！？そうなの？\nじゃあどこかに確認する必要がありますか？",
+        "user": "U0394PQ44FL",
+        "ts": "1656918601.438419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pcOK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あえ！？そうなの？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "じゃ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ど"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こかに"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認する必要が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "ddd487fa-1751-4262-b464-ed80400a6781",
+        "type": "message",
+        "text": "確認不要だよby大澤",
+        "user": "U03BM52KMEC",
+        "ts": "1656918686.838449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3JYD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認不要だよby大澤"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "5319A6A6-48BA-4B4D-9985-C3FE579ADE4B",
+        "type": "message",
+        "text": "了解いたしました、ありがとうございます",
+        "user": "U0394PQ44FL",
+        "ts": "1656918799.698589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rAaTh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解いたしました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656917431.031849",
+        "parent_user_id": "U03BM52KMEC"
+    }
+]

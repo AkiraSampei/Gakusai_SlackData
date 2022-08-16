@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "ef5b7eba-a807-4477-b7a9-c52cbea5170a",
+        "type": "message",
+        "text": "サークルカット募集フォームを作成しました。\n<https:\/\/forms.gle\/nYCz6DVmG56PYWLg8>",
+        "user": "U03CGVA43U3",
+        "ts": "1655352928.671009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "60bac0103d3b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3448746308992_60bac0103d3b164e2c0a_72.jpg",
+            "first_name": "会津大学学園祭実行委員会",
+            "real_name": "会津大学学園祭実行委員会",
+            "display_name": "学祭室",
+            "team": "T038Z0K089K",
+            "name": "aizugakusai",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=uUh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークルカット募集フォームを作成しました。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/nYCz6DVmG56PYWLg8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

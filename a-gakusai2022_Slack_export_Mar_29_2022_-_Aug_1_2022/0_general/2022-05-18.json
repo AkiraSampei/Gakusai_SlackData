@@ -1,0 +1,314 @@
+[
+    {
+        "client_msg_id": "5ac51ce5-34a0-47c6-b363-a6b24e1da1c4",
+        "type": "message",
+        "text": "<https:\/\/us02web.zoom.us\/j\/82452848144?pwd=angyRjEyVjJFNnlwdEFPTVBpSlNwUT09>",
+        "user": "U03901B3W69",
+        "ts": "1652864918.875409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UyX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/us02web.zoom.us\/j\/82452848144?pwd=angyRjEyVjJFNnlwdEFPTVBpSlNwUT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f11cf3a7-39df-414c-b7d8-04a8609cd5a2",
+        "type": "message",
+        "text": "業者さんのHP\n<https:\/\/gakusai.handson.gr.jp\/performer\/>",
+        "user": "U039EF90649",
+        "ts": "1652866782.338489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/gakusai.handson.gr.jp\/performer\/",
+                "service_icon": "https:\/\/gakusai.handson.gr.jp\/src\/default\/pc\/image\/common\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/gakusai.handson.gr.jp\/performer\/",
+                "fallback": "学園祭制作｜株式会社ハンズオン・エンタテインメント: アーティスト｜出演者情報｜学園祭制作｜株式会社ハンズオン・エンタテインメント",
+                "text": "ハンズオンは皆さんの学園祭を盛り上げるために、全力でバックアップ・お手伝いさせていただきます!",
+                "title": "アーティスト｜出演者情報｜学園祭制作｜株式会社ハンズオン・エンタテインメント",
+                "title_link": "https:\/\/gakusai.handson.gr.jp\/performer\/",
+                "service_name": "学園祭制作｜株式会社ハンズオン・エンタテインメント"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DqVKm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "業者さんのHP\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/gakusai.handson.gr.jp\/performer\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039M3UAXFG",
+                    "U0391RWR34N",
+                    "U03D0L4BEJU"
+                ],
+                "count": 4
+            },
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039M3UAXFG",
+                    "U0391RWR34N",
+                    "U03D0L4BEJU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "今日の全体会議の議事録です",
+        "files": [
+            {
+                "id": "F03GAKB4GE5",
+                "created": 1652868082,
+                "timestamp": 1652868082,
+                "name": "無題のドキュメント.pdf",
+                "title": "無題のドキュメント.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039V55S998",
+                "editable": false,
+                "size": 34371,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03GAKB4GE5\/______________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03GAKB4GE5\/download\/______________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03GAKB4GE5-842b96937e\/_______________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039V55S998\/F03GAKB4GE5\/______________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03GAKB4GE5-18a99574d8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039V55S998",
+        "display_as_bot": false,
+        "ts": "1652868084.687949",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tXFP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の全体会議の議事録です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "c64ddef7-a9d0-4ff2-b234-68bc2428ff35"
+    },
+    {
+        "client_msg_id": "a3dd65f2-d762-46cc-8634-152858b8f810",
+        "type": "message",
+        "text": "各部署の進捗って話しました？",
+        "user": "U0394PQ44FL",
+        "ts": "1652868137.274639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYugF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "各部署の進捗って話しました？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652868137.274639",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1652868221.874359",
+        "reply_users": [
+            "U03901B3W69",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1652868177.832489"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1652868221.874359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1652868221.874359"
+    },
+    {
+        "client_msg_id": "a325b70b-e314-4aa2-875a-8972189a6807",
+        "type": "message",
+        "text": "0前提だったので次回総務部会議経由で伝達したいと思います。",
+        "user": "U03901B3W69",
+        "ts": "1652868177.832489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "0前提だったので次回総務部会議経由で伝達したいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652868137.274639",
+        "parent_user_id": "U0394PQ44FL"
+    },
+    {
+        "client_msg_id": "49e61635-60f0-477b-a542-ab2512173bbb",
+        "type": "message",
+        "text": "わかりました、一応各部署への予算案の催促をお願いします",
+        "user": "U0394PQ44FL",
+        "ts": "1652868221.874359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lYOV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました、一応各部署への予算案の催促をお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652868137.274639",
+        "parent_user_id": "U0394PQ44FL"
+    }
+]

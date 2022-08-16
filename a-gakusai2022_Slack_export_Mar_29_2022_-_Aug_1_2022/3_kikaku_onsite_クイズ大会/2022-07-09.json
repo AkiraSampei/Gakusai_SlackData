@@ -1,0 +1,53 @@
+[
+    {
+        "client_msg_id": "af13e8cf-1d98-4518-9440-4f8a8bade4d4",
+        "type": "message",
+        "text": "<!channel> 2度目の企画書会議は、14日木曜16時、場所は学祭室でやろうと思います。",
+        "user": "U03A1N54PJM",
+        "ts": "1657360681.738769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0ZH8A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 2度目の企画書会議は、14日木曜16時、場所は学祭室でやろうと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650856206.858059",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "d9984cc9-49d1-4857-aa57-8cdc154336ea",
+        "type": "message",
+        "text": "なんか広報の引き継ぎが怪しそうだったんで、少し。\n学祭ドライブの\n「マイドライブ &gt; 2020学祭 &gt; 引き継ぎ関連 &gt; 総務部 &gt; 2019 &gt; 広報」の中に諸々の引き継ぎ資料が残ってるっぽいんでそこ参考にワチャワチャすると良いと思います。\nメンバーは新入生ぶっこめばいいんじゃないかしらん。",
+        "user": "U0399UH8BKQ",
+        "ts": "1650856443.892799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tMx=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんか広報の引き継ぎが怪しそうだったんで、少し。\n学祭ドライブの\n「マイドライブ > 2020学祭 > 引き継ぎ関連 > 総務部 > 2019 > 広報」の中に諸々の引き継ぎ資料が残ってるっぽいんでそこ参考にワチャワチャすると良いと思います。\nメンバーは新入生ぶっこめばいいんじゃないかしらん。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33ecd130-4ab8-4b4a-a5ba-0ce9433dee55",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/folderview?id=1spTOHXNyLNcJUE7ciiNwxSu_asXG6Psq|https:\/\/drive.google.com\/folderview?id=1spTOHXNyLNcJUE7ciiNwxSu_asXG6Psq>",
+        "user": "U039RJU3V36",
+        "ts": "1650856548.870979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k\/=i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/folderview?id=1spTOHXNyLNcJUE7ciiNwxSu_asXG6Psq",
+                                "text": "https:\/\/drive.google.com\/folderview?id=1spTOHXNyLNcJUE7ciiNwxSu_asXG6Psq"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2490b37f-07d6-4df1-a1a8-40c653af82fc",
+        "type": "message",
+        "text": "これとは別ですか？",
+        "user": "U039RJU3V36",
+        "ts": "1650856558.210589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yr=Lf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これとは別ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

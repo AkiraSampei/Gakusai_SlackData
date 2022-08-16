@@ -1,0 +1,171 @@
+[
+    {
+        "client_msg_id": "7cdda94c-7eb9-43c0-a196-339de490c05b",
+        "type": "message",
+        "text": "学祭Slackカラースキーム\n#AED4D4,#F8F8FA,#009999,#FFFFFF,#008282,#141414,#65CB57,#ED6C60,#009999,#141414_",
+        "user": "U039BUU0GAH",
+        "ts": "1649296623.882969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eGeoM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭Slackカラースキーム\n"
+                            },
+                            {
+                                "type": "color",
+                                "value": "#AED4D4"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#F8F8FA"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#009999"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#FFFFFF"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#008282"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#141414"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#65CB57"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#ED6C60"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#009999"
+                            },
+                            {
+                                "type": "text",
+                                "text": ","
+                            },
+                            {
+                                "type": "color",
+                                "value": "#141414"
+                            },
+                            {
+                                "type": "text",
+                                "text": "_"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BB520C82-68A5-4D84-A1C6-3000136B929C",
+        "type": "message",
+        "text": "<#C03AUJNLUSD|musick> 作った",
+        "user": "U039BUU0GAH",
+        "ts": "1649301181.791209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o0b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "channel",
+                                "channel_id": "C03AUJNLUSD"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 作った"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

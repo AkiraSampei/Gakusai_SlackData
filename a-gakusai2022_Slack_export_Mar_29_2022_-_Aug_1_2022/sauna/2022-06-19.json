@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655695774.059139",
+        "user": "U039RCZ4E04",
+        "text": "チャンネル名を「サウナ」から「sauna」に変更しました",
+        "old_name": "サウナ",
+        "name": "sauna"
+    }
+]

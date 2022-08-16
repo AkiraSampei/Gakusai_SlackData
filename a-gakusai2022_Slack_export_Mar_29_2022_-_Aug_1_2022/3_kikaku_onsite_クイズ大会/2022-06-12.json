@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655036890.251949",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「2_kikaku_クイズ大会」から「3_kikaku_クイズ大会」に変更しました",
+        "old_name": "2_kikaku_クイズ大会",
+        "name": "3_kikaku_クイズ大会"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655083330.940879",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました"
+    }
+]

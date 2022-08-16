@@ -1,0 +1,153 @@
+[
+    {
+        "client_msg_id": "c4fbf57d-5484-417d-86ae-e7dc9f3d4ad6",
+        "type": "message",
+        "text": "プロジェクターのワット数について\nプロジェクターのワット数は、教室ごとに異なるらしいので、プロジェクターを使用したいサークルはプロジェクターと名前だけ記入してワット数は書かなくて良いこととしました。\n\nサークル申請書で、もしプロジェクターを使いそうなサークルがあったら、チェックお願いします",
+        "user": "U039V55S998",
+        "ts": "1656918285.535149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656918333.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jzOYK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロジェクターのワット数について\nプロジェクターのワット数は、教室ごとに異なるらしいので、プロジェクターを使用したいサークルはプロジェクターと名前だけ記入してワット数は書かなくて良いこととしました。\n\nサークル申請書で、もしプロジェクターを使いそうなサークルがあったら、チェックお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656918285.535149",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1656926228.943209",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656924220.406839"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656926228.943209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "了解",
+                "users": [
+                    "U039LGX8MN1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16B080A3-2AF9-4051-BFE8-91E74720A1B4",
+        "type": "message",
+        "text": "「プロジェクターと名前」ってのはプロジェクターの名前ですか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1656924220.406839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p\/58",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「プロジェクターと名前」ってのはプロジェクターの名前ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656918285.535149",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "bf8f9751-9757-447e-8e36-d01456c3c802",
+        "type": "message",
+        "text": "「プロジェクター」と書いてほしいと言う意味です",
+        "user": "U039V55S998",
+        "ts": "1656926228.943209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2WTG\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「プロジェクター」と書いてほしいと言う意味です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656918285.535149",
+        "parent_user_id": "U039V55S998"
+    }
+]

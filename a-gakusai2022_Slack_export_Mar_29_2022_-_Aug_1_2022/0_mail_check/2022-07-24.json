@@ -1,0 +1,649 @@
+[
+    {
+        "client_msg_id": "7689c61e-d26f-49a9-8c95-e2677ff2056e",
+        "type": "message",
+        "text": "メールチェックおねがいします。\n消防署への救急救命講習受講依頼です。\nとりあえず実施できるかどうかの確認だけをします。\nしばらくしたら送ります。\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n\n会津若松地方広域市町村圏整備組合消防本部　様\n\n\n会津若松地方広域市町村圏整備組合消防本部　~様~　*御中*\n\nお忙しいところ失礼いたします、会津大学学園祭実行委員会の増子と申します。\nこの度、消防署での救急救命講習の実施を~ご~依頼~のため~*したく*ご連絡させていただきました。\n\n~今年度も会津大学学園祭を実施する予定です。~*今年度、弊学学園祭は対面での開催を予定しております。*\n学園祭*当日*の企画に~で~はけがをする可能性のある企画が~あります~*ございます*。\nそういった企画*の*運営に際し、消防署での救急救命講習の実施をしていただ~くことは可能でしょうか~*きたいと考えております*。\n\n昨年*度も*同様の~お願い~*依頼*を~申し上げたところ~*いたしましたが*、*「*コロナ禍の影響により講習の実施をしていない*」*~と伺いました~との返答をいただきました。\nつきましては、今年度の講習の実施の可否を教えていただきたいです。\nもし可能~ということ~であれば、追って受講日程や参加人数をご連絡いたします。\n\nご多忙のことと存じますが、*ご連絡のほど、*よろしくお願いいたします。",
+        "user": "U0394PQ44FL",
+        "ts": "1658720729.610579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1658721736.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2ter+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックおねがいします。\n消防署への救急救命講習受講依頼です。\nとりあえず実施できるかどうかの確認だけをします。\nしばらくしたら送ります。\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n\n会津若松地方広域市町村圏整備組合消防本部　様\n\n\n会津若松地方広域市町村圏整備組合消防本部　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "様",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "御中",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nお忙しいところ失礼いたします、会津大学学園祭実行委員会の増子と申します。\nこの度、消防署での救急救命講習の実施を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "依頼"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のため",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "したく",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご連絡させていただきました。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年度も会津大学学園祭を実施する予定です。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年度、弊学学園祭は対面での開催を予定しております。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n学園祭"
+                            },
+                            {
+                                "type": "text",
+                                "text": "当日",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の企画に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "はけがをする可能性のある企画が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あります",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\nそういった企画"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "運営に際し、消防署での救急救命講習の実施をしていただ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "くことは可能でしょうか",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "きたいと考えております",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\n\n昨年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "度も",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "同様の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願い",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "依頼",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "申し上げたところ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたしましたが",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "コロナ禍の影響により講習の実施をしていない"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "と伺いました",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "との返答をいただきました。\nつきましては、今年度の講習の実施の可否を教えていただきたいです。\nもし可能"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ということ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "であれば、追って受講日程や参加人数をご連絡いたします。\n\nご多忙のことと存じますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご連絡のほど、",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658720729.610579",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658721852.046949",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1658721462.835499"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658721852.046949"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658721852.046949",
+        "reactions": [
+            {
+                "name": "sent",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "338e15c2-d986-4e8e-861e-915f67cf6670",
+        "type": "message",
+        "text": "会津若松地方広域市町村圏整備組合消防本部　~様~　*御中*\n\nお忙しいところ失礼いたします、会津大学学園祭実行委員会の増子と申します。\nこの度、消防署での救急救命講習の実施を~ご~依頼~のため~*したく*ご連絡させていただきました。\n\n~今年度も会津大学学園祭を実施する予定です。~*今年度、弊学学園祭は対面での開催を予定しております。*\n学園祭*当日*の企画に~で~はけがをする可能性のある企画~が~*も*~あります~*ございます*。\nそういった企画*の*運営に際し、消防署での救急救命講習の実施をしていただ~くことは可能でしょうか~*きたいと考えております*。\n\n昨年*度も*同様の~お願い~*依頼*を~申し上げたところ~*いたしましたが*、*「*コロナ禍の影響により講習の実施をしていない*」*~と伺いました~との返答をいただきました。\nつきましては、今年度の講習の実施の可否を教えていただきたいです。\nもし可能~ということ~であれば、追って受講日程や参加人数をご連絡いたします。\n\nご多忙のことと存じますが、*ご連絡のほど、*よろしくお願いいたします。\n────────────────────────────────────\nボールドが追加点、取り消しが書き換え・削除した点です。ご一考いただければと。\n「いつまでに返信して欲しい」という期日もつけたほうが確実だと考えますが、いかがでしょうか。",
+        "user": "U0399UH8BKQ",
+        "ts": "1658721462.835499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vMPKi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会津若松地方広域市町村圏整備組合消防本部　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "様",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "御中",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nお忙しいところ失礼いたします、会津大学学園祭実行委員会の増子と申します。\nこの度、消防署での救急救命講習の実施を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "依頼"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のため",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "したく",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご連絡させていただきました。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年度も会津大学学園祭を実施する予定です。",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年度、弊学学園祭は対面での開催を予定しております。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n学園祭"
+                            },
+                            {
+                                "type": "text",
+                                "text": "当日",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の企画に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "はけがをする可能性のある企画"
+                            },
+                            {
+                                "type": "text",
+                                "text": "が",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "も",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "あります",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\nそういった企画"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "運営に際し、消防署での救急救命講習の実施をしていただ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "くことは可能でしょうか",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "きたいと考えております",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\n\n昨年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "度も",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "同様の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願い",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "依頼",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "申し上げたところ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたしましたが",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "「",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "コロナ禍の影響により講習の実施をしていない"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "と伺いました",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "との返答をいただきました。\nつきましては、今年度の講習の実施の可否を教えていただきたいです。\nもし可能"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ということ",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "であれば、追って受講日程や参加人数をご連絡いたします。\n\nご多忙のことと存じますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご連絡のほど、",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いいたします。\n────────────────────────────────────\nボールドが追加点、取り消しが書き換え・削除した点です。ご一考いただければと。\n「いつまでに返信して欲しい」という期日もつけたほうが確実だと考えますが、いかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658720729.610579",
+        "parent_user_id": "U0394PQ44FL"
+    },
+    {
+        "client_msg_id": "e392303c-4999-4ff5-b083-86c15611c9d3",
+        "type": "message",
+        "text": "消防署のおっちゃんたちがメールを定期的に利用してるとはおもえないので、期限をもうけるのは急かし過ぎかなと思いました\n返信が遅かった場合再度メール、それでも来なかったら電話しようと思ってます",
+        "user": "U0394PQ44FL",
+        "ts": "1658721852.046949",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oQs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "消防署のおっちゃんたちがメールを定期的に利用してるとはおもえないので、期限をもうけるのは急かし過ぎかなと思いました\n返信が遅かった場合再度メール、それでも来なかったら電話しようと思ってます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658720729.610579",
+        "parent_user_id": "U0394PQ44FL",
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U0399UH8BKQ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

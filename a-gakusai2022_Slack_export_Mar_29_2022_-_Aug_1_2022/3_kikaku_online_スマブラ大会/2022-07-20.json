@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "0C151450-851B-40D2-BA83-63AD3507E0B5",
+        "type": "message",
+        "text": "お疲れ様です。\n私の不注意で報告を忘れてしまいましたが、未確定で添削不可だった部分も助言を頂いた上で月曜日の内に修正終了しております。\n\n以後報告について徹底して参ります、申し訳ありません。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1658371879.206109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/eZY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私の不注意で報告を忘れてしまいましたが、未確定で添削不可だった部分も助言を頂いた上で月曜日の内に修正終了しております。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n以後報告について徹底して参ります、申し訳ありません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "300-num",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U0394PQ44FL",
+                    "U039L92GA3X"
+                ],
+                "count": 2
+            },
+            {
+                "name": "yoki",
+                "users": [
+                    "U0394PQ44FL",
+                    "U039M3UAXFG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

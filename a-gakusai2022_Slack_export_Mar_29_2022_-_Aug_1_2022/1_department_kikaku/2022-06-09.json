@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "bfdf0a46-d074-47b2-a5e7-983c83f85ea4",
+        "type": "message",
+        "text": "企画部のDriveです。２０２２年のやつ追加しました。\nまだ閑散としてますが、今後追加していきましょう。\nピン留めしときます。\n<https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg>",
+        "user": "U0394PQ44FL",
+        "ts": "1654767104.386369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1TU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画部のDriveです。２０２２年のやつ追加しました。\nまだ閑散としてますが、今後追加していきましょう。\nピン留めしときます。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03BM52KMEC",
+                    "U039BUU0GAH"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58c8a8fc-8944-411c-96ea-ce7753818480",
+        "type": "message",
+        "text": "<@U0394PQ44FL> とても助かります&lt;m(__)m&gt;。ありがとうございます。",
+        "user": "U03BM52KMEC",
+        "ts": "1654769553.639799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fWxSX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0394PQ44FL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " とても助かります<m(__)m>。ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D1B7C96-92B9-4011-9068-807076E13D8B",
+        "type": "message",
+        "text": "保険としてどんな企画あるのかって一覧スライドを用意しといてもいいんじゃないかな、と。\n（1年から質問が来たら見せる感じ）\n中身は良いと思う〜",
+        "user": "U0391RWR34N",
+        "ts": "1654771141.394329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4qz0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "保険としてどんな企画あるのかって一覧スライドを用意しといてもいいんじゃないかな、と。\n（1年から質問が来たら見せる感じ）\n中身は良いと思う〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654755443.465629",
+        "parent_user_id": "U0394PQ44FL"
+    }
+]

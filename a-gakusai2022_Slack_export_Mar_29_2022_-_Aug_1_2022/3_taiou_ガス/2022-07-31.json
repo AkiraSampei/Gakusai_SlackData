@@ -1,0 +1,391 @@
+[
+    {
+        "client_msg_id": "48c5c3cc-2a23-43e6-ab35-ed3e31360305",
+        "type": "message",
+        "text": "<@U039T9DE072> 現在、ガスコンロの使用料金、コンロの形、そもそもガス会社からコンロが借りれるかが不明です。\nなるべく早く連絡をとってほしいのですが、可能でしょうか。よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1659325294.002389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFrzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039T9DE072"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 現在、ガスコンロの使用料金、コンロの形、そもそもガス会社からコンロが借りれるかが不明です。\nなるべく早く連絡をとってほしいのですが、可能でしょうか。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57E7D6F1-7185-49B6-B9D8-9CF266A35BE7",
+        "type": "message",
+        "text": "今日の昼休み連絡する予定で集まるので、今日中に確定します",
+        "user": "U039T9DE072",
+        "ts": "1659325417.207479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Qi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の昼休み連絡する予定で集まるので、今日中に確定します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71ce25cd-0bb4-4077-a53f-03fbc24f9c33",
+        "type": "message",
+        "text": "お忙しい中ありがとうございます。m(_ _)m\nよろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1659325491.846229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ryjtO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お忙しい中ありがとうございます。m(_ _)m\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "382d528b-840f-40c2-ae3d-07ae17a347ef",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1bZ4y69SmT6KEI39zsrthg_F3QA3lommgw5wNcVHw2NU\/edit?usp=drivesdk|https:\/\/docs.google.com\/spreadsheets\/d\/1bZ4y69SmT6KEI39zsrthg_F3QA3lommgw5wNcVHw2NU\/edit?usp=drivesdk>",
+        "user": "U039V55S998",
+        "ts": "1659326122.864119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "A9v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1bZ4y69SmT6KEI39zsrthg_F3QA3lommgw5wNcVHw2NU\/edit?usp=drivesdk",
+                                "text": "https:\/\/docs.google.com\/spreadsheets\/d\/1bZ4y69SmT6KEI39zsrthg_F3QA3lommgw5wNcVHw2NU\/edit?usp=drivesdk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "095DFA63-38B6-4805-A938-947E3CD43E93",
+        "type": "message",
+        "text": "・ガスコンロ\n例年、会津大学は10kg 短大は5kgを使用してました。\n例年に従って10kgを借りました。\n・ガスボンベ\n形状は例年同様2重コンロを借りました。\n・使用量\nガス　400円\/kg\nコンロ　1000円\/台\nガスボンベ配達量　1000円\/本\n・支払い方法　\nガス会社が、使用した量を計算し請求書を発行\nその後振り込む",
+        "user": "U039T9DE072",
+        "ts": "1659328261.869759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xukj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・ガスコンロ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "例年、会津大学は10kg 短大は5kgを使用してました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "例年に従って10kgを借りました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・ガスボンベ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "形状は例年同様2重コンロを借りました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・使用量"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ガス　400円\/kg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "コンロ　1000円\/台"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ガスボンベ配達量　1000円\/本"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・支払い方法　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ガス会社が、使用した量を計算し請求書を発行"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "その後振り込む"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5773773-4DDA-4DC1-9CE9-74838B85BD0E",
+        "type": "message",
+        "text": "［確認事項］\nガスコンロやボンベを搬入する日付を決定したいです。\n候補はこの二つです。\n10\/28 16:00頃\n10\/29 9:00-9:30\nこの日付が決まり次第、\n・もう一度ガス会社に連絡\n・学長にメール出し（搬入時に使用する、学長の駐車スペースを借りるため）\nをやります。\n",
+        "user": "U039T9DE072",
+        "ts": "1659328700.392749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S83z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "［確認事項］"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ガスコンロやボンベを搬入する日付を決定したいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "候補はこの二つです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10\/28 16:00頃"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "10\/29 9:00-9:30"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この日付が決まり次第、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・もう一度ガス会社に連絡"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・学長にメール出し（搬入時に使用する、学長の駐車スペースを借りるため）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "をやります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

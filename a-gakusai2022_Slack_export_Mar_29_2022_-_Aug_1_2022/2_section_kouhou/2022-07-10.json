@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "text": "試作ではありますが、YouTube広告の出だしを作ってみました。現在、いらすとやを使ってる部分をイラストレーターに外注し、この出だしで広告スキップを少しでも回避出来れば良いなと狙っているのですが…。",
+        "files": [
+            {
+                "id": "F03PB0L3ZU1",
+                "created": 1657466198,
+                "timestamp": 1657466198,
+                "name": "encode1.mp4",
+                "title": "encode1.mp4",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 10055013,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "transcription": {
+                    "status": "none"
+                },
+                "mp4": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PB0L3ZU1-72502df1d0\/encode1.mp4?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PB0L3ZU1-72502df1d0\/encode1.mp4?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PB0L3ZU1\/download\/encode1.mp4?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "hls": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PB0L3ZU1-72502df1d0\/file.m3u8?_xcb=3fff2&t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "hls_embed": "data:application\/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTE4NTIyMCxBVkVSQUdFLUJBTkRXSURUSD0xMDk1OTQ2LENPREVDUz0iYXZjMS42NDAwMWYsbXA0YS40MC41IixSRVNPTFVUSU9OPTEyODB4NzIwLEZSQU1FLVJBVEU9MjkuOTcwCmRhdGE6YXBwbGljYXRpb24vdm5kLmFwcGxlLm1wZWd1cmw7YmFzZTY0LEkwVllWRTB6VlFvalJWaFVMVmd0VmtWU1UwbFBUam96Q2lORldGUXRXQzFVUVZKSFJWUkVWVkpCVkVsUFRqbzNDaU5GV0ZRdFdDMU5SVVJKUVMxVFJWRlZSVTVEUlRveENpTkZXRlF0V0MxUVRFRlpURWxUVkMxVVdWQkZPbFpQUkFvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF6T0Zvd1N6QTRPVXN0UmpBelVFSXdURE5hVlRFdE56STFNREprWmpGa01DOW1hV3hsWDBoZk1qWTBYekV5T0RCNE56SXdYek0xTURCTFFsQlRYemRSVmtKU1h6QXdNREF4TG5SekNpTkZXRlJKVGtZNk5pNHdNRFlzQ21oMGRIQnpPaTh2Wm1sc1pYTXVjMnhoWTJzdVkyOXRMMlpwYkdWekxYUnRZaTlVTURNNFdqQkxNRGc1U3kxR01ETlFRakJNTTFwVk1TMDNNalV3TW1SbU1XUXdMMlpwYkdWZlNGOHlOalJmTVRJNE1IZzNNakJmTXpVd01FdENVRk5mTjFGV1FsSmZNREF3TURJdWRITUtJMFZZVkVsT1JqbzBMalF6T0N3S2FIUjBjSE02THk5bWFXeGxjeTV6YkdGamF5NWpiMjB2Wm1sc1pYTXRkRzFpTDFRd016aGFNRXN3T0RsTExVWXdNMUJDTUV3eldsVXhMVGN5TlRBeVpHWXhaREF2Wm1sc1pWOUlYekkyTkY4eE1qZ3dlRGN5TUY4ek5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd015NTBjd29qUlZoVUxWZ3RSVTVFVEVsVFZBbz0K",
+                "mp4_low": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PB0L3ZU1-72502df1d0\/encode1_trans.mp4?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "duration_ms": 16449,
+                "media_display_type": "video",
+                "thumb_video": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PB0L3ZU1-72502df1d0\/encode1_thumb_video.jpeg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_video_w": 1280,
+                "thumb_video_h": 720,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03PB0L3ZU1\/encode1.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03PB0L3ZU1-643cfccf25",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RJU3V36",
+        "display_as_bot": false,
+        "ts": "1657466234.050129",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9unc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "試作ではありますが、YouTube広告の出だしを作ってみました。現在、いらすとやを使ってる部分をイラストレーターに外注し、この出だしで広告スキップを少しでも回避出来れば良いなと狙っているのですが…。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1809fa00-1c94-42a0-9368-37eb2296c40c",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG",
+                    "U03BW9Q5DF1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

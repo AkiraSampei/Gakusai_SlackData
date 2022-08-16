@@ -1,0 +1,517 @@
+[
+    {
+        "client_msg_id": "B806B072-7E5E-46C0-8FA4-304C836D5C8D",
+        "type": "message",
+        "text": "今言うのも遅いと思うんですけど明日行く時間に施設係の江川さんに都合いいか確認とったほうよかったですかね？",
+        "user": "U039TSY8J67",
+        "ts": "1656415727.332099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZC8S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今言うのも遅いと思うんですけど明日行く時間に施設係の江川さんに都合いいか確認とったほうよかった"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1b322ae-dd16-413a-b9f5-9200bf823839",
+        "type": "message",
+        "text": "んー場所覚えて貰えばいいから\n居なかったら名刺貰って来ようか",
+        "user": "U039LGX8MN1",
+        "ts": "1656416477.825619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge4cceea23c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4cceea23c3c852dd9aef914c9b398f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "白湯",
+            "real_name": "白湯",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "satoyuma3314",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tI4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "んー場所覚えて貰えばいいから\n居なかったら名刺貰って来ようか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2A2CCBCD-97E4-430A-9CEB-09734B2E471A",
+        "type": "message",
+        "text": "明日何時くらいにどこにいけばいいですか？",
+        "user": "U03K8F1PW82",
+        "ts": "1656429670.107849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "6576e03f9907",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-12\/3801061478977_6576e03f9907f0383e04_72.png",
+            "first_name": "Takuya",
+            "real_name": "Takuya Eguchi",
+            "display_name": "たくや",
+            "team": "T038Z0K089K",
+            "name": "s1300049",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i2O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日何時くらいにどこにいけばいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5559A1F0-563F-4758-AFC0-125D0FC29DD2",
+        "type": "message",
+        "text": "わかりました",
+        "user": "U039TSY8J67",
+        "ts": "1656474244.969369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SFNWi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5F3EF21-8402-4F15-B335-53DCFD7BE988",
+        "type": "message",
+        "text": "3時半くらいに学祭室に集まりましょう",
+        "user": "U039TSY8J67",
+        "ts": "1656474259.375519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k7i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "3時半くらいに学祭室に集まりましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eebf0af1-90a5-47c1-ad9d-2f48bdb3c374",
+        "type": "message",
+        "text": "<@U039TSY8J67>学祭室は２９まで開けれませんが大丈夫ですか",
+        "user": "U039V55S998",
+        "ts": "1656479823.878809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jgS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039TSY8J67"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学祭室は２９まで開けれませんが大丈夫ですか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb099357-c166-4067-bb1b-ef2f5b5f8559",
+        "type": "message",
+        "text": "？",
+        "user": "U039V55S998",
+        "ts": "1656479825.157909",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X8l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FDA61225-2B4F-42D5-A1C2-E265E7EF4C2B",
+        "type": "message",
+        "text": "だめでした",
+        "user": "U039TSY8J67",
+        "ts": "1656479852.204209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "だめでした"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3558f600-b1d9-4d09-ba52-e03e4a59f051",
+        "type": "message",
+        "text": "２９って今日では。",
+        "user": "U03901B3W69",
+        "ts": "1656479865.567319",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Wrx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "２９って今日では。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "928A5544-CB7D-4B60-BA2A-0900E43837A7",
+        "type": "message",
+        "text": "食堂とかなら空いてますかね？",
+        "user": "U039TSY8J67",
+        "ts": "1656479895.982809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WcT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "食堂とかなら空いてますかね"
+                            },
+                            {
+                                "type": "text",
+                                "text": "？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7f8ba33-9070-4919-9be9-10cc5e5c9ca2",
+        "type": "message",
+        "text": "今日の会話だけど明日って今日のことか。",
+        "user": "U03901B3W69",
+        "ts": "1656479984.008789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O823+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の会話だけど明日って今日のことか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f3a6c38-dcb7-436b-80d8-f86640f3b4f6",
+        "type": "message",
+        "text": "施設課にいくなら講堂前辺りに集まればいいんじゃない？",
+        "user": "U03901B3W69",
+        "ts": "1656479998.323859",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yl3S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "施設課にいくなら講堂前辺りに集まればいいんじゃない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2C0E0121-0650-4435-A622-597A0EDFE7C7",
+        "type": "message",
+        "text": "じゃあ講堂前で",
+        "user": "U039TSY8J67",
+        "ts": "1656480447.213799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g4d1a39b0697",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/4d1a39b069765396de6990bcee501155.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "浅野広太郎",
+            "real_name": "浅野広太郎",
+            "display_name": "あさの",
+            "team": "T038Z0K089K",
+            "name": "s1280081",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=7uQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃあ講堂前で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039LGX8MN1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

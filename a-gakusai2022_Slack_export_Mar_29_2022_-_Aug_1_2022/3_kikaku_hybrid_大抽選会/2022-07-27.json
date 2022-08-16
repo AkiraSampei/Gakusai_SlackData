@@ -1,0 +1,482 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658912402.160029",
+        "user": "U039WPGBPDH",
+        "text": "<@U039WPGBPDH>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "315e9c57-7e8b-462d-9a95-e945562cc3f2",
+        "type": "message",
+        "text": "<!channel> 急な連絡で申し訳ありません。\n　諸事情でnft企画がなくなったので、かねだ君が移ってきました。\n　仲良くしてください:man-bowing:\n　ちなみに二年生です。",
+        "user": "U03BM52KMEC",
+        "ts": "1658912535.107519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9QDf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 急な連絡で申し訳ありません。\n　諸事情でnft企画がなくなったので、かねだ君が移ってきました。\n　仲良くしてください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　ちなみに二年生です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b0ed6e63-ddd2-47fb-affe-ad7714c58eb0",
+        "type": "message",
+        "text": "<@U039WPGBPDH> 軽い自己紹介してくださいね",
+        "user": "U03BM52KMEC",
+        "ts": "1658912589.860539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "itA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 軽い自己紹介してくださいね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "82B3CCC5-04D1-4966-B481-CF1B86BF4E98",
+        "type": "message",
+        "text": "お肉大好き焼肉に”客”として行きたい金田です:smiley:\nNFT楽しみにしてましたが上手く進まず企画無くなってしまったのでこちらのお手伝いさせて頂きます:exclamation:よろしくお願いします:man-bowing:",
+        "user": "U039WPGBPDH",
+        "ts": "1658912695.129939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "prl9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お肉大好き焼肉に”客”として行きたい金田です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "smiley",
+                                "unicode": "1f603"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NFT楽しみにしてましたが上手く進まず企画無くなってしまったのでこちらのお手伝いさせて頂きます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "exclamation",
+                                "unicode": "2757"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K4J7KXTQ",
+                    "U039M3UAXFG",
+                    "U03KPT8FAD7"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AA7A15A9-9CC1-40DF-9907-1FC42CF96D15",
+        "type": "message",
+        "text": "<@U039WPGBPDH>\nよろしく！:parrot_ultrafast:\n早速だけど明日17時から景品決めの会議やるんだけど来れそう？\n場所は学祭室で！\n\n<@U03K4J7KXTQ> <@U03KPT8FAD7> \n明日の会議忘れないように！！",
+        "user": "U039M3UAXFG",
+        "ts": "1658913422.245189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O\/zb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_ultrafast"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "早速だけど明日17時から景品決めの会議やるんだけど来れそう？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "場所は学祭室で！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日の会議忘れないように！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03K4J7KXTQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03KPT8FAD7"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7BC6A949-006F-4EA1-BC99-F2544F47B813",
+        "type": "message",
+        "text": "大丈夫だと思います！",
+        "user": "U039WPGBPDH",
+        "ts": "1658913476.266289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jLL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫だと思います！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A70F6355-5AD2-4F0A-8B2C-270AAE7F8560",
+        "type": "message",
+        "text": "かねださんよろしくお願い致します！",
+        "user": "U03K4J7KXTQ",
+        "ts": "1658913523.337389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FKi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かねださんよろしくお願い致します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4546EFDC-C06A-4344-81D9-6EB65A54FAFA",
+        "type": "message",
+        "text": "会議17:00から忘れないようにします！よろしくお願い致します！",
+        "user": "U03K4J7KXTQ",
+        "ts": "1658913549.098879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QVGRw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会議17:00から忘れないようにします！よろしくお願い致します！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658913549.098879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658913660.858619",
+        "reply_users": [
+            "U039WPGBPDH"
+        ],
+        "replies": [
+            {
+                "user": "U039WPGBPDH",
+                "ts": "1658913660.858619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039WPGBPDH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C1295B6C-9730-4C64-8057-FF0323FDDF4A",
+        "type": "message",
+        "text": "よろしく〜:man-gesturing-ok:",
+        "user": "U039WPGBPDH",
+        "ts": "1658913660.858619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tj6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしく〜"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok",
+                                "unicode": "1f646-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658913549.098879",
+        "parent_user_id": "U03K4J7KXTQ"
+    }
+]

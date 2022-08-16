@@ -1,0 +1,481 @@
+[
+    {
+        "client_msg_id": "E93463E8-F2C5-4FAE-AABE-C219CB150731",
+        "type": "message",
+        "text": "<@U03K4J7KXTQ> <@U03KPT8FAD7> \n初めまして！\n大抽選会担当の学部4年渡辺です！\nこれからよろしくお願いします！！\n\nさっそくだけど今週中に一度集まって企画についての話をしたいと思ってます！\nなので今週都合のいい時間を教えてください！\nちなみに僕は以下の時間なら空いてます\n20日(月)12:30~17:00\n21日(火)12:30~\n22日(水)9:00~13:00\n23日(木)12:30~17:00\n\nこの時間内で都合のいい時間をできれば今日中に教えて欲しいです！\nよろしくお願いします！:pray:",
+        "user": "U039M3UAXFG",
+        "ts": "1655611208.132869",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aL8j",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "初めまして"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大抽選会担当"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学部4年渡辺で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "これからよろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "け"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ど今週中"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一度集まって企画に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ついての"
+                            },
+                            {
+                                "type": "text",
+                                "text": "話を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "したいと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "思ってます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で今週都合のいい時間を教えて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "く"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さい！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ちなみに"
+                            },
+                            {
+                                "type": "text",
+                                "text": "僕は以下の時間なら空いて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "20"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日(月)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "12:30~17:00"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "21"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日(火)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "12:30~"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "22"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "("
+                            },
+                            {
+                                "type": "text",
+                                "text": "水"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")9:00~13:00"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "23"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日(木)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "12:30~17:00"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nこの時間内で都合のいい時間"
+                            },
+                            {
+                                "type": "text",
+                                "text": "を"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "きれ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ば今日中"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "教えて欲しいです！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CB4C13CF-C3FC-47CD-82B9-05526A1C716B",
+        "type": "message",
+        "text": "初めまして、学部1年大室です！よろしくお願いします！\n自分昼休みは基本空いてます！\n水曜日は5,6限しか入ってないので1番行きやすいです！",
+        "user": "U03K4J7KXTQ",
+        "ts": "1655612104.657979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RECA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "初めまして"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学部1年大室で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自分昼休みは基本空いてます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "水曜日は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "5,6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "限しか入ってないので1番行きやすいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EBAF2BF9-EED6-4F1F-8844-39A787F03F64",
+        "type": "message",
+        "text": "はじめまして、学部1年石田です、よろしくお願いします！\n自分も昼休みは基本空いてます。\n月曜日は昼休み以外は授業なので厳しいです。\n火曜日は16:50〜空いてます！\n水曜日は9:00〜10:40までいけます！\n木曜日は15:00〜空いてます！",
+        "user": "U03KPT8FAD7",
+        "ts": "1655612509.173449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ewPw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はじめまして、学部1年石田です、よろしくお願いします！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自分も昼休みは基本空いてます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月曜日は昼休み以外は授業なので厳しいです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "火曜日は16:50〜空いてます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "水曜日は9:00〜10:40までいけます！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "木曜日は15:00〜空いてます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

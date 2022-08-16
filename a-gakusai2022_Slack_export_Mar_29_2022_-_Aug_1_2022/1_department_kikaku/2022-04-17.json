@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "3ba8af9b-0d0a-4e30-8295-18767efb010f",
+        "type": "message",
+        "text": "早くゴールデンウィークになってほしいと思っている新企画部長の駒形です。いきなりの連絡になって申し訳ないですが、4月20日(水曜日)に最初の企画部会議を開きたいと思います。会議の内容は、主に今年度の企画部の方針についてです。場所は、M7教室で13時から始めたいと思います。教室は12時半から借りているので早めに来ても大丈夫です。",
+        "user": "U03BM52KMEC",
+        "ts": "1650257845.232439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+0ZY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "早くゴールデンウィークになってほしいと思っている新企画部長の駒形です。いきなりの連絡になって申し訳ないですが、4月20日(水曜日)に最初の企画部会議を開きたいと思います。会議の内容は、主に今年度の企画部の方針についてです。場所は、M7教室で13時から始めたいと思います。教室は12時半から借りているので早めに来ても大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039PA9J5JP",
+                    "U039BUU0GAH",
+                    "U039M3UAXFG"
+                ],
+                "count": 4
+            },
+            {
+                "name": "cat_surprised",
+                "users": [
+                    "U039BUU0GAH",
+                    "U0391RWR34N",
+                    "U039M3UAXFG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "takopii",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "ikemasen",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039M3UAXFG",
+                    "U039D5XVCJ3"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

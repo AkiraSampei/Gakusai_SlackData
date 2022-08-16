@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "e437f864-92bf-429f-ac42-4134b08b3361",
+        "type": "message",
+        "text": "返信が遅くなって申し訳ありません:bow:\n7\/13 14 15 19 20 になら空いてます",
+        "user": "U03KRPKDY8L",
+        "ts": "1656211978.337109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TdF23",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "返信が遅くなって申し訳ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n7\/13 14 15 19 20 になら空いてます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

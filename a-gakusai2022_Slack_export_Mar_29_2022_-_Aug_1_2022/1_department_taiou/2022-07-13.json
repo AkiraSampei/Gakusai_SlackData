@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "4e5f4088-4168-408f-984e-de5ee2c088c7",
+        "type": "message",
+        "text": "DMCの申請書は私がやります。",
+        "user": "U039V55S998",
+        "ts": "1657781051.833379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6SJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "DMCの申請書は私がやります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

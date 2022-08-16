@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "C00F86BB-D538-4B80-AB15-7C9B350B5417",
+        "type": "message",
+        "text": "ごめんやっぱ今日はやめとくわ笑",
+        "user": "U039M3UAXFG",
+        "ts": "1655377324.853319",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JBkM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "や"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っぱ今日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "はやめとくわ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655361159.946109",
+        "parent_user_id": "U039M3UAXFG"
+    },
+    {
+        "client_msg_id": "6238D1CA-C478-4B07-AFED-6E268FBF41ED",
+        "type": "message",
+        "text": "了解です:ok_hand:",
+        "user": "U039RCZ4E04",
+        "ts": "1655377437.917769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CfCK0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_hand",
+                                "unicode": "1f44c"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655361159.946109",
+        "parent_user_id": "U039M3UAXFG"
+    }
+]

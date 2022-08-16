@@ -1,0 +1,98 @@
+[
+    {
+        "type": "message",
+        "text": "理工学演習1のLMS漁ったら出てきたので。今更とか言わないで。",
+        "files": [
+            {
+                "id": "F03Q1HCF8PM",
+                "created": 1658222051,
+                "timestamp": 1658222051,
+                "name": "CSEE_2019_final_3.pdf",
+                "title": "CSEE_2019_final_3.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0391RWR34N",
+                "editable": false,
+                "size": 718629,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03Q1HCF8PM\/csee_2019_final_3.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03Q1HCF8PM\/download\/csee_2019_final_3.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03Q1HCF8PM-46883363ab\/csee_2019_final_3_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0391RWR34N\/F03Q1HCF8PM\/csee_2019_final_3.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03Q1HCF8PM-4ecb576dc7",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03QRC3AGJC",
+                "created": 1658222054,
+                "timestamp": 1658222054,
+                "name": "csee2020_Quiz01-09_withSOL.pdf",
+                "title": "csee2020_Quiz01-09_withSOL.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0391RWR34N",
+                "editable": false,
+                "size": 2036105,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QRC3AGJC\/csee2020_quiz01-09_withsol.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QRC3AGJC\/download\/csee2020_quiz01-09_withsol.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QRC3AGJC-3ddefd62e8\/csee2020_quiz01-09_withsol_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0391RWR34N\/F03QRC3AGJC\/csee2020_quiz01-09_withsol.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QRC3AGJC-694f958b64",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0391RWR34N",
+        "ts": "1658222096.955979",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOJoW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "理工学演習1のLMS漁ったら出てきたので。今更とか言わないで。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2f59b8db-c102-4f42-b856-e028f2b6405f",
+        "reactions": [
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

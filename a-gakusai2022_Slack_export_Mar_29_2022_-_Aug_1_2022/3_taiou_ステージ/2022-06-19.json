@@ -1,0 +1,246 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655684182.835199",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655695838.726459",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「3_taiou_stage」から「3_taiou_ステージ」に変更しました",
+        "old_name": "3_taiou_stage",
+        "name": "3_taiou_ステージ"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03KW4A8ULF",
+                "created": 1655705712,
+                "timestamp": 1655705712,
+                "name": "スケジュール.docx",
+                "title": "タイムテーブル.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 20652,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KW4A8ULF\/_____________________.docx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KW4A8ULF\/download\/_____________________.docx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KW4A8ULF-e9d3e4b6c3\/______________________converted.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KW4A8ULF-e9d3e4b6c3\/______________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03KW4A8ULF\/_____________________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KW4A8ULF-a51747dc82",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03LPC81SL9",
+                "created": 1655705716,
+                "timestamp": 1655705716,
+                "name": "かたづけ.docx",
+                "title": "かたづけ.docx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 15759,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LPC81SL9\/_______________.docx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LPC81SL9\/download\/_______________.docx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LPC81SL9-158e4fdd76\/________________converted.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LPC81SL9-158e4fdd76\/________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03LPC81SL9\/_______________.docx",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LPC81SL9-4d97c54fd7",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "ts": "1655705721.634129",
+        "client_msg_id": "017247bd-23a5-4e26-bc42-24183883eda4"
+    },
+    {
+        "client_msg_id": "38c7efef-9d4f-41f0-8e20-e3d7f5217d62",
+        "type": "message",
+        "text": "今後のステージ課の予定の概要を書きました\n足りないと思うところは、*気づいたときに必ず教えて下さい*\n\n```１．PAシートをもらう\n２．業者連絡\n３．酒ケース申請\n４．中澤に酒ケースの設置願い\n５．食堂に学生ホールの利用申請\n６．スパイスにテント申請\n７．分電盤場所確認\n８．リハの打ち合わせ```\n備考　：*ピタさんに分電盤の配置を確認する理由を聞いてほしいです*\n備考２：学祭全体もそうだけど、当日の朝に学校にくるので警備員室にコンタクトをとる",
+        "user": "U0394PQ44FL",
+        "ts": "1655706839.808099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1655707304.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0UXXO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今後のステージ課の予定の概要を書きました\n足りないと思うところは、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "気づいたときに必ず教えて下さい",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "１．PAシートをもらう\n２．業者連絡\n３．酒ケース申請\n４．中澤に酒ケースの設置願い\n５．食堂に学生ホールの利用申請\n６．スパイスにテント申請\n７．分電盤場所確認\n８．リハの打ち合わせ"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n備考　："
+                            },
+                            {
+                                "type": "text",
+                                "text": "ピタさんに分電盤の配置を確認する理由を聞いてほしいです",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n備考２：学祭全体もそうだけど、当日の朝に学校にくるので警備員室にコンタクトをとる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655706839.808099",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1655735381.189359",
+        "reply_users": [
+            "U039RCZ4E04",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655730446.508399"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655731312.516989"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655735381.189359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655735381.189359"
+    },
+    {
+        "client_msg_id": "724d464e-8e0c-4f95-b6b8-fa65364ffd0c",
+        "type": "message",
+        "text": "プラスで、スパイスと対応部に申請するもののリストを書きます\n\n```スパイスに申請するもの：\n\t・カーペット（黒）\n\t\t1.8m * 10m 　\t３個\n\t\t1.7m * 1.2m 　\t１個\n\t・テント2k3k６脚　\t１個\n\t・テント1.5k2k６脚\t１個\n\t・テントの横幕７問　　　２個\n\t・土嚢　　　　　　　　　２４個\n\n対応部に申請するもの：\n　\t・講義棟の机　　　　　　　　　　　　２個\n\t・講義等の椅子　　　　　　　　　　　１０個\n\t・長机（脚折らないしっかりしたやつ）４個\n\t・食堂後方倉庫にある長机　　　　　　４個```",
+        "user": "U0394PQ44FL",
+        "ts": "1655706922.264359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プラスで、スパイスと対応部に申請するもののリストを書きます\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スパイスに申請するもの：\n\t・カーペット（黒）\n\t\t1.8m * 10m 　\t３個\n\t\t1.7m * 1.2m 　\t１個\n\t・テント2k3k６脚　\t１個\n\t・テント1.5k2k６脚\t１個\n\t・テントの横幕７問　　　２個\n\t・土嚢　　　　　　　　　２４個\n\n対応部に申請するもの：\n　\t・講義棟の机　　　　　　　　　　　　２個\n\t・講義等の椅子　　　　　　　　　　　１０個\n\t・長机（脚折らないしっかりしたやつ）４個\n\t・食堂後方倉庫にある長机　　　　　　４個"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

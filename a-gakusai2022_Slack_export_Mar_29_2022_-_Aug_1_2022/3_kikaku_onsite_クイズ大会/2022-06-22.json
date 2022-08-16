@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "8d604d72-ec75-468a-a4ca-f74eed64f200",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg&amp;usp=sharing>",
+        "user": "U0391RWR34N",
+        "ts": "1655881213.196039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H9s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg&usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

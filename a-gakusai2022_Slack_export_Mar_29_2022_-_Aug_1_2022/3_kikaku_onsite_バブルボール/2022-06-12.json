@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655036930.858329",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「2_kikaku_バブルボール」から「3_kikaku_バブルボール」に変更しました",
+        "old_name": "2_kikaku_バブルボール",
+        "name": "3_kikaku_バブルボール"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "a32b0fa2-c534-41df-9804-2d064b80f66c",
+        "type": "message",
+        "text": "<!channel> こんにちは、宮崎です。少し早いですが諸般の都合で全体会議の日程を11日の14時からに決定しました。\n場所は大講義室です。よろしくお願いいたします。",
+        "user": "U03901B3W69",
+        "ts": "1654490245.429639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんにちは、宮崎です。少し早いですが諸般の都合で全体会議の日程を11日の14時からに決定しました。\n場所は大講義室です。よろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0391RWR34N",
+                    "U039M3UAXFG",
+                    "U03A1S6RAF3",
+                    "U039PA9J5JP"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

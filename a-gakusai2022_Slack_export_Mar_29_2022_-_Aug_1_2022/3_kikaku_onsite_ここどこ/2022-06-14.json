@@ -1,0 +1,10 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655272111.045729",
+        "user": "U03GW267PQE",
+        "text": "<@U03GW267PQE>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    }
+]

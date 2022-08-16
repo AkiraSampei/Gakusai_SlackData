@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "96808f10-c928-4289-80f9-3e070997b0aa",
+        "type": "message",
+        "text": "<!channel>伝助の記入ありがとうございます。\n　7\/3(日曜日)に14:00からM8教室で企画書添削会議を開きます。\n　教室自体は13:30から借りてるので、早めに来てもらっても大丈夫です。",
+        "user": "U03BM52KMEC",
+        "ts": "1656637454.369799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w9P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "伝助の記入ありがとうございます。\n　7\/3(日曜日)に14:00からM8教室で企画書添削会議を開きます。\n　教室自体は13:30から借りてるので、早めに来てもらっても大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039BUU0GAH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_twins",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U0391RWR34N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00635b4f-297e-4f44-a965-5f5e5a930090",
+        "type": "message",
+        "text": "追記：M8教室の空調申請出しておきました",
+        "user": "U03BM52KMEC",
+        "ts": "1656647446.358939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uf7L3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "追記：M8教室の空調申請出しておきました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039PA9J5JP",
+                    "U038TMLJW1M",
+                    "U0391RWR34N",
+                    "U039M3UAXFG",
+                    "U039BUU0GAH"
+                ],
+                "count": 5
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039L92GA3X"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

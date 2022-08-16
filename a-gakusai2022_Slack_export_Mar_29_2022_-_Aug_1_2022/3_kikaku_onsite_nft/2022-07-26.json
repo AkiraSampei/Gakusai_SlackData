@@ -1,0 +1,203 @@
+[
+    {
+        "client_msg_id": "f354f983-ba88-4f83-95f2-05ba2c9890aa",
+        "type": "message",
+        "text": "<!channel> お疲れ様です!!!\n　先日は投票のご協力ありがとうございます。\n　皆さんの*次の企画の割り振り*ですが、以下の通りです。\n　*・佐藤君は子供広場*\n　*・金田君は大抽選会*\n　*・大平さんはドローン体験会とドローン撮影*\n　個人的には上記のように割り振りたいです。もし*何か問題があれば、連絡のほうを今日中*にお願いします。\n　*問題なければgoodマーク*を押してください。何もなければ、上記のように割り振ります。",
+        "user": "U03BM52KMEC",
+        "ts": "1658901557.776689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lmcO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です!!!\n　先日は投票のご協力ありがとうございます。\n　皆さんの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "次の企画の割り振り",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですが、以下の通りです。\n　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・佐藤君は子供広場",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　・金田君は大抽選会",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　・大平さんはドローン体験会とドローン撮影",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　個人的には上記のように割り振りたいです。もし"
+                            },
+                            {
+                                "type": "text",
+                                "text": "何か問題があれば、連絡のほうを今日中",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "にお願いします。\n　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "問題なければgoodマーク",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を押してください。何もなければ、上記のように割り振ります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658901557.776689",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658910780.043919",
+        "reply_users": [
+            "U039BUU0GAH"
+        ],
+        "replies": [
+            {
+                "user": "U039BUU0GAH",
+                "ts": "1658910780.043919"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03BM52KMEC",
+                    "U039WPGBPDH",
+                    "U039BUU0GAH",
+                    "U03CATDUH0A"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "392caed8-6d13-4243-8acb-c0a892ac34ad",
+        "type": "message",
+        "text": "↑<!channel> *企画に携わっている人は何かしらのリアクションを絶対してください。お願いします。*",
+        "user": "U03BM52KMEC",
+        "ts": "1658903687.061149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03BM52KMEC",
+            "ts": "1658904003.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q1ddM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画に携わっている人は何かしらのリアクションを絶対してください。お願いします。",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

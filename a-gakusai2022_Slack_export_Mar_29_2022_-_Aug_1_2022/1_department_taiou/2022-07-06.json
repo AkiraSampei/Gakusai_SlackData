@@ -1,0 +1,822 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03N12U4Y3H",
+                "created": 1657092166,
+                "timestamp": 1657092166,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 765335,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N12U4Y3H\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N12U4Y3H\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N12U4Y3H-ac9004fce1\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADB28etLuHqKmJoIHcClYCLIozT9qH+AflSeWh\/hx9KLANop3lofUfQ1HEmU+Z2yCQaLATH6UA+1LilOMcA\/nTAb\/nrRRjmlxQA3NRIcNIP9rP5ipsVA3E5Hqv8AI\/8A16ALNKBmkpwoEIRg0UN1pB1oGI52qSO1UppmDowAzgirkn3G+lZ1x1SgD\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03N12U4Y3H\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03N12U4Y3H-fb150f3f45",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1657092172.643729",
+        "client_msg_id": "E8E36235-38E2-4E8F-89A9-9014AD4B9106"
+    },
+    {
+        "client_msg_id": "d6c85728-76db-46ec-b49f-654ca07b9473",
+        "type": "message",
+        "text": "個人参加の団体に伝えること\n・基本的にサークルではない個人(あるいは非公認サークル)での学園祭への参加はOK。サークルと同等のものと扱い学園祭実行委員会の管轄に入る。\n・当日はトラブル防止のために販売する店舗、あるいは展示をする教室において関係者がいない時間を作らないように協力者を複数人用意して欲しい。",
+        "user": "U03901B3W69",
+        "ts": "1657092332.166459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pJxHY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "個人参加の団体に伝えること\n・基本的にサークルではない個人(あるいは非公認サークル)での学園祭への参加はOK。サークルと同等のものと扱い学園祭実行委員会の管轄に入る。\n・当日はトラブル防止のために販売する店舗、あるいは展示をする教室において関係者がいない時間を作らないように協力者を複数人用意して欲しい。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e1d4063a-36e4-4841-823b-1d9d0207fa1e",
+        "type": "message",
+        "text": "津久井様\n\nお世話になります。\n候補車両、下記になります。\nご希望の車両をご指定ください。（メニュー調整必要な場合はご相談ください）\n\n①めろんぱん A GO! GO!\nメロンパン各種、クロワッサン、パイ各種、ベーグル、メロンパンアイス、ドリンク各種\n\n②そらcafe\nクレープ（ホイップクリーム系とおかず系各種）\n\n③ふくふく\n小籠包、ひとくち餃子、手作りフランク、フリフリポテト、、焼き鳥、牛タン串、焼きそば\n\n④D-kitchen Hiro\nパスタ各種、パフェ各種、ドリンク、クリームソーダ\n\n⑤ロイヤルヒル\n·のむすいーつ、·タピオカドリンク、·けずりいちご\n\n⑥Show-me\nチーズハットグ、ロングトルネードポテト、ポテト&amp;唐揚げ、クマさんボトル入りドリンク、ソフトクリームソーダ、レインボー&amp;キャラクターわたあめ\n\n⑦リリーズカフェ\nこぼれタルタルチキンドッグ、ステーキ丼、ブルーシールアイス\n\n⑧AB’SDINER\nヤンニョムチキン、ヤンニョムライスバーガー、ライスバーガーポテトセット\n\n⑨ら・さんた\n厚切りハムカツバーガー、たまごサラダドック、元気な揚げカレーパン、極みのソフトクリーム、揚げクリームパン",
+        "user": "U039V55S998",
+        "ts": "1657092391.279279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "津久井様\n\nお世話になります。\n候補車両、下記になります。\nご希望の車両をご指定ください。（メニュー調整必要な場合はご相談ください）\n\n①めろんぱん A GO! GO!\nメロンパン各種、クロワッサン、パイ各種、ベーグル、メロンパンアイス、ドリンク各種\n\n②そらcafe\nクレープ（ホイップクリーム系とおかず系各種）\n\n③ふくふく\n小籠包、ひとくち餃子、手作りフランク、フリフリポテト、、焼き鳥、牛タン串、焼きそば\n\n④D-kitchen Hiro\nパスタ各種、パフェ各種、ドリンク、クリームソーダ\n\n⑤ロイヤルヒル\n·のむすいーつ、·タピオカドリンク、·けずりいちご\n\n⑥Show-me\nチーズハットグ、ロングトルネードポテト、ポテト&唐揚げ、クマさんボトル入りドリンク、ソフトクリームソーダ、レインボー&キャラクターわたあめ\n\n⑦リリーズカフェ\nこぼれタルタルチキンドッグ、ステーキ丼、ブルーシールアイス\n\n⑧AB’SDINER\nヤンニョムチキン、ヤンニョムライスバーガー、ライスバーガーポテトセット\n\n⑨ら・さんた\n厚切りハムカツバーガー、たまごサラダドック、元気な揚げカレーパン、極みのソフトクリーム、揚げクリームパン"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "544EFE7A-9207-4A23-9775-7FB1C1B456B8",
+        "type": "message",
+        "text": "私が昔書いた呼び出しメールです。\n参考にしてください。(20:35編集、添削前だったので添削後に変更しました)\n\n[学祭]ご提出いただいた申請書に関して\nよさこい部　榎様\n(cc.緊急連絡先　岡田様)\n\n会津大学学園祭実行委員会対応部の髙橋です。\nお世話になっております。\n\n先日、ご提出された申請書に不備がございましたのでお知らせします。\n不備の訂正がございますので8月11日(火)の12時50分に学祭室にお越しください。\nなお、お越しの際は印鑑を忘れずにご持参ください。\n\n申請書の不備は以下の通りです。\n・催し物企画書の備品欄が未記入でした。\n\n日時のご都合が悪い場合はご希望の日時をご指定下さい。\n\nよろしくお願いいたします。",
+        "user": "U0399UH8BKQ",
+        "ts": "1657095415.173099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0399UH8BKQ",
+            "ts": "1657107390.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tez",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私が昔書いた呼び出し"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メールです"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "参考にしてください。(20:35編集、添削前だったので添削後に変更しました)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "[学祭]ご提出いただいた申請書に関して"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よさこい部　榎様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "(cc.緊急連絡先　岡田様)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n会津大学学園祭実行委員会対応部の髙橋です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お世話になっております。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先日、ご提出された申請書に不備がございましたのでお知らせします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "不備の訂正がございますので8月11日(火)の12時50分に学祭室にお越しください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なお、お越しの際は印鑑を忘れずにご持参ください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n申請書の不備は以下の通りです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・催し物企画書の備品欄が未記入でした。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n日時のご都合が悪い場合はご希望の日時をご指定下さい。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "申請書の呼び出し日時の調整欄を作りました。決まり次第記入お願いします:palms_up_together:",
+        "files": [
+            {
+                "id": "F03P5T4EQ2C",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1657099260.842169",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ja\/K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申請書の呼び出し日時の調整欄を作りました。決まり次第記入お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "palms_up_together",
+                                "unicode": "1f932"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4A7FB466-0498-4668-8098-010603BF2F02"
+    },
+    {
+        "client_msg_id": "30F47BC8-3792-4D49-8DA3-6D9A5637B625",
+        "type": "message",
+        "text": "明日個人参加のひと17時にきます",
+        "user": "U039RCZ4E04",
+        "ts": "1657103676.651189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sAg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日個人参加のひと17時にきます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657103676.651189",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1657104386.709409",
+        "reply_users": [
+            "U039V55S998",
+            "U039RCZ4E04",
+            "U03KRPKDY8L"
+        ],
+        "replies": [
+            {
+                "user": "U039V55S998",
+                "ts": "1657103710.144329"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1657103795.597139"
+            },
+            {
+                "user": "U03KRPKDY8L",
+                "ts": "1657104272.585639"
+            },
+            {
+                "user": "U03KRPKDY8L",
+                "ts": "1657104386.709409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "bow",
+                "users": [
+                    "U03KRPKDY8L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "disguised_face",
+                "users": [
+                    "U03KRPKDY8L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4ce3e61f-22dc-48d6-8364-868a0feaad70",
+        "type": "message",
+        "text": "私が対応します",
+        "user": "U039V55S998",
+        "ts": "1657103710.144329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vr=g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私が対応します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657103676.651189",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "62E905A5-5494-458F-ABED-B158F19B36BE",
+        "type": "message",
+        "text": "おれも多分いける",
+        "user": "U039RCZ4E04",
+        "ts": "1657103795.597139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ax6p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おれも多分いける"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657103676.651189",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "bf5d3cb0-14b0-4c20-b8b9-6dc0e2e719cf",
+        "type": "message",
+        "text": "すいません変なスタンプ押してしまいました:bow:",
+        "user": "U03KRPKDY8L",
+        "ts": "1657104272.585639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hIKQ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すいません変なスタンプ押してしまいました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657103676.651189",
+        "parent_user_id": "U039RCZ4E04",
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd2dd0d1-1a99-481a-b010-bd2afdb4401c",
+        "type": "message",
+        "text": "本日は申し訳ありません:bow:明日、宜しくお願いします:woman-bowing:",
+        "user": "U03KRPKDY8L",
+        "ts": "1657104386.709409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9gdR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日は申し訳ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日、宜しくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-bowing",
+                                "unicode": "1f647-200d-2640-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657103676.651189",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "3037f1e9-7da1-43f3-9883-ae9cc3b70273",
+        "type": "message",
+        "text": "申請書訂正時にサークル用slackに加入よろしくお願いします",
+        "user": "U039V55S998",
+        "ts": "1657107328.166899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FyU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申請書訂正時にサークル用slackに加入よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657107328.166899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657153834.669219",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657153834.669219"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6573EABE-098A-4F28-B7E2-AE37D6FAF75B",
+        "type": "message",
+        "text": "対応チャンネル内にその「サークル用Slack」のリンクが無いのでください",
+        "user": "U0399UH8BKQ",
+        "ts": "1657153834.669219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d07l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "対応チャンネル内"
+                            },
+                            {
+                                "type": "text",
+                                "text": "にその「サークル用Slack」のリンクが無いのでください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657107328.166899",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "0c74af64-fc1d-4e17-88eb-05ea19dd9719",
+        "type": "message",
+        "text": "<https:\/\/join.slack.com\/t\/w1657064682-ybb918046\/shared_invite\/zt-1c6bmqe5t-F8hNMOPAkvuigkHKe8TkFw|https:\/\/join.slack.com\/t\/w1657064682-ybb918046\/shared_invite\/zt-1c6bmqe5t-F8hNMOPAkvuigkHKe8TkFw>\n申請書の訂正のために学祭室に来た方には学祭サークル用Slackに入ってもらいます。\nその際やってもらうこと\n①学祭サークルslackに入る\n②名前に所属サークル名を入れる\n③サークル毎に対応したチャンネルに入ってもらう\nです。これは先輩方が主導でやってください。\nお手数ですが、よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1657153909.140949",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aes30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/join.slack.com\/t\/w1657064682-ybb918046\/shared_invite\/zt-1c6bmqe5t-F8hNMOPAkvuigkHKe8TkFw",
+                                "text": "https:\/\/join.slack.com\/t\/w1657064682-ybb918046\/shared_invite\/zt-1c6bmqe5t-F8hNMOPAkvuigkHKe8TkFw"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n申請書の訂正のために学祭室に来た方には学祭サークル用Slackに入ってもらいます。\nその際やってもらうこと\n①学祭サークルslackに入る\n②名前に所属サークル名を入れる\n③サークル毎に対応したチャンネルに入ってもらう\nです。これは先輩方が主導でやってください。\nお手数ですが、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "申請書はここです。各人の担当毎にファイルに分けているので、自分の名前があるものを取っていってください。",
+        "files": [
+            {
+                "id": "F03NL7MJBDH",
+                "created": 1657158492,
+                "timestamp": 1657158492,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 937601,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "subtype": "slack_image",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NL7MJBDH\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NL7MJBDH\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NL7MJBDH-9ac1e7f173\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSFMBgSOM1POPvAADGcVCMEgZwT0qweQv0x\/SnEUiunMf8AwKm4yIvx\/nVm1gDJlz8ueAKsCCELkIMDpmk3qPpYyJD+8b6mm5ppOWJ9TRmgCcDawbPQ1cB+Q+xqtHC8qlh+tTJkfKwwcc0xPYs2p\/dsPRjT3OIWPsTUVqeHHuP5U+4O21k\/3TUvcaMUDijFKOnSlwfSmBoxkqQF6nqKsMAyZKjdjrVaFZkzuIJPtUpdgMsox7Ghu7BKyG23+skB6YBp1wVktHMZyOnFMilj5Izye9Ss67CFxkdqm6uNLQz0+RQOeeelLv8Ab9KmW2LKCWKn0pfsh\/56GquI\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03NL7MJBDH\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03NL7MJBDH-205a72547d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1657158530.873249",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fuDt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申請書はここです。各人の担当毎にファイルに分けているので、自分の名前があるものを取っていってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "45A0FF68-9B49-4A4A-9D20-3FCCCC36D6A4"
+    }
+]

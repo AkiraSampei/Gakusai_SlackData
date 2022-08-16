@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "f02d63cf-027e-4f89-96cc-d42a4a19c8db",
+        "type": "message",
+        "text": "コンロはこんなやつだそうです",
+        "user": "U039V55S998",
+        "ts": "1658896102.672349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q+i",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コンロはこんなやつだそうです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03RHSWDPC1",
+                "created": 1658896219,
+                "timestamp": 1658896219,
+                "name": "S__115023884.jpg",
+                "title": "S__115023884.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039V55S998",
+                "editable": false,
+                "size": 18201,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03RHSWDPC1\/s__115023884.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03RHSWDPC1\/download\/s__115023884.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHSWDPC1-e6593e4f2f\/s__115023884_64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHSWDPC1-e6593e4f2f\/s__115023884_80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHSWDPC1-e6593e4f2f\/s__115023884_360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 350,
+                "thumb_360_h": 350,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RHSWDPC1-e6593e4f2f\/s__115023884_160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "original_w": 350,
+                "original_h": 350,
+                "thumb_tiny": "AwAwADDTqF7qFDguM+g5qld3LSS+UjbUHBNV5VWGcqGEgH60AaQvoCcbiPwqdHVxlGBHtWKHjMwZ12pnkCpAxW4P2csQvI+lAGxRUcEvnRB\/zqSgDGuB5YZGX5g2d1QHvW3NAkuCRhh0NZZtnWXywjbu3oaYiACp7cEb2LhE24Y9z7CnG0mQZKMR7YqIpjgg\/iKANOwZTBhTyDzVmq9o8fkhUwMdR71YpDCiiigAprxq+CwGR0PpTqKAM25hYTnCYGM5HQ1PBJL8qoN6f3ielWmUMpVhkGkjRY0CoMAUAf\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039V55S998\/F03RHSWDPC1\/s__115023884.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03RHSWDPC1-e3bbb07000",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039V55S998",
+        "display_as_bot": false,
+        "ts": "1658896221.235389",
+        "client_msg_id": "0b948e92-7d96-47bf-a9df-fefce3a4f9b8",
+        "reactions": [
+            {
+                "name": "了解",
+                "users": [
+                    "U03KRPKDY8L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "woman-bowing",
+                "users": [
+                    "U039T9DE072"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

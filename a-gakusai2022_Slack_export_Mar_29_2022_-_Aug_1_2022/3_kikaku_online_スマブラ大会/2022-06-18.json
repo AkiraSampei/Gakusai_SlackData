@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "76719434-5ccb-4130-bd78-92280eac3ab7",
+        "type": "message",
+        "text": "明日の月曜の17時か水曜の午後に顔合わせ兼企画書(仮)の作成をしたいんですけど、もし時間が空いているようでしたらDM下さい",
+        "user": "U039L92GA3X",
+        "ts": "1655617747.742989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ghB\/E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の月曜の17時か水曜の午後に顔合わせ兼企画書(仮)の作成をしたいんですけど、もし時間が空いているようでしたらDM下さい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

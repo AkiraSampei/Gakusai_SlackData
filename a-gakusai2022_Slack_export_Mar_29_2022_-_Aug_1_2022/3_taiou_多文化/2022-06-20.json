@@ -1,0 +1,668 @@
+[
+    {
+        "client_msg_id": "5701a4e5-da03-45bb-bfd9-cce541ca8a23",
+        "type": "message",
+        "text": "<@U0394PQ44FL> 多文化で毎年協賛のお金もらってるところに出店やらないか聞くのってありですか？",
+        "user": "U039V55S998",
+        "ts": "1655771733.009789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EYOz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0394PQ44FL"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 多文化で毎年協賛のお金もらってるところに出店やらないか聞くのってありですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1655783574.949869",
+        "reply_users": [
+            "U0394PQ44FL",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655778862.965709"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655779315.236929"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655782332.176689"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655782517.901789"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655782577.621159"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655782613.435289"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655782649.658779"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655782681.872839"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655782688.127889"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655783574.949869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655783574.949869"
+    },
+    {
+        "client_msg_id": "0695C51B-EE88-436E-A0BE-95C057E42824",
+        "type": "message",
+        "text": "ありだと思います！\nただ店舗数が徒に増えても良くないと思うので、ある程度絞って連絡した方がいいかなとも思います",
+        "user": "U0394PQ44FL",
+        "ts": "1655778862.965709",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "za7E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありだと思います"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "た"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だ店舗数が徒"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "増えても良くないと思うので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ある程度絞って連絡した方がいいかなとも思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "b7250e43-8a38-4db3-ad33-94f228572aee",
+        "type": "message",
+        "text": "了解です。協賛の店の一覧とか持ってますか？",
+        "user": "U039V55S998",
+        "ts": "1655779315.236929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Lb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。協賛の店の一覧とか持ってますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "協賛一覧GoogleMapです、一つ閉店されてた店舗があったので書き直しました\n去年のリストは私が編集者ではなかったので新しく作り直しました\n<https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6>",
+        "user": "U0394PQ44FL",
+        "ts": "1655782332.176689",
+        "thread_ts": "1655771733.009789",
+        "root": {
+            "client_msg_id": "5701a4e5-da03-45bb-bfd9-cce541ca8a23",
+            "type": "message",
+            "text": "<@U0394PQ44FL> 多文化で毎年協賛のお金もらってるところに出店やらないか聞くのってありですか？",
+            "user": "U039V55S998",
+            "ts": "1655771733.009789",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "EYOz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U0394PQ44FL"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 多文化で毎年協賛のお金もらってるところに出店やらないか聞くのってありですか？"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1655771733.009789",
+            "reply_count": 10,
+            "reply_users_count": 2,
+            "latest_reply": "1655783574.949869",
+            "reply_users": [
+                "U0394PQ44FL",
+                "U039V55S998"
+            ],
+            "replies": [
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1655778862.965709"
+                },
+                {
+                    "user": "U039V55S998",
+                    "ts": "1655779315.236929"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1655782332.176689"
+                },
+                {
+                    "user": "U039V55S998",
+                    "ts": "1655782517.901789"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1655782577.621159"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1655782613.435289"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1655782649.658779"
+                },
+                {
+                    "user": "U039V55S998",
+                    "ts": "1655782681.872839"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1655782688.127889"
+                },
+                {
+                    "user": "U0394PQ44FL",
+                    "ts": "1655783574.949869"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": true,
+            "last_read": "1655783574.949869"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipN-wYKuOeHxlNmYpNPOTtMn5X-Y_b4EOHK-0PeP",
+                "thumb_width": 396,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6",
+                "fallback": "ましこれんたろう's \"２０２２　協賛一覧\" List",
+                "text": "17 places - 協賛を依頼する業者一覧です",
+                "title": "ましこれんたろう's \"２０２２　協賛一覧\" List",
+                "title_link": "https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6",
+                "service_name": "google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PAWuI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "協賛一覧GoogleMapです、一つ閉店されてた店舗があったので書き直しました\n去年のリストは私が編集者ではなかったので新しく作り直しました\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/goo.gl\/maps\/WC9NTKnDxXp4zsoW6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "b861cbd0-0c9f-4936-bea3-5983f76819c9"
+    },
+    {
+        "client_msg_id": "7f188c26-4e23-4f6d-bc82-bb025e9c9a8a",
+        "type": "message",
+        "text": "有難うございます",
+        "user": "U039V55S998",
+        "ts": "1655782356.110379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YeU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "有難うございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8983caf8-b113-468d-95fc-9064c555d27c",
+        "type": "message",
+        "text": "コレはエクセルかなんかでまとめてないですよね？\nまとめた方が良いですか？",
+        "user": "U039V55S998",
+        "ts": "1655782517.901789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1TK+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コレはエクセルかなんかでまとめてないですよね？\nまとめた方が良いですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "2e83aad8-38c2-4f86-aa78-22fa3fb68853",
+        "type": "message",
+        "text": "去年もエクセルにまとまってたので、それ更新して貼っつけます\nあと足りない店舗がいくつかあったので修正します\nおわったらこことsec_sponserに載せます",
+        "user": "U0394PQ44FL",
+        "ts": "1655782577.621159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年もエクセルにまとまってたので、それ更新して貼っつけます\nあと足りない店舗がいくつかあったので修正します\nおわったらこことsec_sponserに載せます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "82fadb00-e590-4a6e-b82d-2ce88c72eb57",
+        "type": "message",
+        "text": "と、いうか、対応部のGoogleDrive的なものって存在してます？",
+        "user": "U0394PQ44FL",
+        "ts": "1655782613.435289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UsD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "と、いうか、対応部のGoogleDrive的なものって存在してます？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "210951bb-ac0a-493d-9b19-f9861e8ce14c",
+        "type": "message",
+        "text": "年度ごとの進捗とかおいてあるような",
+        "user": "U0394PQ44FL",
+        "ts": "1655782649.658779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1655782659.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y05a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "年度ごとの進捗とかおいてあるような"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "6c08db80-cc9a-47c3-9184-aec3a4473785",
+        "type": "message",
+        "text": "ご存知ないです...",
+        "user": "U039V55S998",
+        "ts": "1655782681.872839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yyteY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご存知ないです..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f59aa787-d85f-4474-8f0d-10896aa7c8d8",
+        "type": "message",
+        "text": "了解したのだ",
+        "user": "U0394PQ44FL",
+        "ts": "1655782688.127889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gpZb6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解したのだ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "efc1a8a6-550e-431b-98be-da9242d898c4",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE>",
+        "user": "U0394PQ44FL",
+        "ts": "1655783574.949869",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m6c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655771733.009789",
+        "parent_user_id": "U039V55S998",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

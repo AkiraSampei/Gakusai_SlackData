@@ -1,0 +1,198 @@
+[
+    {
+        "type": "message",
+        "text": "とりあえず、全体会議むけの資料を作成しました。\n確認をお願いしたいです。<@U03AJV9QH96> <@U0391RWR34N>",
+        "files": [
+            {
+                "id": "F03P0DH9TU4",
+                "created": 1657442951,
+                "timestamp": 1657442951,
+                "name": "学祭2022スポンサー課.pptx",
+                "title": "学祭2022スポンサー課.pptx",
+                "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                "filetype": "pptx",
+                "pretty_type": "PowerPoint Presentation",
+                "user": "U039PA9J5JP",
+                "editable": false,
+                "size": 283997,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03P0DH9TU4\/______2022_____________________.pptx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03P0DH9TU4\/download\/______2022_____________________.pptx?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "converted_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03P0DH9TU4-87e5dbb48f\/______2022______________________converted.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03P0DH9TU4-87e5dbb48f\/______2022______________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039PA9J5JP\/F03P0DH9TU4\/______2022_____________________.pptx",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03P0DH9TU4-975c276472",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039PA9J5JP",
+        "display_as_bot": false,
+        "ts": "1657443008.947939",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k=7S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "とりあえず、全体会議むけの資料を作成しました。\n確認をお願いしたいです。"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03AJV9QH96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0391RWR34N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4d2bdc34-e833-4574-a554-7a52586d07be",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03AJV9QH96"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6843129-d814-443c-a768-18463d5ab5f5",
+        "type": "message",
+        "text": "お店の訪問については説明が長くなりそうなので、slackで説明した方がいいなと思いました。\n会議の日はお店に連絡を取るひとを決めちゃいたいと思います",
+        "user": "U039PA9J5JP",
+        "ts": "1657443135.296639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QCasc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お店の訪問については説明が長くなりそうなので、slackで説明した方がいいなと思いました。\n会議の日はお店に連絡を取るひとを決めちゃいたいと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657443135.296639",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657462977.043469",
+        "reply_users": [
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1657462977.043469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7939977C-B479-4C70-A484-F75FD3D003BB",
+        "type": "message",
+        "text": "スライド強い:clap::clap:\n内容ほぼ大丈夫！\n一点気になるとするなら、10月に協賛金受け取るって書いてあるところに「8月受け取ってない場合は」ってニュアンスの言葉が欲しいかな",
+        "user": "U0391RWR34N",
+        "ts": "1657462977.043469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JdwkK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スライド強い"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "clap",
+                                "unicode": "1f44f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n内容ほぼ大丈夫！\n一点気になるとするなら、10月に協賛金受け取るって書いてあるところに「8月受け取ってない場合は」ってニュアンスの言葉が欲しいかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657443135.296639",
+        "parent_user_id": "U039PA9J5JP",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,357 @@
+[
+    {
+        "client_msg_id": "b3131ff9-5d36-46be-8a3a-db575e58b585",
+        "type": "message",
+        "text": "<!channel> お疲れ様です!!!\n 急な連絡で申し訳ないですが、*nft企画を削除*したいと考えています。\n理由は以下の通りです。\n・企画として成功させることが難しい。\n・全員で企画を進めることができていない。\n・お金関係や業者関係などの問題が出た時の対応が難しい。\n他にも問題がありますが、総合的に判断して削除したと考えました。\n*7\/26日(火曜日)まで*に決めたいので*企画を継続したい場合はNoのスタンプ*に、*企画を削除してもいい場合はYesのスタンプ*を押してください。\n企画がもし削除する場合は、他の企画に回すのでよろしくお願いします。\n*企画に携わっている人は絶対にスタンプを押してください。*",
+        "user": "U03BM52KMEC",
+        "ts": "1658734953.461239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03BM52KMEC",
+            "ts": "1658736285.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dIp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です!!!\n 急な連絡で申し訳ないですが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "nft企画を削除",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "したいと考えています。\n理由は以下の通りです。\n・企画として成功させることが難しい。\n・全員で企画を進めることができていない。\n・お金関係や業者関係などの問題が出た時の対応が難しい。\n他にも問題がありますが、総合的に判断して削除したと考えました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/26日(火曜日)まで",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に決めたいので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画を継続したい場合はNoのスタンプ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画を削除してもいい場合はYesのスタンプ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を押してください。\n企画がもし削除する場合は、他の企画に回すのでよろしくお願いします。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画に携わっている人は絶対にスタンプを押してください。",
+                                "style": {
+                                    "bold": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658734953.461239",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1658735381.682859",
+        "reply_users": [
+            "U0394PQ44FL",
+            "U03BM52KMEC"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658735340.687359"
+            },
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1658735381.682859"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658735381.682859",
+        "reactions": [
+            {
+                "name": "yes",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03CATDUH0A",
+                    "U0394PQ44FL",
+                    "U039RJU3V36",
+                    "U039BUU0GAH",
+                    "U039WPGBPDH"
+                ],
+                "count": 6
+            },
+            {
+                "name": "no",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "902806EB-62EF-48AB-9E01-A6D2A02904F6",
+        "type": "message",
+        "text": "全く話し合いに参加できず、\nご迷惑をおかけするばかりで...\nお力になれず申し訳ありませんでした:sweat_drops:",
+        "user": "U03CATDUH0A",
+        "ts": "1658735337.631039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JVa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全く話し合いに参加できず、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご迷惑をおかけするばかりで..."
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お力になれず申し訳ありませんでした"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a9d2bb9c-7ec2-4686-ad27-d6e068913bb2",
+        "type": "message",
+        "text": "賛成がNoで反対がYesですか？",
+        "user": "U0394PQ44FL",
+        "ts": "1658735340.687359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Pf8c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "賛成がNoで反対がYesですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658734953.461239",
+        "parent_user_id": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "07da40cd-eef9-4b09-81e4-00cb360544ba",
+        "type": "message",
+        "text": "これ逆ですね、直します",
+        "user": "U03BM52KMEC",
+        "ts": "1658735381.682859",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v=7Vk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "これ逆ですね、直します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658734953.461239",
+        "parent_user_id": "U03BM52KMEC",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "171173c6-8825-434d-b918-fe0d6a4fe1f3",
+        "type": "message",
+        "text": "<!channel> 投票ありがとうございます。\n　皆さん削除してもいいということで*nft企画は削除*します。\n　移ってもらう*企画について今日の夜、または明日に連絡*したいと思います。",
+        "user": "U03BM52KMEC",
+        "ts": "1658812072.218989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03BM52KMEC",
+            "ts": "1658812091.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yOHNw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 投票ありがとうございます。\n　皆さん削除してもいいということで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "nft企画は削除",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "します。\n　移ってもらう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画について今日の夜、または明日に連絡",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "したいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

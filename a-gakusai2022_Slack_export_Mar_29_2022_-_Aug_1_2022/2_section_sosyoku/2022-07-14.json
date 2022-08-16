@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787190.592739",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "初期案",
+        "files": [
+            {
+                "id": "F03QB21J1T2",
+                "created": 1657863711,
+                "timestamp": 1657863711,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039L92GA3X",
+                "editable": false,
+                "size": 940530,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QB21J1T2\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QB21J1T2\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QB21J1T2-768993f06a\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCailoApACuUBGKZTiKPxoAYafv2jCDHv3oxSUDH0fWijnPNMQHB\/CkOKMUY5oASig0UAOooooAKSlNIaAG0UUUAf\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039L92GA3X\/F03QB21J1T2\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QB21J1T2-6efbadb483",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039L92GA3X",
+        "display_as_bot": false,
+        "ts": "1657863718.370419",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r31o",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "初期案"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "C8376CDA-E5CD-470B-AA3A-80D2C2218DAF",
+        "reactions": [
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BM52KMEC",
+                    "U039M3UAXFG"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrot_stable",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

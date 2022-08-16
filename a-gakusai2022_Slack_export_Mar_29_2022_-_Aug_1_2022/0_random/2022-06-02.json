@@ -1,0 +1,143 @@
+[
+    {
+        "client_msg_id": "5c5c04a2-af89-4602-a367-31e71b6528c1",
+        "type": "message",
+        "text": "M教室を前日に借りることは可能ですかね？\n学務システムで空いてる場所を借りるつもりです",
+        "user": "U039PA9J5JP",
+        "ts": "1654156264.119659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iIv=B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "M教室を前日に借りることは可能ですかね？\n学務システムで空いてる場所を借りるつもりです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e5a9c78-0c38-4739-8e09-0b1c3be2f651",
+        "type": "message",
+        "text": "前日に借りる場合は16時か17時までに学生課に申請しないといけなかったはず",
+        "user": "U03BM52KMEC",
+        "ts": "1654156400.751919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yeq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前日に借りる場合は16時か17時までに学生課に申請しないといけなかったはず"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654156400.751919",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654168713.349379",
+        "reply_users": [
+            "U039BUU0GAH"
+        ],
+        "replies": [
+            {
+                "user": "U039BUU0GAH",
+                "ts": "1654168713.349379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0391RWR34N"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A666513D-A66B-4025-9524-106F36FA7740",
+        "type": "message",
+        "text": "たしか16時まで",
+        "user": "U039BUU0GAH",
+        "ts": "1654168713.349379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z2X9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "たしか16時まで"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654156400.751919",
+        "parent_user_id": "U03BM52KMEC"
+    }
+]

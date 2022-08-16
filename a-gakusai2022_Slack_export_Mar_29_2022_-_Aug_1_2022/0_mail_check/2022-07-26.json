@@ -1,0 +1,672 @@
+[
+    {
+        "client_msg_id": "8DD3B51F-003B-4FA9-9E57-6D64084604EB",
+        "type": "message",
+        "text": "グリーンライフ　笹崎様\n\nお世話になっております。\nメニューが確定しましたので、報告いたします。\n\n10月29日（土）\n（1）メロンパンA GO!GO!\nメロンパン各種、メロンパンアイス\n（2）リリーズカフェ\nこぼれタルタルチキンドック、ステーキ丼\n\n10月30日（日）\n（3）D-kitchen Hiro\nパスタ各種、パフェ各種\n（4）ら・さんた\nハムカツバーガー、カレーパン、ソフトクリーム\n\nよろしくお願いします。\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部1年\n学園祭実行委員会　\n対応部　s1300079　津久井羅偉\nEmail:  <mailto:s1300079@u-aizu.ac.jp|s1300079@u-aizu.ac.jp>\n-------------------------------------------------------",
+        "user": "U03CUPE920G",
+        "ts": "1658904527.473499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZWGm9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "グリーンライフ　笹崎様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話になっております。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メニューが確定しましたので、報告いたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10月29日（土）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（1）メロンパンA GO!GO!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メロンパン各種、メロンパンアイス"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（2）リリーズカフェ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こぼれタルタルチキンドック、ステーキ丼"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10月30日（日）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（3）D-kitchen Hiro"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パスタ各種、パフェ各種"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（4）ら・さんた"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ハムカツバーガー、カレーパン、ソフトクリーム"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会津大学　コンピュータ理工学部"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学部1年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学園祭実行委員会　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対応部　s1300079　津久井羅偉"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Email:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300079@u-aizu.ac.jp",
+                                "text": "s1300079@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "-------------------------------------------------------"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658904527.473499",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1658904622.579789",
+        "reply_users": [
+            "U038TMLJW1M",
+            "U03CUPE920G"
+        ],
+        "replies": [
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1658904569.014549"
+            },
+            {
+                "user": "U03CUPE920G",
+                "ts": "1658904592.463069"
+            },
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1658904606.391749"
+            },
+            {
+                "user": "U03CUPE920G",
+                "ts": "1658904622.579789"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "D97FB8E9-4FB8-4BB9-B887-72B3D4DD5524",
+        "type": "message",
+        "text": "チェックお願いします。",
+        "user": "U03CUPE920G",
+        "ts": "1658904535.627529",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r9GEQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チェックお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "12F3A77C-BC6D-4533-9D18-FE98EA63F778",
+        "type": "message",
+        "text": "お知らせしますでいいかも",
+        "user": "U038TMLJW1M",
+        "ts": "1658904569.014549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d4+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お知らせしますでいいかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658904527.473499",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "B8D65564-4B2F-41A0-804C-4A4A9AC2909E",
+        "type": "message",
+        "text": "報告いたします\nの部分ですか？",
+        "user": "U03CUPE920G",
+        "ts": "1658904592.463069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gci6I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "報告いたします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の部分ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658904527.473499",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "708ED4B0-9771-4EA5-AD30-39B979C8B5A2",
+        "type": "message",
+        "text": "そう",
+        "user": "U038TMLJW1M",
+        "ts": "1658904606.391749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N0b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658904527.473499",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "D8706ABB-5280-4AF2-AD0A-CDCA6A98A1B2",
+        "type": "message",
+        "text": "お知らせいたします\nに変更します。",
+        "user": "U03CUPE920G",
+        "ts": "1658904622.579789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l9+LK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お知らせいたします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に変更します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658904527.473499",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "69FFA9FD-7DEC-4DFA-84AD-FD1EE3FE9F7F",
+        "type": "message",
+        "text": "修正後です。\nグリーンライフ　笹崎様\n\nお世話になっております。\nメニューが確定しましたので、お知らせいたします。\n\n10月29日（土）\n（1）メロンパンA GO!GO!\nメロンパン各種、メロンパンアイス\n（2）リリーズカフェ\nこぼれタルタルチキンドック、ステーキ丼\n\n10月30日（日）\n（3）D-kitchen Hiro\nパスタ各種、パフェ各種\n（4）ら・さんた\n厚切りハムカツバーガー、元気な揚げカレーパン、極みのソフトクリーム\n\nご質問等ございましたら、ご連絡お願いします。\nよろしくお願いします。\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部1年\n学園祭実行委員会　\n対応部　s1300079　津久井羅偉\nEmail:  <mailto:s1300079@u-aizu.ac.jp|s1300079@u-aizu.ac.jp>\n-------------------------------------------------------",
+        "user": "U03CUPE920G",
+        "ts": "1658904766.977629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CUPE920G",
+            "ts": "1658904912.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cVZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "修正後です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "グリーンライフ　笹崎様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話になっております。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メニューが確定しましたので、お知らせいたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10月29日（土）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（1）メロンパンA GO!GO!"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "メロンパン各種、メロンパンアイス"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（2）リリーズカフェ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "こぼれタルタルチキンドック、ステーキ丼"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n10月30日（日）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（3）D-kitchen Hiro"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "パスタ各種、パフェ各種"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（4）ら・さんた"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "厚切りハムカツバーガー、元気な揚げカレーパン、極みのソフトクリーム"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nご質問等ございましたら、ご連絡お願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会津大学　コンピュータ理工学部"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学部1年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学園祭実行委員会　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対応部　s1300079　津久井羅偉"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Email:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300079@u-aizu.ac.jp",
+                                "text": "s1300079@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "-------------------------------------------------------"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

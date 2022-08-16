@@ -1,0 +1,144 @@
+[
+    {
+        "client_msg_id": "3AFA6A3B-7738-4EE2-A03F-A96B3242E5CD",
+        "type": "message",
+        "text": "お疲れ様です。\n7月14日(木)17:00~\nのみ大丈夫です。実はこの時間も授業があるのですが、出席取らない課プロなのでサボります。\n月曜日と金曜日はサボるとまずい授業なので、木曜日で検討してくださると助かります。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1657270618.235059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F5T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月"
+                            },
+                            {
+                                "type": "text",
+                                "text": "14"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日(木)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "17:00~"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のみ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大丈夫で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "実はこの時間も授業が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あるの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す"
+                            },
+                            {
+                                "type": "text",
+                                "text": "が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "出席取らない課プロ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でサボります"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月曜日と金曜日はサボるとまずい授業"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "木曜日で検討してくださると助かります。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931677.590099",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654931677.949869",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「花火運営」に設定しました",
+        "purpose": "花火運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931733.031949",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「17_kikaku_花火」から「2_kikaku_花火」に変更しました",
+        "old_name": "17_kikaku_花火",
+        "name": "2_kikaku_花火"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931845.971229",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    }
+]

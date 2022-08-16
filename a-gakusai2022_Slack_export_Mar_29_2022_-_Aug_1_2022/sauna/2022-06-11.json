@@ -1,0 +1,57 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654932904.712339",
+        "user": "U039RCZ4E04",
+        "text": "<@U039RCZ4E04>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654932905.070199",
+        "user": "U039RCZ4E04",
+        "text": "がこのチャンネルの説明を「サウナ行きたい時行きましょう」に設定しました",
+        "purpose": "サウナ行きたい時行きましょう"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654932942.747949",
+        "user": "U039PA9J5JP",
+        "text": "<@U039PA9J5JP>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654932942.810469",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654932942.861409",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654932942.938439",
+        "user": "U03AXBKKTCK",
+        "text": "<@U03AXBKKTCK>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654932943.016829",
+        "user": "U039H10MUTY",
+        "text": "<@U039H10MUTY>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    }
+]

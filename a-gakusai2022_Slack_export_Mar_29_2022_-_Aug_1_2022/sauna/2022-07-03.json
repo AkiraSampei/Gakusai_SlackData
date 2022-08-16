@@ -1,0 +1,42 @@
+[
+    {
+        "client_msg_id": "2586C513-FED3-4F8A-953F-A136CA279FD8",
+        "type": "message",
+        "text": "迷い中",
+        "user": "U039RCZ4E04",
+        "ts": "1656833459.446029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tT5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "迷い中"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656814709.136229",
+        "parent_user_id": "USLACKBOT"
+    }
+]

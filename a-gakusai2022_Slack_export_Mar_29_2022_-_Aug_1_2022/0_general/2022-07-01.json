@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "68acb8d4-ff54-451c-b2be-fbc393f5e292",
+        "type": "message",
+        "text": "<!channel> 全体会議のお知らせ\nお疲れ様です。宮崎です。すっかり暑い日が続きますがいかがお過ごしでしょうか。\nさて、今月10日(日曜日)に全体会議を開きます。参加をよろしくお願いします。\n時刻：14：00～\n場所：追って連絡",
+        "user": "U03901B3W69",
+        "ts": "1656730800.426319",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SlO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 全体会議のお知らせ\nお疲れ様です。宮崎です。すっかり暑い日が続きますがいかがお過ごしでしょうか。\nさて、今月10日(日曜日)に全体会議を開きます。参加をよろしくお願いします。\n時刻：14：00～\n場所：追って連絡"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656730800.426319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656762483.954349",
+        "reply_users": [
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1656762483.954349"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

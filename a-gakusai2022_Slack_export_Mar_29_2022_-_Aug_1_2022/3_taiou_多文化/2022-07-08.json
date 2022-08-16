@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "F94E2BF9-72CB-493C-AAEC-0D95E0F4D600",
+        "type": "message",
+        "text": "津久井様\n\nお世話になります。\n\n車両のご決定ありがとうございます。\nご指定の4台を予約しておきます。\n\nメニュー調整についてはまだ先の日程につき余裕はありますが\n8月末にはご連絡いただけますか。\n\nよろしくお願いします。\n\n=======================================\nグリーンライフJP　笹崎宣男\n〒960-8253 福島県福島市泉字火焼津１５－４\n<tel:090-2244-7189|tel:090-2244-7189>　fax:<tel:024-502-4338|024-502-4338>\nmail:<mailto:glif30@yahoo.co.jp|glif30@yahoo.co.jp>\nリリーズカフェ <http:\/\/liliscafe.wix.com\/index|http:\/\/liliscafe.wix.com\/index>\n=======================================",
+        "user": "U03CUPE920G",
+        "ts": "1657267144.158159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "http:\/\/liliscafe.wix.com\/index",
+                "service_icon": "https:\/\/www.wix.com\/favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/liliscafe.wix.com\/index",
+                "fallback": "index: 福島のクレープ・メロンパン移動販売 | 移動販売リリーズカフェ福島",
+                "text": "福島の移動販売のリリーズカフェ。こだわりのスイーツ、クレープからホットドッグ、アイスにコーヒーまで取りそろえた移動販売車です。福島県内全域のほかに山形県・栃木県もキッチンカーでの出店場所、イベント依頼募集中。",
+                "title": "福島のクレープ・メロンパン移動販売 | 移動販売リリーズカフェ福島",
+                "title_link": "http:\/\/liliscafe.wix.com\/index",
+                "service_name": "index"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "04U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "津久井様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話になります。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n車両のご決定ありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご指定の4台を予約しておきます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメニュー調整についてはまだ先の日程につき余裕はありますが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8月末にはご連絡いただけますか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n======================================="
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "グリーンライフJP　笹崎宣男"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "〒960-8253 福島県福島市泉字火焼津１５－４"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:090-2244-7189",
+                                "text": "tel:090-2244-7189"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　fax:"
+                            },
+                            {
+                                "type": "link",
+                                "url": "tel:024-502-4338",
+                                "text": "024-502-4338"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "mail:"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:glif30@yahoo.co.jp",
+                                "text": "glif30@yahoo.co.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "リリーズカフェ "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/liliscafe.wix.com\/index",
+                                "text": "http:\/\/liliscafe.wix.com\/index"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "======================================="
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

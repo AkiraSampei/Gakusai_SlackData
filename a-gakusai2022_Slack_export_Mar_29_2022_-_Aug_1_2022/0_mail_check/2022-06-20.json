@@ -1,0 +1,222 @@
+[
+    {
+        "client_msg_id": "01b7dcc0-44a3-42d1-b631-e75663108e28",
+        "type": "message",
+        "text": "メールチェックお願いします２〜３人からチェックついたら出します\n\n```会津大学事務局企画連携課計画広報係　さま\n\nお世話になっております、学園祭実行委員会の増子と申します。\n先日企画連携課の渡邉さまと校内放送について相談させていただきました。\n\nその際、音声ファイルをcl-planpr宛てに送信してほしいとのことでしたので、本メールに添付させていただきます。\n\nご確認よろしくお願いいたします。```",
+        "user": "U0394PQ44FL",
+        "ts": "1655785386.481189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nlD21",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします２〜３人からチェックついたら出します\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会津大学事務局企画連携課計画広報係　さま\n\nお世話になっております、学園祭実行委員会の増子と申します。\n先日企画連携課の渡邉さまと校内放送について相談させていただきました。\n\nその際、音声ファイルをcl-planpr宛てに送信してほしいとのことでしたので、本メールに添付させていただきます。\n\nご確認よろしくお願いいたします。"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655785386.481189",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1655786085.323869",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655785653.835239"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655786030.823569"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655786085.323869"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655786085.323869",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U039M3UAXFG",
+                    "U0399UH8BKQ"
+                ],
+                "count": 3
+            },
+            {
+                "name": "posted_",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8DB71ACD-9939-4878-968E-EFFC6BCF5297",
+        "type": "message",
+        "text": "校内放送の何の相談か分かると良いと思います",
+        "user": "U0399UH8BKQ",
+        "ts": "1655785653.835239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "校内放送の何の相談か分かると良いと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655785386.481189",
+        "parent_user_id": "U0394PQ44FL"
+    },
+    {
+        "client_msg_id": "1684df0c-e12d-4183-91fd-a75843b62ee9",
+        "type": "message",
+        "text": "先のやり取りはこの方も確認してるはずなんだけど、わざわざ繰り返したほうがいいかな？",
+        "user": "U0394PQ44FL",
+        "ts": "1655786030.823569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VOg2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先のやり取りはこの方も確認してるはずなんだけど、わざわざ繰り返したほうがいいかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655785386.481189",
+        "parent_user_id": "U0394PQ44FL"
+    },
+    {
+        "client_msg_id": "1201db07-8a0d-4793-8d4e-4388ef561f7f",
+        "type": "message",
+        "text": "なら大丈夫です。前後の文脈把握してませんでした。",
+        "user": "U0399UH8BKQ",
+        "ts": "1655786085.323869",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njvg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なら大丈夫です。前後の文脈把握してませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655785386.481189",
+        "parent_user_id": "U0394PQ44FL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655109294.052429",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「3_kikaku_大抽選会」から「3_kikaku_hybrid_大抽選会」に変更しました",
+        "old_name": "3_kikaku_大抽選会",
+        "name": "3_kikaku_hybrid_大抽選会"
+    }
+]

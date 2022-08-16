@@ -1,0 +1,173 @@
+[
+    {
+        "type": "message",
+        "text": "<@U03CDMY1V9C>\nとりあえず2018のやつを解きました\n問題４はかなり容赦ない解説になってしまったのでわからないところがあれば都度連絡下さい",
+        "files": [
+            {
+                "id": "F03R6BK47FT",
+                "created": 1658733820,
+                "timestamp": 1658733820,
+                "name": "メモ１.pdf",
+                "title": "メモ１.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 1514046,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03R6BK47FT\/_________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03R6BK47FT\/download\/_________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03R6BK47FT-b3834afc90\/__________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 994,
+                "thumb_pdf_h": 621,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03R6BK47FT\/_________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03R6BK47FT-d072a586a8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1658733871.494319",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1P6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CDMY1V9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nとりあえず2018のやつを解きました\n問題４はかなり容赦ない解説になってしまったのでわからないところがあれば都度連絡下さい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "4b450d2b-c96a-415a-a6e4-8a15aec9e31b",
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03D0L4BEJU",
+                    "U03CDMY1V9C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C9323F6C-9339-451F-AA2B-07BBC3A15386",
+        "type": "message",
+        "text": "ありがとうございます！！すごく見やすくて助かります",
+        "user": "U03CDMY1V9C",
+        "ts": "1658734475.604219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MnyT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！！すごく見やすくて助かります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C"
+    },
+    {
+        "client_msg_id": "369DB9F3-8518-4C8F-A7F3-84FFE542BBC9",
+        "type": "message",
+        "text": "わざわざ時間を割き解いてくださってありがとうございます！とても見やすい解答で感謝しかありません:pray::sparkles:",
+        "user": "U03D0L4BEJU",
+        "ts": "1658818357.225929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KO1+p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わざわざ時間を割き解いてくださってありがとうございます！とても見やすい解答で感謝しかありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles",
+                                "unicode": "2728"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C"
+    }
+]

@@ -1,0 +1,561 @@
+[
+    {
+        "client_msg_id": "75059EA8-2B2F-4760-8FA9-AA974D39D9CD",
+        "type": "message",
+        "text": "グリーンライフ様\n\nお忙しい中での返信ありがとうございます。\n可能車両の件、承知いたしました。\n\n度々のお願いで恐縮ですが、出店リストの提示を7月5日火曜日までにお願いできますでしょうか。\n\nよろしくお願いいたします。\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部 1年\n学園祭実行委員会　\n対応部　s1300079 津久井羅偉\nEmail:  <mailto:s1300079@u-aizu.ac.jp|s1300079@u-aizu.ac.jp>\n-------------------------------------------------------\n",
+        "user": "U03CUPE920G",
+        "ts": "1656328338.182669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rYnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "グリーンライフ様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお忙しい中での返信ありがとうございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "可能車両の件、承知いたしました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n度々のお願いで恐縮ですが、出店リストの提示を7月5日火曜日までにお願いできますでしょうか。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いいたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会津大学　コンピュータ理工学部"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学部 1年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学園祭実行委員会　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対応部　s1300079 津久井羅偉"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Email:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300079@u-aizu.ac.jp",
+                                "text": "s1300079@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "-------------------------------------------------------"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sent",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "41FDF864-205F-4D61-A0EB-955BB8778C96",
+        "type": "message",
+        "text": "訂正、お願いします。",
+        "user": "U03CUPE920G",
+        "ts": "1656328352.618229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tgoP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "訂正、お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "yoki",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039V55S998",
+                    "U0391RWR34N"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7abaf5f-4ad5-439b-b1fa-c7e5f8ec0fe5",
+        "type": "message",
+        "text": "ツリーイングの西舘さんに送るメールです。チェックお願いします。",
+        "user": "U03901B3W69",
+        "ts": "1656388777.426059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "717We",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ツリーイングの西舘さんに送るメールです。チェックお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d5e87b0-290d-434b-9a36-b8c271df7c66",
+        "type": "message",
+        "text": "コンピュータグラフィックス学講座　西舘様\n\nお世話になっております。学園祭実行委員会委員長の宮崎です。\n先日は説明会に参加いただきありがとうございます。\n\nしかし説明会後の話し合いの場にて謝金および昼食代についての話が抜けていました。\nこちらでの決定事項をお早く伝えるべきかと思いまして、失礼ながらこちらのメールにて述べさせていただきます。\n\nまず結論から申し上げますと、予算作成当初ツリーイングの企画、および当日参加する外部企業の従業員に渡す昼食代の金額を確保していなかったためそちらで希望いただいている謝金と昼食代の計５万５千円を全額補助することはできません。\nしかしながら学祭では利益が生じない参加団体のみを対象に上限３万円の補助金を出す準備がございます。そちらを適用することで上限３万円での補助を受けることは可能です。\nまとめますと学祭委員会からの補助の上限額は３万円でございまして、不足分の２万５千円についてはツリーイング企画のご担当団体側での負担をお願いしたく存じます。\n\nご連絡が遅くなってしまい申し訳ございませんが、上記の条件でご検討のほどをよろしくお願いいたします。",
+        "user": "U03901B3W69",
+        "ts": "1656388784.224989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vwZL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コンピュータグラフィックス学講座　西舘様\n\nお世話になっております。学園祭実行委員会委員長の宮崎です。\n先日は説明会に参加いただきありがとうございます。\n\nしかし説明会後の話し合いの場にて謝金および昼食代についての話が抜けていました。\nこちらでの決定事項をお早く伝えるべきかと思いまして、失礼ながらこちらのメールにて述べさせていただきます。\n\nまず結論から申し上げますと、予算作成当初ツリーイングの企画、および当日参加する外部企業の従業員に渡す昼食代の金額を確保していなかったためそちらで希望いただいている謝金と昼食代の計５万５千円を全額補助することはできません。\nしかしながら学祭では利益が生じない参加団体のみを対象に上限３万円の補助金を出す準備がございます。そちらを適用することで上限３万円での補助を受けることは可能です。\nまとめますと学祭委員会からの補助の上限額は３万円でございまして、不足分の２万５千円についてはツリーイング企画のご担当団体側での負担をお願いしたく存じます。\n\nご連絡が遅くなってしまい申し訳ございませんが、上記の条件でご検討のほどをよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0399UH8BKQ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sent",
+                "users": [
+                    "U03901B3W69"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d54aa3ae-e4f3-428d-a07c-478f26683580",
+        "type": "message",
+        "text": "メールチェックお願いします。\n前回の返信に対する返信です。相手方の返信の内容はご自身でご確認いただけたら幸いです。返信メールで毎度思いますが、短くて不安になります。\n太字⇒追加部分\n-----以下本文------------\n三洋印刷株式会社営業部　長谷川様\n\nご返信ありがとうございます。\n打ち合わせの件ですが、30日(木)の16時、大学食堂でお願いいたします。\n\n*当日は*よろしくお願いいたします。\n -&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n\n 会津大学学園祭実行委員会　広報担当　三瓶晃\n\n 学園祭： &lt; <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> &gt;\n\n Mail： &lt; <mailto:s1290238@u-aizu.ac.jp|s1290238@u-aizu.ac.jp> &gt;\n\n -&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-",
+        "user": "U039RJU3V36",
+        "ts": "1656394142.567059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RJU3V36",
+            "ts": "1656394271.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aJPS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。\n前回の返信に対する返信です。相手方の返信の内容はご自身でご確認いただけたら幸いです。返信メールで毎度思いますが、短くて不安になります。\n太字⇒追加部分\n-----以下本文------------\n三洋印刷株式会社営業部　長谷川様\n\nご返信ありがとうございます。\n打ち合わせの件ですが、30日(木)の16時、大学食堂でお願いいたします。\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "当日は",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いいたします。\n -<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n\n 会津大学学園祭実行委員会　広報担当　三瓶晃\n\n 学園祭： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n\n Mail： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290238@u-aizu.ac.jp",
+                                "text": "s1290238@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n\n -<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656394142.567059",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656394215.527669",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656394215.527669"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "yoki",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "914db2c8-3a8a-431b-bf97-24980977e5bb",
+        "type": "message",
+        "text": "当日はよろしくお願いいたします。にしとくと丁寧でいいよ",
+        "user": "U0399UH8BKQ",
+        "ts": "1656394215.527669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gRyp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "当日はよろしくお願いいたします。にしとくと丁寧でいいよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656394142.567059",
+        "parent_user_id": "U039RJU3V36",
+        "reactions": [
+            {
+                "name": "了解",
+                "users": [
+                    "U039RJU3V36"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a20cea6-e358-4419-a8c8-c749de576f12",
+        "type": "message",
+        "text": "15時まで新しい指摘がなければ、送信しちゃいます",
+        "user": "U039RJU3V36",
+        "ts": "1656394343.254489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1\/y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "15時まで新しい指摘がなければ、送信しちゃいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aeb87912-eceb-4138-a5c9-ffd4b1d1c2a8",
+        "type": "message",
+        "text": "メールチェックお願いいたします。\n学祭１週間前から当日まで講堂を借りるためのメールです。\n宛名や文章が微妙なので確認よろしくお願いします。\nーーーーーーーーーーーーーーーーーーー\n学生課　教務係　様\n\nお世話になっております。\n会津大学学園祭実行委員会の布施と申します。\n\n今年の学園祭で講堂を利用したいため、ご連絡させていただきました。\nつきましては、下記の期間で講堂を予約することは可能でしょうか。\n場所：講堂\n期間：10月22日(土)～10月30日(日)\n\nご返信よろしくお願いいたします。\n```---------------------------------\n会津大学　コンピュータ理工学部\n学部２年　\n会津大学学園祭実行委員会　対応部\n布施孝太　s1290205\nEmail:s1290205@u-aizu.ac.jp\n------------------------------------```\n",
+        "user": "U039RCZ4E04",
+        "ts": "1656399480.035509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rb9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いいたします。\n学祭１週間前から当日まで講堂を借りるためのメールです。\n宛名や文章が微妙なので確認よろしくお願いします。\nーーーーーーーーーーーーーーーーーーー\n学生課　教務係　様\n\nお世話になっております。\n会津大学学園祭実行委員会の布施と申します。\n\n今年の学園祭で講堂を利用したいため、ご連絡させていただきました。\nつきましては、下記の期間で講堂を予約することは可能でしょうか。\n場所：講堂\n期間：10月22日(土)～10月30日(日)\n\nご返信よろしくお願いいたします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "---------------------------------\n会津大学　コンピュータ理工学部\n学部２年　\n会津大学学園祭実行委員会　対応部\n布施孝太　s1290205\nEmail:s1290205@u-aizu.ac.jp\n------------------------------------"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656399480.035509",
+        "reply_count": 4,
+        "reply_users_count": 4,
+        "latest_reply": "1656402628.131629",
+        "reply_users": [
+            "U039PA9J5JP",
+            "U03901B3W69",
+            "U039RCZ4E04",
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1656399651.307909"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1656399830.756499"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1656402424.485779"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1656402628.131629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

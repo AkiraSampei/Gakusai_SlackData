@@ -1,0 +1,329 @@
+[
+    {
+        "client_msg_id": "CA2FCFF9-739C-46C2-8B11-DF7A7DF0F74D",
+        "type": "message",
+        "text": "<@U0394PQ44FL>\n１年生にもわかりやすいように担当別にまとめときました。\nあとスパイス担当は別で対応部で作る必要があるみたいです。\n分電盤の確認理由はいつまで確認すればのよろしいでしょうか？",
+        "user": "U039RCZ4E04",
+        "ts": "1655730446.508399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1655730476.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5G2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0394PQ44FL"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n１年生にもわかりやすいように担当別にまとめときました。\nあとスパイス担当は別で対応部で作る必要があるみたいです。\n分電盤の確認理由はいつまで確認すればのよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655706839.808099",
+        "parent_user_id": "U0394PQ44FL"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>\nステージ課の１年生へ\n次の対応部会議で担当決める予定です\n書いてあること以外にも全体でやることなどがあると思うのでその時はまた連絡します\nとりあえずは、主にこの４つ担当のどれか一つを任せる感じになると思うので、よろしくね",
+        "files": [
+            {
+                "id": "F03LR7SAFR7",
+                "created": 1655730668,
+                "timestamp": 1655730668,
+                "name": "ステージ担当 - ー.pdf",
+                "title": "ステージ担当 - ー.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039RCZ4E04",
+                "editable": false,
+                "size": 266729,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LR7SAFR7\/___________________-____.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LR7SAFR7\/download\/___________________-____.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LR7SAFR7-37dc8907d2\/___________________-_____thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RCZ4E04\/F03LR7SAFR7\/___________________-____.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LR7SAFR7-b676d598ca",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RCZ4E04",
+        "display_as_bot": false,
+        "ts": "1655730710.577019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qS3U0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nステージ課の１年生へ\n次の対応部会議で担当決める予定です\n書いてあること以外にも全体でやることなどがあると思うのでその時はまた連絡します\nとりあえずは、主にこの４つ担当のどれか一つを任せる感じになると思うので、よろしくね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1e195ef0-4d4c-4195-b9f7-0832b61358eb"
+    },
+    {
+        "client_msg_id": "ce3947d9-e55a-4809-82d7-31701c07626a",
+        "type": "message",
+        "text": "自分も全部のことを把握しているわけではないので抜けていたらすみません:man-bowing:",
+        "user": "U039RCZ4E04",
+        "ts": "1655730829.022139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4BES",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分も全部のことを把握しているわけではないので抜けていたらすみません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D002EDDD-4E85-4A69-AA62-6C24DA80A72E",
+        "type": "message",
+        "text": "すばらです！\n\nスパイス了解いたしました\n<@U039V55S998> 確認お願いします\n\n分電盤の確認は特に期限指定はなく、次話し合いするときで大丈夫です",
+        "user": "U0394PQ44FL",
+        "ts": "1655731312.516989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5iJRF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "す"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ば"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "スパイス了解"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いたしました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039V55S998"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認お願い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n分電盤"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "確認は特に期限指定はなく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "次話し合いするときで大丈夫で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655706839.808099",
+        "parent_user_id": "U0394PQ44FL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8D45EB1E-11C7-47B7-8E59-899038837B21",
+        "type": "message",
+        "text": "了解です🫡",
+        "user": "U039RCZ4E04",
+        "ts": "1655735381.189359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GSDT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です🫡"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655706839.808099",
+        "parent_user_id": "U0394PQ44FL"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "05fd441b-9648-44ba-bb77-5ae30a4d1954",
+        "type": "message",
+        "text": "コンロがどんなものかってわかりますか？",
+        "user": "U03901B3W69",
+        "ts": "1658466692.728879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qWT6K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "コンロがどんなものかってわかりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658466692.728879",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658467390.229429",
+        "reply_users": [
+            "U039T9DE072"
+        ],
+        "replies": [
+            {
+                "user": "U039T9DE072",
+                "ts": "1658467390.229429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "90E5E9A4-9466-4B0E-885B-5EC984FB65EF",
+        "type": "message",
+        "text": "わかりません。\nですが模擬店で使うものなので、家にあるようなガステーブル式のガスコンロでは無いと思います。",
+        "user": "U039T9DE072",
+        "ts": "1658467390.229429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iCM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりません。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ですが模擬店で使うものなので、家にあるようなガステーブル式のガスコンロでは無いと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658466692.728879",
+        "parent_user_id": "U03901B3W69"
+    }
+]

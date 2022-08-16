@@ -1,0 +1,497 @@
+[
+    {
+        "client_msg_id": "c4b0c53a-9cee-4fd0-b6db-f4df01c2d8b4",
+        "type": "message",
+        "text": "NFTは詳細が未定のため多めに取らせてもらいました的な",
+        "user": "U039BUU0GAH",
+        "ts": "1654066894.425569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FVn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NFTは詳細が未定のため多めに取らせてもらいました的な"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88a79ad2-4d0f-4fa4-b6a5-6465256a05ab",
+        "type": "message",
+        "text": "すまん",
+        "user": "U039BUU0GAH",
+        "ts": "1654066897.729359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ed3c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すまん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c9363f4-cda9-4533-b1b6-ef4610f80ecb",
+        "type": "message",
+        "text": "NFTの制作、販売",
+        "user": "U039BUU0GAH",
+        "ts": "1654067078.334349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HXo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NFTの制作、販売"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98d0fc9b-b8e8-4b29-89c8-8c02ad542aae",
+        "type": "message",
+        "text": "<@U0399UH8BKQ>",
+        "user": "U039BUU0GAH",
+        "ts": "1654067095.551649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=2uiH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0399UH8BKQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b76348ac-1e5e-4ce7-9897-98d7aec22d92",
+        "type": "message",
+        "text": ":100: <@U0399UH8BKQ>",
+        "user": "U039BUU0GAH",
+        "ts": "1654067170.826029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ITz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "100",
+                                "unicode": "1f4af"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0399UH8BKQ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "300-num",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039PA9J5JP",
+                    "U03BM52KMEC",
+                    "U0391RWR34N",
+                    "U0394PQ44FL"
+                ],
+                "count": 5
+            }
+        ]
+    },
+    {
+        "client_msg_id": "96f07d94-1760-4a59-956b-bb94ba8ac99a",
+        "type": "message",
+        "text": "<!channel>\nみなさま、予算総会へのご参加ありがとうございます。途中トラブルがございましたこと学生会執行部員の立場からお詫び申し上げます。これにて本年度予算が確定いたしました。後ほど学生会費として口座に支払われる予定です。\nなんとか学祭開催に一歩すすみましたので、今後とも頑張っていきましょう。",
+        "user": "U0394PQ44FL",
+        "ts": "1654068246.510479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZZGt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nみなさま、予算総会へのご参加ありがとうございます。途中トラブルがございましたこと学生会執行部員の立場からお詫び申し上げます。これにて本年度予算が確定いたしました。後ほど学生会費として口座に支払われる予定です。\nなんとか学祭開催に一歩すすみましたので、今後とも頑張っていきましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03CDMY1V9C",
+                    "U039LGX8MN1",
+                    "U03BM52KMEC",
+                    "U039L92GA3X",
+                    "U039D5XVCJ3"
+                ],
+                "count": 7
+            },
+            {
+                "name": "parrot_conga",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03CDMY1V9C",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_moonwalking",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03CDMY1V9C",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_parrot",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03CDMY1V9C",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_twins",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03CDMY1V9C",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            },
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039PA9J5JP",
+                    "U039RCZ4E04",
+                    "U03BM52KMEC"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A75BE2B2-978D-472E-A311-2DDC2848A034",
+        "type": "message",
+        "text": "私が大学を:firecracker::firecracker::firecracker:爆破:firecracker::firecracker::firecracker:しなくてすみました。ありがとうございました。",
+        "user": "U0399UH8BKQ",
+        "ts": "1654068748.964229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LJKCV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私が大学を"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "firecracker",
+                                "unicode": "1f9e8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "firecracker",
+                                "unicode": "1f9e8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "firecracker",
+                                "unicode": "1f9e8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "爆破"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "firecracker",
+                                "unicode": "1f9e8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "firecracker",
+                                "unicode": "1f9e8"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "firecracker",
+                                "unicode": "1f9e8"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しなくてすみました。ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039P4NSKM1",
+                    "U03CUPE920G",
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU",
+                    "U039RCZ4E04",
+                    "U03BM52KMEC"
+                ],
+                "count": 8
+            },
+            {
+                "name": "parrot_twins",
+                "users": [
+                    "U039P4NSKM1",
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU",
+                    "U03CDMY1V9C",
+                    "U03BM52KMEC",
+                    "U039D5XVCJ3"
+                ],
+                "count": 7
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U03CUPE920G",
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU",
+                    "U03BM52KMEC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U039LGX8MN1",
+                    "U03BM52KMEC",
+                    "U0391RWR34N"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6086452-eec3-4a3b-8fee-55a3066cac98",
+        "type": "message",
+        "text": "<!channel> 上級生へ\n昨日連絡した説明会ですが、こちらでミスが見つかったため中止とし、総務で代替のものを進めるとしました。\n朝礼暮改となったことをお詫びします。\nよろしくお願いいたします。\n\n全員へ　次の皆の仕事は試験開けの全体会議なので、今は試験に打ち込んでください。",
+        "user": "U03901B3W69",
+        "ts": "1654126270.947829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0SaK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 上級生へ\n昨日連絡した説明会ですが、こちらでミスが見つかったため中止とし、総務で代替のものを進めるとしました。\n朝礼暮改となったことをお詫びします。\nよろしくお願いいたします。\n\n全員へ　次の皆の仕事は試験開けの全体会議なので、今は試験に打ち込んでください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

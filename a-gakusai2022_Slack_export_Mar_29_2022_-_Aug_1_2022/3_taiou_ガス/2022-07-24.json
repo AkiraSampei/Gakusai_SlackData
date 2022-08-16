@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "1A97F621-7B8C-48CB-8BC6-50D47CA1BD10",
+        "type": "message",
+        "text": "大丈夫ですよ！\n来週中に電話しましょ\n都合がいい時ありますか？",
+        "user": "U039T9DE072",
+        "ts": "1658668448.616189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UCT3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫ですよ！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来週中に電話しましょ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "都合がいい時ありますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658370346.627529",
+        "parent_user_id": "U039T9DE072"
+    },
+    {
+        "client_msg_id": "77331764-41be-4cb4-a308-060eb8e5a7cb",
+        "type": "message",
+        "text": "火曜日のお昼が空いています:raising_hand:",
+        "user": "U03KRPKDY8L",
+        "ts": "1658724130.459159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nQkTm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "火曜日のお昼が空いています"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raising_hand",
+                                "unicode": "1f64b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658370346.627529",
+        "parent_user_id": "U039T9DE072"
+    }
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "0524E407-B5E0-4A05-AA5E-E720D28B789E",
+        "type": "message",
+        "text": "今日の9時半からサウナ行ける方いますか？",
+        "user": "U039RCZ4E04",
+        "ts": "1655361130.745639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "08fVW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の9時半からサウナ行ける方いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ikemasen",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B23A4523-9757-40F5-80D3-FA17C9923786",
+        "type": "message",
+        "text": "わんちゃん行くかも",
+        "user": "U039M3UAXFG",
+        "ts": "1655361159.946109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w1f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わんち"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ゃ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "行くかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655361159.946109",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655377437.917769",
+        "reply_users": [
+            "U039M3UAXFG",
+            "U039RCZ4E04"
+        ],
+        "replies": [
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1655377324.853319"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1655377437.917769"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

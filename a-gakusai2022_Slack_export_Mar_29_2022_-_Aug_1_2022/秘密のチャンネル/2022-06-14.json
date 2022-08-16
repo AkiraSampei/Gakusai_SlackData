@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03K3QMT6A3",
+                "created": 1655197313,
+                "timestamp": 1655197313,
+                "name": "FU03 離散系論.zip",
+                "title": "FU03 離散系論.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 119051144,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K3QMT6A3\/fu03_____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K3QMT6A3\/download\/fu03_____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03K3QMT6A3\/fu03_____________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03K3QMT6A3-ce2716bc13",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1655197339.664249",
+        "client_msg_id": "3a7fe080-4e67-4707-937b-79cf5a6b7752"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655215724.077119",
+        "user": "U03K8CWK5LK",
+        "text": "<@U03K8CWK5LK>さんがチャンネルに参加しました"
+    }
+]

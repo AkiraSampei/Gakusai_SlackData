@@ -1,0 +1,81 @@
+[
+    {
+        "type": "message",
+        "text": "あっちぃですわ～！！！\nどうにかなりませんこと～～！？！？！？\n髙橋逸樹です。本日の全体会議の議事録を送信します。\nご精査ください。",
+        "files": [
+            {
+                "id": "F03KATE7B0C",
+                "created": 1654928779,
+                "timestamp": 1654928779,
+                "name": "全体会議_2022-06-11_議事録.pdf",
+                "title": "全体会議_2022-06-11_議事録.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 151617,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KATE7B0C\/_____________2022-06-11__________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KATE7B0C\/download\/_____________2022-06-11__________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03KATE7B0C-3e4a843cf9\/_____________2022-06-11___________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03KATE7B0C\/_____________2022-06-11__________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KATE7B0C-e5b6d7249d",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1654928837.658119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "46Dj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あっちぃですわ～！！！\nどうにかなりませんこと～～！？！？！？\n髙橋逸樹です。本日の全体会議の議事録を送信します。\nご精査ください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7d9208e8-b848-4d43-9027-40088a691c57",
+        "thread_ts": "1654928837.658119",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655044793.162359",
+        "reply_users": [
+            "U0394PQ44FL",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655036853.195159"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655044793.162359"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655044793.162359"
+    }
+]

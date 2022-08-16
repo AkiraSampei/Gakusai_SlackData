@@ -1,0 +1,180 @@
+[
+    {
+        "type": "message",
+        "text": "先日送信した問い合わせにする答えが返ってきましたので、写真と共に送ります！",
+        "files": [
+            {
+                "id": "F03PP21FW0M",
+                "created": 1657953351,
+                "timestamp": 1657953351,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03D0L4BEJU",
+                "editable": false,
+                "size": 170519,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PP21FW0M\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PP21FW0M\/download\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP21FW0M-1c7f21a4b4\/ios___________64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP21FW0M-1c7f21a4b4\/ios___________80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP21FW0M-1c7f21a4b4\/ios___________360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 172,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP21FW0M-1c7f21a4b4\/ios___________480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 230,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP21FW0M-1c7f21a4b4\/ios___________160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP21FW0M-1c7f21a4b4\/ios___________720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 345,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PP21FW0M-1c7f21a4b4\/ios___________800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 383,
+                "image_exif_rotation": 1,
+                "original_w": 956,
+                "original_h": 458,
+                "thumb_tiny": "AwAWADDTpCee9RsPmNNAoAm3ex\/KgtgdD+VREcUEcUASg59vqKWoQM05QA1AClTk+9IFIz0p\/eigBpUkUhUkY4p9FADAh9qVVINOoFAH\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03D0L4BEJU\/F03PP21FW0M\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03PP21FW0M-a495030027",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03PUD7LZUL",
+                "created": 1657953351,
+                "timestamp": 1657953351,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U03D0L4BEJU",
+                "editable": false,
+                "size": 632765,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PUD7LZUL\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PUD7LZUL\/download\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________960.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PUD7LZUL-da37437020\/ios___________1024.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "thumb_tiny": "AwAwABamT05FGRRnjv8AnSED\/JoAXcMUmRSUUAOHTtRn6UnOB1owe4P50ABOaSg0UAL\/AJ60fifzq\/E1p5aBhFuwM5HNUXU72IU7cnHFADaKKKAP\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03D0L4BEJU\/F03PUD7LZUL\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03PUD7LZUL-b0d816a881",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03D0L4BEJU",
+        "ts": "1657953396.783139",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtbhW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先日送信した問い合わせにする答えが返ってきましたので、写真と共に送ります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "D5286A6F-D5A3-4241-9DAB-E9A1A56FCAE1"
+    },
+    {
+        "client_msg_id": "F381EB1D-F160-4880-AE9B-3704CF4A0CF8",
+        "type": "message",
+        "text": "リモートIDは搭載されておらず、結論として外付けを使う形となりそうです...",
+        "user": "U03D0L4BEJU",
+        "ts": "1657953433.328779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "p88",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リモートIDは搭載されておらず、結論として外付けを使う形となりそうです..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953433.328779",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657957143.134129",
+        "reply_users": [
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1657957143.134129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

@@ -1,0 +1,473 @@
+[
+    {
+        "client_msg_id": "e515c1ef-a013-4b97-9eb2-e157a75a6b58",
+        "type": "message",
+        "text": "すごい根本的な話になっちゃうけど、2日目の学祭委員による縛りプレイってあんま需要ないと思う。\nそれはなしにして1日目予選、2日目決勝とかにした方がいいんじゃないかな。\nまあ俺1人の意見で決めることではないから添削会議の時に詳しく話そう！\nとりあえず企画書の内容はこれで問題ないよ！！:+1:",
+        "user": "U039M3UAXFG",
+        "ts": "1656065798.816729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4NbWn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すごい根本的な話になっちゃうけど、2日目の学祭委員による縛りプレイってあんま需要ないと思う。\nそれはなしにして1日目予選、2日目決勝とかにした方がいいんじゃないかな。\nまあ俺1人の意見で決めることではないから添削会議の時に詳しく話そう！\nとりあえず企画書の内容はこれで問題ないよ！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8c949ac2-90f8-43f0-87d2-71f6ded1c5f7",
+        "type": "message",
+        "text": "<!channel> 大室君がドライブにアクセスできなかったらしいので、できる添削はこっちでしておきました。一応オフラインのことも視野に入れた企画書になっています。\n<https:\/\/docs.google.com\/document\/d\/1CsIfINsTWUUIOzy1DV7FC7z7FO0-cIPf\/edit?usp=sharing&amp;ouid=113535167479178187525&amp;rtpof=true&amp;sd=true>",
+        "user": "U039L92GA3X",
+        "ts": "1656072278.384939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CtoRs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大室君がドライブにアクセスできなかったらしいので、できる添削はこっちでしておきました。一応オフラインのことも視野に入れた企画書になっています。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1CsIfINsTWUUIOzy1DV7FC7z7FO0-cIPf\/edit?usp=sharing&ouid=113535167479178187525&rtpof=true&sd=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "875F1924-909B-4C0C-98E5-3810FF584FE5",
+        "type": "message",
+        "text": "ご迷惑をおかけしました…:man-bowing:",
+        "user": "U03K4J7KXTQ",
+        "ts": "1656072317.618419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ahk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ご迷惑をおかけしました…"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9915E414-4B17-411C-BD15-90B3F8ABDC69",
+        "type": "message",
+        "text": "ドライブアクセスできないの、詳しい症状教えて貰えますか？フォルダのオーナーが私なので権限関係なら修正します",
+        "user": "U0394PQ44FL",
+        "ts": "1656118587.326199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxLOV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ドライブアクセスで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "きないの、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "詳しい症状教えて貰えますか"
+                            },
+                            {
+                                "type": "text",
+                                "text": "？"
+                            },
+                            {
+                                "type": "text",
+                                "text": "フォルダ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "オーナーが私なので権限関係"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "修正します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A55FBBFE-A2FA-4B30-A41C-FA83A5861F65",
+        "type": "message",
+        "text": "↑　<@U03K4J7KXTQ> さん",
+        "user": "U0394PQ44FL",
+        "ts": "1656118604.931979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4RnaT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑　"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " さん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AFFCD473-3D95-45C5-9967-407CC5AF9FB9",
+        "type": "message",
+        "text": "正確には、「PCのSlackからリンクが踏めず、ドライブにアクセスできない」",
+        "user": "U03K4J7KXTQ",
+        "ts": "1656124596.017959",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UloKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "正確には、「PCのSlack"
+                            },
+                            {
+                                "type": "text",
+                                "text": "から"
+                            },
+                            {
+                                "type": "text",
+                                "text": "リンクが踏めず"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ドライブにアクセスできない」"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C0BEF5BD-D367-4E29-9925-D1C4860033AE",
+        "type": "message",
+        "text": "って感じなので、権限関係ではないです！",
+        "user": "U03K4J7KXTQ",
+        "ts": "1656124604.748649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eye+l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "って感じなので、権限関係ではな"
+                            },
+                            {
+                                "type": "text",
+                                "text": "い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F66FFBA1-571B-4410-B237-CFE7EBA151D3",
+        "type": "message",
+        "text": "了解いたしました！\nでもなんでリンク踏めないんでしょう:thinking_face: ",
+        "user": "U0394PQ44FL",
+        "ts": "1656124797.307799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WJc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解いたしました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "もなん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でリンク踏めないんでしょう"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "thinking_face",
+                                "unicode": "1f914"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D366C237-F8B9-47F8-BD4C-8E0BA304DC97",
+        "type": "message",
+        "text": "チャンネルに書き込みすらできないんですよね:sob:",
+        "user": "U03K4J7KXTQ",
+        "ts": "1656131317.123359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VfoQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チャンネルに書き込みすらできないんですよね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sob",
+                                "unicode": "1f62d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sob",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

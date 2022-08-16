@@ -1,0 +1,109 @@
+[
+    {
+        "type": "message",
+        "text": "喜久福置いておきました\nずんだと抹茶の2択で16個しかないのでお早めにー",
+        "files": [
+            {
+                "id": "F03NVLAQL00",
+                "created": 1656898940,
+                "timestamp": 1656898940,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039EF90649",
+                "editable": false,
+                "size": 569343,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NVLAQL00\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NVLAQL00\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NVLAQL00-39a32f590e\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "original_w": 4032,
+                "original_h": 2268,
+                "thumb_tiny": "AwAbADCVCBTjKquEOcmo6kjwQDgbhxmkMC8pfaIwq56k9aXbyeOD1pHUt1fao6inKQVwpzjimIipDT3GDmmUhhTozh8etNpR95frQBKQCMVFHNGX2IDz3qZe\/wBaim\/dxkoAuT2FMQ98YwTzUdRR8nJ5PrTpSVjYjqKQz\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039EF90649\/F03NVLAQL00\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03NVLAQL00-1144471461",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039EF90649",
+        "display_as_bot": false,
+        "ts": "1656899035.656729",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "moxst",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "喜久福置いておきました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ずんだと抹茶の2択で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16"
+                            },
+                            {
+                                "type": "text",
+                                "text": "個しかな"
+                            },
+                            {
+                                "type": "text",
+                                "text": "い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のでお早めに"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "FC328160-3BFE-41E0-B999-32718D4871EB"
+    }
+]

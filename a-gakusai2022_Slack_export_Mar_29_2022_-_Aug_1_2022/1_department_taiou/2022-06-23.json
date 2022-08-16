@@ -1,0 +1,448 @@
+[
+    {
+        "client_msg_id": "d751182d-6543-448e-b6c5-adf9dce910e9",
+        "type": "message",
+        "text": "お疲れ様です。宮崎です。対応部の仕事で伝達が遅れていた「公民館関係」についてここにまとめておきます。\nまず、公民館は模擬店を出すサークルが利用します。目的は調理です。学内での調理は最終工程の焼く・盛り付ける等の部分でそれ以前の仕込みは公民館の調理室を使って行うことになります。\n2018年度までは一箕町公民館と北公民館の二か所を利用していました。今年もそこを借ります。利用料は予算で確保していますが、もし模擬店希望団体が多く、かつ公民館が定員等を制限していた場合、三つ目の公民館等の施設を借りる必要があるかもしれないことを留意してください。\n\n利用申請は両公民館共に「利用日が属する月の二か月前の5日」からできるようになるので学祭の場合は8月5日から申請できるようになります。その日になったら申請をお願いします。\n\n<@U039V55S998> 指示出しをお願いします。\n※対応部としての仕事は借りてサークルに提供するまでです。当日の監視等はシフトとして全学祭委員から選ばれた人が行います。\n<https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013010900015\/>\n<https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013031400044\/>",
+        "user": "U03901B3W69",
+        "ts": "1656039377.046679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。宮崎です。対応部の仕事で伝達が遅れていた「公民館関係」についてここにまとめておきます。\nまず、公民館は模擬店を出すサークルが利用します。目的は調理です。学内での調理は最終工程の焼く・盛り付ける等の部分でそれ以前の仕込みは公民館の調理室を使って行うことになります。\n2018年度までは一箕町公民館と北公民館の二か所を利用していました。今年もそこを借ります。利用料は予算で確保していますが、もし模擬店希望団体が多く、かつ公民館が定員等を制限していた場合、三つ目の公民館等の施設を借りる必要があるかもしれないことを留意してください。\n\n利用申請は両公民館共に「利用日が属する月の二か月前の5日」からできるようになるので学祭の場合は8月5日から申請できるようになります。その日になったら申請をお願いします。\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039V55S998"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 指示出しをお願いします。\n※対応部としての仕事は借りてサークルに提供するまでです。当日の監視等はシフトとして全学祭委員から選ばれた人が行います。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013010900015\/"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.city.aizuwakamatsu.fukushima.jp\/docs\/2013031400044\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656039377.046679",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1656041000.854199",
+        "reply_users": [
+            "U039V55S998",
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U039V55S998",
+                "ts": "1656039827.117989"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1656040415.047659"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656040446.873369"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1656040891.658119"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656041000.854199"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c2df892-f7d7-46a8-9068-9b4a893d5472",
+        "type": "message",
+        "text": "公民館利用についてメールを書いた方が良いと考えますがどうでしょうか？",
+        "user": "U039V55S998",
+        "ts": "1656039827.117989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hmWLC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "公民館利用についてメールを書いた方が良いと考えますがどうでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656039377.046679",
+        "parent_user_id": "U03901B3W69"
+    },
+    {
+        "client_msg_id": "a30621ea-ddff-4923-b506-b278996468a6",
+        "type": "message",
+        "text": "公民館に対して？サークルに対して？",
+        "user": "U03901B3W69",
+        "ts": "1656040415.047659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OG8s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "公民館に対して？サークルに対して？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656039377.046679",
+        "parent_user_id": "U03901B3W69"
+    },
+    {
+        "client_msg_id": "046827f3-4153-4f63-965a-8c523fe3d590",
+        "type": "message",
+        "text": "サークルに対してです\nこの前の説明会では説明不足だと考えます",
+        "user": "U039V55S998",
+        "ts": "1656040446.873369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GB4NN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークルに対してです\nこの前の説明会では説明不足だと考えます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656039377.046679",
+        "parent_user_id": "U03901B3W69"
+    },
+    {
+        "client_msg_id": "4107842d-550d-4610-bb5b-e0f86c3c1e99",
+        "type": "message",
+        "text": "例年中間報告会で公民館を使ってもらう話はしてたと思う。\nと思ってたけど申請書の調理過程で公民館内に関する記入を求める部分があるのか、じゃあ言わないとだめだわ。\nさっき僕が焼く、盛り付けるはテントって言ったけど詳細は保健所の判断になるので具体的には言わずに調理は基本公民館、くらいの感覚で記入してもらう旨を通達して欲しい",
+        "user": "U03901B3W69",
+        "ts": "1656040891.658119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nu7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "例年中間報告会で公民館を使ってもらう話はしてたと思う。\nと思ってたけど申請書の調理過程で公民館内に関する記入を求める部分があるのか、じゃあ言わないとだめだわ。\nさっき僕が焼く、盛り付けるはテントって言ったけど詳細は保健所の判断になるので具体的には言わずに調理は基本公民館、くらいの感覚で記入してもらう旨を通達して欲しい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656039377.046679",
+        "parent_user_id": "U03901B3W69"
+    },
+    {
+        "client_msg_id": "537384c7-1d1e-4574-b05a-fb9b211c3dcf",
+        "type": "message",
+        "text": "了解です",
+        "user": "U039V55S998",
+        "ts": "1656041000.854199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZJonV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656039377.046679",
+        "parent_user_id": "U03901B3W69"
+    },
+    {
+        "client_msg_id": "5b2b3b7e-2a98-4acf-95f1-4602bd559475",
+        "type": "message",
+        "text": "また今回良い機会なので多文化で発生する料理を提示してもよろしいでしょうか\n<@U03901B3W69>",
+        "user": "U039V55S998",
+        "ts": "1656041787.794889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656041850.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pyD9K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "また今回良い機会なので多文化で発生する料理を提示してもよろしいでしょうか\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03901B3W69"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656041787.794889",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1656041909.642589",
+        "reply_users": [
+            "U03901B3W69",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1656041892.132799"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656041909.642589"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "550ac8a3-6a38-4947-9bc5-b7b5ed6495df",
+        "type": "message",
+        "text": "現状わかってる品を羅列して、申請書が纏まった後にグリーンライフが提案してきたのを追加したら後出しになってややこしくならない？\n多文化の中身は全部まとまってからの報告で良いと思う。",
+        "user": "U03901B3W69",
+        "ts": "1656041892.132799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RYdr\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現状わかってる品を羅列して、申請書が纏まった後にグリーンライフが提案してきたのを追加したら後出しになってややこしくならない？\n多文化の中身は全部まとまってからの報告で良いと思う。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656041787.794889",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "40f92c84-5ecc-44fb-908c-e4e4a97c8d70",
+        "type": "message",
+        "text": "了解です。",
+        "user": "U039V55S998",
+        "ts": "1656041909.642589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zdx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656041787.794889",
+        "parent_user_id": "U039V55S998"
+    }
+]

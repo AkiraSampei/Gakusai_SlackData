@@ -1,0 +1,17 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1657526810.344589",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「ステージの仕事」に設定しました",
+        "purpose": "ステージの仕事"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657526831.969739",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました"
+    }
+]

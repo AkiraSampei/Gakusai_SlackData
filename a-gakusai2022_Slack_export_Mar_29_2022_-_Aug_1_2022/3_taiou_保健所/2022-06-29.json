@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "bbe5bab3-fb80-45bf-8e68-46651a43e526",
+        "type": "message",
+        "text": "zoom作成しました\n<https:\/\/zoom.us\/j\/9732779953?pwd=OHRXQUU3dGRKaW5ZdXFTaEJDYmJFQT09>",
+        "user": "U039P4NSKM1",
+        "ts": "1656488918.682569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZsX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "zoom作成しました\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/9732779953?pwd=OHRXQUU3dGRKaW5ZdXFTaEJDYmJFQT09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

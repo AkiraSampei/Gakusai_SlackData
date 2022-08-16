@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931519.446659",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654931552.354399",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「クイズ大会運営」に設定しました",
+        "purpose": "クイズ大会運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931722.119209",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「12_kikaku_クイズ大会」から「2_kikaku_クイズ大会」に変更しました",
+        "old_name": "12_kikaku_クイズ大会",
+        "name": "2_kikaku_クイズ大会"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931805.789239",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654946743.790699",
+        "user": "U03A1N54PJM",
+        "text": "<@U03A1N54PJM>さんがチャンネルに参加しました"
+    }
+]

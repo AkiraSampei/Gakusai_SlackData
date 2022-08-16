@@ -1,0 +1,319 @@
+[
+    {
+        "client_msg_id": "889f7b3c-69f6-41be-83cd-1fc440ba34b5",
+        "type": "message",
+        "text": "<!channel>\nお疲れ様です。\n\n大学の方からメールが届いたかと思いますが、\n感染症対策としまして、BBQが延期することになりました。\n楽しみしていた人、このために予定を開けてた人、急な連絡で申し訳ございません。\n別な日程で再度行う予定です。\n日程が決まり次第、ご連絡させていただきます。",
+        "user": "U039RCZ4E04",
+        "ts": "1655859944.451009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PhE=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\n\n大学の方からメールが届いたかと思いますが、\n感染症対策としまして、BBQが延期することになりました。\n楽しみしていた人、このために予定を開けてた人、急な連絡で申し訳ございません。\n別な日程で再度行う予定です。\n日程が決まり次第、ご連絡させていただきます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039M3UAXFG",
+                    "U039L92GA3X"
+                ],
+                "count": 3
+            },
+            {
+                "name": "innocent",
+                "users": [
+                    "U039M3UAXFG",
+                    "U03A1S6RAF3"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sob",
+                "users": [
+                    "U03BM52KMEC",
+                    "U0391RWR34N",
+                    "U039P4NSKM1",
+                    "U03K8CWK5LK",
+                    "U03KB4QMFHR",
+                    "U03CATDUH0A"
+                ],
+                "count": 6
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C51776CA-9263-4982-BA15-7397A66227CC",
+        "type": "message",
+        "text": "日程はまだ決まってないです",
+        "user": "U039RCZ4E04",
+        "ts": "1655863948.752989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PQyJr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日程はまだ決まってないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655695000.263359",
+        "parent_user_id": "U039WPGBPDH"
+    },
+    {
+        "client_msg_id": "52affbfb-4201-4091-be10-52b405f91ea5",
+        "type": "message",
+        "text": "<!channel>\nお疲れ様です。\nレクリエーション課の布施です！\n来月のイベントにつきましては、アンケートにより、球技大会にしようと考えておりましたが、\nコロナでBBQが延期になってしまったため、再度BBQと球技大会で投票を取ることにしました。\nBBQがよい方は、:meat_on_bone:\n球技大会がよい方は、:basketball:\nのスタンプを押してください！\n７月にできなかった方は、8月に行う予定です。\n投票の期限は来週の金曜日まででお願いいたします:pray:",
+        "user": "U039RCZ4E04",
+        "ts": "1655867921.347729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nS6I4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ様です。\nレクリエーション課の布施です！\n来月のイベントにつきましては、アンケートにより、球技大会にしようと考えておりましたが、\nコロナでBBQが延期になってしまったため、再度BBQと球技大会で投票を取ることにしました。\nBBQがよい方は、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meat_on_bone",
+                                "unicode": "1f356"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n球技大会がよい方は、"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "basketball",
+                                "unicode": "1f3c0"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nのスタンプを押してください！\n７月にできなかった方は、8月に行う予定です。\n投票の期限は来週の金曜日まででお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U039RCZ4E04",
+                    "U03K1SMDYHL",
+                    "U039PA9J5JP",
+                    "U03K8CWK5LK",
+                    "U03KB4QMFHR"
+                ],
+                "count": 5
+            },
+            {
+                "name": "meat_on_bone",
+                "users": [
+                    "U0399UH8BKQ",
+                    "U039PA9J5JP",
+                    "U03GW267PQE",
+                    "U03K4J7KXTQ",
+                    "U03D0L4BEJU",
+                    "U03CATDUH0A",
+                    "U039D5XVCJ3",
+                    "U03K8CWK5LK",
+                    "U039M3UAXFG",
+                    "U03CDMY1V9C",
+                    "U03K8F1PW82",
+                    "U03BVE9U552"
+                ],
+                "count": 12
+            },
+            {
+                "name": "どちらでも",
+                "users": [
+                    "U038TMLJW1M",
+                    "U0394PQ44FL",
+                    "U039P4NSKM1",
+                    "U039T9DE072",
+                    "U0391RWR34N",
+                    "U03JVEZF16K",
+                    "U03901B3W69",
+                    "U03BM52KMEC"
+                ],
+                "count": 8
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64690db2-2f24-4ea8-abbd-46619817a010",
+        "type": "message",
+        "text": "また、日程も決めていきたいとおもうので伝助の記入をよろしくお願いいたします。\n期限は、7 \/ 6 (水) までとさせていただきます。\nよろしくお願いいたします:man-bowing::man-bowing:\n記入の仕方を忘れてしまった人がいましたら、気軽に連絡してください！\n<https:\/\/densuke.biz\/list?cd=CuG2SHhU6rvq3A5X>",
+        "user": "U039RCZ4E04",
+        "ts": "1655868253.092459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fJiU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "また、日程も決めていきたいとおもうので伝助の記入をよろしくお願いいたします。\n期限は、7 \/ 6 (水) までとさせていただきます。\nよろしくお願いいたします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n記入の仕方を忘れてしまった人がいましたら、気軽に連絡してください！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=CuG2SHhU6rvq3A5X"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c64718d1-0fc8-4d36-8124-4d8a6b0441f3",
+        "type": "message",
+        "text": "まだ、時間はあるので7\/6までならいつでも変更して大丈夫です。",
+        "user": "U039RCZ4E04",
+        "ts": "1655868554.249219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UV2I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "まだ、時間はあるので7\/6までならいつでも変更して大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

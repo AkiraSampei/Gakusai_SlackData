@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "0954a344-88e3-403e-bc98-f646c0b4feab",
+        "type": "message",
+        "text": "開けﾏｼ､ﾀ",
+        "user": "U039RJU3V36",
+        "ts": "1659055623.660089",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9j41",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "開けﾏｼ､ﾀ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

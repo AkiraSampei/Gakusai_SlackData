@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "9ec634de-0573-4822-a264-2cd9771abe47",
+        "type": "message",
+        "text": "そういえば、この議事録ってメールだしました？",
+        "user": "U0394PQ44FL",
+        "ts": "1655036853.195159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "X1HBF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そういえば、この議事録ってメールだしました？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654928837.658119",
+        "parent_user_id": "U0399UH8BKQ"
+    },
+    {
+        "client_msg_id": "D535EC0F-9AA2-4317-ACC2-683E56B782D3",
+        "type": "message",
+        "text": "出してませんでした。\n明日の午前中に送信します",
+        "user": "U0399UH8BKQ",
+        "ts": "1655044793.162359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UYN=n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "出してませんでした。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "午前中"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に送信します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654928837.658119",
+        "parent_user_id": "U0399UH8BKQ",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "5AC3A59B-FFDF-4C84-94F9-CA72FDCBB104",
+        "type": "message",
+        "text": "今日の全体会議、用事があるため欠席します",
+        "user": "U03AJV9QH96",
+        "ts": "1652858488.052689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge7ad0ebd24b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7ad0ebd24bae41cc75a4c7fe88358d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280138",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1jx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の全体会議、用事があるため欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

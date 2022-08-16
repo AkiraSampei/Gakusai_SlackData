@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1653869432.276909",
+        "user": "U039RJU3V36",
+        "text": "<@U039RJU3V36>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "58022d6b-f6c3-488b-9341-fc264e7be336",
+        "type": "message",
+        "text": "<https:\/\/www.mlit.go.jp\/koku\/koku_tk10_000003.html>\n企画でドローン使う可能性、今後もあるかと思いますが、6月20日より個体登録をするのが義務になるようで…\n~（自分も撮影〜とか言って飛ばせんくなるやんけ、勘弁してくれ　買い取って自分名義で登録するかぁ？）~",
+        "user": "U0391RWR34N",
+        "ts": "1653875932.755509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/www.mlit.go.jp\/koku\/koku_tk10_000003.html",
+                "id": 1,
+                "original_url": "https:\/\/www.mlit.go.jp\/koku\/koku_tk10_000003.html",
+                "fallback": "航空安全：無人航空機（ドローン・ラジコン機等）の飛行ルール - 国土交通省",
+                "text": "国土交通省のウェブサイトです。政策、報道発表資料、統計情報、各種申請手続きに関する情報などを掲載しています。",
+                "title": "航空安全：無人航空機（ドローン・ラジコン機等）の飛行ルール - 国土交通省",
+                "title_link": "https:\/\/www.mlit.go.jp\/koku\/koku_tk10_000003.html",
+                "service_name": "mlit.go.jp"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ls2l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.mlit.go.jp\/koku\/koku_tk10_000003.html"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n企画でドローン使う可能性、今後もあるかと思いますが、6月20日より個体登録をするのが義務になるようで…\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（自分も撮影〜とか言って飛ばせんくなるやんけ、勘弁してくれ　買い取って自分名義で登録するかぁ？）",
+                                "style": {
+                                    "strike": true
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

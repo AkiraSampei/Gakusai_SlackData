@@ -1,0 +1,265 @@
+[
+    {
+        "client_msg_id": "12EF93A3-5C8A-4E94-802F-80E14707F782",
+        "type": "message",
+        "text": "書類訂正の日程、了解しました。\nありがとうございます。\n昨年は訪問日時を決めるための電話はしましたが、挨拶だけの電話やメールはしませんでした。",
+        "user": "U03A9180MAN",
+        "ts": "1656054632.781419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NxxhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "書類訂正の日程、了解しました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ありがとう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ございます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "昨年は訪問日時を決めるための電話はしましたが、挨拶だけの電話やメールはしませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656054632.781419",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656055223.053929",
+        "reply_users": [
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U039V55S998",
+                "ts": "1656055223.053929"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "953F78C0-7938-4854-9D91-22052F6DB40C",
+        "type": "message",
+        "text": "<@U039P4NSKM1>　訪問日時は釘宮くんの授業等の日程に合わせて決めてほしいので、今すぐでなくていいので、お手隙のときにでも伝助の準備よろしくお願いします。",
+        "user": "U03A9180MAN",
+        "ts": "1656055109.346829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LfL5H",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039P4NSKM1"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　訪問日時は釘宮くんの授業等の日程に合わせて決めてほしいので、今すぐでなくていいので、お手隙のときにでも伝助の準備よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "45e86eea-a84a-4bd4-a3b4-a06a3bf9d31d",
+        "type": "message",
+        "text": "了解しました。お返事ありがとうございます。例年通りよろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1656055223.053929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "faI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました。お返事ありがとうございます。例年通りよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656054632.781419",
+        "parent_user_id": "U03A9180MAN"
+    },
+    {
+        "client_msg_id": "ab7689f9-9a0c-4f3b-940f-81cde723f66c",
+        "type": "message",
+        "text": "了解しました",
+        "user": "U039P4NSKM1",
+        "ts": "1656057191.843719",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ht1H\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd0d0814-b9b1-48c6-93a9-c89f6ee1c0d8",
+        "type": "message",
+        "text": "<!channel> メンション失礼します。\n　書類作成自体は7月13日までに出来るということですが、それより先に会議を行って日程を決めてしまうのはアリですかね?\n　また僕も不確かな部分があるので一度会議を行いたいのですがよろしいでしょうか",
+        "user": "U039P4NSKM1",
+        "ts": "1656122154.136969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ak3J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " メンション失礼します。\n　書類作成自体は7月13日までに出来るということですが、それより先に会議を行って日程を決めてしまうのはアリですかね?\n　また僕も不確かな部分があるので一度会議を行いたいのですがよろしいでしょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656122154.136969",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1656153170.955689",
+        "reply_users": [
+            "U03A9180MAN",
+            "U039P4NSKM1"
+        ],
+        "replies": [
+            {
+                "user": "U03A9180MAN",
+                "ts": "1656146448.920149"
+            },
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1656152955.630619"
+            },
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1656153170.955689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

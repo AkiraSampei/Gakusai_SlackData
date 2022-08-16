@@ -1,0 +1,261 @@
+[
+    {
+        "client_msg_id": "2ec2fb1f-1085-4830-b89a-8f2d4dae15c4",
+        "type": "message",
+        "text": "添削、「こう書いた方がいい」などありましたら教えてください。\n\n────────────────────────────\n山田　様\n (cc.学生会執行部　様)\n\n お世話になっております。\n 学園祭実行委員会会計主任の髙橋逸樹と申します。\n\n 現在、NTT東日本の方にプロバイダ利用料金の引き落としが行われているのを確認しております。\n また、「へちまネット合同会社」様との契約は昨年12月に契約解除しており、支払いも行っていない状況です。\n\n 本件に関しまして、昨年の7月にNTT東日本からの名義変更の手続書類を学生会執行部の方にお渡ししており、名義変更も行っていただけたかと存じます。しかし、昨年の12月にNTT東日本からの引き落としが一旦停止したにもかかわらず、1月からまた引き落としが再開されているようです。これに関して現在学生会執行部の方に確認いただいている最中ですので、詳細についてなにか心当たりがございましたら、お教えくださると幸いです。\n\n 加えて、現在学園祭実行委員会で契約している回線に関して、Remsサークル様が私共の回線からインターネットを引いていらっしゃると認識しておりますが、インターネット回線費用の支払いはRemsサークル様との折半にしていただければと思うのですがいかがでしょうか。",
+        "user": "U0399UH8BKQ",
+        "ts": "1652426632.653649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SHb7\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "添削、「こう書いた方がいい」などありましたら教えてください。\n\n────────────────────────────\n山田　様\n (cc.学生会執行部　様)\n\n お世話になっております。\n 学園祭実行委員会会計主任の髙橋逸樹と申します。\n\n 現在、NTT東日本の方にプロバイダ利用料金の引き落としが行われているのを確認しております。\n また、「へちまネット合同会社」様との契約は昨年12月に契約解除しており、支払いも行っていない状況です。\n\n 本件に関しまして、昨年の7月にNTT東日本からの名義変更の手続書類を学生会執行部の方にお渡ししており、名義変更も行っていただけたかと存じます。しかし、昨年の12月にNTT東日本からの引き落としが一旦停止したにもかかわらず、1月からまた引き落としが再開されているようです。これに関して現在学生会執行部の方に確認いただいている最中ですので、詳細についてなにか心当たりがございましたら、お教えくださると幸いです。\n\n 加えて、現在学園祭実行委員会で契約している回線に関して、Remsサークル様が私共の回線からインターネットを引いていらっしゃると認識しておりますが、インターネット回線費用の支払いはRemsサークル様との折半にしていただければと思うのですがいかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652426632.653649",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1652501363.362549",
+        "reply_users": [
+            "U038TMLJW1M",
+            "U0394PQ44FL",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1652426829.971929"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1652459590.851749"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1652500421.006939"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1652501363.362549"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1652501363.362549"
+    },
+    {
+        "client_msg_id": "f8870884-195c-4036-a640-093adf598f82",
+        "type": "message",
+        "text": "REMsって書かないと○されるかも\n\nREMsサークル様が私共の回線からインターネットを引いていらっしゃると認識しております。インターネット回線費用の支払いをREMsサークル様との折半にしていただければと思うのですがいかがでしょうか。",
+        "user": "U038TMLJW1M",
+        "ts": "1652426829.971929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ypwX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "REMsって書かないと○されるかも\n\nREMsサークル様が私共の回線からインターネットを引いていらっしゃると認識しております。インターネット回線費用の支払いをREMsサークル様との折半にしていただければと思うのですがいかがでしょうか。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652426632.653649",
+        "parent_user_id": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1652426933.835979",
+        "user": "U03CATDUH0A",
+        "text": "<@U03CATDUH0A>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1652426933.908589",
+        "user": "U03CDMY1V9C",
+        "text": "<@U03CDMY1V9C>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1652426961.411539",
+        "user": "U03D0L4BEJU",
+        "text": "<@U03D0L4BEJU>さんがチャンネルに参加しました",
+        "inviter": "U0399UH8BKQ"
+    },
+    {
+        "client_msg_id": "99b16d8d-c1f0-49d7-ab44-1a21e9805f14",
+        "type": "message",
+        "text": "確認してなかったけど、回線費用の支払いは今年度の話であってる？",
+        "user": "U0394PQ44FL",
+        "ts": "1652459590.851749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xhQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認してなかったけど、回線費用の支払いは今年度の話であってる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652426632.653649",
+        "parent_user_id": "U0399UH8BKQ"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1652481188.757489",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "EBEF5E41-890C-40AA-ADAB-3D54FF20BBB7",
+        "type": "message",
+        "text": "そうですね「令和四年度分」ということです。",
+        "user": "U0399UH8BKQ",
+        "ts": "1652500421.006939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xpLf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうですね「令和四年度分」ということです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652426632.653649",
+        "parent_user_id": "U0399UH8BKQ"
+    },
+    {
+        "client_msg_id": "BEE40726-81A6-4D5E-91B0-32B992B512A0",
+        "type": "message",
+        "text": "なら、「今後の支払いを折半」とか「今年度の支払いを折半」とかの1文が欲しいかな",
+        "user": "U0394PQ44FL",
+        "ts": "1652501363.362549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Yjz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なら、「今後の支払いを折半」とか「今年度の支払いを折半」とかの1文が欲しいかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652426632.653649",
+        "parent_user_id": "U0399UH8BKQ"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "346f6371-ed05-4e32-b858-2345a6860cec",
+        "type": "message",
+        "text": "<@U03K8CWK5LK>  企画会議やりたいと思うので、来週中の空いてる時間教えてくださいませ。",
+        "user": "U03A1N54PJM",
+        "ts": "1655359954.785429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03K8CWK5LK"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  企画会議やりたいと思うので、来週中の空いてる時間教えてくださいませ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655359954.785429",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655369934.426049",
+        "reply_users": [
+            "U03K8CWK5LK"
+        ],
+        "replies": [
+            {
+                "user": "U03K8CWK5LK",
+                "ts": "1655369934.426049"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

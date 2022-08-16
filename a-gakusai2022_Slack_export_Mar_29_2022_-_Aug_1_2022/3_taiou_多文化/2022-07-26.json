@@ -1,0 +1,482 @@
+[
+    {
+        "client_msg_id": "C3E3D4F0-ADFB-4F82-B720-80F20DE58DF9",
+        "type": "message",
+        "text": "おはようございます。\n今日ってズームですか？",
+        "user": "U03CUPE920G",
+        "ts": "1658883263.865369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PE4xT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日ってズームですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27de690e-7c94-4c4f-b576-aaefff52ac31",
+        "type": "message",
+        "text": "可能でしたら対面でお願いします",
+        "user": "U039V55S998",
+        "ts": "1658884005.965569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lJA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "可能でしたら対面でお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "411D4693-BE52-4536-951B-9869F262EF7C",
+        "type": "message",
+        "text": "分かりました。\n多少遅れてしまうかもしれません。",
+        "user": "U03CUPE920G",
+        "ts": "1658885829.591029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Z+d3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分かりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "多少遅れてしまうかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5bceb8da-5ef8-4e3c-b1a0-3667b0219997",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1Qzv9uNDmFkeVUcA_LZgk4aW36cUML1hkNw25uANBaz0\/edit?usp=sharing>\n今日やること",
+        "user": "U039V55S998",
+        "ts": "1658894319.468879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1658894649.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sdDzt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1Qzv9uNDmFkeVUcA_LZgk4aW36cUML1hkNw25uANBaz0\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日やること"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ada43f3-6e38-4728-877f-b39795eee101",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1OyWFF6sVlLyLlGTiCeVmKwz1Mzwi7H169Tzmlns8coA\/edit?usp=sharing>\n出し物一覧",
+        "user": "U039V55S998",
+        "ts": "1658894632.475599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fdBB6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1OyWFF6sVlLyLlGTiCeVmKwz1Mzwi7H169Tzmlns8coA\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n出し物一覧"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D3380005-17EC-42FF-B565-E91511A7DE61",
+        "type": "message",
+        "text": "どこでやってますか？",
+        "user": "U03CUPE920G",
+        "ts": "1658896761.641839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e=U",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どこでやってますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "427b1704-13bc-4a7b-8ba9-c419bdbb987f",
+        "type": "message",
+        "text": "学祭室です",
+        "user": "U039V55S998",
+        "ts": "1658897117.669439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oj0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭室です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D5BDB2EB-AF94-4B88-9AB5-69548542EACF",
+        "type": "message",
+        "text": "TOEICの授業対面で行われてて、抜けるタイミングなくて抜けれそうにないです。\n3時以降でも大丈夫ですか？",
+        "user": "U03CUPE920G",
+        "ts": "1658898441.307279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tq7fV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "TOEICの授業対面で行われてて、抜けるタイミングなくて抜けれそうにないです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "3時以降でも大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "03cee7a3-f757-4e0f-9c82-210dc1a41ce7",
+        "type": "message",
+        "text": "なるボド了解です。\n自分は難しいので、増子さんに対応してもらいます。",
+        "user": "U039V55S998",
+        "ts": "1658898692.560749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b6Y=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なるボド了解です。\n自分は難しいので、増子さんに対応してもらいます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "42708380-75af-4467-b568-bf8a4b347c26",
+        "type": "message",
+        "text": "電話のマニュアルです\n\n\n```相手：はいこちら〇〇です\n\n自分：お世話になっております、会津大学学園祭実行委員会のつくいと申します\n\t　先日のお電話で学園祭への出店をしていただけるとのことでした\n\t　本日は具体的なメニューのすり合わせなどを行いたいのですが、担当者さまはいらっしゃますでしょうか\n\n相手：少々おまちください　or　私が担当者です\n\n　　相手が交代したら\n　　自分：お世話になっております、会津大学学園祭実行委員会のつくいと申します\n\t　　　先日のお電話で学園祭への出店をしていただけるとのことでした\n\t　　　本日は具体的なメニューのすり合わせなどをさせていただきます\n\n\n自分：学園祭への出店にあたり、まずご出品いただける商品をご確認したいです\n\t　出品の注意点として、会津大学のサークルや他の業者さんが出品するものと被らないようにしていただきたいです\n\n相手：〇〇の出品を予定しています\n\n自分：〇〇の出品ですね　\n　\t　かしこまりました、では次に出店の方法についてご確認いたします\n\t　（企業名）さんは出店でのご参加かキッチンカーのご参加のどちらを予定しておりますでしょうか\n\n相手：〇〇での出店を予定しています\n\n　　出店でのご参加を予定している場合\n　　自分：〇〇でのご参加ですね\n\t　　　かしこまりました、出店でのご参加にあたり机や椅子をお貸しすることができますがいかがいたしますか\n\t\t\n　　相手：〇〇個貸して下さい　or　必要ありません\n　\n　　自分：（〇〇個ですね）\n\t　　　かしこまりました、コンロやガスもご利用いただけますがいたがいたしますか\n\n　　相手：〇〇を使わせて下さい\n\n　　自分：〇〇ですね、かしこまりました\n\n自分：では最後にご参加日時の確認をいたします\n\t　開催日程は１０月２９日、１０月３０日の２日間となっております\n\t　ご希望の日程を教えていただけますでしょうか\n\t　片日、両日どちらでも問題ございません\n\n相手：〇〇日の参加をお願いいたします\n\n自分：〇〇日ですね、かしこまりました\n　　　本日ご確認したいことは以上となります\n\t　なにかご質問等はございますか\n\t　\n　　質問があれば返答\n\n自分：本日はお忙しい中ありがとうございました\n　　　またなにかございましたら追って連絡いたします\n\t　```",
+        "user": "U0394PQ44FL",
+        "ts": "1658899009.869659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mulsE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電話のマニュアルです\n\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "相手：はいこちら〇〇です\n\n自分：お世話になっております、会津大学学園祭実行委員会のつくいと申します\n\t　先日のお電話で学園祭への出店をしていただけるとのことでした\n\t　本日は具体的なメニューのすり合わせなどを行いたいのですが、担当者さまはいらっしゃますでしょうか\n\n相手：少々おまちください　or　私が担当者です\n\n　　相手が交代したら\n　　自分：お世話になっております、会津大学学園祭実行委員会のつくいと申します\n\t　　　先日のお電話で学園祭への出店をしていただけるとのことでした\n\t　　　本日は具体的なメニューのすり合わせなどをさせていただきます\n\n\n自分：学園祭への出店にあたり、まずご出品いただける商品をご確認したいです\n\t　出品の注意点として、会津大学のサークルや他の業者さんが出品するものと被らないようにしていただきたいです\n\n相手：〇〇の出品を予定しています\n\n自分：〇〇の出品ですね　\n　\t　かしこまりました、では次に出店の方法についてご確認いたします\n\t　（企業名）さんは出店でのご参加かキッチンカーのご参加のどちらを予定しておりますでしょうか\n\n相手：〇〇での出店を予定しています\n\n　　出店でのご参加を予定している場合\n　　自分：〇〇でのご参加ですね\n\t　　　かしこまりました、出店でのご参加にあたり机や椅子をお貸しすることができますがいかがいたしますか\n\t\t\n　　相手：〇〇個貸して下さい　or　必要ありません\n　\n　　自分：（〇〇個ですね）\n\t　　　かしこまりました、コンロやガスもご利用いただけますがいたがいたしますか\n\n　　相手：〇〇を使わせて下さい\n\n　　自分：〇〇ですね、かしこまりました\n\n自分：では最後にご参加日時の確認をいたします\n\t　開催日程は１０月２９日、１０月３０日の２日間となっております\n\t　ご希望の日程を教えていただけますでしょうか\n\t　片日、両日どちらでも問題ございません\n\n相手：〇〇日の参加をお願いいたします\n\n自分：〇〇日ですね、かしこまりました\n　　　本日ご確認したいことは以上となります\n\t　なにかご質問等はございますか\n\t　\n　　質問があれば返答\n\n自分：本日はお忙しい中ありがとうございました\n　　　またなにかございましたら追って連絡いたします\n\t　"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bd45ea3-38e3-4744-9ade-883acfcb4928",
+        "type": "message",
+        "text": "*メール内容*\n\nお世話になっております\nメニューが決まったので報告します。\nメニューは,,,です。\nよろしくお願いします",
+        "user": "U039V55S998",
+        "ts": "1658904178.426049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rmx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メール内容",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nお世話になっております\nメニューが決まったので報告します。\nメニューは,,,です。\nよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

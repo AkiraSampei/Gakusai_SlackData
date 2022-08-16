@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655109203.070359",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「3_kikaku_ドローン体験会」から「3_kikaku_onsite_ドローン体験会」に変更しました",
+        "old_name": "3_kikaku_ドローン体験会",
+        "name": "3_kikaku_onsite_ドローン体験会"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655117597.651449",
+        "user": "U039PA9J5JP",
+        "text": "<@U039PA9J5JP>さんがチャンネルに参加しました"
+    }
+]

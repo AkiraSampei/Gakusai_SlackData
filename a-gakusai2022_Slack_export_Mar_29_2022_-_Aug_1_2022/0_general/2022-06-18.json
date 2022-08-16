@@ -1,0 +1,194 @@
+[
+    {
+        "client_msg_id": "80D9B1CA-6F14-469E-9826-4DF9A9C9D0D6",
+        "type": "message",
+        "text": "<!channel>\nBBQに参加する方々へ\n\n伝助の記入ありがとうございました:blush:\n\n当日の交通手段を把握したいので\n当日の乗り物のスタンプを押してください\nよろしくお願いします:man-bowing:\n",
+        "user": "U039RCZ4E04",
+        "ts": "1655618958.178179",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039RCZ4E04",
+            "ts": "1655619090.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9u29r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nBBQに参加する方々へ\n\n伝助の記入ありがとうございました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "blush",
+                                "unicode": "1f60a"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n当日の交通手段を把握したいので\n当日の乗り物のスタンプを押してください\nよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "railway_car",
+                "users": [
+                    "U039RCZ4E04",
+                    "U03GW267PQE",
+                    "U039PA9J5JP",
+                    "U03CUPE920G",
+                    "U039V55S998",
+                    "U03A1S6RAF3",
+                    "U03CDMY1V9C",
+                    "U03BM52KMEC",
+                    "U03KB4QMFHR"
+                ],
+                "count": 9
+            },
+            {
+                "name": "bike",
+                "users": [
+                    "U03D0L4BEJU",
+                    "U0399UH8BKQ",
+                    "U039P4NSKM1",
+                    "U03CUPE920G",
+                    "U03901B3W69",
+                    "U03BM52KMEC",
+                    "U03A1N54PJM",
+                    "U039L92GA3X",
+                    "U03KRPKDY8L",
+                    "U03BW9Q5DF1"
+                ],
+                "count": 10
+            },
+            {
+                "name": "car",
+                "users": [
+                    "U0399UH8BKQ",
+                    "U039M3UAXFG",
+                    "U038TMLJW1M",
+                    "U0391RWR34N",
+                    "U03BM52KMEC"
+                ],
+                "count": 5
+            },
+            {
+                "name": "roller_coaster",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "helicopter",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "racehorse",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51690AFE-507B-4AC0-AB14-F6C2AD385ADE",
+        "type": "message",
+        "text": "場所はここです。\n\n<https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5|https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5>",
+        "user": "U039RCZ4E04",
+        "ts": "1655619211.367769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                "thumb_url": "https:\/\/lh5.googleusercontent.com\/p\/AF1QipNkqG-B_RZPUPQoVD5zBNO__Kft3XsT8DrMQ5cZ",
+                "thumb_width": 512,
+                "thumb_height": 384,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                "fallback": "本郷大橋 · 〒969-6103 福島県大沼郡会津美里町上村北４",
+                "text": "橋",
+                "title": "本郷大橋 · 〒969-6103 福島県大沼郡会津美里町上村北４",
+                "title_link": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                "service_name": "google.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n+5\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "場所はここです。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5",
+                                "text": "https:\/\/goo.gl\/maps\/dzjxQA6TfLeUE5fq5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

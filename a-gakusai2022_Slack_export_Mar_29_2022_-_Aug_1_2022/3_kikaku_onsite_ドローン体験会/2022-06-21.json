@@ -1,0 +1,63 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655860210.382099",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "1186cbe9-8827-4225-aa90-e0f2b182bb97",
+        "type": "message",
+        "text": "<@U03CDMY1V9C>\n今日は会議来てくれてありがとう！\n企画書を少し書き換えたりしたので見てね。\nのちの添削であるけど、自分で企画書を書いてって大丈夫です（こここうした方がいいところとか）\n何か疑問あったらすぐに聞いてね！！:parrot_aussieconga:\n<https:\/\/docs.google.com\/document\/d\/1v7CqBmHqp6R62sn2X95OC3QhkPCqzSjF\/edit?usp=sharing&amp;ouid=117881560607743415384&amp;rtpof=true&amp;sd=true>",
+        "user": "U039PA9J5JP",
+        "ts": "1655878611.376279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9L5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CDMY1V9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n今日は会議来てくれてありがとう！\n企画書を少し書き換えたりしたので見てね。\nのちの添削であるけど、自分で企画書を書いてって大丈夫です（こここうした方がいいところとか）\n何か疑問あったらすぐに聞いてね！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "parrot_aussieconga"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1v7CqBmHqp6R62sn2X95OC3QhkPCqzSjF\/edit?usp=sharing&ouid=117881560607743415384&rtpof=true&sd=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "D96B728E-4DEA-4C38-A5D3-73EB6921EBEC",
+        "type": "message",
+        "text": "報告遅くなりました。\n今日は予定があるので欠席しました。",
+        "user": "U03CATDUH0A",
+        "ts": "1654950167.536539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03CATDUH0A",
+            "ts": "1654950183.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e9eIC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "報告遅くなりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日は予定があるので欠席しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039RCZ4E04",
+                    "U0394PQ44FL"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "8952BBCA-7425-407F-9176-226CF1A940B3",
+        "type": "message",
+        "text": "空調申請提出\n7\/1〜14まで　今日は耐えてください",
+        "user": "U038TMLJW1M",
+        "ts": "1656563802.037429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rf7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "空調申請提出"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/1〜14まで　今日は耐えてください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U038TMLJW1M",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "gekiatsu",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039RCZ4E04",
+                    "U039PA9J5JP"
+                ],
+                "count": 3
+            },
+            {
+                "name": "hot_face",
+                "users": [
+                    "U039RJU3V36",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EA04379C-216D-4288-87BC-6BD043A42148",
+        "type": "message",
+        "text": "申請は9:00〜20:00で出しました　いきなり切れてもびっくりしないでね",
+        "user": "U038TMLJW1M",
+        "ts": "1656572185.875849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z\/T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "申請は9:00〜20:00で出しました　いきなり切れてもびっくりしないでね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

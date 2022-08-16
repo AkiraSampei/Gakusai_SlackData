@@ -1,0 +1,192 @@
+[
+    {
+        "client_msg_id": "0E389CF0-54F8-4F14-8AC2-02E65687E9B9",
+        "type": "message",
+        "text": "お肉予約してきた:meat_on_bone:\n合計14980円です",
+        "user": "U039M3UAXFG",
+        "ts": "1658368722.583049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nqyjR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お肉予約してきた"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "meat_on_bone",
+                                "unicode": "1f356"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "合計14980円です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "meat_on_bone",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_aussieconga",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "明日の昼こいつら洗いたい笑\n手伝ってくれる人ー:hand:",
+        "files": [
+            {
+                "id": "F03QCLUP1GB",
+                "created": 1658369925,
+                "timestamp": 1658369925,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039M3UAXFG",
+                "editable": false,
+                "size": 1096648,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QCLUP1GB\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QCLUP1GB\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCLUP1GB-32a4bb2454\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACSfcKQOKk2KBjaMUxoFPTIPtSGLnNFQbmSRkGX29eKesqn60AS0UmaM0AVDJLFwGY49eRTl1BgPnjBPtxUkig1XZRnpVx10Jk7alm1ZHjyGBduWHpUjxhvvKDWcYQTlTtNSR3FzEQGHmL7\/AONDg0JSTLXlgcBiPxo2j+8ahlcyNuA28dKZz61BZM5qHGG5OB6mp3WomFNSa2E0nuJgj6Hv2pe9IqtztJGetSpCcjLZFaqoupk6b6B5eaPLFTYoxWJsf\/\/Z",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039M3UAXFG\/F03QCLUP1GB\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QCLUP1GB-1194e8ede8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039M3UAXFG",
+        "display_as_bot": false,
+        "ts": "1658369930.356599",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cni9I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の昼こいつら洗いたい笑"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "手伝ってくれる人ー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "hand",
+                                "unicode": "270b"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "EBE7CB5A-C91F-4D89-BD4D-BEE989CF29D9",
+        "thread_ts": "1658369930.356599",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1658461896.937829",
+        "reply_users": [
+            "U039RCZ4E04",
+            "U039M3UAXFG"
+        ],
+        "replies": [
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658393778.759639"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1658393911.592439"
+            },
+            {
+                "user": "U039RCZ4E04",
+                "ts": "1658461896.937829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "32331512-3EEE-4D09-8ABC-CA4F4452FDFD",
+        "type": "message",
+        "text": "<!channel> 企画部クイズ担当の宍戸です。\n今年度の学祭のステージ企画で使うクイズを募集します！子供向けからお年寄り向けまでどんな難易度でもいいので遠慮せず作ってみて欲しいです！一人何回でも投稿OKですので、回答お願いします。Googleフォームを作成したので、そこに書いてください&lt;(_ _)&gt;\n<https:\/\/forms.gle\/CW9CbEbBmEUDvmnGA|https:\/\/forms.gle\/CW9CbEbBmEUDvmnGA>",
+        "user": "U03K8CWK5LK",
+        "ts": "1658299966.092509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/CW9CbEbBmEUDvmnGA",
+                "image_url": "https:\/\/lh6.googleusercontent.com\/nA0G4sDNb9E6ToGc_nJA6OaVjOhUveHv1xD5gGuQ4Qvp_fuozUx-n8BY_OB-ZG2ryZH3kCK12VE",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 34564,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/CW9CbEbBmEUDvmnGA",
+                "fallback": "Google Docs: クイズの募集フォーム",
+                "text": "今年度のステージ企画　クイズの募集をします。 一人何回でも投稿OKですので、回答お願いします。",
+                "title": "クイズの募集フォーム",
+                "title_link": "https:\/\/forms.gle\/CW9CbEbBmEUDvmnGA",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bveon",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 企画部クイズ担当の宍戸です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今年度の学祭のステージ企画で使うクイズを募集します！子供向けからお年寄り向けまでどんな難易度でもいいので遠慮せず作ってみて欲しいです！一人何回でも投稿OKですので、回答お願いします。Googleフォームを作成したので、そこに書いてください<(_ _)>"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/CW9CbEbBmEUDvmnGA",
+                                "text": "https:\/\/forms.gle\/CW9CbEbBmEUDvmnGA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039V55S998",
+                    "U039M3UAXFG",
+                    "U03KB4QMFHR",
+                    "U0391RWR34N",
+                    "U03BM52KMEC"
+                ],
+                "count": 6
+            },
+            {
+                "name": "parrot_bouncing",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

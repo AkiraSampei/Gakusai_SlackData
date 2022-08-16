@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "01e06860-64dd-442e-8d0f-445e663e962b",
+        "type": "message",
+        "text": "<!channel> 夜遅くに連絡して申し訳ないんですけど、*先ほど学校側から一週間リモート授業になるメール*が来ました。\n  もしかすると*明日から一週間学祭室が使えなくなる可能性*があります。その場合、*企画書は学祭室で作成することはできません*。\n  もし*学祭室が使えない場合*は、*食堂や演習室、zoomなどを利用して企画書を作成*してください。*場所に関しては、二年生以上が主体*となって決めてください。\n  よろしくお願いします。",
+        "user": "U03BM52KMEC",
+        "ts": "1655819994.366419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03BM52KMEC",
+            "ts": "1655820699.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CHR9p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 夜遅くに連絡して申し訳ないんですけど、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "先ほど学校側から一週間リモート授業になるメール",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "が来ました。\n  もしかすると"
+                            },
+                            {
+                                "type": "text",
+                                "text": "明日から一週間学祭室が使えなくなる可能性",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "があります。その場合、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書は学祭室で作成することはできません",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\n  もし"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学祭室が使えない場合",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "は、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "食堂や演習室、zoomなどを利用して企画書を作成",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "してください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "場所に関しては、二年生以上が主体",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となって決めてください。\n  よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "了解",
+                "users": [
+                    "U0391RWR34N",
+                    "U03D0L4BEJU",
+                    "U038TMLJW1M",
+                    "U039PA9J5JP",
+                    "U039BUU0GAH",
+                    "U039L92GA3X",
+                    "U03BM52KMEC"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

@@ -1,0 +1,175 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658911933.075659",
+        "user": "U039BUU0GAH",
+        "text": "<@U039BUU0GAH>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "1FDD5E39-3586-49B8-8D6A-975BB1F74A83",
+        "type": "message",
+        "text": "NFTがなくなったのでドローン担当になりました。お願いします:duck_cute_1: ",
+        "user": "U039BUU0GAH",
+        "ts": "1658911966.351309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QFh+W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "NFTがなくなったのでドローン担当になりました。お願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "duck_cute_1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D2954A61-20B4-4328-A93A-52CB01C3D5DA",
+        "type": "message",
+        "text": "<@U039PA9J5JP> 何か手伝えることがあれば言ってください",
+        "user": "U039BUU0GAH",
+        "ts": "1658912031.700489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=7Jr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039PA9J5JP"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 何か手伝えることがあれば言ってください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658912031.700489",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658943462.556979",
+        "reply_users": [
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1658943462.556979"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A4E4A503-44C8-4E4D-9640-C6620E8AE0F4",
+        "type": "message",
+        "text": "ありがとうございます",
+        "user": "U039PA9J5JP",
+        "ts": "1658943462.556979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W308d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658912031.700489",
+        "parent_user_id": "U039BUU0GAH"
+    }
+]

@@ -1,0 +1,516 @@
+[
+    {
+        "client_msg_id": "4177e0ee-b1ce-4e90-82c2-6a25ba2c7c5f",
+        "type": "message",
+        "text": "木村君がいいならいいよ！",
+        "user": "U039V55S998",
+        "ts": "1657357858.659469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6U3nq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "木村君がいいならいいよ！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657268439.345279",
+        "parent_user_id": "U03JVEZF16K"
+    },
+    {
+        "client_msg_id": "8CBEEFFF-E7E1-4AE8-8592-E764D53A2214",
+        "type": "message",
+        "text": "球戯部　佐藤様\n（cc.緊急連絡先　野村様）\n\nお世話になっております。\n学園祭実行委員会対応部の津久井です。\n\n先日ご提出いただいた申請書について、訂正していただきたい箇所がございましたので、連絡いたしました。\n\n⚪︎平面図の記載が正しくされていない。\n\n不備の訂正がございますので、7月11日（月）の17時半に学祭室にお越しください。\nなお、お越しの際は印鑑の持参をよろしくお願いいたします。\n日時の都合が悪い場合は、ご希望の日時をお知らせください。\n\nよろしくお願いいたします。\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部1年\n学園祭実行委員会　\n対応部　s1300079　津久井羅偉\nEmail:  <mailto:s1300079@u-aizu.ac.jp|s1300079@u-aizu.ac.jp>\n-------------------------------------------------------",
+        "user": "U03CUPE920G",
+        "ts": "1657362169.663589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bH3x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "球戯部　佐藤様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "（cc.緊急連絡先　野村様）"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお世話になっております。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学園祭実行委員会対応部の津久井です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n先日ご提出いただいた申請書について、訂正していただきたい箇所がございましたので、連絡いたしました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n⚪︎平面図の記載が正しくされていない。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n不備の訂正がございますので、7月11日（月）の17時半に学祭室にお越しください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なお、お越しの際は印鑑の持参をよろしくお願いいたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日時の都合が悪い場合は、ご希望の日時をお知らせください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いいたします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "会津大学　コンピュータ理工学部"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学部1年"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学園祭実行委員会　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "対応部　s1300079　津久井羅偉"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Email:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300079@u-aizu.ac.jp",
+                                "text": "s1300079@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "-------------------------------------------------------"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657362169.663589",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1657497828.369659",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U03CUPE920G"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657364055.404659"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657364140.227599"
+            },
+            {
+                "user": "U03CUPE920G",
+                "ts": "1657364484.919469"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657364521.559539"
+            },
+            {
+                "user": "U03CUPE920G",
+                "ts": "1657365563.532389"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657497828.369659"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sent",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6F5CEB1A-6D13-419F-9C2A-B8BCED6C231D",
+        "type": "message",
+        "text": "チェックお願いします。",
+        "user": "U03CUPE920G",
+        "ts": "1657362179.868419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cz+V",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チェックお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7c5398a-e71e-4255-904d-3d3dde53373e",
+        "type": "message",
+        "text": "土日だとメール見ない人も多いので、月曜日に送りましょうか",
+        "user": "U0399UH8BKQ",
+        "ts": "1657364055.404659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0399UH8BKQ",
+            "ts": "1657364095.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "43ETg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "土日だとメール見ない人も多いので、月曜日に送りましょうか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657362169.663589",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "e5e5c28b-3749-4278-8f11-e0fed54cfd72",
+        "type": "message",
+        "text": "球戯部　→　球戯舞だと思います",
+        "user": "U0399UH8BKQ",
+        "ts": "1657364140.227599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U6QI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "球戯部　→　球戯舞だと思います"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657362169.663589",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "FA225A64-5DB3-48B4-9B9D-884EBFE209A1",
+        "type": "message",
+        "text": "わかりました。\nあと、月曜日に送るとなると訂正は月曜日じゃない方が良いですよね。",
+        "user": "U03CUPE920G",
+        "ts": "1657364484.919469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JPv=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あと、月曜日に送るとなると訂正は月曜日じゃない方が良いですよね。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657362169.663589",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "32737c1d-a866-464a-b2de-98d3d185359d",
+        "type": "message",
+        "text": "あ、そうじゃーん\n可能ですか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1657364521.559539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hItRD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ、そうじゃーん\n可能ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657362169.663589",
+        "parent_user_id": "U03CUPE920G"
+    },
+    {
+        "client_msg_id": "9EAAED8B-45E9-4439-A42D-77229B44FD48",
+        "type": "message",
+        "text": "木曜日になりそうです。",
+        "user": "U03CUPE920G",
+        "ts": "1657365563.532389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1nn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "木曜日になりそうです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657362169.663589",
+        "parent_user_id": "U03CUPE920G"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655110558.171729",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1655110558.442759",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「ドローン撮影の運営」に設定しました",
+        "purpose": "ドローン撮影の運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655110564.554139",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました",
+        "inviter": "U0394PQ44FL"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655110617.207349",
+        "user": "U03D0L4BEJU",
+        "text": "<@U03D0L4BEJU>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655117576.240019",
+        "user": "U039PA9J5JP",
+        "text": "<@U039PA9J5JP>さんがチャンネルに参加しました"
+    }
+]

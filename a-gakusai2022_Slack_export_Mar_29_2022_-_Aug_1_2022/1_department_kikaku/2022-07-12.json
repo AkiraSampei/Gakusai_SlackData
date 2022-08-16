@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "55574e5b-0d4f-4102-876a-fab0cfa056f8",
+        "type": "message",
+        "text": "[パンフレットに載せる要項まとめスレッド]\n\n企画関連でパンフレットに載せなければならないもの\/広報課長（<@U039RJU3V36> ）に連絡を取る必要がある場合、こちらに繋げていきましょう。",
+        "user": "U0391RWR34N",
+        "ts": "1657693458.248649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uDBDI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[パンフレットに載せる要項まとめスレッド]\n\n企画関連でパンフレットに載せなければならないもの\/広報課長（"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U039RJU3V36"
+                            },
+                            {
+                                "type": "text",
+                                "text": " ）に連絡を取る必要がある場合、こちらに繋げていきましょう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657693458.248649",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657693490.492469",
+        "reply_users": [
+            "U0391RWR34N"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1657693490.492469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a1d6bd7-26c5-477d-b8da-91083f900ec5",
+        "type": "message",
+        "text": "ここどこ\nスタンプラリーでスタンプを押すためのページを設けたい。（見開き1ページ）",
+        "user": "U0391RWR34N",
+        "ts": "1657693490.492469",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0391RWR34N",
+            "ts": "1657693538.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SGfw2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ここどこ\nスタンプラリーでスタンプを押すためのページを設けたい。（見開き1ページ）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657693458.248649",
+        "parent_user_id": "U0391RWR34N"
+    }
+]

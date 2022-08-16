@@ -1,0 +1,82 @@
+[
+    {
+        "client_msg_id": "F23C8C54-E275-4D97-B181-A562C9AA6DDC",
+        "type": "message",
+        "text": "この曲ってかこの作者やべぇ\nIQ200ぐらいありそう\n<https:\/\/youtu.be\/YBgzkksLURU|https:\/\/youtu.be\/YBgzkksLURU>",
+        "user": "U0399UH8BKQ",
+        "ts": "1655958541.371069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/YBgzkksLURU",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/YBgzkksLURU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/YBgzkksLURU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"ことばのおばけがまどからみている／重音テト\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/YBgzkksLURU",
+                "fallback": "YouTube Video: ことばのおばけがまどからみている／重音テト",
+                "title": "ことばのおばけがまどからみている／重音テト",
+                "title_link": "https:\/\/youtu.be\/YBgzkksLURU",
+                "author_name": "フロクロ(Frog96)",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC2395o6B5FIej43GpqSc1eg",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V2sV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "この"
+                            },
+                            {
+                                "type": "text",
+                                "text": "曲ってかこの作者やべぇ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "IQ200ぐらいありそう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/YBgzkksLURU",
+                                "text": "https:\/\/youtu.be\/YBgzkksLURU"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

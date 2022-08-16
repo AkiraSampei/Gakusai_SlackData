@@ -1,0 +1,232 @@
+[
+    {
+        "client_msg_id": "64f125be-7328-4b53-9ef6-4fb76bbe3efd",
+        "type": "message",
+        "text": "[活動記録]YouTube広告",
+        "user": "U039RJU3V36",
+        "ts": "1657330956.092449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RxY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[活動記録]YouTube広告"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657330956.092449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657331516.574099",
+        "reply_users": [
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U039RJU3V36",
+                "ts": "1657331516.574099"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "dcabe0ab-7913-45b8-a87a-cd2f0375ac9f",
+        "type": "message",
+        "text": "[活動記録]指定地域配達",
+        "user": "U039RJU3V36",
+        "ts": "1657330968.178249",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Aem5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[活動記録]指定地域配達"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657330968.178249",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1657331338.563389",
+        "reply_users": [
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U039RJU3V36",
+                "ts": "1657331246.464479"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1657331338.563389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "e97d18d3-9803-4a1d-b646-4607ed429913",
+        "type": "message",
+        "text": "JPのサービスを利用する活動。\n指定した地域に、開催告知と花火の注意喚起の葉書を配達してもらう。",
+        "user": "U039RJU3V36",
+        "ts": "1657331246.464479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WSm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "JPのサービスを利用する活動。\n指定した地域に、開催告知と花火の注意喚起の葉書を配達してもらう。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657330968.178249",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "aa58b43b-d210-4343-8101-7fa897447285",
+        "type": "message",
+        "text": "全くの未着手かつ情報も特にないので、来週の水曜が暇だったら郵便局に行って聞いてみる。",
+        "user": "U039RJU3V36",
+        "ts": "1657331338.563389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5sQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全くの未着手かつ情報も特にないので、来週の水曜が暇だったら郵便局に行って聞いてみる。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657330968.178249",
+        "parent_user_id": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "77ec4cde-37c5-45da-b8ae-acbec9537086",
+        "type": "message",
+        "text": "YouTube広告のための映像を作る活動。\n金額は再生された回数によって、変動するとのこと。（定額で何回再生分とかは出来ない？らしい）",
+        "user": "U039RJU3V36",
+        "ts": "1657331516.574099",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7k+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YouTube広告のための映像を作る活動。\n金額は再生された回数によって、変動するとのこと。（定額で何回再生分とかは出来ない？らしい）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657330956.092449",
+        "parent_user_id": "U039RJU3V36"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "2e198c97-19bd-4bfa-9821-9fd610d3337f",
+        "type": "message",
+        "text": "軽音CUOはそれぞれでやって最後に30分くらい一緒にやりたいそうです\nそのような枠を作ることは可能ですか？",
+        "user": "U039V55S998",
+        "ts": "1658475698.049599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V=XhR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "軽音CUOはそれぞれでやって最後に30分くらい一緒にやりたいそうです\nそのような枠を作ることは可能ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

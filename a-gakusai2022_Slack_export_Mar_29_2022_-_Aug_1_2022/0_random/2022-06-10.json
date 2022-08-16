@@ -1,0 +1,1140 @@
+[
+    {
+        "client_msg_id": "B7137D1E-4BDE-4B86-842D-D9D42D331065",
+        "type": "message",
+        "text": "そういえばなんですけど\n一年生って祝日の学祭室の入り方知ってますか？",
+        "user": "U039L92GA3X",
+        "ts": "1654921426.376729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OkMW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そういえば"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なんですけど"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "一年生って祝日の学祭室の入り方知ってますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654921426.376729",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654921878.281399",
+        "reply_users": [
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1654921878.281399"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "76740b20-755e-4868-ac4c-a9bed35ab0ff",
+        "type": "message",
+        "text": "教えてはいないから知らなそう\n一応一年生に今日の全体会議は学生証持ってきてとは伝えたよ",
+        "user": "U039PA9J5JP",
+        "ts": "1654921878.281399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C6mop",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教えてはいないから知らなそう\n一応一年生に今日の全体会議は学生証持ってきてとは伝えたよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654921426.376729",
+        "parent_user_id": "U039L92GA3X"
+    },
+    {
+        "client_msg_id": "6269f4e5-f377-4a61-b022-ee8b0f395ac8",
+        "type": "message",
+        "text": "ぼくやります",
+        "user": "U039BUU0GAH",
+        "ts": "1654924476.512839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cgz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぼくやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f386fba3-90ee-4778-8cc4-f926337b9656",
+        "type": "message",
+        "text": ":200_bpm:",
+        "user": "U03901B3W69",
+        "ts": "1654927831.908459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j6L",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "200_bpm"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K8CWK5LK",
+                    "U039V55S998"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B39A2A5A-E29C-4E36-B63B-E3353B37C913",
+        "type": "message",
+        "text": "わんだほーい",
+        "user": "U03K8CWK5LK",
+        "ts": "1654927833.356849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1QPzp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わん"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ほーい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U039V55S998"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039V55S998",
+                    "U03BM52KMEC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D1188066-5719-4727-A63F-656D4835219C",
+        "type": "message",
+        "text": "よろしくお願いします",
+        "user": "U03GW267PQE",
+        "ts": "1654927834.378549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "8d4cd923fe95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3667185878081_8d4cd923fe95f2c88bc0_72.png",
+            "first_name": "Akito",
+            "real_name": "Akito Sudo",
+            "display_name": "須藤",
+            "team": "T038Z0K089K",
+            "name": "s1300140",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1l+As",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K8CWK5LK",
+                    "U039V55S998"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "43864f15-d180-4caa-b7d7-305652ba2582",
+        "type": "message",
+        "text": "よろしくお願いします",
+        "user": "U03GZQ9T32R",
+        "ts": "1654927835.463439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EGa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K8CWK5LK",
+                    "U039V55S998"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5267055B-A488-48DC-AA89-2381319D646C",
+        "type": "message",
+        "text": "よろしくお願いします",
+        "user": "U03K1SMDYHL",
+        "ts": "1654927842.501379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge683ef399c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e683ef399c613c17f30ae6a6f1b11d81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Akari",
+            "real_name": "Akari Moriya",
+            "display_name": "あかり",
+            "team": "T038Z0K089K",
+            "name": "s1300231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4rKP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K8CWK5LK",
+                    "U039V55S998"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7612FE9F-43D2-4370-BA1D-B0D422FB1B62",
+        "type": "message",
+        "text": "プロフ料理中の写真です。よろしくお願いします",
+        "user": "U03A1S6RAF3",
+        "ts": "1654927845.089089",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "55ae241ca796",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654441248707_55ae241ca796e28df082_72.png",
+            "first_name": "Kobayashi",
+            "real_name": "Kobayashi Riku",
+            "display_name": "小林莉久",
+            "team": "T038Z0K089K",
+            "name": "s1290156",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7wXy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "プロフ料理中の写真です。よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03K8CWK5LK",
+                    "U03BM52KMEC",
+                    "U039L92GA3X",
+                    "U039V55S998"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0D94FB25-2EF8-4FD5-BB5C-A46B3FCD1F0F",
+        "type": "message",
+        "text": "よろしくお願いします！",
+        "user": "U03K8F1PW82",
+        "ts": "1654927852.175579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "6576e03f9907",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-12\/3801061478977_6576e03f9907f0383e04_72.png",
+            "first_name": "Takuya",
+            "real_name": "Takuya Eguchi",
+            "display_name": "たくや",
+            "team": "T038Z0K089K",
+            "name": "s1300049",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YE++h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K8CWK5LK",
+                    "U039V55S998"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9A60656B-2A3F-412D-942E-CB08D152EFEC",
+        "type": "message",
+        "text": "バーベキューしよう",
+        "user": "U039WPGBPDH",
+        "ts": "1654927864.188519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バーベキュー"
+                            },
+                            {
+                                "type": "text",
+                                "text": "しよう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039RCZ4E04",
+                    "U03K8F1PW82"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K8CWK5LK",
+                    "U039V55S998"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98973D55-8ADD-4D62-A0BE-DFD47B4AF2B6",
+        "type": "message",
+        "text": "よろしくお願いします!!!!!!!!!!!!!.!!!!.!!",
+        "user": "U039L92GA3X",
+        "ts": "1654927869.331729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nN8K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします!!!!!!!!!!!!!.!!!!.!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039L92GA3X",
+                    "U03K8CWK5LK",
+                    "U03BM52KMEC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A94256F9-3159-4E5F-9024-341491B04372",
+        "type": "message",
+        "text": "やぁ",
+        "user": "U03CDMY1V9C",
+        "ts": "1654927873.643019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=Kp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "や"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ぁ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03CDMY1V9C",
+                    "U039P4NSKM1",
+                    "U039WPGBPDH"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039RCZ4E04",
+                    "U03CDMY1V9C",
+                    "U039L92GA3X",
+                    "U039P4NSKM1",
+                    "U03K8CWK5LK",
+                    "U03BM52KMEC",
+                    "U039WPGBPDH"
+                ],
+                "count": 7
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U039P4NSKM1",
+                    "U039WPGBPDH",
+                    "U03CDMY1V9C"
+                ],
+                "count": 4
+            },
+            {
+                "name": "parrot_twins",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U039P4NSKM1",
+                    "U039WPGBPDH"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrot_conga",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U039P4NSKM1",
+                    "U039WPGBPDH",
+                    "U03CUPE920G",
+                    "U039V55S998"
+                ],
+                "count": 5
+            },
+            {
+                "name": "parrot_parrot",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U039WPGBPDH"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_moonwalking",
+                "users": [
+                    "U039WPGBPDH",
+                    "U03CDMY1V9C"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_bouncing",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89a22449-57d8-48a5-a8f9-4a887c2a6473",
+        "type": "message",
+        "text": "( ˇωˇ )…zzZ",
+        "user": "U03A1N54PJM",
+        "ts": "1654927907.545559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VVg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "( ˇωˇ )…zzZ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K8CWK5LK"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "544A4BBD-BF0C-4FB4-B07B-4625300E6CFC",
+        "type": "message",
+        "text": ":parrot_ultrafast: ",
+        "user": "U039L92GA3X",
+        "ts": "1654927941.230999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "43ec80edece3",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639916399111_43ec80edece3eca8ed83_72.png",
+            "first_name": "Ryuki",
+            "real_name": "Ryuki",
+            "display_name": "Ryuki_二年",
+            "team": "T038Z0K089K",
+            "name": "s1290184",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "M0+c2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "parrot_ultrafast"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_aussieconga",
+                "users": [
+                    "U03KRPKDY8L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ab55462-06bc-48f3-b26d-ec234ea041d2",
+        "type": "message",
+        "text": ":duck_cute_2::duck_cute_3::duck_cute_4::duck_cute_1:",
+        "user": "U039BUU0GAH",
+        "ts": "1654927968.444939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "woytJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "duck_cute_2"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "duck_cute_3"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "duck_cute_4"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "duck_cute_1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5EF34CE-E780-4836-947A-9D420DEE24C7",
+        "type": "message",
+        "text": ":grin: :nerd_face: ",
+        "user": "U03CDMY1V9C",
+        "ts": "1654927988.567229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2bFRG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "grin",
+                                "unicode": "1f601"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "nerd_face",
+                                "unicode": "1f913"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

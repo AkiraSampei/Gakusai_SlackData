@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "9baaa975-c9ad-4f9c-8c76-b80235ae6aaf",
+        "type": "message",
+        "text": "木曜日の昼休みはどうでしょうか？",
+        "user": "U03KB4QMFHR",
+        "ts": "1657504788.378699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g23771e7f9f2",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/23771e7f9f2013dde3cacac54a24b1d1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "小西　奏真",
+            "real_name": "小西　奏真",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "konichan1024",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KnjX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "木曜日の昼休みはどうでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bd3b86b-4139-446f-90e1-e0803e17ef9d",
+        "type": "message",
+        "text": "ぼくはOKです！",
+        "user": "U039BUU0GAH",
+        "ts": "1657504892.913169",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "id3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ぼくはOKです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21bc2115-bb17-4a43-87f3-f24d5dced249",
+        "type": "message",
+        "text": "じゃあ木曜日の昼休みにしましょう!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1657504930.291509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+8VU\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃあ木曜日の昼休みにしましょう!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

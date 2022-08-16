@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931541.889259",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1654931542.233539",
+        "user": "U0394PQ44FL",
+        "text": "がこのチャンネルの説明を「バブルボール運営」に設定しました",
+        "purpose": "バブルボール運営"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1654931769.641189",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「13_kikaku_バブルボール」から「2_kikaku_バブルボール」に変更しました",
+        "old_name": "13_kikaku_バブルボール",
+        "name": "2_kikaku_バブルボール"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654931836.908849",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    }
+]

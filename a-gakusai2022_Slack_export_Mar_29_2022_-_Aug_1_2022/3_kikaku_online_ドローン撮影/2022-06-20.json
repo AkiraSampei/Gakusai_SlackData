@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "7f4bf943-4779-4dee-9223-05f0bce79129",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg>\nドローンの企画書を書きました。\nこれ見ながら水曜日は進めていきたいと思います！:cat_handsup:\nよろしくお願いします",
+        "user": "U039PA9J5JP",
+        "ts": "1655785448.526689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvUn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/0B5SOeEiYgcIBajBwdnRURktSVjI0UUQ5aW1QZk1jQQ?resourcekey=0-tB0K0j_tJWTnLexO9iGIhg"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nドローンの企画書を書きました。\nこれ見ながら水曜日は進めていきたいと思います！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cat_handsup"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nよろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

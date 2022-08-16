@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "589A7E64-F8B5-4BFB-B074-75E8D949E093",
+        "type": "message",
+        "text": "<!channel> \nやります、今年度初配信\n4\/24日に学祭説明会をします\n\nそのため事前準備を22日に行います\n始める時間を決めたいので前日までに伝助記入をお願いします\n<https:\/\/densuke.biz\/list?cd=svbb6aq4NgfnLVyM|https:\/\/densuke.biz\/list?cd=svbb6aq4NgfnLVyM> \n\nお昼にできなさそうならみんなにお願いして開室時間を調整してもらいましょう",
+        "user": "U0394PQ44FL",
+        "ts": "1650445493.871499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=svbb6aq4NgfnLVyM",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=svbb6aq4NgfnLVyM",
+                "fallback": "伝助（配信課 配信準備）",
+                "text": "学祭説明会配信準備です",
+                "title": "伝助（配信課 配信準備）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=svbb6aq4NgfnLVyM",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Njq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nやります、今年度初配信\n4\/24日に学祭説明会をします\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そのため事前準備を22日に行います\n始める時間を決めたいので前日までに伝助記入をお願いします\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=svbb6aq4NgfnLVyM",
+                                "text": "https:\/\/densuke.biz\/list?cd=svbb6aq4NgfnLVyM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お昼にできなさそうならみんなにお願いして開室時間を調整してもらいましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ikemasen",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039M3UAXFG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91BC26B9-053B-4B2F-B3D6-E9DA18AA7BA3",
+        "type": "message",
+        "text": "↑それじゃあ12:00からやりましょう\n\n具体的にやりたいことは\n・配信枠作成\n・OBS設定\n・カメラ設置\n・テスト配信\n\nです\n\n時間が足りない場合は翌日やりましょう（とは言ったものの私個人は土日参加できないのでみなさんお手伝いお願いします）",
+        "user": "U0394PQ44FL",
+        "ts": "1650508898.884679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mdt2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑それじゃあ12:00からやりましょう\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "具体的にやりたいことは\n・配信枠作成\n・OBS設定\n・カメラ設置\n・テスト配信\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時間が足りない場合は翌日やりましょう（とは言ったものの私個人は土日参加できないのでみなさんお手伝いお願いします）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

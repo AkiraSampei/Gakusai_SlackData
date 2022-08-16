@@ -1,0 +1,115 @@
+[
+    {
+        "client_msg_id": "082afb31-fe33-4d5f-a7a4-bea62c069f97",
+        "type": "message",
+        "text": "自分が今日行けるか怪しくなっちゃったので14の午後にします\n何時がいいですか<@U03BW9Q5DF1>",
+        "user": "U038TMLJW1M",
+        "ts": "1657683947.158709",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mJTmT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自分が今日行けるか怪しくなっちゃったので14の午後にします\n何時がいいですか"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03BW9Q5DF1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657683947.158709",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657697592.202299",
+        "reply_users": [
+            "U03BW9Q5DF1",
+            "U038TMLJW1M"
+        ],
+        "replies": [
+            {
+                "user": "U03BW9Q5DF1",
+                "ts": "1657696891.264159"
+            },
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1657697592.202299"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "530380ec-b762-45b5-841d-209fd7d52b48",
+        "type": "message",
+        "text": "<@U03A1N54PJM> 存在を忘れていた…木曜来れる？",
+        "user": "U038TMLJW1M",
+        "ts": "1657683971.413129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T6R3y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03A1N54PJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 存在を忘れていた…木曜来れる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03A1N54PJM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

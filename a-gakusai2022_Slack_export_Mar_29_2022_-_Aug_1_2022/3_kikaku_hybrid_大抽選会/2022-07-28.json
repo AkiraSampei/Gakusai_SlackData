@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03QXP41PJT",
+                "created": 1658997436,
+                "timestamp": 1658997436,
+                "name": "大抽選会　会議.pdf",
+                "title": "大抽選会　会議.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 37185,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QXP41PJT\/_____________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QXP41PJT\/download\/_____________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QXP41PJT-2aa1c76853\/______________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03QXP41PJT\/_____________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QXP41PJT-9884407716",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1658997439.047529",
+        "client_msg_id": "caf19027-a49b-4e07-895f-1830fa1d3138",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC",
+                    "U039M3UAXFG"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

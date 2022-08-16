@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "1810ca92-597f-4e96-b13a-52fa642ea20a",
+        "type": "message",
+        "text": "今年度初メールチェーーック\nーー本文ーー\n株式会社ハンズオン・エンタテインメント 岩澤様\n\nお世話になっております。\n会津大学学園祭実行委員会の中島です。\nZoomでの打ち合わせをお願いしたいのですが、4月7日の午前中はいかがでしょうか。\n返信が遅くなってしまい申し訳ございませんでした。\nよろしくお願いいたします。",
+        "user": "U039EF90649",
+        "ts": "1649056313.789119",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YWvg6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今年度初メールチェーーック\nーー本文ーー\n株式会社ハンズオン・エンタテインメント 岩澤様\n\nお世話になっております。\n会津大学学園祭実行委員会の中島です。\nZoomでの打ち合わせをお願いしたいのですが、4月7日の午前中はいかがでしょうか。\n返信が遅くなってしまい申し訳ございませんでした。\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649056313.789119",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1649068165.755479",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1649068165.755479"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2987EC8E-D26D-46B7-9267-45417F9EA78A",
+        "type": "message",
+        "text": "・返信が遅れた事の謝罪は最初にしたほうがいい\n・午前中ではなく「00時00分」と明確に時間を言った方がいい",
+        "user": "U0399UH8BKQ",
+        "ts": "1649068165.755479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "d1X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "・返信が遅れた事の謝罪は最初にしたほうがいい\n・午前中ではなく「00時00分」と明確に時間を言った方がいい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649056313.789119",
+        "parent_user_id": "U039EF90649"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649083370.136869",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました"
+    }
+]

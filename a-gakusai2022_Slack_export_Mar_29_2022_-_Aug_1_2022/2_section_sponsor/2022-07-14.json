@@ -1,0 +1,296 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787158.962009",
+        "user": "U03BW9Q5DF1",
+        "text": "<@U03BW9Q5DF1>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787165.222029",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787168.868709",
+        "user": "U039L92GA3X",
+        "text": "<@U039L92GA3X>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787172.429929",
+        "user": "U03K8CWK5LK",
+        "text": "<@U03K8CWK5LK>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787173.421629",
+        "user": "U03K1SMDYHL",
+        "text": "<@U03K1SMDYHL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787173.626439",
+        "user": "U039RJU3V36",
+        "text": "<@U039RJU3V36>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787180.758099",
+        "user": "U03GW267PQE",
+        "text": "<@U03GW267PQE>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787182.072649",
+        "user": "U03GZQ9T32R",
+        "text": "<@U03GZQ9T32R>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787186.775299",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787188.446949",
+        "user": "U03KPT8FAD7",
+        "text": "<@U03KPT8FAD7>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787205.147679",
+        "user": "U03KRPKDY8L",
+        "text": "<@U03KRPKDY8L>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787219.499729",
+        "user": "U03K8F1PW82",
+        "text": "<@U03K8F1PW82>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787220.290609",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787233.516819",
+        "user": "U039TSY8J67",
+        "text": "<@U039TSY8J67>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657787241.056679",
+        "user": "U039WPGBPDH",
+        "text": "<@U039WPGBPDH>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "3ff63e38-5fb1-4239-8d0f-42494cd3ae0e",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE>",
+        "user": "U039PA9J5JP",
+        "ts": "1657787310.934449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9Xyn4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1r9zPubCMhFlaP9-L5VLbFzPy8nvfnxDE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "スポンサーの資料です。これをお店に見せて協賛のサインをもらうので、全員目を通してください:eyes:",
+        "files": [
+            {
+                "id": "F03PV248MSM",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": false,
+        "user": "U039PA9J5JP",
+        "display_as_bot": false,
+        "ts": "1657787415.604639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bAcX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スポンサーの資料です。これをお店に見せて協賛のサインをもらうので、全員目を通してください"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "697f8910-22e1-46e7-ad9d-cc1958dde5c7"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657808335.921639",
+        "user": "U039D5XVCJ3",
+        "text": "<@U039D5XVCJ3>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657846059.657029",
+        "user": "U03K4J7KXTQ",
+        "text": "<@U03K4J7KXTQ>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657846067.272599",
+        "user": "U03KB4QMFHR",
+        "text": "<@U03KB4QMFHR>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657846072.535799",
+        "user": "U03D0L4BEJU",
+        "text": "<@U03D0L4BEJU>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657846082.315539",
+        "user": "U03CDMY1V9C",
+        "text": "<@U03CDMY1V9C>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657846094.601489",
+        "user": "U03JVEZF16K",
+        "text": "<@U03JVEZF16K>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    },
+    {
+        "client_msg_id": "aad3a91d-c823-4628-9766-fba43ef33172",
+        "type": "message",
+        "text": "<!channel>\n昨日は会議に出席いただきありがとうございました。\n*訪問する日が決まったらドライブの中の協賛進捗と、このslackにお店と日時を書いてください。今月中にお願いします。*\n断られたら報告だけでおkです。\n電話する人は一年生主体でお願いします。上級生もそばについてあげてください\n去年僕が使った文章をドライブに一応載せたので参考にしてください。\n訪問については後日詳しく連絡します。\nわからないことがあったらDMでもなんでも聞いてください。\nよろしくお願いします:duck_cute_3:",
+        "user": "U039PA9J5JP",
+        "ts": "1657847776.020659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n昨日は会議に出席いただきありがとうございました。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "訪問する日が決まったらドライブの中の協賛進捗と、このslackにお店と日時を書いてください。今月中にお願いします。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n断られたら報告だけでおkです。\n電話する人は一年生主体でお願いします。上級生もそばについてあげてください\n去年僕が使った文章をドライブに一応載せたので参考にしてください。\n訪問については後日詳しく連絡します。\nわからないことがあったらDMでもなんでも聞いてください。\nよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "duck_cute_3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

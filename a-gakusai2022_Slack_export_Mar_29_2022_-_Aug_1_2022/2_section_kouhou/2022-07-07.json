@@ -1,0 +1,128 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1657182221.722179",
+        "user": "U03BW9Q5DF1",
+        "text": "<@U03BW9Q5DF1>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "おととしのquickの掲載データ",
+        "files": [
+            {
+                "id": "F03NEQ1106S",
+                "created": 1657182572,
+                "timestamp": 1657182572,
+                "name": "20201002-01.jpg",
+                "title": "20201002-01.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 1098555,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NEQ1106S\/20201002-01.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NEQ1106S\/download\/20201002-01.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 146,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 195,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 292,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 325,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 390,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03NEQ1106S-d3791b68ef\/20201002-01_1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 416,
+                "original_w": 1640,
+                "original_h": 666,
+                "thumb_tiny": "AwATADCVDmJTnsKgl\/1h5IzjoPapoP8AUDkdKRkUyHdIU4GMUJ6tEdSAo4XJbIHUjnH1qWO2DrvLdTSeRDgjzT6Yx1pY2hUYO4kE8+tNXKuOa1XcuG65PIpGtE8tiWIIBPApzSREqdnHPOKR54QjDaScEfdp3YE+AMAACgqrY3KD9RSmj0+tQMYETH3F\/KlEacfIv5Uo6Uo7UXAf5Sf3F\/Koo40K8qp5Pap6ii+7+J\/nQgP\/2Q==",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03NEQ1106S\/20201002-01.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03NEQ1106S-91d867856f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RJU3V36",
+        "display_as_bot": false,
+        "ts": "1657182578.578659",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OEv5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おととしのquickの掲載データ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "3c5327c6-3ad3-4844-8695-05ca92dc6160"
+    },
+    {
+        "client_msg_id": "dd49cb38-7ecb-4013-9928-e6a60cf0cd35",
+        "type": "message",
+        "text": "YouTube広告、パンフ、チラシにイラストを使いたく、そのイラストをイラストレーターに依頼をしたい。→候補[DSマイル、いみぎむる]\n\n予算はYouTube広告の方から出そうと考えてます。",
+        "user": "U039RJU3V36",
+        "ts": "1657245811.529509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q3Qpa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "YouTube広告、パンフ、チラシにイラストを使いたく、そのイラストをイラストレーターに依頼をしたい。→候補[DSマイル、いみぎむる]\n\n予算はYouTube広告の方から出そうと考えてます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381679.150529",
+        "parent_user_id": "U039RJU3V36"
+    }
+]

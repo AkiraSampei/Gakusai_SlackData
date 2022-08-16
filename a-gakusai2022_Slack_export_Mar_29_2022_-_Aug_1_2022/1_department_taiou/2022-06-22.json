@@ -1,0 +1,354 @@
+[
+    {
+        "client_msg_id": "5a2d0e69-a977-492b-8900-35d32428fcdc",
+        "type": "message",
+        "text": "<!channel> 急なメンション失礼します。対応部会議を７月６日水曜日の7,8限に開催しようと考えております。参加よろしくお願いします。\nまた、ステージ発表するサークル向けの説明会を水曜日の9限に行うので、参加可能な方は参加よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655951423.043229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1655955040.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vNE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 急なメンション失礼します。対応部会議を７月６日水曜日の7,8限に開催しようと考えております。参加よろしくお願いします。\nまた、ステージ発表するサークル向けの説明会を水曜日の9限に行うので、参加可能な方は参加よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655951423.043229",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655954651.755569",
+        "reply_users": [
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655954651.755569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "2-num",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03KRPKDY8L",
+                    "U039P4NSKM1"
+                ],
+                "count": 3
+            },
+            {
+                "name": "了解",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03A1S6RAF3"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b9ff850-1f2e-447f-a6e2-14f2c1b073c8",
+        "type": "message",
+        "text": "ポケー(゜ρ゜)としてました",
+        "user": "U03KRPKDY8L",
+        "ts": "1655951632.291239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fe=yO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポケー(゜ρ゜)としてました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655951632.291239",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655953909.114989",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U03KRPKDY8L"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655953794.211269"
+            },
+            {
+                "user": "U03KRPKDY8L",
+                "ts": "1655953909.114989"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1655951679.796639",
+        "thread_ts": "1655951679.796639",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655951733.734169",
+        "reply_users": [
+            "U039P4NSKM1"
+        ],
+        "replies": [
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1655951733.734169"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "12260f61-ec97-48da-bec9-bfdebd9cd9f7",
+        "type": "message",
+        "text": "チュートリアルおじさん来た！",
+        "user": "U039P4NSKM1",
+        "ts": "1655951733.734169",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fm6c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "チュートリアルおじさん来た！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655951679.796639",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "lol",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_aussieconga",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_jumping",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "882dfe96-5a84-4ae0-8764-1052e932105d",
+        "type": "message",
+        "text": "「スレッドで返信」って機能もあるから活用してもろて",
+        "user": "U0399UH8BKQ",
+        "ts": "1655953794.211269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Npm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「スレッドで返信」って機能もあるから活用してもろて"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655951632.291239",
+        "parent_user_id": "U03KRPKDY8L"
+    },
+    {
+        "client_msg_id": "3f7275c9-2ccd-4826-b4d3-4c11a724fb94",
+        "type": "message",
+        "text": "はい",
+        "user": "U03KRPKDY8L",
+        "ts": "1655953909.114989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6NuSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655951632.291239",
+        "parent_user_id": "U03KRPKDY8L"
+    },
+    {
+        "client_msg_id": "a824514e-bd63-4c08-97c5-6929e3d805be",
+        "type": "message",
+        "text": "その日はそれしか無いんですか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1655954651.755569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yagIA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "その日はそれしか無いんですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655951423.043229",
+        "parent_user_id": "U039V55S998"
+    }
+]

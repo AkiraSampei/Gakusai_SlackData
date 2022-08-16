@@ -1,0 +1,295 @@
+[
+    {
+        "client_msg_id": "7ebda3f8-ce8b-40d2-b2db-05e9c6482bc2",
+        "type": "message",
+        "text": "<!channel> そういえばnftの進捗の方は大丈夫そうですか？",
+        "user": "U03BM52KMEC",
+        "ts": "1658192821.749029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZtklY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " そういえばnftの進捗の方は大丈夫そうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5253E92D-4EDC-474B-8194-650AF7A28EB1",
+        "type": "message",
+        "text": "そもそもやりますかって問題",
+        "user": "U038TMLJW1M",
+        "ts": "1658193804.733659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hmn9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そもそもやりますかって問題"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "802d99ac-f424-4cc6-b7c4-e2f6cd1e2902",
+        "type": "message",
+        "text": "そのための話し合いとかってしてない感じですよね？多分",
+        "user": "U03BM52KMEC",
+        "ts": "1658193904.968889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z5h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そのための話し合いとかってしてない感じですよね？多分"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "015E918C-E5B4-4FF4-9AA2-8FECE961B294",
+        "type": "message",
+        "text": "京谷さんが趣味でNFTしてるんで学祭の企画の方良かったらなりませんかくらいは話しといたんでそっからどうするかですね:sweat_drops:",
+        "user": "U039WPGBPDH",
+        "ts": "1658193989.045749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039WPGBPDH",
+            "ts": "1658194074.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zoxg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "京谷さんが趣味でNFTしてるんで学祭の企画の方良かったらなりませんかくらいは話しといたんでそっからどうするかですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sweat_drops",
+                                "unicode": "1f4a6"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658193989.045749",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658194243.558569",
+        "reply_users": [
+            "U039BUU0GAH"
+        ],
+        "replies": [
+            {
+                "user": "U039BUU0GAH",
+                "ts": "1658194243.558569"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "そうすね",
+        "user": "U039BUU0GAH",
+        "ts": "1658194243.558569",
+        "thread_ts": "1658193989.045749",
+        "root": {
+            "client_msg_id": "015E918C-E5B4-4FF4-9AA2-8FECE961B294",
+            "type": "message",
+            "text": "京谷さんが趣味でNFTしてるんで学祭の企画の方良かったらなりませんかくらいは話しといたんでそっからどうするかですね:sweat_drops:",
+            "user": "U039WPGBPDH",
+            "ts": "1658193989.045749",
+            "team": "T038Z0K089K",
+            "edited": {
+                "user": "U039WPGBPDH",
+                "ts": "1658194074.000000"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "zoxg",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "京谷さんが趣味でNFTしてるんで学祭の企画の方良かったらなりませんかくらいは話しといたんでそっからどうするかですね"
+                                },
+                                {
+                                    "type": "emoji",
+                                    "name": "sweat_drops",
+                                    "unicode": "1f4a6"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1658193989.045749",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1658194243.558569",
+            "reply_users": [
+                "U039BUU0GAH"
+            ],
+            "replies": [
+                {
+                    "user": "U039BUU0GAH",
+                    "ts": "1658194243.558569"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sx2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうすね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "164F80E8-52B8-4090-8050-834EFEA73C4A"
+    },
+    {
+        "client_msg_id": "6A9DDCF1-66BA-453D-A50C-456C7B27A47D",
+        "type": "message",
+        "text": "スラックで聞いときます",
+        "user": "U039BUU0GAH",
+        "ts": "1658194255.486479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hFYuo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "スラックで聞いときます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

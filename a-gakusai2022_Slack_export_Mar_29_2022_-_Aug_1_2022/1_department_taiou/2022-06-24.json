@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "2deb9db2-cc5d-4146-a8b6-97233adb6bbf",
+        "type": "message",
+        "text": "<!channel> メンション失礼します。この度対応部の共有フォルダを作成しました。このフォルダには各部署の資料や、企業とのやりとりを保存してください。引き継ぎに影響する大切なことなので皆様ご理解、ご協力よろしくお願いします。<https:\/\/drive.google.com\/drive\/folders\/1WxVG5DRSMoEZHuirgwTI5hF0D5Qr9ms8?usp=sharing>",
+        "user": "U039V55S998",
+        "ts": "1656055379.123689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656055807.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fBtf0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " メンション失礼します。この度対応部の共有フォルダを作成しました。このフォルダには各部署の資料や、企業とのやりとりを保存してください。引き継ぎに影響する大切なことなので皆様ご理解、ご協力よろしくお願いします。"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1WxVG5DRSMoEZHuirgwTI5hF0D5Qr9ms8?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U0391RWR34N",
+                    "U039LGX8MN1",
+                    "U039T9DE072",
+                    "U039M3UAXFG",
+                    "U039PA9J5JP"
+                ],
+                "count": 5
+            },
+            {
+                "name": "2-num",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

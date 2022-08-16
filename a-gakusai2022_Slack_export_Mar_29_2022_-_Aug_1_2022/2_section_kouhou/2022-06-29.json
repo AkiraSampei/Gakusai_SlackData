@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "1d1f39e0-8b62-4cbb-817e-fcb7abc6b64e",
+        "type": "message",
+        "text": "去年のパンフ･ポスターの請求書を持っている、あるいは所在を知っている人いませんか？",
+        "user": "U039RJU3V36",
+        "ts": "1656551760.882379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vJ2OT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年のパンフ･ポスターの請求書を持っている、あるいは所在を知っている人いませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

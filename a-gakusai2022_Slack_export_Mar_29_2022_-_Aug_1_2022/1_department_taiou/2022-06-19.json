@@ -1,0 +1,361 @@
+[
+    {
+        "client_msg_id": "f7261a19-5125-4a8f-bcd1-c0a2a928ffdc",
+        "type": "message",
+        "text": "<!channel>　伝助をまだ記入していない方、記入よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1655688004.292769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mHZA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　伝助をまだ記入していない方、記入よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EA95D741-5DCB-4F90-A5E4-6F8E6F301169",
+        "type": "message",
+        "text": "<@U039V55S998> \ncccから質問が来てたので返答お願いします。\nサークル補助金関連の回答はこうです。\n・サークル補助金は利益の出ない団体のみが申請できる制度である。\n・上限は各団体3万円、但し前年度からの大幅な増額は認められない。(昨年度、一昨年度は申請団体がなかったため、後半はあまり関係ないかも)\n・学祭以外で利用する備品への利用は承認できない。\n\n補助金に関しては中間報告会(説明会？)で詳細の説明、申請書の配布を行うので詳細はそこで言いますぐらいにしておくと良いです。",
+        "user": "U0399UH8BKQ",
+        "ts": "1655692515.753899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0399UH8BKQ",
+            "ts": "1655692701.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "D2QhU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039V55S998"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "cccから質問が来てたので返答お願いします。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "サークル補助金関連の回答はこうです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・サークル補助金は利益の出ない団体のみが申請できる制度である。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・上限は各団体3万円、但し前年度からの大幅な増額は認められない。(昨年度、一昨年度は申請団体がなかったため、後半はあまり関係ないかも)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "・学祭以外で利用する備品への利用は承認できない。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "補助金に関しては中間報告会(説明会？)で詳細の説明、申請書の配布を行うので詳細はそこで言いますぐら"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いにしておくと良いです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28ec3d58-2f2d-473e-86d2-bb82658115a8",
+        "type": "message",
+        "text": "電気水道の引継ぎ書を見た限り、教室ごとに書いているので書いたほうが良いかなと考えます",
+        "user": "U039V55S998",
+        "ts": "1655692655.238649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1655692716.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mfKU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "電気水道の引継ぎ書を見た限り、教室ごとに書いているので書いたほうが良いかなと考えます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0399UH8BKQ",
+                    "U039LGX8MN1"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f5fc7f4-54c6-4de6-bff9-15129c44b238",
+        "type": "message",
+        "text": "また、この返信は全体で共有したほうが良いと考えるので、一旦返信してからもう一度全体にメールしても良いですか？",
+        "user": "U039V55S998",
+        "ts": "1655692770.646919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XyHO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "また、この返信は全体で共有したほうが良いと考えるので、一旦返信してからもう一度全体にメールしても良いですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655692770.646919",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655694081.486379",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1655692851.171289"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655694081.486379"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "77F959FD-6E23-4BD9-9C2B-E793D9EB885C",
+        "type": "message",
+        "text": "そこの判断は任せます。\n私は「後で説明するし別に良くね」派です。",
+        "user": "U0399UH8BKQ",
+        "ts": "1655692851.171289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "78q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そこの判断は任せます。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "私は「後で説明するし別に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "良くね"
+                            },
+                            {
+                                "type": "text",
+                                "text": "」派です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655692770.646919",
+        "parent_user_id": "U039V55S998",
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U03901B3W69"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73519141-7c49-44ad-ac6d-242ab94fae5d",
+        "type": "message",
+        "text": "了解です",
+        "user": "U039V55S998",
+        "ts": "1655694081.486379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iVYs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655692770.646919",
+        "parent_user_id": "U039V55S998"
+    }
+]

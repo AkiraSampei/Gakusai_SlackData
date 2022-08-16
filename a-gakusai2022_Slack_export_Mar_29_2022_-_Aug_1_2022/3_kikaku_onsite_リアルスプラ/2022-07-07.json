@@ -1,0 +1,59 @@
+[
+    {
+        "client_msg_id": "4ec91dab-ff40-49b0-a284-94b25d396b0c",
+        "type": "message",
+        "text": "<@U03GZQ9T32R> お疲れ様!!!\n企画書の添削が終わっから、来週に企画書の修正をしたいと考えているんだけど、都合のいい日時教えてほしい!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1657261758.274389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fclU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03GZQ9T32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様!!!\n企画書の添削が終わっから、来週に企画書の修正をしたいと考えているんだけど、都合のいい日時教えてほしい!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657261758.274389",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657267216.818319",
+        "reply_users": [
+            "U03GZQ9T32R"
+        ],
+        "replies": [
+            {
+                "user": "U03GZQ9T32R",
+                "ts": "1657267216.818319"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

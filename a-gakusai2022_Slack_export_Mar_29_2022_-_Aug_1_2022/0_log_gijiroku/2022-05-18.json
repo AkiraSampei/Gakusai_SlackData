@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "text": "改めて議事録ぽい",
+        "files": [
+            {
+                "id": "F03FY0K95FV",
+                "created": 1652868116,
+                "timestamp": 1652868116,
+                "name": "無題のドキュメント.pdf",
+                "title": "無題のドキュメント.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039V55S998",
+                "editable": false,
+                "size": 34371,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03FY0K95FV\/______________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03FY0K95FV\/download\/______________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03FY0K95FV-e7e824faa9\/_______________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 911,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039V55S998\/F03FY0K95FV\/______________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03FY0K95FV-7e63424990",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039V55S998",
+        "display_as_bot": false,
+        "ts": "1652868119.178259",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pV2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "改めて議事録ぽい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "a6c50bb7-12a2-4e73-b696-468d56913078",
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03D0L4BEJU",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

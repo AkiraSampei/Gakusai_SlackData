@@ -1,0 +1,406 @@
+[
+    {
+        "client_msg_id": "E3CC1DF7-11AC-417F-B157-06985AA9E107",
+        "type": "message",
+        "text": "本日の全体会議、ゼミがあるので欠席します。",
+        "user": "U03A9180MAN",
+        "ts": "1657758608.020039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Se2Uc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日の全体会議、ゼミがあるので欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8F19767E-C672-4E03-B1A7-4592691BAAE8",
+        "type": "message",
+        "text": "同じくセミあるので欠席します",
+        "user": "U0394PQ44FL",
+        "ts": "1657758638.042369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ly2ku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "同じくセミ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あるの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f2f22e2-a372-44e5-84c0-0edbf69ba34e",
+        "type": "message",
+        "text": "課プロ終わってから行きます",
+        "user": "U039V55S998",
+        "ts": "1657760897.524299",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "課プロ終わってから行きます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F77AB3EF-A568-4F91-B43A-DE5481B7C095",
+        "type": "message",
+        "text": "ゼミがあるので欠席します",
+        "user": "U039EF90649",
+        "ts": "1657761206.558329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I9e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "るので欠席"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EEF068DB-0E73-4869-B876-53A4EA705F82",
+        "type": "message",
+        "text": "私用により欠席させてもらいます",
+        "user": "U039D5XVCJ3",
+        "ts": "1657766346.800689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "9581be3278ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-02\/3327154980390_9581be3278ca72a0270a_72.png",
+            "first_name": "Yuto",
+            "real_name": "Yuto Nakahara",
+            "display_name": "デンデン",
+            "team": "T038Z0K089K",
+            "name": "n.yuuto2031",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "le7I",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私用により欠席させてもらいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86059994-de25-4092-bdac-c22a902b37f8",
+        "type": "message",
+        "text": "今日の会議は私用があり欠席します",
+        "user": "U039LGX8MN1",
+        "ts": "1657767065.233939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge4cceea23c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4cceea23c3c852dd9aef914c9b398f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "白湯",
+            "real_name": "白湯",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "satoyuma3314",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CXWB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の会議は私用があり欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4232BA58-DA2C-48E6-B09F-231906DF5ADE",
+        "type": "message",
+        "text": "課プロとサークルのため欠席します",
+        "user": "U03D0L4BEJU",
+        "ts": "1657769600.386719",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LRBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "課プロとサークルのため欠席します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A0A04B0B-480A-4E90-BA9F-29ECD920F841",
+        "type": "message",
+        "text": "体調不良の為欠席します",
+        "user": "U03K4J7KXTQ",
+        "ts": "1657773689.860409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x30",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調不良の為欠席"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B2764CEB-E8F7-4086-AB55-60DF39DCEE06",
+        "type": "message",
+        "text": "ゼミがあるので欠席します。",
+        "user": "U039T9DE072",
+        "ts": "1657774685.735349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IWmNc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ゼミがあるので欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a38c3624-b1fc-4335-a661-7967705bdfd8",
+        "type": "message",
+        "text": "予定が入ってしまったので欠席します。",
+        "user": "U03JVEZF16K",
+        "ts": "1657779308.479799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gce3b8c064d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce3b8c064d631f71df30389c596bff69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "木村好誠",
+            "real_name": "木村好誠",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "kimurakousei0606",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "66pWU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定が入ってしまったので欠席します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

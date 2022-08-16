@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655110770.781889",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "13ceca2a-d1a9-4e32-9c5f-82c663906210",
+        "type": "message",
+        "text": "<@U039WPGBPDH> 来月行うレクリエーションのアンケートを来週までにGoogleホームで作成してください。\n内容は、\n・球技大会かボードゲーム大会のどちらがよいか\n・来月の希望日時",
+        "user": "U039RCZ4E04",
+        "ts": "1655184377.422689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ob5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039WPGBPDH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 来月行うレクリエーションのアンケートを来週までにGoogleホームで作成してください。\n内容は、\n・球技大会かボードゲーム大会のどちらがよいか\n・来月の希望日時"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039WPGBPDH"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

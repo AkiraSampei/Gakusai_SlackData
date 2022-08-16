@@ -1,0 +1,182 @@
+[
+    {
+        "client_msg_id": "66691426-DF1B-4708-97F7-893E96D69D6F",
+        "type": "message",
+        "text": "来週の水曜日は授業がないので、その日でしたらいつでも大丈夫です。",
+        "user": "U03K1SMDYHL",
+        "ts": "1655284362.558529",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge683ef399c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e683ef399c613c17f30ae6a6f1b11d81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Akari",
+            "real_name": "Akari Moriya",
+            "display_name": "あかり",
+            "team": "T038Z0K089K",
+            "name": "s1300231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VxU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来週の水曜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日"
+                            },
+                            {
+                                "type": "text",
+                                "text": "は授業がないので、その日でしたらいつでも大丈夫"
+                            },
+                            {
+                                "type": "text",
+                                "text": "です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd95e0c4-60d2-4061-8fba-96c29fc9a1a4",
+        "type": "message",
+        "text": "おっけ、なら来週水曜の11時からで大丈夫？",
+        "user": "U0391RWR34N",
+        "ts": "1655291356.678039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mI8u7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おっけ、なら来週水曜の11時からで大丈夫？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3C11A3E9-5C88-4BA5-9F0B-7D5F699B22C8",
+        "type": "message",
+        "text": "わかりました。\nよろしくお願いします",
+        "user": "U03K1SMDYHL",
+        "ts": "1655291413.544019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge683ef399c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e683ef399c613c17f30ae6a6f1b11d81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Akari",
+            "real_name": "Akari Moriya",
+            "display_name": "あかり",
+            "team": "T038Z0K089K",
+            "name": "s1300231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Pm=z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしく"
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1A513977-6C8C-4402-97A7-ED939851EE9C",
+        "type": "message",
+        "text": "はーい、よろしく！　学祭室でやりましょ〜",
+        "user": "U0391RWR34N",
+        "ts": "1655292333.216019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPSc3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はーい、よろしく！　学祭室でやりましょ〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

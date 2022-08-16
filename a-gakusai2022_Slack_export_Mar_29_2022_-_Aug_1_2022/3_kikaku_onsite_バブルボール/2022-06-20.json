@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "9442408b-ca9a-4658-a24f-a03c9f9f52af",
+        "type": "message",
+        "text": "<@U03KB4QMFHR> <@U03D0L4BEJU> 時間通りにこれそうかな？",
+        "user": "U03BM52KMEC",
+        "ts": "1655711654.889489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GL0UL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03KB4QMFHR"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03D0L4BEJU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 時間通りにこれそうかな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03LQ059P41",
+                "created": 1655713962,
+                "timestamp": 1655713962,
+                "name": "ー２０２２年　６月２０日　バブルボール企画会議ー.pdf",
+                "title": "ー２０２２年　６月２０日　バブルボール企画会議ー.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 36409,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LQ059P41\/_________________________________________________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03LQ059P41\/download\/_________________________________________________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03LQ059P41-ab1c5c0b04\/__________________________________________________________________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03LQ059P41\/_________________________________________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03LQ059P41-f3bd5cfe18",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1655713964.336659",
+        "client_msg_id": "4dbb3cf3-d64a-4707-996f-18a64d7ea3f7",
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03D0L4BEJU",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

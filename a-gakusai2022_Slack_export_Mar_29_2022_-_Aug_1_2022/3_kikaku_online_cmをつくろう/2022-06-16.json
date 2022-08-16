@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "7E38DDEC-6C22-4DA0-A1F7-7873E74B5E17",
+        "type": "message",
+        "text": "火曜日の17時からと、水曜日の13時からと、木曜日の15時からいけます！",
+        "user": "U03KPT8FAD7",
+        "ts": "1655431211.035759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uFG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "火曜日の17時からと、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "水曜日の13時からと、木曜日の15時からいけます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b33de0f5-0e41-48f2-940e-a8dcbd4498a9",
+        "type": "message",
+        "text": "<@U03KPT8FAD7> わかった、じゃあ水曜日の13時に企画書作ろうか!!!\n                         場所は学祭室でも大丈夫かな？",
+        "user": "U03BM52KMEC",
+        "ts": "1655432734.148899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9p1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " わかった、じゃあ水曜日の13時に企画書作ろうか!!!\n                         場所は学祭室でも大丈夫かな？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E39EEE32-6B91-4353-B498-2913CD1ADC5C",
+        "type": "message",
+        "text": "大丈夫です！！！よろしくお願いします！！",
+        "user": "U03KPT8FAD7",
+        "ts": "1655437529.388729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tQKKa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫です！！！よろしくお願いします！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

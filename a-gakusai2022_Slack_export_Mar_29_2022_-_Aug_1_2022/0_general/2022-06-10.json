@@ -1,0 +1,235 @@
+[
+    {
+        "client_msg_id": "deab68b3-6d88-4583-8f5f-24cfcd2f427b",
+        "type": "message",
+        "text": "<!channel> 皆さんテストお疲れ様でした、さて明日の全体会議のリマインダーを送ります。場所は大講義室。14時からです。\n\nよろしくお願いします。",
+        "user": "U03901B3W69",
+        "ts": "1654847554.821509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OJbx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 皆さんテストお疲れ様でした、さて明日の全体会議のリマインダーを送ります。場所は大講義室。14時からです。\n\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_bouncing",
+                "users": [
+                    "U0391RWR34N",
+                    "U039PA9J5JP",
+                    "U03BM52KMEC",
+                    "U039RJU3V36",
+                    "U03D0L4BEJU",
+                    "U039M3UAXFG",
+                    "U03A1S6RAF3",
+                    "U03CDMY1V9C"
+                ],
+                "count": 8
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039M3UAXFG",
+                    "U039RCZ4E04",
+                    "U03BM52KMEC"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039M3UAXFG",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "539EF3A8-B41B-4600-8F7E-008B83FBA911",
+        "type": "message",
+        "text": "<!channel> \nご存じない方もいるかも知れないので確認です。\n全員参加してるはずのチャンネルの中に<#C038MFPUYDD|0_attendance_check>があります。各部署会議や全体会議に(用事等で)参加できない場合、又は遅刻する場合は、このチャンネルにその旨を書いてください。\nよろしくお願いします。",
+        "user": "U0399UH8BKQ",
+        "ts": "1654913375.068159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPo0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ご存じない方もいるかも知れないので確認です。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全員参加してるはずのチャンネルの中に"
+                            },
+                            {
+                                "type": "channel",
+                                "channel_id": "C038MFPUYDD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "があります。各部署会議や全体会議に(用事等で)参加できない場合、又は遅刻する場合は、このチャンネルにその旨を書いてください。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cc34aa1-6c1f-400b-87d7-731f856b00c2",
+        "type": "message",
+        "text": "全体会議始めます。一階の扉開いてるのでそのまま入っちゃってください。",
+        "user": "U03901B3W69",
+        "ts": "1654924002.601179",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Jp9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全体会議始めます。一階の扉開いてるのでそのまま入っちゃってください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6d74343-64c0-4a5f-b80e-cd2e59fb00f2",
+        "type": "message",
+        "text": "<!channel> 自己紹介用のパワポを作りました！！！！！！！！！！\n各自記入しよう！！！！！！！！！！！\n<https:\/\/docs.google.com\/presentation\/d\/1EMZpIWEQQOEddqDX0lzz2yJiJG95ySR8MPqWQFrSbgo\/edit#slide=id.g133924f3590_0_5>",
+        "user": "U039BUU0GAH",
+        "ts": "1654928381.976519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "g230",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 自己紹介用のパワポを作りました！！！！！！！！！！\n各自記入しよう！！！！！！！！！！！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1EMZpIWEQQOEddqDX0lzz2yJiJG95ySR8MPqWQFrSbgo\/edit#slide=id.g133924f3590_0_5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

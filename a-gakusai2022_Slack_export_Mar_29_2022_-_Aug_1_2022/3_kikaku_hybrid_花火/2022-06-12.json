@@ -1,0 +1,18 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655036944.330839",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「2_kikaku_花火」から「3_kikaku_花火」に変更しました",
+        "old_name": "2_kikaku_花火",
+        "name": "3_kikaku_花火"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655083306.449169",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました"
+    }
+]

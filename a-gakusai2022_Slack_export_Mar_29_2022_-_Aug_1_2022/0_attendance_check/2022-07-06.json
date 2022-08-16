@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "FE749A4B-A0BA-4AD5-9020-FD164BBA66DD",
+        "type": "message",
+        "text": "対応部会議、授業のため出れません。",
+        "user": "U03A9180MAN",
+        "ts": "1657091142.303759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m+5E",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "対応部会議、授業のため出れません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

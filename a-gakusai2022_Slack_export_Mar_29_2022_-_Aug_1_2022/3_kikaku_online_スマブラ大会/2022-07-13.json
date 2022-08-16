@@ -1,0 +1,77 @@
+[
+    {
+        "client_msg_id": "eec4d5dc-4f47-42cb-bfc5-1192c5de25df",
+        "type": "message",
+        "text": "<!channel> お疲れ様です!!!\n　*添削した企画書の期限が来週の月曜日*になっています。ほとんどの企画では、企画書の修正をすでに行っています。\n　*二年生が主体となって、期限までに企画書の修正を行ってください。*\n　忙しいと思いますが、ご協力のほうよろしくお願いします。",
+        "user": "U03BM52KMEC",
+        "ts": "1657781303.036149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Ivxh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です!!!\n　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "添削した企画書の期限が来週の月曜日",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "になっています。ほとんどの企画では、企画書の修正をすでに行っています。\n　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "二年生が主体となって、期限までに企画書の修正を行ってください。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　忙しいと思いますが、ご協力のほうよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03K4J7KXTQ",
+                    "U039L92GA3X"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

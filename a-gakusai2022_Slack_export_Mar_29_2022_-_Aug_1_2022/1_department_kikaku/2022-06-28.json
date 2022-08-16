@@ -1,0 +1,530 @@
+[
+    {
+        "client_msg_id": "4c4cc8d2-3ffd-4771-bea9-42e8cf4ee599",
+        "type": "message",
+        "text": "<!channel>*企画書添削会議の伝助をまだ記入していない人は、記入の方をお願いします*。\n　明日から対面授業が再開されるみたいなので、*M教室*を借りて企画書添削会議の方を開きたいと思います。",
+        "user": "U03BM52KMEC",
+        "ts": "1656464708.038799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qvfR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書添削会議の伝助をまだ記入していない人は、記入の方をお願いします",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\n　明日から対面授業が再開されるみたいなので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "M教室",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "を借りて企画書添削会議の方を開きたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_twins",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "188845bd-f025-4873-9767-50cf87edf686",
+        "type": "message",
+        "text": "<https:\/\/densuke.biz\/list?cd=3NpJG3L2E6BXaL6E>",
+        "user": "U03BM52KMEC",
+        "ts": "1656470616.213559",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=3NpJG3L2E6BXaL6E",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=3NpJG3L2E6BXaL6E",
+                "fallback": "伝助（企画書添削会議）",
+                "text": "開催形式はzoomです。(ご時世と一年生に配慮して) 毎度毎度、会議に参加してくれてありがとうございます。",
+                "title": "伝助（企画書添削会議）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=3NpJG3L2E6BXaL6E",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wce3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=3NpJG3L2E6BXaL6E"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1656472521.736369",
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 8,
+        "reply_users_count": 5,
+        "latest_reply": "1656473602.714189",
+        "reply_users": [
+            "U0394PQ44FL",
+            "U039M3UAXFG",
+            "U0399UH8BKQ",
+            "U0391RWR34N",
+            "U03BM52KMEC"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656472566.802409"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1656472679.728799"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656472689.680249"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656472711.757659"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1656472715.744829"
+            },
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1656472766.415869"
+            },
+            {
+                "user": "U039M3UAXFG",
+                "ts": "1656472799.782139"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1656473602.714189"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1656473602.714189"
+    },
+    {
+        "client_msg_id": "a62c5684-4323-457c-8900-25319497d021",
+        "type": "message",
+        "text": "去年は総務でやってた気がします\n私が１年のときは企画部全員でやっていました",
+        "user": "U0394PQ44FL",
+        "ts": "1656472566.802409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e1h",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年は総務でやってた気がします\n私が１年のときは企画部全員でやっていました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "EEBFBEED-CFC2-4604-A6B2-82387707D3B2",
+        "type": "message",
+        "text": "企画書作成の流れつかむためにも1年生も一緒にやった方がいいと思う",
+        "user": "U039M3UAXFG",
+        "ts": "1656472679.728799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/e1e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画書作成の流れ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "つかむためにも"
+                            },
+                            {
+                                "type": "text",
+                                "text": "1年生も一緒にやった方がいいと思う"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "9B3BB1E4-8CB6-47EE-AA85-B499B8608BF9",
+        "type": "message",
+        "text": "それ添削会議ではなくただの企画出し(削り)では？",
+        "user": "U0399UH8BKQ",
+        "ts": "1656472689.680249",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "u\/u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それ添削会議ではなくただの企画出し(削り)では？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "469A5AE8-8781-45CF-A3F2-B7128E38427E",
+        "type": "message",
+        "text": "企画書の添削はやってないよ",
+        "user": "U0399UH8BKQ",
+        "ts": "1656472711.757659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "F3N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画書の添削はやってないよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "7F36F4CC-C1E5-4148-9060-366713EDB95F",
+        "type": "message",
+        "text": "添削は企画部全員参加お願いしてたよ\n企画案出しだね、総務でやったのは。",
+        "user": "U0391RWR34N",
+        "ts": "1656472715.744829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1O6ef",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "添削は企画部全員参加お願いしてたよ\n企画案出しだね、総務でやったのは。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "92a17eab-a579-44bc-b3c3-0425b9d7355f",
+        "type": "message",
+        "text": "去年M教室借りてやった覚えが",
+        "user": "U03BM52KMEC",
+        "ts": "1656472766.415869",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MxecO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "去年M教室借りてやった覚えが"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U038TMLJW1M",
+                    "U039M3UAXFG"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35ABC3DD-E4DD-4F23-B393-1F01F8D54056",
+        "type": "message",
+        "text": "うん、やってた",
+        "user": "U039M3UAXFG",
+        "ts": "1656472799.782139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1o7aK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "うん、や"
+                            },
+                            {
+                                "type": "text",
+                                "text": "っ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "てた"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT"
+    },
+    {
+        "client_msg_id": "00497690-9536-45c7-8524-e449de88f4ce",
+        "type": "message",
+        "text": "きおくちがいでしたすみません",
+        "user": "U0394PQ44FL",
+        "ts": "1656473602.714189",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FDb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "きおくちがいでしたすみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656472521.736369",
+        "parent_user_id": "USLACKBOT"
+    }
+]

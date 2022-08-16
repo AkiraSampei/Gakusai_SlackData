@@ -1,0 +1,220 @@
+[
+    {
+        "client_msg_id": "f1fb7c3a-c3e1-405f-b67a-c139d3d14a17",
+        "type": "message",
+        "text": "<@U03901B3W69>\n明日話す内容の中で、「4月中のこの時間は学祭室開けるようにするね」とかいうのある？\n委員で統一しておきたいんやけども",
+        "user": "U0391RWR34N",
+        "ts": "1649043251.417609",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3pPMy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03901B3W69"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n明日話す内容の中で、「4月中のこの時間は学祭室開けるようにするね」とかいうのある？\n委員で統一しておきたいんやけども"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "950509d7-0769-482c-9ee4-1f4323619dc8",
+        "type": "message",
+        "text": "<!channel> 昨年も来てくれた新入生は昼に多かったとのことなので17日まで学祭室の開室はかならず昼休みに開けられているように使うようお願いいたします。",
+        "user": "U03901B3W69",
+        "ts": "1649044747.046759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ww6Pk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 昨年も来てくれた新入生は昼に多かったとのことなので17日まで学祭室の開室はかならず昼休みに開けられているように使うようお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG",
+                    "U0391RWR34N",
+                    "U0394PQ44FL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddb1ae0e-3bc9-423a-9ef8-030902d6d4f7",
+        "type": "message",
+        "text": "それ以外の時間は要連絡。やりとりはTwitterになるかな。",
+        "user": "U03901B3W69",
+        "ts": "1649044792.999809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rIF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "それ以外の時間は要連絡。やりとりはTwitterになるかな。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5e985e42-2b4e-4979-9214-326948912dfa",
+        "type": "message",
+        "text": "大丈夫です。",
+        "user": "U03901B3W69",
+        "ts": "1649044853.660519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IOUA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be9a670f-3659-41d3-8f5f-efc46ae0ef63",
+        "type": "message",
+        "text": "<@U03901B3W69> みじゅ発表がんばれ！！！:facepunch:",
+        "user": "U039M3UAXFG",
+        "ts": "1649044913.851299",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L+3a9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03901B3W69"
+                            },
+                            {
+                                "type": "text",
+                                "text": " みじゅ発表がんばれ！！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "facepunch",
+                                "unicode": "1f44a"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

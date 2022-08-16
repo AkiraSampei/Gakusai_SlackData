@@ -1,0 +1,50 @@
+[
+    {
+        "client_msg_id": "e904b1df-9627-4218-bdbb-2a027daf62ff",
+        "type": "message",
+        "text": "戯言：\n学祭室をご利用の皆さんに連絡です。学祭室を出るときは必ず戸締まりを確認するようにしてください。今日窓空いててお掃除とてもたいへんでした。",
+        "user": "U0394PQ44FL",
+        "ts": "1653620542.443749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Oi0S",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "戯言：\n学祭室をご利用の皆さんに連絡です。学祭室を出るときは必ず戸締まりを確認するようにしてください。今日窓空いててお掃除とてもたいへんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_surprised",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039RCZ4E04"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

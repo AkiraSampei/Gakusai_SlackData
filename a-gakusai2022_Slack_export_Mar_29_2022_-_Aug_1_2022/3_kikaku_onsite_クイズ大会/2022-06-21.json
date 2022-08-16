@@ -1,0 +1,317 @@
+[
+    {
+        "client_msg_id": "5A410C6F-8853-4ED0-9B18-9C5EA98ABC1D",
+        "type": "message",
+        "text": "&lt;リマインダー&gt;\n明日16時から企画書作成を学祭室で行います。よろしく〜\nps.企画担当4年の大澤です〜よろしく！",
+        "user": "U0391RWR34N",
+        "ts": "1655799845.168729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iBP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "<リマインダー>\n明日16時から企画書作成を学祭室で行います。よろしく〜\nps.企画担当4年の大澤です〜よろしく！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655860211.341739",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "ff9f68d7-d04e-4b68-b458-50fddffd27f1",
+        "type": "message",
+        "text": "<!channel>今日の会議ですが学祭室が使えなくなりました。そのため、場所を変更したいと思います。",
+        "user": "U03A1N54PJM",
+        "ts": "1655863598.161209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "x5=l2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日の会議ですが学祭室が使えなくなりました。そのため、場所を変更したいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ffbbcdf-1375-41ba-b9b3-4e7966c8e758",
+        "type": "message",
+        "text": "学食が多いらしいですが、zoomとどちらがいいですかね？",
+        "user": "U03A1N54PJM",
+        "ts": "1655863618.222989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l+cB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学食が多いらしいですが、zoomとどちらがいいですかね？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655863618.222989",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655870690.499799",
+        "reply_users": [
+            "U03K8CWK5LK"
+        ],
+        "replies": [
+            {
+                "user": "U03K8CWK5LK",
+                "ts": "1655870690.499799"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "1ca9734e-3042-44e1-8f66-02455c4c63db",
+        "type": "message",
+        "text": "↑<!channel>",
+        "user": "U03BM52KMEC",
+        "ts": "1655866618.133919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iO+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3C1D15FD-D683-4A64-94AB-57DE0EB4994E",
+        "type": "message",
+        "text": "どちらでも大丈夫です",
+        "user": "U03K8CWK5LK",
+        "ts": "1655870690.499799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "3da103753402",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3656910361380_3da10375340275091d88_72.png",
+            "first_name": "Takumi",
+            "real_name": "Takumi Shishido",
+            "display_name": "宍戸 匠",
+            "team": "T038Z0K089K",
+            "name": "s1300097",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j7Uaf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "どちらでも大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655863618.222989",
+        "parent_user_id": "U03A1N54PJM"
+    },
+    {
+        "client_msg_id": "32D074C0-4DA2-46C9-B59B-20B273EE645B",
+        "type": "message",
+        "text": "<@U03A1N54PJM> どっちでやんの？",
+        "user": "U0391RWR34N",
+        "ts": "1655875464.611739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UJUX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03A1N54PJM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " どっちでやんの？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b1a4743-0768-4de0-8642-ba052e3cb75c",
+        "type": "message",
+        "text": "<!channel> 学食でやります",
+        "user": "U03A1N54PJM",
+        "ts": "1655877409.370519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r03",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 学食でやります"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "a1c16547-45fa-4e7a-b18d-72c3c808a6fa",
+        "type": "message",
+        "text": "フォトショップでnft用(?)の機能があるっぽい？\n<https:\/\/creativecloud.adobe.com\/cc\/discover\/article\/how-to-use-content-credentials-beta-in-photoshop-for-nfts?locale=ja>",
+        "user": "U039RJU3V36",
+        "ts": "1656598054.731569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/creativecloud.adobe.com\/cc\/discover\/article\/how-to-use-content-credentials-beta-in-photoshop-for-nfts?locale=ja",
+                "image_url": "https:\/\/adobe.scene7.com\/is\/image\/AdobeCreate\/card-900x500-v1@2x?fmt=png-alpha",
+                "image_width": 400,
+                "image_height": 223,
+                "image_bytes": 105765,
+                "service_icon": "https:\/\/creativecloud.adobe.com\/static\/b622cdda38e11948f887ca8e26ab1159\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/creativecloud.adobe.com\/cc\/discover\/article\/how-to-use-content-credentials-beta-in-photoshop-for-nfts?locale=ja",
+                "fallback": "How to use Content Credentials (Beta) in Photoshop for NFTs",
+                "text": "Create and sell NFTs with confidence. Now you can add attribution to your NFT with Content Credentials (Beta) in Photoshop.",
+                "title": "How to use Content Credentials (Beta) in Photoshop for NFTs",
+                "title_link": "https:\/\/creativecloud.adobe.com\/cc\/discover\/article\/how-to-use-content-credentials-beta-in-photoshop-for-nfts?locale=ja",
+                "service_name": "creativecloud.adobe.com"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "nhD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "フォトショップでnft用(?)の機能があるっぽい？\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/creativecloud.adobe.com\/cc\/discover\/article\/how-to-use-content-credentials-beta-in-photoshop-for-nfts?locale=ja"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U039BUU0GAH"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

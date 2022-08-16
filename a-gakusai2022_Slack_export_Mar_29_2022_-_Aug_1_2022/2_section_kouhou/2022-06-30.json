@@ -1,0 +1,175 @@
+[
+    {
+        "type": "message",
+        "text": "今日打ち合わせをしました。",
+        "files": [
+            {
+                "id": "F03MD2P564X",
+                "created": 1656582248,
+                "timestamp": 1656582248,
+                "name": "第1回三洋印刷打ち合わせ.pdf",
+                "title": "第1回三洋印刷打ち合わせ.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 437729,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03MD2P564X\/___1______________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03MD2P564X\/download\/___1______________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03MD2P564X-91b0b6a58c\/___1_______________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03MD2P564X\/___1______________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03MD2P564X-8c2bcb82cb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RJU3V36",
+        "display_as_bot": false,
+        "ts": "1656582265.758639",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "njt9X",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日打ち合わせをしました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6209d6db-8c15-47b3-b7e0-25882e14cfab",
+        "thread_ts": "1656381700.216969",
+        "parent_user_id": "U039RJU3V36",
+        "subtype": "thread_broadcast",
+        "root": {
+            "client_msg_id": "8bbfad2a-d4b7-417b-88ae-2c659b067d29",
+            "type": "message",
+            "text": "[活動記録]ポスター・パンフレット（三洋印刷）",
+            "user": "U039RJU3V36",
+            "ts": "1656381700.216969",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "eB7Be",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "[活動記録]ポスター・パンフレット（三洋印刷）"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1656381700.216969",
+            "reply_count": 6,
+            "reply_users_count": 1,
+            "latest_reply": "1658814835.662359",
+            "reply_users": [
+                "U039RJU3V36"
+            ],
+            "replies": [
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1656382384.895649"
+                },
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1656382630.095149"
+                },
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1656582265.758639"
+                },
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1656583119.677649"
+                },
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1658063959.360659"
+                },
+                {
+                    "user": "U039RJU3V36",
+                    "ts": "1658814835.662359"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1656582979.957859",
+        "user": "U03M2QM8F36",
+        "text": "<@U03M2QM8F36>さんがチャンネルに参加しました",
+        "inviter": "U039RJU3V36"
+    },
+    {
+        "client_msg_id": "d83311ca-f5fe-4fc5-a783-ac3e7375e6db",
+        "type": "message",
+        "text": "<@U03M2QM8F36> \n後々振り返れるように、活動についてはここのスレッドで投げて貰えると助かります。\n(もしかしたらメンションしないと気づけないので、メンションもお願いします！)",
+        "user": "U039RJU3V36",
+        "ts": "1656583119.677649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zbY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03M2QM8F36"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \n後々振り返れるように、活動についてはここのスレッドで投げて貰えると助かります。\n(もしかしたらメンションしないと気づけないので、メンションもお願いします！)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656381700.216969",
+        "parent_user_id": "U039RJU3V36"
+    }
+]

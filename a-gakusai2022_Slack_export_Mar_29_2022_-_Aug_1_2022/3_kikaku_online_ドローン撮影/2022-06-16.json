@@ -1,0 +1,175 @@
+[
+    {
+        "client_msg_id": "debc6596-8bce-4446-bb01-96f4622f118c",
+        "type": "message",
+        "text": "<!channel> お疲れ様です！ドローン担当で二年生の髙橋尚です！よろしくね！:raised_hands:\n企画部のチャンネルの説明通り、24日までに企画書を作成して提出しなければなりません。\n企画書は僕がある程度書くのですが、<@U03CDMY1V9C> <@U03D0L4BEJU> には企画のアイデアや把握をしてもらいたいです。\nそこで二人には同じ企画同士、顔合わせ＆企画の把握のために集まりたいので、開いている時間に伝助を入力をお願いします:pray::skin-tone-2:<https:\/\/densuke.biz\/list?cd=PFNZvBAyPT2rkbp3>",
+        "user": "U039PA9J5JP",
+        "ts": "1655448618.134939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=PFNZvBAyPT2rkbp3",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=PFNZvBAyPT2rkbp3",
+                "fallback": "伝助（ドローン企画書会議）",
+                "title": "伝助（ドローン企画書会議）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=PFNZvBAyPT2rkbp3",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hQpp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！ドローン担当で二年生の髙橋尚です！よろしくね！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n企画部のチャンネルの説明通り、24日までに企画書を作成して提出しなければなりません。\n企画書は僕がある程度書くのですが、"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03CDMY1V9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03D0L4BEJU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " には企画のアイデアや把握をしてもらいたいです。\nそこで二人には同じ企画同士、顔合わせ＆企画の把握のために集まりたいので、開いている時間に伝助を入力をお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=PFNZvBAyPT2rkbp3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8d7ab88-6611-4ba0-b8a8-d0a8452234c6",
+        "type": "message",
+        "text": "場所は学祭室でやりたいと思います！\n伝助以外の日時にしたい人いたら言ってね〜\n*ちゃんと反応してるか見たいので、見たらリアクションつけてね*:eyes:",
+        "user": "U039PA9J5JP",
+        "ts": "1655448840.976069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1655455469.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TuY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "場所は学祭室でやりたいと思います！\n伝助以外の日時にしたい人いたら言ってね〜\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ちゃんと反応してるか見たいので、見たらリアクションつけてね",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U03D0L4BEJU"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655449021.854089",
+        "user": "U0391RWR34N",
+        "text": "<@U0391RWR34N>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    }
+]

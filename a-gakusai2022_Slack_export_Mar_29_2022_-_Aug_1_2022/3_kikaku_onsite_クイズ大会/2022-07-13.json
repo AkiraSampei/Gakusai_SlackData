@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "297287ce-d4ed-45cc-ae72-e1a410692d94",
+        "type": "message",
+        "text": "<!channel> \nリマインダー的なもの\n16時から会議です。よろしくお願いします。",
+        "user": "U03A1N54PJM",
+        "ts": "1657779378.020159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VTFX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " \nリマインダー的なもの\n16時から会議です。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

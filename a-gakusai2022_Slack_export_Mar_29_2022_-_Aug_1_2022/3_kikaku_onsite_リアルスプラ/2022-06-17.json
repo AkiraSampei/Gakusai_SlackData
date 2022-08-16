@@ -1,0 +1,111 @@
+[
+    {
+        "client_msg_id": "8cc752b7-df2f-4cc4-9404-96085c03e256",
+        "type": "message",
+        "text": "<!channel>\nみなさん、再度伝助への記入ありがとうございます！\n\n会議は *６月１９日（日）１４：００* よりはじめます！\n場所は学祭室です。わからないときは連絡ください。\n\n確認したよーって人はこのチャットに何かしらのアドリアクションをつけてください！\n:white_check_mark:とか:eyes:とか:flushed:とかなんでもいいです！",
+        "user": "U0394PQ44FL",
+        "ts": "1655531297.560739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U0394PQ44FL",
+            "ts": "1655531448.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DSc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nみなさん、再度伝助への記入ありがとうございます！\n\n会議は "
+                            },
+                            {
+                                "type": "text",
+                                "text": "６月１９日（日）１４：００",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " よりはじめます！\n場所は学祭室です。わからないときは連絡ください。\n\n確認したよーって人はこのチャットに何かしらのアドリアクションをつけてください！\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "white_check_mark",
+                                "unicode": "2705"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "eyes",
+                                "unicode": "1f440"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "flushed",
+                                "unicode": "1f633"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とかなんでもいいです！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "white_check_mark",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03GZQ9T32R"
+                ],
+                "count": 2
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

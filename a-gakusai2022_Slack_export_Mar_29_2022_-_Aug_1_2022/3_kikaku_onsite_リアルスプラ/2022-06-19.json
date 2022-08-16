@@ -1,0 +1,305 @@
+[
+    {
+        "client_msg_id": "7d8ba601-95e5-412a-ae55-75274d6e1ebd",
+        "type": "message",
+        "text": "予算のタオルはバスタオルにしたほうがいいですか？\nまた、何枚くらい必要ですか？",
+        "user": "U03GZQ9T32R",
+        "ts": "1655695054.384329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ARsPp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予算のタオルはバスタオルにしたほうがいいですか？\nまた、何枚くらい必要ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655695054.384329",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655695652.096719",
+        "reply_users": [
+            "U0394PQ44FL",
+            "U03GZQ9T32R"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655695567.128809"
+            },
+            {
+                "user": "U03GZQ9T32R",
+                "ts": "1655695652.096719"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655695652.096719"
+    },
+    {
+        "client_msg_id": "5b64df2c-5b74-4399-8519-73bb3848f059",
+        "type": "message",
+        "text": "バスタオルにしましょう！\n具体的な枚数は無記入でおねがいします！",
+        "user": "U0394PQ44FL",
+        "ts": "1655695567.128809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ugc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "バスタオルにしましょう！\n具体的な枚数は無記入でおねがいします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655695054.384329",
+        "parent_user_id": "U03GZQ9T32R"
+    },
+    {
+        "client_msg_id": "168ec40d-8c71-4e35-a383-198352e82c4b",
+        "type": "message",
+        "text": "わかりました",
+        "user": "U03GZQ9T32R",
+        "ts": "1655695652.096719",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "わかりました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655695054.384329",
+        "parent_user_id": "U03GZQ9T32R",
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cfedd6d-a728-4769-8dfb-9a0332e46194",
+        "type": "message",
+        "text": "企画書をアップロードしました。\n確認をお願いします。",
+        "user": "U03GZQ9T32R",
+        "ts": "1655696080.986259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画書をアップロードしました。\n確認をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696080.986259",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1655696390.183449",
+        "reply_users": [
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655696190.589209"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655696390.183449"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655696390.183449",
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4d97041b-623a-4283-9489-79304dd6307d",
+        "type": "message",
+        "text": "確認しました、素晴らしいです！\nありがとうございました！",
+        "user": "U0394PQ44FL",
+        "ts": "1655696190.589209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AXvf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "確認しました、素晴らしいです！\nありがとうございました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696080.986259",
+        "parent_user_id": "U03GZQ9T32R"
+    },
+    {
+        "client_msg_id": "f2987605-61c6-473a-a047-ea2b2283b42b",
+        "type": "message",
+        "text": "ちなみに、２４日以降に企画部全体で企画書添削会議を行います\nそこで他の企画部の人たちに、企画書が間違っていないかなどを確認してもらいます",
+        "user": "U0394PQ44FL",
+        "ts": "1655696390.183449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QIl0=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ちなみに、２４日以降に企画部全体で企画書添削会議を行います\nそこで他の企画部の人たちに、企画書が間違っていないかなどを確認してもらいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655696080.986259",
+        "parent_user_id": "U03GZQ9T32R"
+    }
+]

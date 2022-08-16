@@ -1,0 +1,45 @@
+[
+    {
+        "client_msg_id": "257c97c3-272b-4166-8263-f9043b35d4ce",
+        "type": "message",
+        "text": "力学期末の解答形式は中間と同じでしょうか？\nもし同じでなければ、記述と穴埋めの配分がどれほどかを知りたいです:pray:",
+        "user": "U03D0L4BEJU",
+        "ts": "1659082376.168579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y1I0d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "力学期末の解答形式は中間と同じでしょうか？\nもし同じでなければ、記述と穴埋めの配分がどれほどかを知りたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

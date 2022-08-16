@@ -1,0 +1,133 @@
+[
+    {
+        "client_msg_id": "84E80042-9074-44BF-A49D-43879966F68F",
+        "type": "message",
+        "text": "体調があまりよくないので欠席します",
+        "user": "U03CDMY1V9C",
+        "ts": "1657782453.485929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q6kT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "体調があまりよくないので欠席"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30602749-0D8A-4660-9895-951FD9CD7672",
+        "type": "message",
+        "text": "予定があるので欠席します。すいません。",
+        "user": "U03CUPE920G",
+        "ts": "1657784699.968349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6=tK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "予定があるので欠席します。すいません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4673C6AD-9A5C-47EB-A324-96C6EF338B17",
+        "type": "message",
+        "text": "大変申しわけないです。忘れてました。",
+        "user": "U03A1S6RAF3",
+        "ts": "1657790413.711659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "55ae241ca796",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654441248707_55ae241ca796e28df082_72.png",
+            "first_name": "Kobayashi",
+            "real_name": "Kobayashi Riku",
+            "display_name": "小林莉久",
+            "team": "T038Z0K089K",
+            "name": "s1290156",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RXdxl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大変申しわけないです。忘れて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "engel_crazymove",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

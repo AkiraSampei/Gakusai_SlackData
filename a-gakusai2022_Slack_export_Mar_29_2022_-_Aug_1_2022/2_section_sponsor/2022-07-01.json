@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "C0696F26-D142-43CE-87A7-D8A223D214BF",
+        "type": "message",
+        "text": "10日の全体会議にスポンサーのお店の割り振り決める方向でいいですか？",
+        "user": "U039PA9J5JP",
+        "ts": "1656737440.239129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "56dJB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10日の全体会議にスポンサーのお店の割り振り決める方向でいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27db4513-9688-4261-b554-19445f3ccdec",
+        "type": "message",
+        "text": "そうだね〜　1年・上級生ともに割り振り決めて、かけれる所は電話してアポ取りまでやっちゃって良いかも（個人営業の店が多いから、大半は後日になるだろうけど。）",
+        "user": "U0391RWR34N",
+        "ts": "1656739645.279959",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75Uq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "そうだね〜　1年・上級生ともに割り振り決めて、かけれる所は電話してアポ取りまでやっちゃって良いかも（個人営業の店が多いから、大半は後日になるだろうけど。）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

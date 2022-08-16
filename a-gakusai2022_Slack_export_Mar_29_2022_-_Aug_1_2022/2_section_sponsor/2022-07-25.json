@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "85843545-333f-448d-9109-a8a0c49946cc",
+        "type": "message",
+        "text": "くつろぎ宿新滝・千代滝、申請書受け取りました。8月12日頃を目安に現金で受け取ります。デザインは一部変更なので、後日受け取りです。\n（シート更新済 \/ スポンサー課のドライブに保存済 \/ 請求書作成済）",
+        "user": "U0391RWR34N",
+        "ts": "1658756960.408879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "INk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "くつろぎ宿新滝・千代滝、申請書受け取りました。8月12日頃を目安に現金で受け取ります。デザインは一部変更なので、後日受け取りです。\n（シート更新済 \/ スポンサー課のドライブに保存済 \/ 請求書作成済）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "224128a4-df75-4d5e-8a1e-ae82e03139d6",
+        "type": "message",
+        "text": "※スポンサーについてのスプレッドシートですが、広告サイズ（※アルファベット大文字）を入力したら協賛金額が算出されるように関数仕組んでおきました。役立てれる範囲で使ってください〜〜〜",
+        "user": "U0391RWR34N",
+        "ts": "1658758734.606839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NUD1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "※スポンサーについてのスプレッドシートですが、広告サイズ（※アルファベット大文字）を入力したら協賛金額が算出されるように関数仕組んでおきました。役立てれる範囲で使ってください〜〜〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658758734.606839",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1658829337.657829",
+        "reply_users": [
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1658829337.657829"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "cat_happy",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f87102a-3420-4f46-bbe9-9fcfc791deac",
+        "type": "message",
+        "text": "リオンドール 8\/10（水）14:00訪問\n2019年のパンフを持っていく 神明通り",
+        "user": "U038TMLJW1M",
+        "ts": "1658808085.148369",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038TMLJW1M",
+            "ts": "1658810760.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kc=IY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "リオンドール 8\/10（水）14:00訪問"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2019年のパンフを持っていく 神明通り"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1658812977.441129",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「2_section_sponser」から「2_section_sponsor」に変更しました",
+        "old_name": "2_section_sponser",
+        "name": "2_section_sponsor"
+    }
+]

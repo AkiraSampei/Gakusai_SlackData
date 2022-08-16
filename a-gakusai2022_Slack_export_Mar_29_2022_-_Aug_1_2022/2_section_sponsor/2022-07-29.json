@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "19043999-1431-4C0F-8A08-DFA014C01E0D",
+        "type": "message",
+        "text": "居酒屋よしむら 様\n8\/18 13:00に訪問致します。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1659146902.258699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "m8e2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "居酒屋よしむら 様"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "8\/18 13:00に訪問致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1659153655.371909",
+        "user": "U039EF90649",
+        "text": "<@U039EF90649>さんがチャンネルに参加しました",
+        "inviter": "U039PA9J5JP"
+    }
+]

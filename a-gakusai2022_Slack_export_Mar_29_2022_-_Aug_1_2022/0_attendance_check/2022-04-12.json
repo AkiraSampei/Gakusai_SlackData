@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1649828364.092109",
+        "user": "U039EF90649",
+        "text": "チャンネル名を「attendance_check」から「0_attendance_check」に変更しました",
+        "old_name": "attendance_check",
+        "name": "0_attendance_check"
+    }
+]

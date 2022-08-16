@@ -1,0 +1,74 @@
+[
+    {
+        "type": "message",
+        "text": "本日、広報課長に正式(?)任命された三瓶です。広報課について知っていただきたく少々まとめてみましたので、広報課でなくとも是非ご一読くださいませ。後々、有志を募ることもあるかもしれません。",
+        "files": [
+            {
+                "id": "F03G7AKSHC5",
+                "created": 1653037948,
+                "timestamp": 1653037948,
+                "name": "広報課ToDo.pdf",
+                "title": "広報課ToDo.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 838582,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03G7AKSHC5\/_________todo.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03G7AKSHC5\/download\/_________todo.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03G7AKSHC5-6f1ccb7f02\/_________todo_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03G7AKSHC5\/_________todo.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03G7AKSHC5-65638bf471",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RJU3V36",
+        "display_as_bot": false,
+        "ts": "1653037968.486879",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6=v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本日、広報課長に正式(?)任命された三瓶です。広報課について知っていただきたく少々まとめてみましたので、広報課でなくとも是非ご一読くださいませ。後々、有志を募ることもあるかもしれません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "440a1518-3e85-46c9-8189-0e2721b16285",
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U0391RWR34N",
+                    "U039H10MUTY",
+                    "U039V55S998",
+                    "U039M3UAXFG",
+                    "U039PA9J5JP",
+                    "U038TMLJW1M"
+                ],
+                "count": 6
+            }
+        ]
+    }
+]

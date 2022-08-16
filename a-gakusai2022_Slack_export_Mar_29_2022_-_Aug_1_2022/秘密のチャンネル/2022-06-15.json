@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03KQFCNSTU",
+                "created": 1655279091,
+                "timestamp": 1655279091,
+                "name": "data_management.zip",
+                "title": "data_management.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 9841232,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KQFCNSTU\/data_management.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KQFCNSTU\/download\/data_management.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03KQFCNSTU\/data_management.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KQFCNSTU-384cbf3bc8",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1655279096.446799",
+        "client_msg_id": "35e6aa62-d7b0-4c65-a941-6691fd5de700"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03KHTCUDAA",
+                "created": 1655279332,
+                "timestamp": 1655279332,
+                "name": "離散.zip",
+                "title": "離散.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 125199292,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KHTCUDAA\/______.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03KHTCUDAA\/download\/______.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03KHTCUDAA\/______.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03KHTCUDAA-ec98304ffd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1655279358.439799",
+        "client_msg_id": "5662fc22-a154-45b9-a170-6a4540ec0528"
+    }
+]

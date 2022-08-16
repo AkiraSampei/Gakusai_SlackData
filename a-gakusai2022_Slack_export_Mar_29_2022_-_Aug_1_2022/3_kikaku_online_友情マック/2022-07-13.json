@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "4F50702E-FD56-466E-AC53-A8AF90DCBF82",
+        "type": "message",
+        "text": "日曜日は:heavy_multiplication_x:\n土曜日は昼あたりなら空いています。",
+        "user": "U03BW9Q5DF1",
+        "ts": "1657696867.934309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g3f40866b668",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f40866b66891959e05160242ff64f83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "USAMI",
+            "real_name": "USAMI",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nx97Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日曜日は"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heavy_multiplication_x",
+                                "unicode": "2716-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "土曜日は昼あたりなら空いています。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657592741.534009",
+        "parent_user_id": "U038TMLJW1M"
+    },
+    {
+        "client_msg_id": "CA044766-1AA4-4067-8789-41148D14F6E9",
+        "type": "message",
+        "text": "一応10限まであるのでそれ以降でお願いします。",
+        "user": "U03BW9Q5DF1",
+        "ts": "1657696891.264159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g3f40866b668",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f40866b66891959e05160242ff64f83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "USAMI",
+            "real_name": "USAMI",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AVmWl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応10限まであるのでそれ以降でお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657683947.158709",
+        "parent_user_id": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "じゃあ一応19時で",
+        "user": "U038TMLJW1M",
+        "ts": "1657697592.202299",
+        "thread_ts": "1657683947.158709",
+        "root": {
+            "client_msg_id": "082afb31-fe33-4d5f-a7a4-bea62c069f97",
+            "type": "message",
+            "text": "自分が今日行けるか怪しくなっちゃったので14の午後にします\n何時がいいですか<@U03BW9Q5DF1>",
+            "user": "U038TMLJW1M",
+            "ts": "1657683947.158709",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "mJTmT",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "自分が今日行けるか怪しくなっちゃったので14の午後にします\n何時がいいですか"
+                                },
+                                {
+                                    "type": "user",
+                                    "user_id": "U03BW9Q5DF1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1657683947.158709",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1657697592.202299",
+            "reply_users": [
+                "U03BW9Q5DF1",
+                "U038TMLJW1M"
+            ],
+            "replies": [
+                {
+                    "user": "U03BW9Q5DF1",
+                    "ts": "1657696891.264159"
+                },
+                {
+                    "user": "U038TMLJW1M",
+                    "ts": "1657697592.202299"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GES",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃあ一応19時で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "21489574-8112-4884-A211-6BAD05263C40",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03A1N54PJM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "6ca917cb-b96d-47d2-84db-e30741820345",
+        "type": "message",
+        "text": "企画書の修正をしました。確認お願いします！\n対面ver\n<https:\/\/docs.google.com\/document\/d\/1tfNh4W99YvfZ2SjxTf2d4TFFCE9KxGjmYY-2hdq-170\/edit?usp=sharing>\nオンラインver\n<https:\/\/docs.google.com\/document\/d\/1RMrTka0DYrji1NvomrKgxLipor9SHyRsZ0L9-Qk-Qi8\/edit?usp=sharing>\n\n何か不備があれば爆速で直します！！",
+        "user": "U03KPT8FAD7",
+        "ts": "1658137467.994729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2Ddl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画書の修正をしました。確認お願いします！\n対面ver\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1tfNh4W99YvfZ2SjxTf2d4TFFCE9KxGjmYY-2hdq-170\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nオンラインver\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1RMrTka0DYrji1NvomrKgxLipor9SHyRsZ0L9-Qk-Qi8\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n何か不備があれば爆速で直します！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "300-num",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,778 @@
+[
+    {
+        "client_msg_id": "6d209318-686a-4396-8686-880467d64d8e",
+        "type": "message",
+        "text": "こうしょうさいのメールチェックお願いします",
+        "user": "U039V55S998",
+        "ts": "1656027843.929009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "raw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "こうしょうさいのメールチェックお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656027843.929009",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656027859.009849",
+        "reply_users": [
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U039V55S998",
+                "ts": "1656027859.009849"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "6cd7ccf4-2270-413c-b3f3-22e3a2c22f3d",
+        "type": "message",
+        "text": "今月中にお願いします",
+        "user": "U039V55S998",
+        "ts": "1656027859.009849",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tEKE1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今月中にお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656027843.929009",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "54C92130-F9F8-4FD1-8547-0278DD328FD5",
+        "type": "message",
+        "text": "会津短期大学→会津大学短期大学部",
+        "user": "U038TMLJW1M",
+        "ts": "1656035221.561029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ch8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会津短期大学→会津大学短期大学部"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655962234.699619",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "9002f3d4-abd2-4b6e-a94d-c62893d3afee",
+        "type": "message",
+        "text": "つきましては、からの部分は参加募集の旨をお伝えいただけないでしょうか。\n\nくらいでいい",
+        "user": "U03901B3W69",
+        "ts": "1656038299.510829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oFk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "つきましては、からの部分は参加募集の旨をお伝えいただけないでしょうか。\n\nくらいでいい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655962234.699619",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "94f6978d-54ba-4c26-bbc9-ed7bec02d08d",
+        "type": "message",
+        "text": "編集しました。メールチェックお願いします。",
+        "user": "U039V55S998",
+        "ts": "1656038699.813679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8KA5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "編集しました。メールチェックお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68c0dff6-d173-4ad3-9d05-9c54da32dca1",
+        "type": "message",
+        "text": "上の僕の修正に加えて「サークルに向けて」って入れよう。説明不足で申し訳ないです。\n\nつきましては、サークルに向けて……以下同",
+        "user": "U03901B3W69",
+        "ts": "1656039579.105929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cMTFI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "上の僕の修正に加えて「サークルに向けて」って入れよう。説明不足で申し訳ないです。\n\nつきましては、サークルに向けて……以下同"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655962234.699619",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "ec6cecf9-fd41-4820-9bc5-d007dd55c0b3",
+        "type": "message",
+        "text": "サークル代表各位\n\n会津大学学園祭実行委員の渡辺涼太です。\n\nサークルの公民会利用についての説明です。\n例年公民館では料理の仕込み\n例：材料のカット、たこ焼きの液体を作る\n等を行い、学内では最後の仕上げ\n例：焼く、盛り付け\n等を行ってきました。\n今年度も模擬店で販売する食品に調理の必要があるサークルは、申請書に記入よろしくお願いします。\n\n急な連絡ですが、よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1656042507.445699",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656046975.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wsUYF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル代表各位\n\n会津大学学園祭実行委員の渡辺涼太です。\n\nサークルの公民会利用についての説明です。\n例年公民館では料理の仕込み\n例：材料のカット、たこ焼きの液体を作る\n等を行い、学内では最後の仕上げ\n例：焼く、盛り付け\n等を行ってきました。\n今年度も模擬店で販売する食品に調理の必要があるサークルは、申請書に記入よろしくお願いします。\n\n急な連絡ですが、よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1656049638.906089",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656046711.710329"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656046761.997149"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656046807.391019"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656046817.734379"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656047663.897809"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656047888.158089"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656047906.877919"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1656048115.594389"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656049638.906089"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "yoki",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039P4NSKM1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "sent",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1e12b1b0-fc03-4a92-8536-2bcbd787d30b",
+        "type": "message",
+        "text": "メールチェックお願いします。\nまた、紅翔祭についてよければスタンプお願いします。",
+        "user": "U039V55S998",
+        "ts": "1656042667.035029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ikR1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。\nまた、紅翔祭についてよければスタンプお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "55EA7EC7-843B-42F2-BD25-06C2FB66D0C9",
+        "type": "message",
+        "text": "今年も仕込みのために→模擬店で販売する食品に調理の必要があるサークルは",
+        "user": "U0399UH8BKQ",
+        "ts": "1656046711.710329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3OTD0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今年も仕込みのために→模擬店で販売する食品に調理の必要があるサークルは"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "18EB73F6-6286-487A-90F0-5D6CF9DDB14B",
+        "type": "message",
+        "text": "「使用を検討」だと使わなくて良いみたいなニュアンス入りませんか？",
+        "user": "U0399UH8BKQ",
+        "ts": "1656046761.997149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JEc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "「使用を検討」だと使わなくて良いみたいなニュアンス入りませんか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f7180997-e4d4-4d4e-afc5-47e8756344ec",
+        "type": "message",
+        "text": "別に使わなくても良いのでは？\n使うとこだけで良いかな",
+        "user": "U039V55S998",
+        "ts": "1656046807.391019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656046876.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/yFg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "別に使わなくても良いのでは？\n使うとこだけで良いかな"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "20a50b17-f667-4546-be6f-a2dd40a09ffc",
+        "type": "message",
+        "text": "と考えます",
+        "user": "U039V55S998",
+        "ts": "1656046817.734379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "tpGf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "と考えます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "78F946A0-C7D8-4F3A-9652-DFE79EDDB8A0",
+        "type": "message",
+        "text": "屋外調理は基本的にはダメで、屋内で調理したものの盛り付けとか直前で加熱したものしか出しちゃいけないんですよ。\n大規模な調理(切る、炒める等)が必要な料理は公民館であらかたの調理を終えてから、テントで最後に一手間って感じなので、焼きそばとかその辺の料理をする団体は必ず使わなきゃいけないモノです。\nだからその辺の調理過程が含まれるものを出品する団体には必ず公民館利用をさせるべきでは？",
+        "user": "U0399UH8BKQ",
+        "ts": "1656047663.897809",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ILd7u",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "屋外調理は基本的にはダメで、屋内で調理したものの盛り付けとか直前で加熱したものしか出しちゃいけないんですよ。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大規模な調理(切る、炒める等)が必要な料理は公民館であらかたの調理を終えてから、テントで最後に一手間って感じなので、焼きそばとかその辺の料理をする団体は必ず使わなきゃいけないモノです。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だからその辺の調理過程が含まれるものを出品する団体には必ず公民館利用をさせるべきでは？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f7452495-79e1-46a4-bc6e-73387e042e1d",
+        "type": "message",
+        "text": "調理必要ない屋台はないのですか?",
+        "user": "U039V55S998",
+        "ts": "1656047888.158089",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7+wXZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "調理必要ない屋台はないのですか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "75fd852b-b19f-4856-a033-fca724e6b276",
+        "type": "message",
+        "text": "飲み物渡すだけの屋台とかないのですか？",
+        "user": "U039V55S998",
+        "ts": "1656047906.877919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TZI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "飲み物渡すだけの屋台とかないのですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "84fd1d41-5569-4f01-9b8c-40938f3e0449",
+        "type": "message",
+        "text": "先輩の言うとおりにして出します。生意気言ってすみません。",
+        "user": "U039V55S998",
+        "ts": "1656048115.594389",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OeV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "先輩の言うとおりにして出します。生意気言ってすみません。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "BB89D7BF-4614-4649-B401-22A0A7DFA13F",
+        "type": "message",
+        "text": "急にどうした。",
+        "user": "U0399UH8BKQ",
+        "ts": "1656049638.906089",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "k602r",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "急にどうした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656042507.445699",
+        "parent_user_id": "U039V55S998"
+    }
+]

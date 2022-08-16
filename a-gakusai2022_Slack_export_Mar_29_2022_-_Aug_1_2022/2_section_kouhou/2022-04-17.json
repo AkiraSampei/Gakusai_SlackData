@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650263429.300299",
+        "user": "U039EF90649",
+        "text": "<@U039EF90649>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650263449.220589",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました",
+        "inviter": "U039EF90649"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650263449.292349",
+        "user": "U039RJU3V36",
+        "text": "<@U039RJU3V36>さんがチャンネルに参加しました",
+        "inviter": "U039EF90649"
+    },
+    {
+        "client_msg_id": "344768ef-5702-4afc-9919-b9d535faa50e",
+        "type": "message",
+        "text": "宜しくお願い致します:bow:",
+        "user": "U039RJU3V36",
+        "ts": "1650263915.346889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QJ5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "宜しくお願い致します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18A4E8A3-C7D0-43AA-B5AB-BC5D0122E6C7",
+        "type": "message",
+        "text": "メンバー分かんなかったから追加してってクレメンス",
+        "user": "U039EF90649",
+        "ts": "1650263967.364629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d3f64142e750",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-03-29\/3307912626002_d3f64142e750c18e5ccf_72.png",
+            "first_name": "中島瑞生(ナカジマミズキ)",
+            "real_name": "中島瑞生(ナカジマミズキ)",
+            "display_name": "Mizuki",
+            "team": "T038Z0K089K",
+            "name": "s1280015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tlpt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メンバー分かんなかったから追加してってクレメンス"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655792646.332409",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "7EEEEFFD-02E4-41BC-BBD0-278C2B78CFFA",
+        "type": "message",
+        "text": "企画提案者です　大雑把な企画でごめんなさい\n↓こんなの楽しそうだなーくらいのノリで提案したら通っちゃいました\n<https:\/\/youtu.be\/7w2r5WcSdcE|https:\/\/youtu.be\/7w2r5WcSdcE>",
+        "user": "U038TMLJW1M",
+        "ts": "1655792744.140979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/7w2r5WcSdcE",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/7w2r5WcSdcE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/7w2r5WcSdcE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"清涼飲料水のCMがやりたい王選手権!!\"><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/7w2r5WcSdcE",
+                "fallback": "YouTube Video: 清涼飲料水のCMがやりたい王選手権!!",
+                "title": "清涼飲料水のCMがやりたい王選手権!!",
+                "title_link": "https:\/\/youtu.be\/7w2r5WcSdcE",
+                "author_name": "MonsterZ MATE",
+                "author_link": "https:\/\/www.youtube.com\/c\/MonsterZMATE",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VOO11",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "企画提案者です　大雑把な企画でごめんなさい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "↓こんなの楽しそうだなーくらいのノリで提案したら通っちゃいました"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/7w2r5WcSdcE",
+                                "text": "https:\/\/youtu.be\/7w2r5WcSdcE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

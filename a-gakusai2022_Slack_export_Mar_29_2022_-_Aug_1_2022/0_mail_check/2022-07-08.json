@@ -1,0 +1,183 @@
+[
+    {
+        "client_msg_id": "942ce6fa-977c-4727-a49d-dfef9a965ea0",
+        "type": "message",
+        "text": "メールチェックお願いします\n訂正箇所は\n申請書の不備→確認したい箇所\n土曜日を日曜日に訂正\nーーー以下本文ーーー\n吹奏楽団　阿久津　様\n (cc.緊急連絡先　池田　様)\n\n お世話になっております。\n 会津大学学園祭実行委員対応部の木村と申します。\n 今回提出していただいた申請書に関して何点か確認したい箇所がございますので、連絡いたしました。\n 質問内容は以下の通りです。\n\n ○企画詳細で土曜日に予定している発表時間が30分に対し、備考では午前10時〜11\n 時となっており、時間が合っていません。\n ○企画詳細で日曜日に予定している発表時間が1時間に対し、備考では午後13時〜15\n 時となっており、時間が合っていません。\n\n 7月12日(火)の17時10分に学祭室にお越しください。\n なお、お越しの際は印鑑を持参してお越しください。\n 日時の都合が悪い場合は、ご希望の日時をお知らせください。\n\n よろしくお願いします。\n\n ーーーーーーーーーーーーーーーーー\n 会津大学学園祭実行委員会　対応部\n 木村　好誠 (Kimura Kosei)\n\n E-mail : <mailto:s1300072@u-aizu.ac.jp|s1300072@u-aizu.ac.jp>\n ーーーーーーーーーーーーーーーーー",
+        "user": "U03JVEZF16K",
+        "ts": "1657268076.578569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gce3b8c064d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce3b8c064d631f71df30389c596bff69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "木村好誠",
+            "real_name": "木村好誠",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "kimurakousei0606",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "moYx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします\n訂正箇所は\n申請書の不備→確認したい箇所\n土曜日を日曜日に訂正\nーーー以下本文ーーー\n吹奏楽団　阿久津　様\n (cc.緊急連絡先　池田　様)\n\n お世話になっております。\n 会津大学学園祭実行委員対応部の木村と申します。\n 今回提出していただいた申請書に関して何点か確認したい箇所がございますので、連絡いたしました。\n 質問内容は以下の通りです。\n\n ○企画詳細で土曜日に予定している発表時間が30分に対し、備考では午前10時〜11\n 時となっており、時間が合っていません。\n ○企画詳細で日曜日に予定している発表時間が1時間に対し、備考では午後13時〜15\n 時となっており、時間が合っていません。\n\n 7月12日(火)の17時10分に学祭室にお越しください。\n なお、お越しの際は印鑑を持参してお越しください。\n 日時の都合が悪い場合は、ご希望の日時をお知らせください。\n\n よろしくお願いします。\n\n ーーーーーーーーーーーーーーーーー\n 会津大学学園祭実行委員会　対応部\n 木村　好誠 (Kimura Kosei)\n\n E-mail : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300072@u-aizu.ac.jp",
+                                "text": "s1300072@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n ーーーーーーーーーーーーーーーーー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U039RCZ4E04"
+                ],
+                "count": 1
+            },
+            {
+                "name": "sent",
+                "users": [
+                    "U03JVEZF16K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "26eab844-2b81-41ab-952b-a3d52fdccb7d",
+        "type": "message",
+        "text": "メールチェックお願いします\n訂正箇所を増やしました\nーーーー以下本文ーーーー\nOMG　石井　様\n (cc.緊急連絡先　前田　様)\n\n お世話になっております。\n 会津大学学園祭実行委員対応部の木村と申します。\n 今回提出していただいた申請書に関して何点か訂正していただきたい箇所がございますので、連絡いたしました。\n 申請書の不備は、以下の通りです。\n\n ○参加日が曖昧でした。\n\n ○緊急連絡先の氏名を漢字で書いて下さい。\n\n 不備の訂正がございますので、7月11日(月)の12時50分に学祭室にお越しください。\n なお、お越しの際は印鑑を持参してお越しください。\n 日時の都合が悪い場合は、ご希望の日時をお知らせください。\n\n よろしくお願いします。\n\n ーーーーーーーーーーーーーーーーー\n 会津大学学園祭実行委員会　対応部\n 木村　好誠 (Kimura Kosei)\n\n E-mail : <mailto:s1300072@u-aizu.ac.jp|s1300072@u-aizu.ac.jp>\n ーーーーーーーーーーーーーーーーー",
+        "user": "U03JVEZF16K",
+        "ts": "1657268439.345279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gce3b8c064d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce3b8c064d631f71df30389c596bff69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "木村好誠",
+            "real_name": "木村好誠",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "kimurakousei0606",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "18t0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします\n訂正箇所を増やしました\nーーーー以下本文ーーーー\nOMG　石井　様\n (cc.緊急連絡先　前田　様)\n\n お世話になっております。\n 会津大学学園祭実行委員対応部の木村と申します。\n 今回提出していただいた申請書に関して何点か訂正していただきたい箇所がございますので、連絡いたしました。\n 申請書の不備は、以下の通りです。\n\n ○参加日が曖昧でした。\n\n ○緊急連絡先の氏名を漢字で書いて下さい。\n\n 不備の訂正がございますので、7月11日(月)の12時50分に学祭室にお越しください。\n なお、お越しの際は印鑑を持参してお越しください。\n 日時の都合が悪い場合は、ご希望の日時をお知らせください。\n\n よろしくお願いします。\n\n ーーーーーーーーーーーーーーーーー\n 会津大学学園祭実行委員会　対応部\n 木村　好誠 (Kimura Kosei)\n\n E-mail : "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1300072@u-aizu.ac.jp",
+                                "text": "s1300072@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n ーーーーーーーーーーーーーーーーー"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657268439.345279",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1657357858.659469",
+        "reply_users": [
+            "U03JVEZF16K",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U03JVEZF16K",
+                "ts": "1657272644.695629"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1657357858.659469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "sent",
+                "users": [
+                    "U03JVEZF16K"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e714472c-1730-41e0-ba8a-2c525b8de250",
+        "type": "message",
+        "text": "あと、送信する前に日程を7月11日の18時ごろにしたいのですけど大丈夫ですか？",
+        "user": "U03JVEZF16K",
+        "ts": "1657272644.695629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gce3b8c064d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce3b8c064d631f71df30389c596bff69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "木村好誠",
+            "real_name": "木村好誠",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "kimurakousei0606",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wPTzs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あと、送信する前に日程を7月11日の18時ごろにしたいのですけど大丈夫ですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657268439.345279",
+        "parent_user_id": "U03JVEZF16K"
+    }
+]

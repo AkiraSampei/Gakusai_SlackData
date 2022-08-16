@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "c7a2e57a-3d1d-4a56-bcb6-0232d6e17342",
+        "type": "message",
+        "text": "＠新入生の皆さんへ\n連日の連絡失礼します。委員長の宮崎です。\n\nさて、来週にメール講習会を開くので伝助の記入をお願いします。新入生は必ず参加をお願いします。\n※伝助の結果次第では講習会を二度に分けて開くことも考えています。その際はどちらかに参加してもらえれば結構です。\n\n```<https:\/\/densuke.biz\/list?cd=K75HMPPVyV2MxB2m>```",
+        "user": "U03901B3W69",
+        "ts": "1655781826.688209",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9ZHGJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "＠新入生の皆さんへ\n連日の連絡失礼します。委員長の宮崎です。\n\nさて、来週にメール講習会を開くので伝助の記入をお願いします。新入生は必ず参加をお願いします。\n※伝助の結果次第では講習会を二度に分けて開くことも考えています。その際はどちらかに参加してもらえれば結構です。\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=K75HMPPVyV2MxB2m"
+                            }
+                        ],
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37683c45-1b1c-4fd8-9ca4-e7049577735f",
+        "type": "message",
+        "text": "日程は決まってますか?",
+        "user": "U03JVEZF16K",
+        "ts": "1655782201.985029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gce3b8c064d6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ce3b8c064d631f71df30389c596bff69.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "木村好誠",
+            "real_name": "木村好誠",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "kimurakousei0606",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03JVEZF16K",
+            "ts": "1655782236.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kCDi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "日程は決まってますか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655695000.263359",
+        "parent_user_id": "U039WPGBPDH"
+    }
+]

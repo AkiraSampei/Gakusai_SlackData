@@ -1,0 +1,115 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1658923514.192539",
+        "user": "U03CATDUH0A",
+        "text": "<@U03CATDUH0A>さんがチャンネルに参加しました",
+        "inviter": "U03BM52KMEC"
+    },
+    {
+        "client_msg_id": "4023173a-572d-47c8-a57a-28e459b66d4a",
+        "type": "message",
+        "text": "<!channel> 急な連絡で申し訳ありません。\n　諸事情でnft企画がなくなったので、佐藤君が移ってきました。\n　これから仲良くやっていきましょう!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1658923697.740229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fbFTc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 急な連絡で申し訳ありません。\n　諸事情でnft企画がなくなったので、佐藤君が移ってきました。\n　これから仲良くやっていきましょう!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U038TMLJW1M"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E51CF94E-F0F2-45F9-ABC4-3EE871663E7D",
+        "type": "message",
+        "text": "よろしくお願いします:bow:",
+        "user": "U03CATDUH0A",
+        "ts": "1658972502.583799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "b1a259da48ea",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3442707937616_b1a259da48eabe5fee00_72.png",
+            "first_name": "SATO",
+            "real_name": "SATO",
+            "display_name": "Sho1",
+            "team": "T038Z0K089K",
+            "name": "s1300221",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gASI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

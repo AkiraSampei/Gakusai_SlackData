@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "F6C780B8-FF74-452C-A698-FEA71D394210",
+        "type": "message",
+        "text": "自治会でもサークルPRの催し物やるみたいですね",
+        "user": "U0394PQ44FL",
+        "ts": "1649498721.428879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "i\/5K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "自治会でもサークルPRの催し物やるみたいですね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

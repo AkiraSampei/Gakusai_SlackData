@@ -1,0 +1,120 @@
+[
+    {
+        "client_msg_id": "a84e2003-a735-4f4e-8c52-1476e72fcfef",
+        "type": "message",
+        "text": "対応部会議30分ほど遅れます。",
+        "user": "U03AJV9QH96",
+        "ts": "1657086200.475509",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge7ad0ebd24b",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e7ad0ebd24bae41cc75a4c7fe88358d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+            "first_name": "Mai",
+            "real_name": "Mai",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280138",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5D3n9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "対応部会議30分ほど遅れます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bb7225db-1560-4a61-a4e9-98d11c24f9b3",
+        "type": "message",
+        "text": "会議30分程遅れます すみません",
+        "user": "U039LGX8MN1",
+        "ts": "1657086437.297639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge4cceea23c3",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e4cceea23c3c852dd9aef914c9b398f6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+            "first_name": "白湯",
+            "real_name": "白湯",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "satoyuma3314",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039LGX8MN1",
+            "ts": "1657088333.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZSob8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "会議30分程遅れます すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66EBEDE6-6124-4BF1-9B14-628F87E937C8",
+        "type": "message",
+        "text": "対応部会議欠席します。すみません",
+        "user": "U03K8F1PW82",
+        "ts": "1657090333.896549",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "6576e03f9907",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-12\/3801061478977_6576e03f9907f0383e04_72.png",
+            "first_name": "Takuya",
+            "real_name": "Takuya Eguchi",
+            "display_name": "たくや",
+            "team": "T038Z0K089K",
+            "name": "s1300049",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Eh=ku",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "対応部会議欠席します。すみません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "7f91126f-1e30-4401-b2ea-a2c34ded002d",
+        "type": "message",
+        "text": "<@U03KPT8FAD7> お疲れ様、今学校生活で忙しいと思うんだけど企画書の作成と顔合わせをしたいと考えています。\n　　　　　　　今週〜来週の中で都合の良い時間ある？何個か候補教えてほしいです。",
+        "user": "U03BM52KMEC",
+        "ts": "1655344116.922929",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aFr5m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様、今学校生活で忙しいと思うんだけど企画書の作成と顔合わせをしたいと考えています。\n　　　　　　　今週〜来週の中で都合の良い時間ある？何個か候補教えてほしいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

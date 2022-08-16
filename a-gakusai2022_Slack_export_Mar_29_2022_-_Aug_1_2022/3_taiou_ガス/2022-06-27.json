@@ -1,0 +1,108 @@
+[
+    {
+        "client_msg_id": "dd3ee9e3-b148-4a66-9cc4-7fa057c655e2",
+        "type": "message",
+        "text": "10限まで授業なので、19時くらいに行きます:ok_woman:",
+        "user": "U03KRPKDY8L",
+        "ts": "1656322275.083159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6hV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "10限まで授業なので、19時くらいに行きます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_woman",
+                                "unicode": "1f646"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E6A91B9B-F2ED-4F78-8BB2-2713B98C57F7",
+        "type": "message",
+        "text": "了解です:woman-gesturing-ok:\nでは7\/14（木）19時くらいに学祭室でお願いします",
+        "user": "U039T9DE072",
+        "ts": "1656324971.553289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039T9DE072",
+            "ts": "1656734009.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "b6c9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "woman-gesturing-ok",
+                                "unicode": "1f646-200d-2640-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "では7\/14（"
+                            },
+                            {
+                                "type": "text",
+                                "text": "木"
+                            },
+                            {
+                                "type": "text",
+                                "text": "）19時くらいに学祭室でお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

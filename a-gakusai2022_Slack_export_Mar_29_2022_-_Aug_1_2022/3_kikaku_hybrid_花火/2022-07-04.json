@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "76544C32-4ACB-4811-9BF1-B6C8C994E14F",
+        "type": "message",
+        "text": "返信遅れてすみません。金曜日でしたら行けます！",
+        "user": "U03K1SMDYHL",
+        "ts": "1656997996.995059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge683ef399c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e683ef399c613c17f30ae6a6f1b11d81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Akari",
+            "real_name": "Akari Moriya",
+            "display_name": "あかり",
+            "team": "T038Z0K089K",
+            "name": "s1300231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHqi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "返信遅れてすみません"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "金曜日でしたら行けます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656892800.174109",
+        "parent_user_id": "U0391RWR34N"
+    },
+    {
+        "client_msg_id": "7b785030-8021-498f-8018-9702f0270e77",
+        "type": "message",
+        "text": "おっけー　なら金曜日に！",
+        "user": "U0391RWR34N",
+        "ts": "1657002296.634769",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WguJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おっけー　なら金曜日に！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656892800.174109",
+        "parent_user_id": "U0391RWR34N"
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "6FDE20F1-5787-4B66-A826-3F0A96F1EE16",
+        "type": "message",
+        "text": "花火の企画書の添削終わりました。",
+        "user": "U03K1SMDYHL",
+        "ts": "1657938083.660729",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ge683ef399c6",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/e683ef399c613c17f30ae6a6f1b11d81.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "Akari",
+            "real_name": "Akari Moriya",
+            "display_name": "あかり",
+            "team": "T038Z0K089K",
+            "name": "s1300231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/pxW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "花火の企画書"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "添削終わり"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "727D58F4-E745-4804-B864-E5CD425CBF27",
+        "type": "message",
+        "text": "ポケユナのメール、参加の可否より先にポケモンサークルに協力してもらえるかどうかを聞いた方がいいかも？",
+        "user": "U038TMLJW1M",
+        "ts": "1657953036.775229",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B673d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポケユナのメール、参加の可否より先にポケモンサークルに協力してもらえるかどうかを聞いた方がいいかも？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "reply_count": 7,
+        "reply_users_count": 3,
+        "latest_reply": "1657975652.943459",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U038TMLJW1M",
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657953997.406999"
+            },
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1657954012.678159"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1657962904.067639"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657975484.770149"
+            },
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1657975553.688689"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1657975631.096539"
+            },
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1657975652.943459"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "48633D23-715B-4C63-8B42-92AA01FF12D0",
+        "type": "message",
+        "text": "ポケサーに知り合いいるので連絡してみますか?",
+        "user": "U0399UH8BKQ",
+        "ts": "1657953997.406999",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e5Ll",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ポケサーに知り合いいるので連絡してみますか?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "parent_user_id": "U038TMLJW1M"
+    },
+    {
+        "client_msg_id": "2B25372C-C661-4035-9AB7-9AD211293049",
+        "type": "message",
+        "text": "お願いします",
+        "user": "U038TMLJW1M",
+        "ts": "1657954012.678159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oyy0R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657953036.775229",
+        "parent_user_id": "U038TMLJW1M"
+    }
+]

@@ -1,0 +1,519 @@
+[
+    {
+        "client_msg_id": "17E6F5BB-38D4-4A4F-A2A5-94AA68EB8862",
+        "type": "message",
+        "text": "線形１ 渡部繁先生の過去問持ってる人いますか？",
+        "user": "U03CDMY1V9C",
+        "ts": "1658722707.794489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "bPprT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "線形１ 渡部繁先生の過去問持ってる人いますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "reply_count": 14,
+        "reply_users_count": 4,
+        "latest_reply": "1658842274.685389",
+        "reply_users": [
+            "U038TMLJW1M",
+            "U03D0L4BEJU",
+            "U03CDMY1V9C",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1658722797.726199"
+            },
+            {
+                "user": "U03D0L4BEJU",
+                "ts": "1658722894.566169"
+            },
+            {
+                "user": "U03CDMY1V9C",
+                "ts": "1658723156.582279"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658723333.914739"
+            },
+            {
+                "user": "U03D0L4BEJU",
+                "ts": "1658723542.154849"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658723593.042249"
+            },
+            {
+                "user": "U03CDMY1V9C",
+                "ts": "1658728495.242329"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658733871.494319"
+            },
+            {
+                "user": "U03CDMY1V9C",
+                "ts": "1658734475.604219"
+            },
+            {
+                "user": "U03D0L4BEJU",
+                "ts": "1658818357.225929"
+            },
+            {
+                "user": "U03CDMY1V9C",
+                "ts": "1658822174.043019"
+            },
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1658822688.820919"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1658831245.921119"
+            },
+            {
+                "user": "U03CDMY1V9C",
+                "ts": "1658842274.685389"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1658842274.685389"
+    },
+    {
+        "client_msg_id": "69DCFC3B-5D51-42A6-91E3-8D8E9758A661",
+        "type": "message",
+        "text": "線形2のときは過去問くれた　1はわからん",
+        "user": "U038TMLJW1M",
+        "ts": "1658722797.726199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4PuO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "線形2のときは過去問くれた　1はわからん"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C",
+        "reactions": [
+            {
+                "name": "smiling_face_with_tear",
+                "users": [
+                    "U03CDMY1V9C"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8C61666D-32A3-4D8F-B2E7-7645CC1494E9",
+        "type": "message",
+        "text": "教授のホームディレクトリから印刷できるよ！ただ、答えはないかも...",
+        "user": "U03D0L4BEJU",
+        "ts": "1658722894.566169",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IUqk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "教授のホームディレクトリから印刷できるよ！ただ、答えはないかも..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C"
+    },
+    {
+        "client_msg_id": "3D754C7A-584C-4F48-B865-EF413B5B0933",
+        "type": "message",
+        "text": "答えないの辛いな…\nとりあえずディレクトリいじってみる。ありがと〜",
+        "user": "U03CDMY1V9C",
+        "ts": "1658723156.582279",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mxh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "答えないの辛いな…"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とりあえずディレクトリいじってみる。ありがと〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e729d7dd-1992-4cc2-afe8-cc5ed9508b3f",
+        "type": "message",
+        "text": "問題セット載せてくれれば解答つくりますよ",
+        "user": "U0394PQ44FL",
+        "ts": "1658723333.914739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OW=yC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "問題セット載せてくれれば解答つくりますよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C",
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "本当ですか?! そう言ってくださるととてもありがたいです:bow: お忙しいところ申し訳ないですが、今から送る線形の過去問(計4問)3年分の解答を作って下さると嬉しいです:pray:",
+        "files": [
+            {
+                "id": "F03RGV76DL0",
+                "created": 1658723530,
+                "timestamp": 1658723530,
+                "name": "2018.pdf",
+                "title": "2018",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03D0L4BEJU",
+                "editable": false,
+                "size": 43789,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03RGV76DL0\/2018.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03RGV76DL0\/download\/2018.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03RGV76DL0-4efe6d21d5\/2018_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03D0L4BEJU\/F03RGV76DL0\/2018.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03RGV76DL0-172ca11676",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03QQ8NSA2Z",
+                "created": 1658723533,
+                "timestamp": 1658723533,
+                "name": "2019.pdf",
+                "title": "2019",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03D0L4BEJU",
+                "editable": false,
+                "size": 43826,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QQ8NSA2Z\/2019.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QQ8NSA2Z\/download\/2019.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QQ8NSA2Z-23d410de9d\/2019_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03D0L4BEJU\/F03QQ8NSA2Z\/2019.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QQ8NSA2Z-6849ebcfb1",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "F03QCKP373R",
+                "created": 1658723538,
+                "timestamp": 1658723538,
+                "name": "2020.pdf",
+                "title": "2020",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03D0L4BEJU",
+                "editable": false,
+                "size": 43592,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QCKP373R\/2020.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QCKP373R\/download\/2020.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QCKP373R-600e4cab30\/2020_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03D0L4BEJU\/F03QCKP373R\/2020.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QCKP373R-0873fa6300",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03D0L4BEJU",
+        "ts": "1658723542.154849",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zZV0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "本当ですか?! そう言ってくださるととてもありがたいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お忙しいところ申し訳ないですが、今から送る線形の過去問(計4問)3年分の解答を作って下さると嬉しいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9F0000DC-2178-4B80-9985-14941EBDB373",
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C"
+    },
+    {
+        "client_msg_id": "99d31d11-bf0d-47ee-a2fd-b2a44fd78a60",
+        "type": "message",
+        "text": "多分時間かかるのでしばらくお待ち下さい",
+        "user": "U0394PQ44FL",
+        "ts": "1658723593.042249",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jkV=P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多分時間かかるのでしばらくお待ち下さい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C"
+    },
+    {
+        "client_msg_id": "27A19125-FEAD-4E0C-8330-1D27AF2686C8",
+        "type": "message",
+        "text": "ありがとうございます！！",
+        "user": "U03CDMY1V9C",
+        "ts": "1658728495.242329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "e4653bf0432b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-07-22\/3848431002193_e4653bf0432bf5eeb2cc_72.png",
+            "first_name": "あまさわ",
+            "real_name": "あまさわ",
+            "display_name": "あべた",
+            "team": "T038Z0K089K",
+            "name": "abe1483tiyu1123",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Tzymc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658722707.794489",
+        "parent_user_id": "U03CDMY1V9C"
+    }
+]

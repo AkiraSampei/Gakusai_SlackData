@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "53fcc2af-e890-4d18-9396-5df378f1b2eb",
+        "type": "message",
+        "text": "<!channel> とりあえず保健所会議の伝介を作成しておきました。\n6\/29(水)だった場合zoomを使用します。またオンライン授業期間がさらに延長した場合もzoomを使用した会議になります。　\n期限は6\/28(火)とします。\n```<https:\/\/densuke.biz\/list?cd=BunTEbLHKszyVkqm>```\n",
+        "user": "U039P4NSKM1",
+        "ts": "1656231768.581839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Xia",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " とりあえず保健所会議の伝介を作成しておきました。\n6\/29(水)だった場合zoomを使用します。またオンライン授業期間がさらに延長した場合もzoomを使用した会議になります。　\n期限は6\/28(火)とします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=BunTEbLHKszyVkqm"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ]
+    }
+]

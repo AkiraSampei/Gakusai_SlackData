@@ -1,0 +1,283 @@
+[
+    {
+        "client_msg_id": "9093b202-84e9-4425-ab77-f727ec8146cb",
+        "type": "message",
+        "text": "<!channel>\nリマインダーです。\n\n本日１４：００より学祭室でリアルスプラトゥーン企画会議を行います。\nみなさんよろしくおねがいします。",
+        "user": "U0394PQ44FL",
+        "ts": "1655600400.530149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WMm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリマインダーです。\n\n本日１４：００より学祭室でリアルスプラトゥーン企画会議を行います。\nみなさんよろしくおねがいします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8897273f-3b57-4277-ba56-76db8e1db079",
+        "type": "message",
+        "text": "<@U03GZQ9T32R> 土日の学生ホール(売店とか学生課ある建物)の入り方わかる？",
+        "user": "U03BM52KMEC",
+        "ts": "1655614588.961289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3QV5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03GZQ9T32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 土日の学生ホール(売店とか学生課ある建物)の入り方わかる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "acc605d3-6313-4527-9675-4846668bfc67",
+        "type": "message",
+        "text": "すみませんわかりません",
+        "user": "U03GZQ9T32R",
+        "ts": "1655614682.429639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e0A",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみませんわかりません"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ccfa31b-0fdb-43ae-8f07-e8f2c6aa8c29",
+        "type": "message",
+        "text": "<@U03GZQ9T32R> 駐車場には着いてる？",
+        "user": "U03BM52KMEC",
+        "ts": "1655614730.886489",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cjGaZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03GZQ9T32R"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 駐車場には着いてる？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0af44da4-c6f7-4281-8618-f8b929d8c169",
+        "type": "message",
+        "text": "今図書館辺りにいます",
+        "user": "U03GZQ9T32R",
+        "ts": "1655614765.974969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wDA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今図書館辺りにいます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5c241cbc-ffac-4cde-aa3c-74d30fba7435",
+        "type": "message",
+        "text": "着きました",
+        "user": "U03GZQ9T32R",
+        "ts": "1655614867.331519",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "gbffa1fe5139",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/bffa1fe51390e5e80ca0b1c670217bc3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-72.png",
+            "first_name": "Syo",
+            "real_name": "Syo Goto",
+            "display_name": "ごとう",
+            "team": "T038Z0K089K",
+            "name": "s1300135",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4MK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "着きました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03L28VC8DC",
+                "created": 1655617022,
+                "timestamp": 1655617022,
+                "name": "ー６月１９日　リアルスプラ企画会議ー.pdf",
+                "title": "ー６月１９日　リアルスプラ企画会議ー.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U0394PQ44FL",
+                "editable": false,
+                "size": 39121,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L28VC8DC\/_________________________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03L28VC8DC\/download\/_________________________________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03L28VC8DC-8005682c34\/__________________________________________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0394PQ44FL\/F03L28VC8DC\/_________________________________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03L28VC8DC-cd9a013e0f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0394PQ44FL",
+        "display_as_bot": false,
+        "ts": "1655617024.320949",
+        "client_msg_id": "4c84ef83-14b7-44c0-ae17-f555097fff34"
+    }
+]

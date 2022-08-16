@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "916D09C1-D15F-43CF-91F4-AB8532772F76",
+        "type": "message",
+        "text": "ジャスミン 8月12日金曜日に訪問します",
+        "user": "U03GW267PQE",
+        "ts": "1658476545.257089",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "8d4cd923fe95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3667185878081_8d4cd923fe95f2c88bc0_72.png",
+            "first_name": "Akito",
+            "real_name": "Akito Sudo",
+            "display_name": "須藤",
+            "team": "T038Z0K089K",
+            "name": "s1300140",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RZM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ジャスミン 8月12日金曜日に訪問します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

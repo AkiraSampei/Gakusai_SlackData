@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "0A035569-B187-419A-9754-17E0655E6D78",
+        "type": "message",
+        "text": "音楽っていうと違うけど、最近みんな荒んでるようなのでこれで癒されてくれ\n<https:\/\/youtu.be\/rDOvlu5TRZA|https:\/\/youtu.be\/rDOvlu5TRZA>",
+        "user": "U0399UH8BKQ",
+        "ts": "1654296375.197739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/rDOvlu5TRZA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/rDOvlu5TRZA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/rDOvlu5TRZA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/rDOvlu5TRZA",
+                "fallback": "YouTube Video: メンダコ焼きちゃん",
+                "title": "メンダコ焼きちゃん",
+                "title_link": "https:\/\/youtu.be\/rDOvlu5TRZA",
+                "author_name": "asaha",
+                "author_link": "https:\/\/www.youtube.com\/c\/asaha",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HEsjB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "音楽っていうと違うけど、最近みんな荒んでるようなのでこれで癒されてくれ\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/rDOvlu5TRZA",
+                                "text": "https:\/\/youtu.be\/rDOvlu5TRZA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

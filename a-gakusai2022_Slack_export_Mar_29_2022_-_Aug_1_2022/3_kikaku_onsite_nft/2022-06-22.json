@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "AA753578-B6A4-4B2A-AE8C-F130CFCD1D7E",
+        "type": "message",
+        "text": "<@U039BUU0GAH> 今日どうしますか:innocent:\n自分も今の今まで忘れかけてたんで明日の方が都合良いかもです:cold_sweat:",
+        "user": "U039WPGBPDH",
+        "ts": "1655967040.455599",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JOP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039BUU0GAH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日どうしますか"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "innocent",
+                                "unicode": "1f607"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自分も今の今まで忘れかけてたんで明日の方が都合良いかもです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "cold_sweat",
+                                "unicode": "1f630"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

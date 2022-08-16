@@ -1,0 +1,320 @@
+[
+    {
+        "client_msg_id": "50a2effa-d9e0-4e6e-a702-b373d807c45f",
+        "type": "message",
+        "text": "今日の全体会議のZoomリンクです\n<https:\/\/zoom.us\/j\/6901179121?pwd=aTRVWW1rZGI3VTNKSUcxOXl1M3lCdz09>",
+        "user": "U039M3UAXFG",
+        "ts": "1657785759.624019",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+BoHn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の全体会議のZoomリンクです\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/zoom.us\/j\/6901179121?pwd=aTRVWW1rZGI3VTNKSUcxOXl1M3lCdz09"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7302669-fd5e-417b-8fb0-8b7871c090b7",
+        "type": "message",
+        "text": "多文化企業について\n今年度多文化企業は\n1日目\n山田民芸工房-&gt;起き上がり小帽子\nめろんぱん A GO! GO!\n-&gt;メロンパン各種、クロワッサン、パイ各種、ベーグル、メロンパンアイス、ドリンク各種\nリリーズカフェ\n-&gt;こぼれタルタルチキンドッグ、ステーキ丼、ブルーシールアイス\n２日目\nほしばんさま-&gt;絵蝋燭\nD-kitchen Hiro\n-&gt;パスタ各種、パフェ各種、ドリンク、クリームソーダ\nら・さんた\n-&gt;厚切りハムカツバーガー、たまごサラダドック、元気な揚げカレーパン、極みのソフトクリーム、揚げクリームパン\n両方\nパティスリーさん　スイーツ\n梅津フーズさん　肉巻きおにぎり\n串鶴　串カツ\nケバブ　\n です！メニューについては変更される場合がありますので、よろしくお願いします！",
+        "user": "U039V55S998",
+        "ts": "1657787266.215059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/wUDZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "多文化企業について\n今年度多文化企業は\n1日目\n山田民芸工房->起き上がり小帽子\nめろんぱん A GO! GO!\n->メロンパン各種、クロワッサン、パイ各種、ベーグル、メロンパンアイス、ドリンク各種\nリリーズカフェ\n->こぼれタルタルチキンドッグ、ステーキ丼、ブルーシールアイス\n２日目\nほしばんさま->絵蝋燭\nD-kitchen Hiro\n->パスタ各種、パフェ各種、ドリンク、クリームソーダ\nら・さんた\n->厚切りハムカツバーガー、たまごサラダドック、元気な揚げカレーパン、極みのソフトクリーム、揚げクリームパン\n両方\nパティスリーさん　スイーツ\n梅津フーズさん　肉巻きおにぎり\n串鶴　串カツ\nケバブ　\n です！メニューについては変更される場合がありますので、よろしくお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "装飾課についてのパワポです。\n特に一年生の人は見て下さい（＿o＿）v",
+        "files": [
+            {
+                "id": "F03PK5678TW",
+                "created": 1657792336,
+                "timestamp": 1657792336,
+                "name": "プレゼンテーション.pdf",
+                "title": "プレゼンテーション.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039L92GA3X",
+                "editable": false,
+                "size": 732328,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PK5678TW\/___________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PK5678TW\/download\/___________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PK5678TW-8ca74d5707\/____________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039L92GA3X\/F03PK5678TW\/___________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03PK5678TW-07afbc6799",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039L92GA3X",
+        "display_as_bot": false,
+        "ts": "1657792345.795479",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QpYy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "装飾課についてのパワポです。\n特に一年生の人は見て下さい（＿o＿）v"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "523933cb-3ac0-451b-be62-69caa87f2afe"
+    },
+    {
+        "client_msg_id": "f3fbcbad-522e-4f96-bbe2-d55c1d584580",
+        "type": "message",
+        "text": "<!channel> お疲れ様です！議事録にも書いてありますが帰省の日程等をこのフォームから教えてください！学祭の活動の参考にします！\nわかった時点で何度でも記入してもらえると助かります！\n<https:\/\/forms.gle\/tRLDfFqB89Yegx8KA>",
+        "user": "U03901B3W69",
+        "ts": "1657792632.793479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/forms.gle\/tRLDfFqB89Yegx8KA",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/U1v2dZhAMN1siqJpsxAfx5akhuUj5hy53C26TztAY_BVjhOOtRq8HfN295zWSkEQo2t2j5e1nxw",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 60579,
+                "service_icon": "http:\/\/ssl.gstatic.com\/docs\/forms\/device_home\/ios_120.png",
+                "id": 1,
+                "original_url": "https:\/\/forms.gle\/tRLDfFqB89Yegx8KA",
+                "fallback": "Google Docs: 夏休みの日程について",
+                "text": "あ^～夏休み。 帰省等の日程を教えてください！学祭の活動日の参考にします！",
+                "title": "夏休みの日程について",
+                "title_link": "https:\/\/forms.gle\/tRLDfFqB89Yegx8KA",
+                "service_name": "Google Docs"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lyV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です！議事録にも書いてありますが帰省の日程等をこのフォームから教えてください！学祭の活動の参考にします！\nわかった時点で何度でも記入してもらえると助かります！\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/tRLDfFqB89Yegx8KA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657792632.793479",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657799575.481629",
+        "reply_users": [
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1657799575.481629"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "0ab01b21-c76d-4e14-b578-05f351261997",
+        "type": "message",
+        "text": "なんかミスがあったようなので修正しました。",
+        "user": "U03901B3W69",
+        "ts": "1657799575.481629",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L0bj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なんかミスがあったようなので修正しました。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657792632.793479",
+        "parent_user_id": "U03901B3W69"
+    },
+    {
+        "client_msg_id": "214a1933-7aa7-409c-82b0-4632707e21fd",
+        "type": "message",
+        "text": "お疲れさまです！学祭のポスター作成で、学祭関連の写真大量に使うので皆さん持ってる分だけ、返信欄に送って欲しいです",
+        "user": "U03M2QM8F36",
+        "ts": "1657863535.236959",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g13ac46d29bf",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/13ac46d29bfa16a7be51d11765ed65b1.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+            "first_name": "京谷凌汰",
+            "real_name": "京谷凌汰",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6k9S1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れさまです！学祭のポスター作成で、学祭関連の写真大量に使うので皆さん持ってる分だけ、返信欄に送って欲しいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657863535.236959",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1658407272.778619",
+        "reply_users": [
+            "U039PA9J5JP",
+            "U03M2QM8F36"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1658120596.621619"
+            },
+            {
+                "user": "U03M2QM8F36",
+                "ts": "1658395632.118149"
+            },
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1658407272.778619"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

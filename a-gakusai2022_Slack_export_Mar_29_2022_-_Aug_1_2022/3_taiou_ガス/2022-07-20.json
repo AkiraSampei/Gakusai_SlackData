@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "77A337F2-AA2D-4BC4-9F07-D98E9BEDFEA9",
+        "type": "message",
+        "text": "<@U03KRPKDY8L>\n今日の13時に学祭室でお願いします:phone:",
+        "user": "U039T9DE072",
+        "ts": "1658370346.627529",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eSyN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03KRPKDY8L"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "今日の13時に学祭室でお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "phone",
+                                "unicode": "260e-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1658370346.627529",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1658798189.120469",
+        "reply_users": [
+            "U03KRPKDY8L",
+            "U039T9DE072"
+        ],
+        "replies": [
+            {
+                "user": "U03KRPKDY8L",
+                "ts": "1658540630.070779"
+            },
+            {
+                "user": "U039T9DE072",
+                "ts": "1658668448.616189"
+            },
+            {
+                "user": "U03KRPKDY8L",
+                "ts": "1658724130.459159"
+            },
+            {
+                "user": "U039T9DE072",
+                "ts": "1658798189.120469"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    }
+]

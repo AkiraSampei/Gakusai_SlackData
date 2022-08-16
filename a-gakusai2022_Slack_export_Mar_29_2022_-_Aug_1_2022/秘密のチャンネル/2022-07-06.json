@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "22265c38-0193-4e2f-a095-28ba3c272a7a",
+        "type": "message",
+        "text": "夜分遅くに失礼します。\nプロ入・力学の中間試験の問題及び解答を持っている方はいらっしゃいますか？",
+        "user": "U03D0L4BEJU",
+        "ts": "1657114719.425459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "AFHF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "夜分遅くに失礼します。\nプロ入・力学の中間試験の問題及び解答を持っている方はいらっしゃいますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657114719.425459",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1657125972.074019",
+        "reply_users": [
+            "U039PA9J5JP"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1657125972.074019"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "7ea6dffa-2fa8-4d71-895e-3c7f510db66a",
+        "type": "message",
+        "text": "力学は演習ゲーなので過去問は観ない方がいいよ、というか演習の問題がそのまま出てくる\nプロ入の試験問題は回収されるのでないっす",
+        "user": "U038TMLJW1M",
+        "ts": "1657115821.271899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038TMLJW1M",
+            "ts": "1657115861.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QMrS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "力学は演習ゲーなので過去問は観ない方がいいよ、というか演習の問題がそのまま出てくる\nプロ入の試験問題は回収されるのでないっす"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03D0L4BEJU",
+                    "U03CDMY1V9C"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "2018までしかないけど、演習の問題を理解すればいける。ただ答え暗記だけだと赤点取るかも。。。",
+        "files": [
+            {
+                "id": "F03NBMQP8UW",
+                "created": 1657125832,
+                "timestamp": 1657125832,
+                "name": "力学.zip",
+                "title": "力学.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U039PA9J5JP",
+                "editable": false,
+                "size": 54235988,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NBMQP8UW\/______.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03NBMQP8UW\/download\/______.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039PA9J5JP\/F03NBMQP8UW\/______.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03NBMQP8UW-7b6915b792",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039PA9J5JP",
+        "display_as_bot": false,
+        "ts": "1657125972.074019",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2018までしかないけど、演習の問題を理解すればいける。ただ答え暗記だけだと赤点取るかも。。。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "9dcfb2b6-d747-4e6a-a04f-d7a21486cb3d",
+        "thread_ts": "1657114719.425459",
+        "parent_user_id": "U03D0L4BEJU",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23CDB0A5-19F6-44E9-A1A6-3EDDBC3C6DE5",
+        "type": "message",
+        "text": "ありがとうございます！演習中心に解いていきます:muscle:",
+        "user": "U03D0L4BEJU",
+        "ts": "1657155547.385649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0oun",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "りがと"
+                            },
+                            {
+                                "type": "text",
+                                "text": "う"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ござ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ます！演習中心に解いていきます"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

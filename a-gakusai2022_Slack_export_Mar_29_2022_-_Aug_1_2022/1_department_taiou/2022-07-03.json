@@ -1,0 +1,151 @@
+[
+    {
+        "client_msg_id": "9c3dc3d6-777a-42c9-a3cc-c3cc07cbf37b",
+        "type": "message",
+        "text": "<@U039RJU3V36> 前も聞いたけどサークルカットの縦横比、サイズについてここでもう一回明言してほしいです。よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1656834318.773889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MoZZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039RJU3V36"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 前も聞いたけどサークルカットの縦横比、サイズについてここでもう一回明言してほしいです。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9037a8d-6ddb-4d2e-af46-91e327d89cc7",
+        "type": "message",
+        "text": "サークルカットの縦横比：指定なし(ただ細長くなりすぎるのはNG)\n\nサイズ：パンフに載せる時にこちらで編集します。a5の4分の1以下のサイズになっても大丈夫なデザイン(文字サイズ等)をお願いします。",
+        "user": "U039RJU3V36",
+        "ts": "1656834659.562589",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jN=l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークルカットの縦横比：指定なし(ただ細長くなりすぎるのはNG)\n\nサイズ：パンフに載せる時にこちらで編集します。a5の4分の1以下のサイズになっても大丈夫なデザイン(文字サイズ等)をお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_conga",
+                "users": [
+                    "U039V55S998",
+                    "U039EF90649"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ff6ef09-8706-48ed-99ab-fbd7193e12a1",
+        "type": "message",
+        "text": "<!channel>\nメンション失礼します。明後日の７、８限は対応部会議です。みなさん参加できる方はなるべく参加よろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1656913005.452879",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1656913222.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Fjw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nメンション失礼します。明後日の７、８限は対応部会議です。みなさん参加できる方はなるべく参加よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "了解",
+                "users": [
+                    "U039PA9J5JP",
+                    "U0399UH8BKQ",
+                    "U0391RWR34N",
+                    "U039LGX8MN1",
+                    "U039RCZ4E04"
+                ],
+                "count": 5
+            }
+        ]
+    }
+]

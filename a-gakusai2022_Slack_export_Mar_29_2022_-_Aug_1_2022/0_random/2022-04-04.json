@@ -1,0 +1,174 @@
+[
+    {
+        "client_msg_id": "2589c71a-ac1d-42ea-9a8c-6cba6fa23aa2",
+        "type": "message",
+        "text": "学祭TwitterのQRください。",
+        "user": "U03901B3W69",
+        "ts": "1649056523.199499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GrjTi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭TwitterのQRください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649056523.199499",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1649063081.361439",
+        "reply_users": [
+            "U0391RWR34N",
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U0391RWR34N",
+                "ts": "1649057349.735389"
+            },
+            {
+                "user": "U03901B3W69",
+                "ts": "1649063081.361439"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F039ZL1TPV2",
+                "created": 1649057344,
+                "timestamp": 1649057344,
+                "name": "iOS の画像.png",
+                "title": "iOS の画像",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U0391RWR34N",
+                "editable": false,
+                "size": 229816,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F039ZL1TPV2\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F039ZL1TPV2\/download\/ios__________.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________64.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________80.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________360.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________480.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________160.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________720.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________800.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________960.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F039ZL1TPV2-fcd70a0865\/ios___________1024.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 1080,
+                "thumb_tiny": "AwAwADCYli5VSevTNBEgGcnH1oBAlOemTUp+b5cDOBxgiudK50N2Ij5i5yW4680Yk\/2vzqQ8DBAwDnrS7+mOg5FFhXI8Sep\/76pAWDhWJ69M1ICFX2x3HvUZIMox0yKGrDTuGCZSB61NtY9QM59KiU4mz7mpPzGexNOIpEckhLnkc+1COVbGAfaiQFnLKMA9+1Cq4O4Y4461WlvMz97m8iUgnoMkDjjtUO4tLk9zUysRtBJHfmomz5\/PrUyNIgP9cfqaeVAx0JwO\/vUZDByyg9euKCZCMEHH0pJ2G1ck+VGxggD26+xpVx8pwcg461F+89GoBkBz81HMLlJjuZyMFgeeahxibHvRmTOfmzjHShVYMCQevpQ3caVj\/9k=",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0391RWR34N\/F039ZL1TPV2\/ios__________.png",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F039ZL1TPV2-4b1be89b47",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0391RWR34N",
+        "display_as_bot": false,
+        "ts": "1649057349.735389",
+        "client_msg_id": "A87C27C4-2524-45DE-9859-686BF78A1C2D",
+        "thread_ts": "1649056523.199499",
+        "parent_user_id": "U03901B3W69"
+    },
+    {
+        "client_msg_id": "30207e14-ad8b-4747-8737-fef9d809167d",
+        "type": "message",
+        "text": "ありがとうございます。",
+        "user": "U03901B3W69",
+        "ts": "1649063081.361439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6dNiv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1649056523.199499",
+        "parent_user_id": "U03901B3W69",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

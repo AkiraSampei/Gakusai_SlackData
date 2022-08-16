@@ -1,0 +1,127 @@
+[
+    {
+        "client_msg_id": "CC14EE90-5913-4646-AC1C-8E85B8EF06E4",
+        "type": "message",
+        "text": "消します",
+        "user": "U039RCZ4E04",
+        "ts": "1656635539.963649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ave",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "消します"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656568770.226469",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "465107EA-003D-4777-A049-AD7BE74C9DF0",
+        "type": "message",
+        "text": "あとは「ご確認いただけると幸いです」とか付けると印象は良さそうだよね",
+        "user": "U0399UH8BKQ",
+        "ts": "1656635645.037059",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "irZNP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとは「ご確認いただけると幸いです」とか付けると印象は良さそうだよね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656568770.226469",
+        "parent_user_id": "U039RCZ4E04"
+    },
+    {
+        "client_msg_id": "6DAC190E-43C2-490B-841D-B6C9915FCB46",
+        "type": "message",
+        "text": "かしこまりました:pray:",
+        "user": "U039RCZ4E04",
+        "ts": "1656635886.770079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HnOF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "かしこまりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656568770.226469",
+        "parent_user_id": "U039RCZ4E04"
+    }
+]

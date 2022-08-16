@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "text": "保健所に関しての全体の流れの把握のために会議を行いました。\n確認お願いします。",
+        "files": [
+            {
+                "id": "F03MPGX5L3E",
+                "created": 1656492990,
+                "timestamp": 1656492990,
+                "name": "保健所議事録1_6月29日.pdf",
+                "title": "保健所議事録1_6月29日.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039P4NSKM1",
+                "editable": false,
+                "size": 313747,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03MPGX5L3E\/__________________1_6___29___.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03MPGX5L3E\/download\/__________________1_6___29___.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03MPGX5L3E-93354ceaa0\/__________________1_6___29____thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039P4NSKM1\/F03MPGX5L3E\/__________________1_6___29___.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03MPGX5L3E-d4e27123cd",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039P4NSKM1",
+        "display_as_bot": false,
+        "ts": "1656493151.023469",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+M5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "保健所に関しての全体の流れの把握のために会議を行いました。\n確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "62223e30-3639-44e8-898a-57deb5c8dfe3"
+    }
+]

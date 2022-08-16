@@ -1,0 +1,448 @@
+[
+    {
+        "client_msg_id": "5065b551-8036-4652-b847-67ce3621bdbf",
+        "type": "message",
+        "text": "期末テスト及び全体会議お疲れ様でした！\n新しく入ってくれた1年生には感謝感謝です。\n+=+=+=+=+=+=\n宣伝させてください！\n広報課:mega:の人員、募集中です。デザインするって楽しいので、少しでも興味があれば僕に連絡を！",
+        "user": "U039RJU3V36",
+        "ts": "1654931520.914039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PbE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "期末テスト及び全体会議お疲れ様でした！\n新しく入ってくれた1年生には感謝感謝です。\n+=+=+=+=+=+=\n宣伝させてください！\n広報課"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mega",
+                                "unicode": "1f4e3"
+                            },
+                            {
+                                "type": "text",
+                                "text": "の人員、募集中です。デザインするって楽しいので、少しでも興味があれば僕に連絡を！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039PA9J5JP"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "今日の広報課紹介スライドを置いておきますね↴↴",
+        "files": [
+            {
+                "id": "F03K8H2CC4S",
+                "created": 1654931712,
+                "timestamp": 1654931712,
+                "name": "広報課 for全体会議.pdf",
+                "title": "広報課 for全体会議.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039RJU3V36",
+                "editable": false,
+                "size": 1543741,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K8H2CC4S\/__________for____________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03K8H2CC4S\/download\/__________for____________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03K8H2CC4S-2d78ffd275\/__________for_____________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1467,
+                "thumb_pdf_h": 825,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039RJU3V36\/F03K8H2CC4S\/__________for____________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03K8H2CC4S-97a8b23f9b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039RJU3V36",
+        "display_as_bot": false,
+        "ts": "1654931724.056809",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xiz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の広報課紹介スライドを置いておきますね↴↴"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "2e115857-13c9-44d9-ad14-42a8b20a56a8",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03BM52KMEC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "743D711F-B3FB-4888-BEEB-89FFAC0D51AD",
+        "type": "message",
+        "text": "現2年生で保健所担当だった方残ってますか？保健所の引き継ぎ書をお渡ししたいです。",
+        "user": "U03A9180MAN",
+        "ts": "1654931943.322439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4fr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "現2年生で保健所担当だった方残ってますか？保健所の引き継ぎ書をお渡ししたいです。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654931943.322439",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1654944413.153409",
+        "reply_users": [
+            "U039P4NSKM1",
+            "U03A9180MAN"
+        ],
+        "replies": [
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1654931971.207049"
+            },
+            {
+                "user": "U03A9180MAN",
+                "ts": "1654943793.782959"
+            },
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1654943851.996199"
+            },
+            {
+                "user": "U03A9180MAN",
+                "ts": "1654944217.703979"
+            },
+            {
+                "user": "U039P4NSKM1",
+                "ts": "1654944413.153409"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "f23aeca5-79f6-4af1-be07-035578bf6f33",
+        "type": "message",
+        "text": "はい",
+        "user": "U039P4NSKM1",
+        "ts": "1654931971.207049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "l0GeK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654931943.322439",
+        "parent_user_id": "U03A9180MAN"
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "直接お話ししたいこともあるので、一度お会いしたいのですが、いつ学祭室これますか？",
+        "user": "U03A9180MAN",
+        "ts": "1654943793.782959",
+        "thread_ts": "1654931943.322439",
+        "root": {
+            "client_msg_id": "743D711F-B3FB-4888-BEEB-89FFAC0D51AD",
+            "type": "message",
+            "text": "現2年生で保健所担当だった方残ってますか？保健所の引き継ぎ書をお渡ししたいです。",
+            "user": "U03A9180MAN",
+            "ts": "1654931943.322439",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "4fr",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "現2年生で保健所担当だった方残ってますか？保健所の引き継ぎ書をお渡ししたいです。"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1654931943.322439",
+            "reply_count": 5,
+            "reply_users_count": 2,
+            "latest_reply": "1654944413.153409",
+            "reply_users": [
+                "U039P4NSKM1",
+                "U03A9180MAN"
+            ],
+            "replies": [
+                {
+                    "user": "U039P4NSKM1",
+                    "ts": "1654931971.207049"
+                },
+                {
+                    "user": "U03A9180MAN",
+                    "ts": "1654943793.782959"
+                },
+                {
+                    "user": "U039P4NSKM1",
+                    "ts": "1654943851.996199"
+                },
+                {
+                    "user": "U03A9180MAN",
+                    "ts": "1654944217.703979"
+                },
+                {
+                    "user": "U039P4NSKM1",
+                    "ts": "1654944413.153409"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O7e",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "直接お話ししたいこともあるので、一度お会いしたいのですが、いつ学祭室これますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "498947C2-CF30-4B08-AE92-83F646C6FCF9"
+    },
+    {
+        "client_msg_id": "2e4c2a16-3239-4eb8-892c-6633ce02449a",
+        "type": "message",
+        "text": "昼休憩であればいつでも行けます",
+        "user": "U039P4NSKM1",
+        "ts": "1654943851.996199",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VEQhx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昼休憩であればいつでも行けます"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654931943.322439",
+        "parent_user_id": "U03A9180MAN"
+    },
+    {
+        "client_msg_id": "1A24D263-4D9C-401F-A8FA-AF0713A7087B",
+        "type": "message",
+        "text": "では13日のお昼休みに学祭室にお願いします！",
+        "user": "U03A9180MAN",
+        "ts": "1654944217.703979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BftS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では"
+                            },
+                            {
+                                "type": "text",
+                                "text": "13"
+                            },
+                            {
+                                "type": "text",
+                                "text": "日のお昼休みに学祭室にお願いします！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654931943.322439",
+        "parent_user_id": "U03A9180MAN"
+    },
+    {
+        "client_msg_id": "b70cbf7b-89c4-4970-b9c4-6c5998ac88be",
+        "type": "message",
+        "text": "了解です",
+        "user": "U039P4NSKM1",
+        "ts": "1654944413.153409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4678e2b7e12f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3654445493603_4678e2b7e12fa9d135c2_72.png",
+            "first_name": "釘宮舜",
+            "real_name": "釘宮舜",
+            "display_name": "kugi_配信課の人",
+            "team": "T038Z0K089K",
+            "name": "s1290195",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2qla",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "了解です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654931943.322439",
+        "parent_user_id": "U03A9180MAN"
+    }
+]

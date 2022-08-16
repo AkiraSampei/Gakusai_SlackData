@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "62948b40-dd1e-4c5d-95f3-939c670682ad",
+        "type": "message",
+        "text": "前回の添削会議の大抽選会についての内容\n\n大抽選会\n＜対面＞\n ・１つ１つの具体的な値段\n ・Day1, Day2  でそれぞれの合計値段が欲しい\n ・備品代多くない？\n ・カップ麺  4000 円ってどういう計算？\n→  参考 URL などを貼る\n ・カタログって何？\n ・18：00 は遅いのでは？\n ・準備要員とは司会とは別？\n ・司会者は企画部員から？\n ・AM, PM  で景品を分ける？\n\n＜オンライン＞\n ・景品を取りに来ない場合の対応\n ・受け取り期間の明記がない\n ・備品代に紙代（くじ用）が欲しい\n   →  箱は多分いらない\n ・当選者に直接メールを送るのか？",
+        "user": "U039M3UAXFG",
+        "ts": "1657784441.588859",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Yo1T",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "前回の添削会議の大抽選会についての内容\n\n大抽選会\n＜対面＞\n ・１つ１つの具体的な値段\n ・Day1, Day2  でそれぞれの合計値段が欲しい\n ・備品代多くない？\n ・カップ麺  4000 円ってどういう計算？\n→  参考 URL などを貼る\n ・カタログって何？\n ・18：00 は遅いのでは？\n ・準備要員とは司会とは別？\n ・司会者は企画部員から？\n ・AM, PM  で景品を分ける？\n\n＜オンライン＞\n ・景品を取りに来ない場合の対応\n ・受け取り期間の明記がない\n ・備品代に紙代（くじ用）が欲しい\n   →  箱は多分いらない\n ・当選者に直接メールを送るのか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ef2aa0a-8d3d-4b60-b099-f132b5cce0b2",
+        "type": "message",
+        "text": "大抽選会\n＜対面＞\n ・１つ１つの具体的な値段　←去年のものなので書かなくていい\n ・Day1, Day2  でそれぞれの合計値段が欲しい　←去年のものなので書かなくていい\n\n ・備品代多くない？　←多くない\n ・カップ麺  4000 円ってどういう計算？　←去年のものなので書かなくていい\n ・カタログって何？　←去年のものなので書かなくていい\n ・18：00 は遅いのでは？　←17:00とかがいいかな\n ・準備要員とは司会とは別？　←別です。仕事の詳細を記載する\n ・司会者は企画部員から？　←特に指定はなし\n ・AM, PM  で景品を分ける？　←分ける\n\n＜オンライン＞\n ・景品を取りに来ない場合の対応　←期限を設ける（一週間、指定の時間に取りに来てもらう）。期限を過ぎたら俺らがもらう。期限内に取りに来れない人は個別でメールもらう。\n ・受け取り期間の明記がない　\n\n ・備品代に紙代（くじ用）が欲しい　←紙代と箱代も記載\n ・当選者に直接メールを送るのか？　←送る",
+        "user": "U039M3UAXFG",
+        "ts": "1657790453.151129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1NUO2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大抽選会\n＜対面＞\n ・１つ１つの具体的な値段　←去年のものなので書かなくていい\n ・Day1, Day2  でそれぞれの合計値段が欲しい　←去年のものなので書かなくていい\n\n ・備品代多くない？　←多くない\n ・カップ麺  4000 円ってどういう計算？　←去年のものなので書かなくていい\n ・カタログって何？　←去年のものなので書かなくていい\n ・18：00 は遅いのでは？　←17:00とかがいいかな\n ・準備要員とは司会とは別？　←別です。仕事の詳細を記載する\n ・司会者は企画部員から？　←特に指定はなし\n ・AM, PM  で景品を分ける？　←分ける\n\n＜オンライン＞\n ・景品を取りに来ない場合の対応　←期限を設ける（一週間、指定の時間に取りに来てもらう）。期限を過ぎたら俺らがもらう。期限内に取りに来れない人は個別でメールもらう。\n ・受け取り期間の明記がない　\n\n ・備品代に紙代（くじ用）が欲しい　←紙代と箱代も記載\n ・当選者に直接メールを送るのか？　←送る"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

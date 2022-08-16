@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "43ef7d7b-8fb6-492f-bb1e-f520775c79fa",
+        "type": "message",
+        "text": "サークル代表各位　\n会津大学学園祭実行委員会の渡辺涼太です。\nサークルカットについての連絡です。\n\n先日は、お集まりいただき有難うございました。\nサークルカットについてですが、googleフォームの用意ができましたので、連絡させていただきます。\n以下のフォームに８月１７日２３時５９分までに記入よろしくお願いします。\n<https:\/\/forms.gle\/nYCz6DVmG56PYWLg8>",
+        "user": "U039V55S998",
+        "ts": "1655353823.614919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1655353982.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル代表各位　\n会津大学学園祭実行委員会の渡辺涼太です。\nサークルカットについての連絡です。\n\n先日は、お集まりいただき有難うございました。\nサークルカットについてですが、googleフォームの用意ができましたので、連絡させていただきます。\n以下のフォームに８月１７日２３時５９分までに記入よろしくお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/forms.gle\/nYCz6DVmG56PYWLg8"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "yoki",
+                "users": [
+                    "U038TMLJW1M"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

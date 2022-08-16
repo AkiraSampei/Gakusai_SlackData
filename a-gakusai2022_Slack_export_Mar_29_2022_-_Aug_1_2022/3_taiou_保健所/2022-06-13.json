@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655110646.885859",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655110676.016049",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655110699.542079",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「3_hokenjo」から「3_taiou_hokenjo」に変更しました",
+        "old_name": "3_hokenjo",
+        "name": "3_taiou_hokenjo"
+    }
+]

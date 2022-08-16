@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655257050.509819",
+        "user": "U039RCZ4E04",
+        "text": "<@U039RCZ4E04>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1655257050.838519",
+        "user": "U039RCZ4E04",
+        "text": "がこのチャンネルの説明を「ステーキの仕事」に設定しました",
+        "purpose": "ステーキの仕事"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655257104.263959",
+        "user": "U03GF2N1X63",
+        "text": "<@U03GF2N1X63>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655257104.358159",
+        "user": "U03JVEZF16K",
+        "text": "<@U03JVEZF16K>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655257104.425639",
+        "user": "U039PA9J5JP",
+        "text": "<@U039PA9J5JP>さんがチャンネルに参加しました",
+        "inviter": "U039RCZ4E04"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655271451.688679",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました"
+    }
+]

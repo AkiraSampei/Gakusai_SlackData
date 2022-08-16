@@ -1,0 +1,217 @@
+[
+    {
+        "client_msg_id": "A2407CD5-2B7F-4BB7-AF00-681CEB82CCA1",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/1x1eEQrkoeAqzpadTSluF8Ddax4ZSCePT2WizClkcLJU\/edit|https:\/\/docs.google.com\/document\/d\/1x1eEQrkoeAqzpadTSluF8Ddax4ZSCePT2WizClkcLJU\/edit>\n\n企画書(仮)です。\n保険を張るようで申し訳ありませんが、正直穴だらけなので先輩方で修正点を指摘していただければと思います。\nよろしくお願い致します。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1656048370.481739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OtJq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1x1eEQrkoeAqzpadTSluF8Ddax4ZSCePT2WizClkcLJU\/edit",
+                                "text": "https:\/\/docs.google.com\/document\/d\/1x1eEQrkoeAqzpadTSluF8Ddax4ZSCePT2WizClkcLJU\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n企画書(仮)で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "保険を張る"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で申し訳ありませんが、正直穴だらけ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "なの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で先輩方で修正点を指摘して"
+                            },
+                            {
+                                "type": "text",
+                                "text": "いた"
+                            },
+                            {
+                                "type": "text",
+                                "text": "だ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "けれ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ば"
+                            },
+                            {
+                                "type": "text",
+                                "text": "と"
+                            },
+                            {
+                                "type": "text",
+                                "text": "思います"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願い致します。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "335FEB86-4881-4E64-802D-6DCBCD8D9B24",
+        "type": "message",
+        "text": "2021年度のものを元に以前顔合わせした際にお話したことを添削した程度ですので、そこまで大きな違いはないかと思われます。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1656048460.561399",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xGS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2021"
+                            },
+                            {
+                                "type": "text",
+                                "text": "年度"
+                            },
+                            {
+                                "type": "text",
+                                "text": "のものを"
+                            },
+                            {
+                                "type": "text",
+                                "text": "元に以前顔合わせした際にお話したことを添削した程度ですので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "そこま"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で大きな違いはないかと思われます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6a698316-1275-496f-87ce-c48d1787f8a3",
+        "type": "message",
+        "text": "↑<!channel>",
+        "user": "U03BM52KMEC",
+        "ts": "1656050277.960359",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3WJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "d7f94dfd-f7d7-4b41-b6b6-24dd5554dfab",
+        "type": "message",
+        "text": "全学年時間割です\n<https:\/\/u-aizu.ac.jp\/curriculum\/internal\/classschedule\/>",
+        "user": "U038TMLJW1M",
+        "ts": "1651115234.464709",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U038TMLJW1M",
+            "ts": "1651115263.000000"
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/u-aizu.ac.jp\/curriculum\/internal\/classschedule\/",
+                "image_url": "https:\/\/u-aizu.ac.jp\/img\/favicons\/ogp.png",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 28919,
+                "service_icon": "https:\/\/u-aizu.ac.jp\/img\/favicons\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/u-aizu.ac.jp\/curriculum\/internal\/classschedule\/",
+                "fallback": "会津大学 - University of Aizu: 授業時間割｜会津大学 - University of Aizu",
+                "title": "授業時間割｜会津大学 - University of Aizu",
+                "title_link": "https:\/\/u-aizu.ac.jp\/curriculum\/internal\/classschedule\/",
+                "service_name": "会津大学 - University of Aizu"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yIHrG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "全学年時間割です\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/u-aizu.ac.jp\/curriculum\/internal\/classschedule\/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,141 @@
+[
+    {
+        "client_msg_id": "85e8235e-04a2-4d23-9b11-3b6fbd0e5aa1",
+        "type": "message",
+        "text": "大抽選会の企画書を作りました！\n<@U03BM52KMEC> 遅くなってごめん:pray:\n\n <@U03KPT8FAD7> <@U03K4J7KXTQ> 企画担当の2人はこれを必ず読んでおいてください！\n企画担当になったからには自分はその企画に関しては実行委員の誰よりも詳しいんだってぐらいの気持ちでいてほしいです\n大抽選会について聞かれたらなんでも答えられるようになっててください\nこれから頑張ろう！！:muscle:\n\n対面ver\n<https:\/\/docs.google.com\/document\/d\/1tfNh4W99YvfZ2SjxTf2d4TFFCE9KxGjmYY-2hdq-170\/edit?usp=sharing>\n\nオンラインver\n<https:\/\/docs.google.com\/document\/d\/1RMrTka0DYrji1NvomrKgxLipor9SHyRsZ0L9-Qk-Qi8\/edit?usp=sharing>",
+        "user": "U039M3UAXFG",
+        "ts": "1656070241.857439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jcTM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大抽選会の企画書を作りました！\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03BM52KMEC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 遅くなってごめん"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 企画担当の2人はこれを必ず読んでおいてください！\n企画担当になったからには自分はその企画に関しては実行委員の誰よりも詳しいんだってぐらいの気持ちでいてほしいです\n大抽選会について聞かれたらなんでも答えられるようになっててください\nこれから頑張ろう！！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "muscle",
+                                "unicode": "1f4aa"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n対面ver\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1tfNh4W99YvfZ2SjxTf2d4TFFCE9KxGjmYY-2hdq-170\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nオンラインver\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1RMrTka0DYrji1NvomrKgxLipor9SHyRsZ0L9-Qk-Qi8\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ababc3f-7209-4a2b-99c4-ee1c64a16cbc",
+        "type": "message",
+        "text": "何か質問とかあればなんでも聞いてね",
+        "user": "U039M3UAXFG",
+        "ts": "1656070276.022669",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkKn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "何か質問とかあればなんでも聞いてね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

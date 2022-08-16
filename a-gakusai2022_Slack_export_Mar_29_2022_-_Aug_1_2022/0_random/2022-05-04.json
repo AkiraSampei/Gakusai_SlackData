@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "subtype": "tombstone",
+        "text": "This message was deleted.",
+        "user": "USLACKBOT",
+        "hidden": true,
+        "ts": "1651725378.415179",
+        "thread_ts": "1651725378.415179",
+        "parent_user_id": "USLACKBOT",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651727656.917509",
+        "reply_users": [
+            "U03901B3W69"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1651727656.917509"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "一団体が学内で活動できる二時間は場所を問わないみたい。講義棟で二時間過ごしたらその後は学祭室を使えない。\n\nどうなってんの。",
+        "user": "U03901B3W69",
+        "ts": "1651727656.917509",
+        "thread_ts": "1651725378.415179",
+        "root": {
+            "type": "message",
+            "subtype": "tombstone",
+            "text": "This message was deleted.",
+            "user": "USLACKBOT",
+            "hidden": true,
+            "ts": "1651725378.415179",
+            "thread_ts": "1651725378.415179",
+            "parent_user_id": "USLACKBOT",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1651727656.917509",
+            "reply_users": [
+                "U03901B3W69"
+            ],
+            "replies": [
+                {
+                    "user": "U03901B3W69",
+                    "ts": "1651727656.917509"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eZxZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一団体が学内で活動できる二時間は場所を問わないみたい。講義棟で二時間過ごしたらその後は学祭室を使えない。\n\nどうなってんの。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "1831ac40-be21-460c-95cf-7b8cf1d6c07b"
+    }
+]

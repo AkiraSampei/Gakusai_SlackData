@@ -1,0 +1,402 @@
+[
+    {
+        "client_msg_id": "30791d43-0ecd-4a92-a057-2f24288f55ed",
+        "type": "message",
+        "text": "<!channel> おはようございます!!企画部長の駒形です。\n再度連絡ですが*企画書(仮)の作成*が*6\/24日(金曜日)*までになっております。\t\nほとんどの企画では顔合わせの日程が決まっていますが、*友情マック企画の顔合わせ日程はまだ決まっていません*。*二年生以上が主体*となって*顔合わせの日程を早めに決めましましょう!!!*\n学校生活で忙しいのは承知していますが、ご協力の方をよろしくお願いします。",
+        "user": "U03BM52KMEC",
+        "ts": "1655773541.447459",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Isi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " おはようございます!!企画部長の駒形です。\n再度連絡ですが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書(仮)の作成",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6\/24日(金曜日)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までになっております。\t\nほとんどの企画では顔合わせの日程が決まっていますが、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "友情マック企画の顔合わせ日程はまだ決まっていません",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "二年生以上が主体",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "となって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "顔合わせの日程を早めに決めましましょう!!!",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n学校生活で忙しいのは承知していますが、ご協力の方をよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36303178-30EB-4757-A163-941A60E5BED9",
+        "type": "message",
+        "text": "水曜なら皆さん空いている方が多いと思われるのでNFTとの打ち合わせもある事を考慮して16時頃からでどうでしょうか？",
+        "user": "U039WPGBPDH",
+        "ts": "1655778455.366569",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3cL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "水曜なら皆さん空いている方が多いと思われるので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "NFT"
+                            },
+                            {
+                                "type": "text",
+                                "text": "との打ち合わせもある事を考慮して"
+                            },
+                            {
+                                "type": "text",
+                                "text": "16"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時頃からで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "どうでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "25a358cb-0c21-4de0-a0c3-653a4c51fc42",
+        "type": "message",
+        "text": "16時からクイズの方があるので、それ以降でお願いします。木曜は56限終わり次第で",
+        "user": "U03A1N54PJM",
+        "ts": "1655778578.026749",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "49296e8d804b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3678273834528_49296e8d804b93a3ab49_72.jpg",
+            "first_name": "Tomose",
+            "real_name": "Tomose Imai",
+            "display_name": "いまとも",
+            "team": "T038Z0K089K",
+            "name": "s1290231",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1F7Lu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "16時からクイズの方があるので、それ以降でお願いします。木曜は56限終わり次第で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "743401D8-3264-478F-8D2B-BEB66F846B22",
+        "type": "message",
+        "text": "18時とか？",
+        "user": "U039WPGBPDH",
+        "ts": "1655778786.767029",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rVqe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18"
+                            },
+                            {
+                                "type": "text",
+                                "text": "時"
+                            },
+                            {
+                                "type": "text",
+                                "text": "とか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DEB022B9-7D4A-4797-AA91-98222DF55A77",
+        "type": "message",
+        "text": "可能なら水曜日のうちに済ませちゃいたいのが僕の意見です、",
+        "user": "U039WPGBPDH",
+        "ts": "1655778803.647009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RnL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "可能なら水曜日のうちに済ませちゃいたいのが僕の意見です、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4BAE2F3E-B99E-4A46-84C9-F877834A7F0E",
+        "type": "message",
+        "text": "あとは宇佐美くん次第かな　他の企画持ってないから絶対出てもらわないと（来年以降のことも考えて）",
+        "user": "U038TMLJW1M",
+        "ts": "1655778867.580579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nor",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "あとは宇佐美くん次第かな　他の企画持ってないから絶対出てもらわないと（来年以降のことも考えて）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3D19EABF-CD96-4F6E-9DCD-154F9EED92FD",
+        "type": "message",
+        "text": "18:00なら参加できます。",
+        "user": "U03BW9Q5DF1",
+        "ts": "1655781544.680739",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g3f40866b668",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/3f40866b66891959e05160242ff64f83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+            "first_name": "USAMI",
+            "real_name": "USAMI",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WBW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "18:00なら参加できます。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B9CBF47A-29FC-468C-AAB6-A4C9AF5ECBFE",
+        "type": "message",
+        "text": "じゃあ明日の18時で",
+        "user": "U038TMLJW1M",
+        "ts": "1655781861.083449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wSQ\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "じゃあ明日の18時で"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

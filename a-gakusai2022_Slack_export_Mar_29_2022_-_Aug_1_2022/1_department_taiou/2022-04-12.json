@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1649828421.942529",
+        "user": "U039EF90649",
+        "text": "チャンネル名を「department_taiou」から「1_department_taiou」に変更しました",
+        "old_name": "department_taiou",
+        "name": "1_department_taiou"
+    }
+]

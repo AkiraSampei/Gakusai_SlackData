@@ -1,0 +1,196 @@
+[
+    {
+        "client_msg_id": "fb7842b8-aeb9-470b-b670-006023871e78",
+        "type": "message",
+        "text": "第二回対応部会議の日程調整をします。\n記入よろしくお願いします。\n```<https:\/\/densuke.biz\/list?cd=6tQJS37p7LUWWAV9>```\n",
+        "user": "U039V55S998",
+        "ts": "1655440418.421479",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2XmP",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "第二回対応部会議の日程調整をします。\n記入よろしくお願いします。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=6tQJS37p7LUWWAV9"
+                            }
+                        ],
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": []
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655440418.421479",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1655441758.899939",
+        "reply_users": [
+            "U039PA9J5JP",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1655441584.445659"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1655441758.899939"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "332d7042-fcf8-4249-beb1-6abc2484b043",
+        "type": "message",
+        "text": "６月３０日までに記入よろしくお願いします",
+        "user": "U039V55S998",
+        "ts": "1655441301.796639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CM9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "６月３０日までに記入よろしくお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "646bda7f-bbfc-41e3-960d-e8078f3551cf",
+        "type": "message",
+        "text": "2,3に具体的な時間がほしいです",
+        "user": "U039PA9J5JP",
+        "ts": "1655441584.445659",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mhK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2,3に具体的な時間がほしいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655440418.421479",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "f2b225d1-259b-4761-891d-bc0de09c42b5",
+        "type": "message",
+        "text": "はい。すみませんでした。",
+        "user": "U039V55S998",
+        "ts": "1655441758.899939",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1655441778.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jl85",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい。すみませんでした。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655440418.421479",
+        "parent_user_id": "U039V55S998"
+    }
+]

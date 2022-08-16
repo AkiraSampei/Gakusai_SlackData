@@ -1,0 +1,280 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654500879.471839",
+        "user": "U03BM52KMEC",
+        "text": "<@U03BM52KMEC>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1654579074.622599",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "31c605bf-61c4-44c1-a63f-5d10e0599a99",
+        "type": "message",
+        "text": "サークル代表各位　サークル説明会についての連絡です。\n学園祭実行委員会対応部長の渡辺涼太です。\n\n急な日程ですが、今年度の学園祭に向けたサークル説明会を、以下の通りに開催いたします。\n\n\n1.日時\n6月15日(水),15:00~\n\n2:場所\nM7教室\n\n資料は当日お渡しします。\n\n何かご相談や質問がございましたら<mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> までお願いします。\n\n—English—\nTo all the representatives of the circle, this is a contact about the circle information session.\nI’m Ryota Watanabe, the director of the school festival executive committee.\n\nWe will hold a circle briefing session for this year’s school festival as follows.\n\n1. Date and time\nJun 15th (Wednesday), 15: 00~\n\n2. Location\nClassroom M7\n\nIn the session, we will give you some documents.\nIf you have some questions, please contact us, <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> .\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部2年\n学園祭実行委員会\n対応部　s1290148　渡辺涼太\nEmail:  <mailto:s1290148@u-aizu.ac.jp|s1290148@u-aizu.ac.jp>\n-------------------------------------------------------",
+        "user": "U039V55S998",
+        "ts": "1654579082.431309",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039V55S998",
+            "ts": "1654579443.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8q\/Q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル代表各位　サークル説明会についての連絡です。\n学園祭実行委員会対応部長の渡辺涼太です。\n\n急な日程ですが、今年度の学園祭に向けたサークル説明会を、以下の通りに開催いたします。\n\n\n1.日時\n6月15日(水),15:00~\n\n2:場所\nM7教室\n\n資料は当日お渡しします。\n\n何かご相談や質問がございましたら"
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " までお願いします。\n\n—English—\nTo all the representatives of the circle, this is a contact about the circle information session.\nI’m Ryota Watanabe, the director of the school festival executive committee.\n\nWe will hold a circle briefing session for this year’s school festival as follows.\n\n1. Date and time\nJun 15th (Wednesday), 15: 00~\n\n2. Location\nClassroom M7\n\nIn the session, we will give you some documents.\nIf you have some questions, please contact us, "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " .\n\n-------------------------------------------------------\n会津大学　コンピュータ理工学部\n学部2年\n学園祭実行委員会\n対応部　s1290148　渡辺涼太\nEmail:  "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290148@u-aizu.ac.jp",
+                                "text": "s1290148@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n-------------------------------------------------------"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654579082.431309",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1654579482.409039",
+        "reply_users": [
+            "U03901B3W69",
+            "U039V55S998"
+        ],
+        "replies": [
+            {
+                "user": "U03901B3W69",
+                "ts": "1654579185.944799"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654579194.772149"
+            },
+            {
+                "user": "U039V55S998",
+                "ts": "1654579482.409039"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U039PA9J5JP",
+                    "U039RCZ4E04"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f56a0e65-2f12-40eb-9f6d-09553c5f3c57",
+        "type": "message",
+        "text": "サークル説明会のメールチェックお願いします",
+        "user": "U039V55S998",
+        "ts": "1654579100.229139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mkkn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "サークル説明会のメールチェックお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "640596a8-3f03-4b9f-941e-de72df9ae68a",
+        "type": "message",
+        "text": "英語二行目\n”I'm Ryoko Watanabe”\nというか英語部分変わって無くない？",
+        "user": "U03901B3W69",
+        "ts": "1654579185.944799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9t7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "英語二行目\n”I'm Ryoko Watanabe”\nというか英語部分変わって無くない？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654579082.431309",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "77d5691c-f474-460d-84ef-d0feca4c33c5",
+        "type": "message",
+        "text": "失礼",
+        "user": "U039V55S998",
+        "ts": "1654579194.772149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WrSE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "失礼"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654579082.431309",
+        "parent_user_id": "U039V55S998"
+    },
+    {
+        "client_msg_id": "818d6467-953d-47d6-8704-aca67a767b4a",
+        "type": "message",
+        "text": "訂正しました。確認お願いします。",
+        "user": "U039V55S998",
+        "ts": "1654579482.409039",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "02q",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "訂正しました。確認お願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1654579082.431309",
+        "parent_user_id": "U039V55S998"
+    }
+]

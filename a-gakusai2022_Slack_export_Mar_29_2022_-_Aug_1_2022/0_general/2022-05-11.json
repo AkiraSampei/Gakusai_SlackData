@@ -1,0 +1,132 @@
+[
+    {
+        "client_msg_id": "ec962403-b591-4e7b-be5a-6095e3ff3814",
+        "type": "message",
+        "text": "<!channel> 　お疲れ様です。宮崎です。GWも中間も終わって落ち着いたと思うので全体会議を開きます。\n\nTOEIC終わってすぐ開ければ良かったんですけど私が無理なので5月18日(水曜日)の午後18時からZoomで開催します。リンクは後日送ります。\n\nよろしくお願いいたします。",
+        "user": "U03901B3W69",
+        "ts": "1652330058.387979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U03901B3W69",
+            "ts": "1652330145.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5l",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 　お疲れ様です。宮崎です。GWも中間も終わって落ち着いたと思うので全体会議を開きます。\n\nTOEIC終わってすぐ開ければ良かったんですけど私が無理なので5月18日(水曜日)の午後18時からZoomで開催します。リンクは後日送ります。\n\nよろしくお願いいたします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652330058.387979",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1652330099.043339",
+        "reply_users": [
+            "U038TMLJW1M"
+        ],
+        "replies": [
+            {
+                "user": "U038TMLJW1M",
+                "ts": "1652330099.043339"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG",
+                    "U03CDMY1V9C",
+                    "U039V55S998",
+                    "U039PA9J5JP",
+                    "U039BUU0GAH",
+                    "U039LGX8MN1",
+                    "U03D0L4BEJU"
+                ],
+                "count": 7
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U039M3UAXFG",
+                    "U038TMLJW1M",
+                    "U0391RWR34N",
+                    "U03D0L4BEJU"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0922B592-E271-480F-8BB2-1C664994EDE6",
+        "type": "message",
+        "text": "<!channel> ",
+        "user": "U038TMLJW1M",
+        "ts": "1652330099.043339",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ef+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1652330058.387979",
+        "parent_user_id": "U03901B3W69"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "99ad3c05-924f-4cc5-a4c6-6fa125fb0e1e",
+        "type": "message",
+        "text": "お疲れ様です！\n自分は\n7月14日(木) 15:00~\n7月15日(金) 17:00~\nなら大丈夫です！",
+        "user": "U03KPT8FAD7",
+        "ts": "1657178302.335109",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "5bcc696abdb0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-19\/3688792806931_5bcc696abdb0b0b300bb_72.png",
+            "first_name": "石田　佳与",
+            "real_name": "石田　佳与",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300067",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KLy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です！\n自分は\n7月14日(木) 15:00~\n7月15日(金) 17:00~\nなら大丈夫です！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

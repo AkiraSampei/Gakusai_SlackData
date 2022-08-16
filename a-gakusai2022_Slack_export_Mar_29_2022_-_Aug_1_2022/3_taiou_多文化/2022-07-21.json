@@ -1,0 +1,113 @@
+[
+    {
+        "client_msg_id": "e26256c6-7a07-4d6a-923d-d06f90bedf3e",
+        "type": "message",
+        "text": "来週水曜日に多文化会議を昼休みから開きます。\n内容としては\nメニューを決める\n申請書を書くようにお願いする\nスパイスさんに電話する(いつまで納品か)\nです！時間は水曜の昼休みから５、６限までを予定しています。\n授業があったらそっち優先お願いします",
+        "user": "U039V55S998",
+        "ts": "1658450203.349429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PPz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来週水曜日に多文化会議を昼休みから開きます。\n内容としては\nメニューを決める\n申請書を書くようにお願いする\nスパイスさんに電話する(いつまで納品か)\nです！時間は水曜の昼休みから５、６限までを予定しています。\n授業があったらそっち優先お願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "da8aea47-d59c-482f-bb7b-ca08a8d65ddd",
+        "type": "message",
+        "text": "昼行ける:+1::skin-tone-2:\n５、６限行ける:raised_hands:\nリアクションお願いします",
+        "user": "U039V55S998",
+        "ts": "1658450256.941239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "z1g0D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昼行ける"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d-1f3fb",
+                                "skin_tone": 2
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n５、６限行ける"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raised_hands",
+                                "unicode": "1f64c"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nリアクションお願いします"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039V55S998"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

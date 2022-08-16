@@ -1,0 +1,473 @@
+[
+    {
+        "client_msg_id": "a1274e01-feac-48f0-b6c1-30e3a621083a",
+        "type": "message",
+        "text": "明日の昼休み後とかでもいいですか？",
+        "user": "U039PA9J5JP",
+        "ts": "1656573912.626379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/IXr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日の昼休み後とかでもいいですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U03AJV9QH96"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37498331-E0FA-4B9D-A869-B7735B627678",
+        "type": "message",
+        "text": "<@U03AJV9QH96> 大丈夫そう？\n（自分は行けるよ）",
+        "user": "U0391RWR34N",
+        "ts": "1656598716.752499",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GiaZh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AJV9QH96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 大丈夫そう？\n（自分は行けるよ）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656598716.752499",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1656601706.620429",
+        "reply_users": [
+            "U03AJV9QH96"
+        ],
+        "replies": [
+            {
+                "user": "U03AJV9QH96",
+                "ts": "1656601706.620429"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "私も大丈夫です",
+        "user": "U03AJV9QH96",
+        "ts": "1656601706.620429",
+        "thread_ts": "1656598716.752499",
+        "root": {
+            "client_msg_id": "37498331-E0FA-4B9D-A869-B7735B627678",
+            "type": "message",
+            "text": "<@U03AJV9QH96> 大丈夫そう？\n（自分は行けるよ）",
+            "user": "U0391RWR34N",
+            "ts": "1656598716.752499",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "GiaZh",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "user",
+                                    "user_id": "U03AJV9QH96"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": " 大丈夫そう？\n（自分は行けるよ）"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1656598716.752499",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1656601706.620429",
+            "reply_users": [
+                "U03AJV9QH96"
+            ],
+            "replies": [
+                {
+                    "user": "U03AJV9QH96",
+                    "ts": "1656601706.620429"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1ry",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "私も大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "E665D671-5F54-440B-B9E8-DD60F454CB33",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "28A3F3FE-3629-4F79-A73C-75C69DEEF330",
+        "type": "message",
+        "text": "<@U03AJV9QH96> <@U0391RWR34N> お願いします〜",
+        "user": "U039PA9J5JP",
+        "ts": "1656630173.482859",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rbo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03AJV9QH96"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0391RWR34N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "text",
+                                "text": "お願い"
+                            },
+                            {
+                                "type": "text",
+                                "text": "します"
+                            },
+                            {
+                                "type": "text",
+                                "text": "〜"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U03AJV9QH96"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58C26252-803F-43C9-B1D6-260721D4F22F",
+        "type": "message",
+        "text": "（始めるの、14時くらいからでも大丈夫っすか…？",
+        "user": "U0391RWR34N",
+        "ts": "1656632742.280239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vZja",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "（始めるの、14時くらいからでも大丈夫っすか…？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18C58951-B1D5-4506-8EBF-1438C6D01F39",
+        "type": "message",
+        "text": "大丈夫ですよ笑\n学祭室で待ってますね",
+        "user": "U039PA9J5JP",
+        "ts": "1656633565.833759",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EI4B3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫ですよ笑"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学祭室で待ってますね"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U0391RWR34N"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9b83d945-5548-4cc3-81e9-89c98353ce49",
+        "type": "message",
+        "text": "以下のいずれかで協賛金を頂戴したく存じます。\n1. 本日協賛金をお受け取りする\n2. 後日（パンフレット完成時（10月中旬目安））お受け取りする",
+        "user": "U0391RWR34N",
+        "ts": "1656652633.862529",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "d10b4162ec99",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-09\/3368895696978_d10b4162ec99365660be_72.png",
+            "first_name": "Koshi",
+            "real_name": "Koshi Ozawa",
+            "display_name": "ざわ",
+            "team": "T038Z0K089K",
+            "name": "s1270194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Iy4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "以下のいずれかで協賛金を頂戴したく存じます。\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "本日協賛金をお受け取りする"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "後日（パンフレット完成時（10月中旬目安））お受け取りする"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "再々修正",
+        "files": [
+            {
+                "id": "F03N197JQFN",
+                "created": 1656654548,
+                "timestamp": 1656654548,
+                "name": "2022協賛のご案内資料.pdf",
+                "title": "2022協賛のご案内資料.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039PA9J5JP",
+                "editable": false,
+                "size": 646926,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N197JQFN\/2022___________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N197JQFN\/download\/2022___________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N197JQFN-7f0a34be0d\/2022____________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039PA9J5JP\/F03N197JQFN\/2022___________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03N197JQFN-6fcbfe8b3e",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039PA9J5JP",
+        "display_as_bot": false,
+        "ts": "1656654559.302669",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "dvb1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "再々修正"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "93e44954-c0c7-43a9-9336-1e425442aa9a"
+    }
+]

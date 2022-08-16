@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "81a0975d-934a-4ab5-9dc9-cd3f086828af",
+        "type": "message",
+        "text": "<@U039P4NSKM1> <@U03A9180MAN> 保健所の挨拶回りの日程を立ててほしいので一年生と予定合わせて、このチャンネルに記入してください",
+        "user": "U039V55S998",
+        "ts": "1656050880.865579",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "llr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039P4NSKM1"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03A9180MAN"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 保健所の挨拶回りの日程を立ててほしいので一年生と予定合わせて、このチャンネルに記入してください"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ECF88BB-2CBE-4F8D-BBEF-BD2E43436810",
+        "type": "message",
+        "text": "<@U039V55S998>　ある程度、各サークルの書類が訂正された状況で保健所訪問します。\n学祭全体の書類確認と各サークルの書類訂正呼び出し、日程的にいつ頃終わりそうですか？",
+        "user": "U03A9180MAN",
+        "ts": "1656052517.859259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g60e3413edde",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/60e3413eddedbdb0091367ae22164cde.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "Yuka",
+            "real_name": "Yuka Yabuki",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280157",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y9hmd",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U039V55S998"
+                            },
+                            {
+                                "type": "text",
+                                "text": "　ある程度、各サークルの書類が訂正された状況で保健所訪問します。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "学祭全体の書類確認と各サークルの書類訂正呼び出し、日程的にいつ頃終わりそうですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e0ae9a9-f589-4c76-b983-baa34f4994ca",
+        "type": "message",
+        "text": "一応７月の１３日までに書類は終わらせることを予定しておりますが、それより前に挨拶だけでもメールでしないのですか？",
+        "user": "U039V55S998",
+        "ts": "1656052712.401329",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v\/8Fn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一応７月の１３日までに書類は終わらせることを予定しておりますが、それより前に挨拶だけでもメールでしないのですか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

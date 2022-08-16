@@ -1,0 +1,353 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649724908.143439",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F03BSSK6H5W",
+                "created": 1649725524,
+                "timestamp": 1649725524,
+                "name": "ふーりぇぷれてすと.zip",
+                "title": "ふーりぇぷれてすと.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 1216470,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03BSSK6H5W\/___________________________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03BSSK6H5W\/download\/___________________________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03BSSK6H5W\/___________________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03BSSK6H5W-1a1673670b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1649725529.294239",
+        "client_msg_id": "a90f6a7a-48e5-4dc7-a667-2f8e5683fffa"
+    },
+    {
+        "client_msg_id": "2ab88db8-7e04-4777-b8e9-ca34d192fd0d",
+        "type": "message",
+        "text": "可知クラスどうぞ\n講義資料は変わってねーと思うのではいってねーです",
+        "user": "U0399UH8BKQ",
+        "ts": "1649725568.084289",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WWnB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "可知クラスどうぞ\n講義資料は変わってねーと思うのではいってねーです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "javaの講義資料＆課題です\nごちゃごちゃしてますが目当てのものは探してください\nなかったらないです",
+        "files": [
+            {
+                "id": "F03B08GQSCV",
+                "created": 1649725814,
+                "timestamp": 1649725814,
+                "name": "pl03_java.zip",
+                "title": "pl03_java.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 30523358,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03B08GQSCV\/pl03_java.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03B08GQSCV\/download\/pl03_java.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03B08GQSCV\/pl03_java.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03B08GQSCV-d6410ee309",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1649725871.405119",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "XLc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "javaの講義資料＆課題です\nごちゃごちゃしてますが目当てのものは探してください\nなかったらないです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "25e87b3e-28dd-4811-bac4-2cb843091648"
+    },
+    {
+        "type": "message",
+        "text": "理工学演習１のレポートまとめ\n参考までに",
+        "files": [
+            {
+                "id": "F03AWFP08MU",
+                "created": 1649726270,
+                "timestamp": 1649726270,
+                "name": "理工学演習Ⅰ.zip",
+                "title": "理工学演習Ⅰ.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 6023271,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AWFP08MU\/__________________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03AWFP08MU\/download\/__________________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03AWFP08MU\/__________________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03AWFP08MU-f4e39edeb9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1649726301.629559",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SE7ag",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "理工学演習１のレポートまとめ\n参考までに"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "751264e1-e16e-4630-8e7a-69af18df68d5"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1649729305.961049",
+        "user": "U039WPGBPDH",
+        "text": "<@U039WPGBPDH>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "A95BFB08-E8F3-49B8-BAFE-03EA7A54A443",
+        "type": "message",
+        "text": "みつけてしまいました",
+        "user": "U039WPGBPDH",
+        "ts": "1649729321.305139",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0M6q7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "みつけてしまいました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "N.asaiクラス\nそのうちくれると思うけど演習の答え",
+        "files": [
+            {
+                "id": "F03B399FN2E",
+                "created": 1649729373,
+                "timestamp": 1649729373,
+                "name": "確率統計.zip",
+                "title": "確率統計.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 2657084,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03B399FN2E\/____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03B399FN2E\/download\/____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03B399FN2E\/____________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03B399FN2E-9778b2963c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1649729381.724989",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7hji5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "N.asaiクラス\nそのうちくれると思うけど演習の答え"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "7d028e89-c9fa-4967-ae8f-e445cd16e57e"
+    },
+    {
+        "type": "message",
+        "text": "土屋先生フーリエ期末 最後の方で配られるかも",
+        "files": [
+            {
+                "id": "F03BT1Z4WQY",
+                "created": 1649729417,
+                "timestamp": 1649729417,
+                "name": "Fourier_honsi2019.pdf",
+                "title": "Fourier_honsi2019.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U038TMLJW1M",
+                "editable": false,
+                "size": 57985,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03BT1Z4WQY\/fourier_honsi2019.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03BT1Z4WQY\/download\/fourier_honsi2019.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03BT1Z4WQY-7cbde63d04\/fourier_honsi2019_thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U038TMLJW1M\/F03BT1Z4WQY\/fourier_honsi2019.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03BT1Z4WQY-5eec72acb5",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U038TMLJW1M",
+        "display_as_bot": false,
+        "ts": "1649729435.289759",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0QZG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "土屋先生フーリエ期末 最後の方で配られるかも"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "10f038ec-8da3-43a7-8294-f3a3385ae51e"
+    }
+]

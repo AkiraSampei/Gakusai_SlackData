@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "b41528bf-8319-4f0a-9c62-e92ac4db6cad",
+        "type": "message",
+        "text": "メールについてです\n\nメールありがとうございます\n希望車両は\n29日\nメロンパン\nリリーズカフェ\n30日\nDーキッチン\nら・サンタです\n\n詳しいメニューの調整は追ってします。\nよろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1657098319.877069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "e6bo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールについてです\n\nメールありがとうございます\n希望車両は\n29日\nメロンパン\nリリーズカフェ\n30日\nDーキッチン\nら・サンタです\n\n詳しいメニューの調整は追ってします。\nよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f589c99-f1d2-4b4d-9b4b-2f65217653a8",
+        "type": "message",
+        "text": "津久井くんテスト後でいいからメールお願いね！",
+        "user": "U039V55S998",
+        "ts": "1657098337.449829",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YHp=0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "津久井くんテスト後でいいからメールお願いね！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D2D421D8-C724-4A3B-B3D8-3062F15312D5",
+        "type": "message",
+        "text": "分かりました！",
+        "user": "U03CUPE920G",
+        "ts": "1657099493.680009",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "647213d59452",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-28\/3584196405494_647213d5945273567751_72.png",
+            "first_name": "つくいらい",
+            "real_name": "つくいらい",
+            "display_name": "つくいらい",
+            "team": "T038Z0K089K",
+            "name": "s1300079",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rsdrK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分かりました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

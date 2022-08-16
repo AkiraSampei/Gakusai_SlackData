@@ -1,0 +1,428 @@
+[
+    {
+        "client_msg_id": "b63a477f-844a-4109-aee3-d656629296c7",
+        "type": "message",
+        "text": "<https:\/\/persol-tech-s.co.jp\/hatalabo\/it_engineer\/593.html>",
+        "user": "U039BUU0GAH",
+        "ts": "1650429739.710429",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/persol-tech-s.co.jp\/hatalabo\/it_engineer\/593.html",
+                "thumb_url": "https:\/\/persol-tech-s.co.jp\/hatalabo\/wp-content\/uploads\/2021\/12\/it593_main.jpg",
+                "thumb_width": 1212,
+                "thumb_height": 500,
+                "id": 1,
+                "original_url": "https:\/\/persol-tech-s.co.jp\/hatalabo\/it_engineer\/593.html",
+                "fallback": "【はたラボ】派遣のニュース・仕事情報・業界イロハ|派遣会社・人材派遣求人ならパーソルテクノロジースタッフ ｜IT・Web・機電の派遣求人ならパーソルテクノロジースタッフのエンジニア派遣: NFTとは｜仕組み・取引方法とデジタルアートの作り方も紹介",
+                "text": "2021年、インターネットユーザーや投資家の間で「NFT」が大きな話題となりました。ブロックチェーン技術を用いてデジタルデータを取引するNFTは、今後さらに大きな市場になる可能性を秘めています。",
+                "title": "NFTとは｜仕組み・取引方法とデジタルアートの作り方も紹介",
+                "title_link": "https:\/\/persol-tech-s.co.jp\/hatalabo\/it_engineer\/593.html",
+                "service_name": "【はたラボ】派遣のニュース・仕事情報・業界イロハ|派遣会社・人材派遣求人ならパーソルテクノロジースタッフ ｜IT・Web・機電の派遣求人ならパーソルテクノロジースタッフのエンジニア派遣"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "28g4f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/persol-tech-s.co.jp\/hatalabo\/it_engineer\/593.html"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650429739.710429",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650429809.896069",
+        "reply_users": [
+            "U039BUU0GAH",
+            "U0399UH8BKQ"
+        ],
+        "replies": [
+            {
+                "user": "U039BUU0GAH",
+                "ts": "1650429796.674799"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1650429809.896069"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "9d208a6c-3092-4f40-8a4d-4297ba690aab",
+        "type": "message",
+        "text": "今日の議事録に関係ある",
+        "user": "U039BUU0GAH",
+        "ts": "1650429796.674799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "7caab170b41e",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-24\/3716872956964_7caab170b41e4cb899e6_72.png",
+            "first_name": "Takuto",
+            "real_name": "Takuto Odaira",
+            "display_name": "おおだいら",
+            "team": "T038Z0K089K",
+            "name": "tacwingman015",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Nm\/J",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の議事録に関係ある"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650429739.710429",
+        "parent_user_id": "U039BUU0GAH"
+    },
+    {
+        "client_msg_id": "12792c55-f40d-4e4d-87d6-983034792d78",
+        "type": "message",
+        "text": "なーる",
+        "user": "U0399UH8BKQ",
+        "ts": "1650429809.896069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eIpQ3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "なーる"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650429739.710429",
+        "parent_user_id": "U039BUU0GAH",
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "659a68ef-7210-410d-975d-05fe492323f0",
+        "type": "message",
+        "text": "2年会計の髙橋です。初めての議事録で見づらいところはありますが、ご了承ください。\n----------------------------------\n*第一回企画会議議事録*\n\n方針\n去年度の引き継ぎ\n\n\n変更点\n\t・企画の個数を減らす\n\t・企画担当の人数調整\n\t→補助的な役割を増やす\n\n\n今月までの目標\n\t・企画の決定←早めに決めたい\n\t・予算案の作成\n\n継続したい企画案\n\t・子供ひろば→人手不足で継続は厳しいかも。。。？\n\t・大抽選会\n\t・花火\n\t・ドローン\n\n継続するか検討中の企画\n\t・多文化（外部からくる出店）\n\t・ここどこ\n\t・秘境ツアー\n\t・水鉄砲\n\t・バブルボール\n\t・パワポカラオケ\n\n廃棄する企画\n\t・ピタゴラ\n\t・ナンバーマッチング\n\t・大喜利\n\t・メイキング企画\n\n新企画\n\t・NFTを出品しよう！！（仮）",
+        "user": "U039PA9J5JP",
+        "ts": "1650430709.243169",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1650430939.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "C2YeJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "2年会計の髙橋です。初めての議事録で見づらいところはありますが、ご了承ください。\n----------------------------------\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "第一回企画会議議事録",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n方針\n去年度の引き継ぎ\n\n\n変更点\n\t・企画の個数を減らす\n\t・企画担当の人数調整\n\t→補助的な役割を増やす\n\n\n今月までの目標\n\t・企画の決定←早めに決めたい\n\t・予算案の作成\n\n継続したい企画案\n\t・子供ひろば→人手不足で継続は厳しいかも。。。？\n\t・大抽選会\n\t・花火\n\t・ドローン\n\n継続するか検討中の企画\n\t・多文化（外部からくる出店）\n\t・ここどこ\n\t・秘境ツアー\n\t・水鉄砲\n\t・バブルボール\n\t・パワポカラオケ\n\n廃棄する企画\n\t・ピタゴラ\n\t・ナンバーマッチング\n\t・大喜利\n\t・メイキング企画\n\n新企画\n\t・NFTを出品しよう！！（仮）"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039H10MUTY"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "fire",
+                "users": [
+                    "U039BUU0GAH",
+                    "U0391RWR34N"
+                ],
+                "count": 2
+            },
+            {
+                "name": "face_with_thermometer",
+                "users": [
+                    "U039LGX8MN1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "duck_cute_3",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "duck_cute_4",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30551E28-AA2C-4369-AA64-BAAFF42B6631",
+        "type": "message",
+        "text": "議事録メールで流すって話されました？",
+        "user": "U0394PQ44FL",
+        "ts": "1650431224.025839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iHj3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "議事録メールで流すって話されました？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650431224.025839",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1650431434.353129",
+        "reply_users": [
+            "U039PA9J5JP",
+            "U0394PQ44FL"
+        ],
+        "replies": [
+            {
+                "user": "U039PA9J5JP",
+                "ts": "1650431396.899619"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1650431434.353129"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1650431434.353129",
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U039H10MUTY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a9aea46-83d2-45af-b2f0-ecfb5ed77926",
+        "type": "message",
+        "text": "今やります！",
+        "user": "U039PA9J5JP",
+        "ts": "1650431396.899619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "JMGx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今やります！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650431224.025839",
+        "parent_user_id": "U0394PQ44FL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6631E3B9-B412-413D-965A-E5BC95D09795",
+        "type": "message",
+        "text": "お願いしますm(*_ _)m",
+        "user": "U0394PQ44FL",
+        "ts": "1650431434.353129",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7Ook",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お願いしますm(*_ _)m"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1650431224.025839",
+        "parent_user_id": "U0394PQ44FL"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1649828443.230239",
+        "user": "U039EF90649",
+        "text": "チャンネル名を「log_gijiroku」から「0_log_gijiroku」に変更しました",
+        "old_name": "log_gijiroku",
+        "name": "0_log_gijiroku"
+    }
+]

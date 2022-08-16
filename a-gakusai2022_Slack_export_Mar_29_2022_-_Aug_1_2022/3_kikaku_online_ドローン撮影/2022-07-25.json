@@ -1,0 +1,60 @@
+[
+    {
+        "client_msg_id": "ed081278-a573-48d1-8cba-4acdbd00aab7",
+        "type": "message",
+        "text": "*<!channel>*\nGoogleDriveの場所が少し変更になりました\n今後、議事録やテキストファイルはこの場所に載せて下さい\n<https:\/\/drive.google.com\/drive\/folders\/1baIIjNiPsXA4724oxPsxYaUG6tAh3670?usp=sharing>",
+        "user": "U0394PQ44FL",
+        "ts": "1658745327.152259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "runox",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nGoogleDriveの場所が少し変更になりました\n今後、議事録やテキストファイルはこの場所に載せて下さい\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1baIIjNiPsXA4724oxPsxYaUG6tAh3670?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

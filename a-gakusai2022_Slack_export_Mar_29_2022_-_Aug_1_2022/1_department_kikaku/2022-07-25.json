@@ -1,0 +1,254 @@
+[
+    {
+        "client_msg_id": "bdcb0560-0bae-49bc-b3a5-141e04bbe504",
+        "type": "message",
+        "text": "諸事情により企画部Driveにアクセスできなくなっています\n意図してやってることなのでバグではないです\nご迷惑をおかけしています",
+        "user": "U0394PQ44FL",
+        "ts": "1658741556.167899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mXVu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "諸事情により企画部Driveにアクセスできなくなっています\n意図してやってることなのでバグではないです\nご迷惑をおかけしています"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> こんにちは、企画部長の駒形です。\n　二学期もそろそろ終わりで、夏休みに入りますね。\n　夏休みに入る前に一度企画部会議を開こうと思いましたが皆さんのテスト勉強の時間を割きたくないので、*企画部会議は開きません*。\n　その代わりに、*各自で下のPDFファイルを見て、これからの企画部の進め方を確認してください。*\n　*PDFの内容を確認した人*は*goodマークを押してください*。よろしくお願いします。",
+        "files": [
+            {
+                "id": "F03QDR2MBHD",
+                "created": 1658743143,
+                "timestamp": 1658743143,
+                "name": "企画部のスライド.pdf",
+                "title": "企画部のスライド.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03BM52KMEC",
+                "editable": false,
+                "size": 362700,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QDR2MBHD\/________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03QDR2MBHD\/download\/________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03QDR2MBHD-598d0b5382\/_________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 910,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03BM52KMEC\/F03QDR2MBHD\/________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03QDR2MBHD-7c23414688",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03BM52KMEC",
+        "display_as_bot": false,
+        "ts": "1658743200.750399",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/edA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " こんにちは、企画部長の駒形です。\n　二学期もそろそろ終わりで、夏休みに入りますね。\n　夏休みに入る前に一度企画部会議を開こうと思いましたが皆さんのテスト勉強の時間を割きたくないので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画部会議は開きません",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。\n　その代わりに、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "各自で下のPDFファイルを見て、これからの企画部の進め方を確認してください。",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n　"
+                            },
+                            {
+                                "type": "text",
+                                "text": "PDFの内容を確認した人",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "は"
+                            },
+                            {
+                                "type": "text",
+                                "text": "goodマークを押してください",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "。よろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "08257a16-cf33-47ac-b311-f1d86839471d",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03BM52KMEC",
+                    "U0391RWR34N",
+                    "U039BUU0GAH",
+                    "U03CATDUH0A",
+                    "U03K1SMDYHL",
+                    "U03D0L4BEJU",
+                    "U03K8CWK5LK",
+                    "U039PA9J5JP"
+                ],
+                "count": 8
+            },
+            {
+                "name": "ok_hand",
+                "users": [
+                    "U0391RWR34N",
+                    "U03D0L4BEJU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03D0L4BEJU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH",
+                    "U03D0L4BEJU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03CDMY1V9C",
+                    "U03D0L4BEJU",
+                    "U039L92GA3X",
+                    "U039D5XVCJ3"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77358a4e-f163-427e-af37-3776204619b5",
+        "type": "message",
+        "text": "<!channel>\n企画部のDriveの場所が変わりました\n今後はこちらのURLを使うようにして下さい\n<https:\/\/drive.google.com\/drive\/folders\/1T1Dl1DIJLE-hxz10OCfMI1WgDcr7KH9I?usp=sharing>",
+        "user": "U0394PQ44FL",
+        "ts": "1658811992.874239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Wqt4B",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n企画部のDriveの場所が変わりました\n今後はこちらのURLを使うようにして下さい\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1T1Dl1DIJLE-hxz10OCfMI1WgDcr7KH9I?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039BUU0GAH",
+                    "U0391RWR34N",
+                    "U03BM52KMEC",
+                    "U039PA9J5JP"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "ecd457d4-f89a-4e90-b70c-783d3affa19f",
+        "type": "message",
+        "text": "<!channel> お疲れ様です。企画部長の駒形です。\n*企画書(仮)の作成*が*6\/24(金曜日)*までなので*二年生以上主体で顔合わせ*の方を早めにお願いします。\nご協力の方をよろしくお願いします。",
+        "user": "U03BM52KMEC",
+        "ts": "1655529912.493049",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Vrm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様です。企画部長の駒形です。\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書(仮)の作成",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "6\/24(金曜日)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までなので"
+                            },
+                            {
+                                "type": "text",
+                                "text": "二年生以上主体で顔合わせ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "の方を早めにお願いします。\nご協力の方をよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

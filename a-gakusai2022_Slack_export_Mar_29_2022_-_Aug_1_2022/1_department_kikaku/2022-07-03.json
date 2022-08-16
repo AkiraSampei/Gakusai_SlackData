@@ -1,0 +1,223 @@
+[
+    {
+        "client_msg_id": "4661b2c7-2dd4-47be-91a5-1b5d4138e294",
+        "type": "message",
+        "text": "候補地書いてくれると嬉しいです\n&lt;<https:\/\/docs.google.com\/document\/d\/1hEm-dSyPRdglmWIj40xh7c_KkAXcKFtA1U54tOUiVM0\/edit?usp=sharing>&gt;",
+        "user": "U039PA9J5JP",
+        "ts": "1656834321.868869",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039PA9J5JP",
+            "ts": "1656834384.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "FaaS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "候補地書いてくれると嬉しいです\n<"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1hEm-dSyPRdglmWIj40xh7c_KkAXcKFtA1U54tOUiVM0\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": ">"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "議事録です。",
+        "files": [
+            {
+                "id": "F03N7957536",
+                "created": 1656836313,
+                "timestamp": 1656836313,
+                "name": "企画書添削会議 議事録　.pdf",
+                "title": "企画書添削会議 議事録　.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U03A1N54PJM",
+                "editable": false,
+                "size": 646458,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N7957536\/__________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03N7957536\/download\/__________________________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03N7957536-9b28f93c30\/___________________________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U03A1N54PJM\/F03N7957536\/__________________________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03N7957536-1b63b8c171",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U03A1N54PJM",
+        "display_as_bot": false,
+        "ts": "1656836320.307329",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vgM4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "議事録です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "d5070f7d-8411-42c2-8192-e41e331c4bd7",
+        "reactions": [
+            {
+                "name": "parrot_headbanging",
+                "users": [
+                    "U039PA9J5JP",
+                    "U03BM52KMEC",
+                    "U03CDMY1V9C"
+                ],
+                "count": 3
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ff5a1cb-ccea-4c08-932e-01a5368592d1",
+        "type": "message",
+        "text": "<!channel> 昨日の企画書添削会議に参加してくれて皆様ありがとうございました。\n　多くの企画では、疑問点や修正点が出ました。それらをもとに各企画部ごとに集まって*企画書を修正*してほしいです。\n　夏休み前までにやってほしいので、*期限*は今日から二週間後の*7\/18(月曜日)*までにしたいと思います。\n　ご協力のほうよろしくお願いします。",
+        "user": "U03BM52KMEC",
+        "ts": "1656897264.931449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WAB+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 昨日の企画書添削会議に参加してくれて皆様ありがとうございました。\n　多くの企画では、疑問点や修正点が出ました。それらをもとに各企画部ごとに集まって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書を修正",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "してほしいです。\n　夏休み前までにやってほしいので、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "期限",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "は今日から二週間後の"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/18(月曜日)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までにしたいと思います。\n　ご協力のほうよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0391RWR34N",
+                    "U03D0L4BEJU"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U03BM52KMEC",
+                    "U039BUU0GAH",
+                    "U039PA9J5JP",
+                    "U03D0L4BEJU"
+                ],
+                "count": 4
+            }
+        ]
+    }
+]

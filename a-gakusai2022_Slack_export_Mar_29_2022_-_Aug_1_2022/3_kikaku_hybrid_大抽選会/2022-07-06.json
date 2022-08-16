@@ -1,0 +1,66 @@
+[
+    {
+        "client_msg_id": "6050e72a-9a9f-4629-8719-0fd1c97dcecb",
+        "type": "message",
+        "text": "<@U03KPT8FAD7> <@U03K4J7KXTQ>\nお疲れ！:+1::+1:\n企画書の添削が終わったので、近々それをもとに企画書の修正をしたいと思います！\n来週中にやりたいので来週都合のいい日時を教えてください。\n俺は以下の日程なら都合いいです。\n7月11日(月) 12:30~20:00\n7月14日(木) 12:30~20:00\n7月15日(金) 12:30~20:00",
+        "user": "U039M3UAXFG",
+        "ts": "1657172310.416539",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Ccyz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nお疲れ！"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n企画書の添削が終わったので、近々それをもとに企画書の修正をしたいと思います！\n来週中にやりたいので来週都合のいい日時を教えてください。\n俺は以下の日程なら都合いいです。\n7月11日(月) 12:30~20:00\n7月14日(木) 12:30~20:00\n7月15日(金) 12:30~20:00"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

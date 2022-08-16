@@ -1,0 +1,217 @@
+[
+    {
+        "client_msg_id": "3C0A15C8-A17E-4AC0-8A28-B86C5197B908",
+        "type": "message",
+        "text": "お疲れ様です。\n先日行った企画書添削会議にて、ここどこの企画書についての問題は特になしという結果でしたが、さらに企画書の詳細詰めや訂正を行うために企画会議を行おうと考えています。\n来週中に行いたいのですが、空いている時間を教えて下さい。\n場所は学祭室を利用しようと考えてます。",
+        "user": "U039D5XVCJ3",
+        "ts": "1657180634.725899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "9581be3278ca",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-02\/3327154980390_9581be3278ca72a0270a_72.png",
+            "first_name": "Yuto",
+            "real_name": "Yuto Nakahara",
+            "display_name": "デンデン",
+            "team": "T038Z0K089K",
+            "name": "n.yuuto2031",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hZJz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "先日行った企画書添削会議にて"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ここどこの企画書についての問題は特になしという結果でしたが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "さらに企画書の詳細詰めや訂正を行うために企画会議を行おうと考えています"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "来週中に行いたいのですが"
+                            },
+                            {
+                                "type": "text",
+                                "text": "、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "空いている時間を教えて下さい"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "場所は学祭室を利用しようと考えてます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657180634.725899",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1657503673.080599",
+        "reply_users": [
+            "U03GW267PQE",
+            "U0391RWR34N",
+            "U039D5XVCJ3"
+        ],
+        "replies": [
+            {
+                "user": "U03GW267PQE",
+                "ts": "1657182832.502719"
+            },
+            {
+                "user": "U0391RWR34N",
+                "ts": "1657503262.920229"
+            },
+            {
+                "user": "U039D5XVCJ3",
+                "ts": "1657503673.080599"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false
+    },
+    {
+        "client_msg_id": "5E18A34A-D035-458A-8F2A-9837E6DD57E2",
+        "type": "message",
+        "text": "来週でしたら、\n月曜日 18時40分〜\n水曜日 15時〜\n木曜日 17時〜19時\n金曜日 18時40分〜\nこの時間なら空いています！",
+        "user": "U03GW267PQE",
+        "ts": "1657182832.502719",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "8d4cd923fe95",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3667185878081_8d4cd923fe95f2c88bc0_72.png",
+            "first_name": "Akito",
+            "real_name": "Akito Sudo",
+            "display_name": "須藤",
+            "team": "T038Z0K089K",
+            "name": "s1300140",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=ewK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "来週で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "したら、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "月曜日 18時40分〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "水曜日 15時〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "木曜日 17時〜19時"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "金曜日 18時40分〜"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "この時間なら空いています"
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657180634.725899",
+        "parent_user_id": "U039D5XVCJ3"
+    }
+]

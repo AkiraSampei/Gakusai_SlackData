@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "b21ef2d5-250c-45e9-a3b6-89c82f3b5032",
+        "type": "message",
+        "text": "メールチェックお願いします。このあとにもう1社の広告代理店にメールを書きます。\n件名：[学祭]雑誌掲載のご依頼について\n----以下本文---------\nVoice! Agency（ボイス・エイジェンシー）ご担当者様\n\n突然のご連絡失礼いたします。\n会津大学学園祭実行委員会、広報担当の三瓶と申します。\n\nこの度、貴社が発行しているタウン誌に会津大学の学園祭である蒼翔祭について掲載していただきたく、ご連絡いたしました。\n今年の学園祭は10月の29日(土)・30日(日)に開催する予定です。その1週間ほど前に掲載していただきたいと考えております。つきましては、その時期に掲載することが可能かお教えください。またその際にかかる費用もお教えいただけると幸いです。\n\nご返信よろしくお願いいたします。\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-\n会津大学学園祭実行委員会　広報担当　三瓶晃\n学園祭： &lt; <mailto:a-gakusai@u-aizu.ac.jp|a-gakusai@u-aizu.ac.jp> &gt;\nMail： &lt; <mailto:s1290238@u-aizu.ac.jp|s1290238@u-aizu.ac.jp> &gt;\n-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-&lt;&gt;-",
+        "user": "U039RJU3V36",
+        "ts": "1656665786.401649",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "41cdfd2f530b",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-21\/3558491526914_41cdfd2f530bd556d420_72.jpg",
+            "first_name": "三瓶晃[AkiraSampei]",
+            "real_name": "三瓶晃[AkiraSampei]",
+            "display_name": "AkiraS_広報",
+            "team": "T038Z0K089K",
+            "name": "akira.sampei381",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s26A6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "メールチェックお願いします。このあとにもう1社の広告代理店にメールを書きます。\n件名：[学祭]雑誌掲載のご依頼について\n----以下本文---------\nVoice! Agency（ボイス・エイジェンシー）ご担当者様\n\n突然のご連絡失礼いたします。\n会津大学学園祭実行委員会、広報担当の三瓶と申します。\n\nこの度、貴社が発行しているタウン誌に会津大学の学園祭である蒼翔祭について掲載していただきたく、ご連絡いたしました。\n今年の学園祭は10月の29日(土)・30日(日)に開催する予定です。その1週間ほど前に掲載していただきたいと考えております。つきましては、その時期に掲載することが可能かお教えください。またその際にかかる費用もお教えいただけると幸いです。\n\nご返信よろしくお願いいたします。\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-\n会津大学学園祭実行委員会　広報担当　三瓶晃\n学園祭： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:a-gakusai@u-aizu.ac.jp",
+                                "text": "a-gakusai@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\nMail： < "
+                            },
+                            {
+                                "type": "link",
+                                "url": "mailto:s1290238@u-aizu.ac.jp",
+                                "text": "s1290238@u-aizu.ac.jp",
+                                "unsafe": true
+                            },
+                            {
+                                "type": "text",
+                                "text": " >\n-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-<>-"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1656665786.401649",
+        "reply_count": 9,
+        "reply_users_count": 2,
+        "latest_reply": "1656757091.820209",
+        "reply_users": [
+            "U0399UH8BKQ",
+            "U039RJU3V36"
+        ],
+        "replies": [
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656752718.307059"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656754242.468269"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656756775.866339"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656756817.161499"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656756855.456149"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656756888.910789"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656756898.456069"
+            },
+            {
+                "user": "U0399UH8BKQ",
+                "ts": "1656757079.773889"
+            },
+            {
+                "user": "U039RJU3V36",
+                "ts": "1656757091.820209"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

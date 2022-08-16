@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "eb9cbe3d-b163-458d-b76b-88b6d0cc10a5",
+        "type": "message",
+        "text": "ENDYMIONから逃げるな\n<https:\/\/youtu.be\/nYJXWwKFabA>",
+        "user": "U03901B3W69",
+        "ts": "1650342366.926689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/nYJXWwKFabA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nYJXWwKFabA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/nYJXWwKFabA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/nYJXWwKFabA",
+                "fallback": "YouTube Video: ENDYMION \/ fallen shepherd ft. RabbiTon Strings (CLEAR AUDIO)",
+                "title": "ENDYMION \/ fallen shepherd ft. RabbiTon Strings (CLEAR AUDIO)",
+                "title_link": "https:\/\/youtu.be\/nYJXWwKFabA",
+                "author_name": "Damox a.k.a iNFECTiON",
+                "author_link": "https:\/\/www.youtube.com\/user\/xXAKA2000Xx",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c1K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ENDYMIONから逃げるな\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/nYJXWwKFabA"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

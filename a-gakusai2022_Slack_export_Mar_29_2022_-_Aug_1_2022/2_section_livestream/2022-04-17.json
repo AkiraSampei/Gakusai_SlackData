@@ -1,0 +1,89 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249822.108279",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1650249822.381729",
+        "user": "U038TMLJW1M",
+        "text": "がこのチャンネルの説明を「スーパー配信タイム」に設定しました",
+        "purpose": "スーパー配信タイム"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.094899",
+        "user": "U03901B3W69",
+        "text": "<@U03901B3W69>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.156679",
+        "user": "U039M3UAXFG",
+        "text": "<@U039M3UAXFG>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.299019",
+        "user": "U039BUU0GAH",
+        "text": "<@U039BUU0GAH>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.390629",
+        "user": "U039P4NSKM1",
+        "text": "<@U039P4NSKM1>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.453659",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.516259",
+        "user": "U039H10MUTY",
+        "text": "<@U039H10MUTY>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.579089",
+        "user": "U039V55S998",
+        "text": "<@U039V55S998>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650249897.636709",
+        "user": "U0394PQ44FL",
+        "text": "<@U0394PQ44FL>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1650249976.463849",
+        "user": "U038TMLJW1M",
+        "text": "がこのチャンネルの説明を「最高にロックな配信をつくる」に設定しました",
+        "purpose": "最高にロックな配信をつくる"
+    }
+]

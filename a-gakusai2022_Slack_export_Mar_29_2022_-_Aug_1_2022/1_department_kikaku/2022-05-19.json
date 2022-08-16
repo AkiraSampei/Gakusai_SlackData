@@ -1,0 +1,131 @@
+[
+    {
+        "client_msg_id": "6f8897b3-6d77-48dc-bc5b-306a624852cc",
+        "type": "message",
+        "text": "お疲れ様です。5月も残り約3分の１くらいになりましだが、まだ五月病が治ってないと思っている駒形です。テスト期間もそろそろ近くなってきましたが企画部会議を開きたいと思います。企画の内容は、オンライン企画についてと企画の振り分けについてです。予算案がまだ完全に決まっているわけではないので、かなりやばいです。開催日時時間を伝助で募るので来れる日時時間に記入のほうをお願いします。\n<https:\/\/densuke.biz\/list?cd=5Crhc6GmwnRfPBHK>",
+        "user": "U03BM52KMEC",
+        "ts": "1653012772.755449",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/densuke.biz\/list?cd=5Crhc6GmwnRfPBHK",
+                "image_url": "https:\/\/densuke.biz\/images\/og.jpg",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 274110,
+                "service_icon": "https:\/\/densuke.biz\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/densuke.biz\/list?cd=5Crhc6GmwnRfPBHK",
+                "fallback": "伝助（企画部会議）",
+                "text": "出来れば、M教室借りてやりたいな～",
+                "title": "伝助（企画部会議）",
+                "title_link": "https:\/\/densuke.biz\/list?cd=5Crhc6GmwnRfPBHK",
+                "service_name": "densuke.biz"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SKCg0",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "お疲れ様です。5月も残り約3分の１くらいになりましだが、まだ五月病が治ってないと思っている駒形です。テスト期間もそろそろ近くなってきましたが企画部会議を開きたいと思います。企画の内容は、オンライン企画についてと企画の振り分けについてです。予算案がまだ完全に決まっているわけではないので、かなりやばいです。開催日時時間を伝助で募るので来れる日時時間に記入のほうをお願いします。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/densuke.biz\/list?cd=5Crhc6GmwnRfPBHK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039M3UAXFG"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e01d58c9-ecfd-4b8e-8527-f6d05568071c",
+        "type": "message",
+        "text": "↑ 遅くても土曜の15時までに記入してほしいです",
+        "user": "U03BM52KMEC",
+        "ts": "1653013550.773219",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lGC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "↑ 遅くても土曜の15時までに記入してほしいです"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "1e16e30e-8d99-43e0-b63b-4f104b5490c6",
+        "type": "message",
+        "text": "<@U03CDMY1V9C> <@U03D0L4BEJU> お疲れ様!!!\n　企画担当の尚君が今忙しいので、代わりに自分が企画の担当に加わることになりました。\n　これからよろしくね!!!\n　企画書の修正が来週の月曜日までだから、今週一回集まって企画書の修正を学祭室でしたいです。\n　だから今週の都合のいい時間帯を何個か上げてほしい(今日でも大丈夫)。\n　急な連絡でごめんね:man-bowing:",
+        "user": "U03BM52KMEC",
+        "ts": "1657592299.482159",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Gb3wH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03CDMY1V9C"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03D0L4BEJU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " お疲れ様!!!\n　企画担当の尚君が今忙しいので、代わりに自分が企画の担当に加わることになりました。\n　これからよろしくね!!!\n　企画書の修正が来週の月曜日までだから、今週一回集まって企画書の修正を学祭室でしたいです。\n　だから今週の都合のいい時間帯を何個か上げてほしい(今日でも大丈夫)。\n　急な連絡でごめんね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7CAAECD4-EBB4-4E8B-8ACA-AB2E66C957DD",
+        "type": "message",
+        "text": "分かりました！よろしくお願いします:bow:\n自分は今週ならバブルボールに載せた時間であれば大丈夫です！土日の午後も問題ありません:man-raising-hand:",
+        "user": "U03D0L4BEJU",
+        "ts": "1657608711.357639",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3\/m",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分かりました！よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "bow",
+                                "unicode": "1f647"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "自分は今週ならバブルボールに載せた時間で"
+                            },
+                            {
+                                "type": "text",
+                                "text": "あ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "れば大丈夫です！土日の午後も問題ありません"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-raising-hand",
+                                "unicode": "1f64b-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

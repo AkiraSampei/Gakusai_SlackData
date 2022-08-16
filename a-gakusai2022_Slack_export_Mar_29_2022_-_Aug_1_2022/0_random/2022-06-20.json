@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "07daff48-89a8-488f-970c-4c615b32f1c3",
+        "type": "message",
+        "text": "少し前に閉め。\n\n修正はまだ受け付けてますがとりあえず名簿提出しました。これで明日から新入生も鍵借りて学祭室を使うことができます。\n\n鍵の借り方がわからない人はその都度先輩方に聞いてください。",
+        "user": "U03901B3W69",
+        "ts": "1655723322.984149",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "c3a623328e04",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-05\/3328253656935_c3a623328e0488d9f1b2_72.jpg",
+            "first_name": "Junta",
+            "real_name": "Junta Miyazaki",
+            "display_name": "みじゅ",
+            "team": "T038Z0K089K",
+            "name": "s1270250",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jZ5b=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "少し前に閉め。\n\n修正はまだ受け付けてますがとりあえず名簿提出しました。これで明日から新入生も鍵借りて学祭室を使うことができます。\n\n鍵の借り方がわからない人はその都度先輩方に聞いてください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "@主に3年生\n自分が使ってた就活関連の本、緑鍵の本棚に置いておきます。年収・選考フロー等、待遇に一部変更はあるでしょうが、参考になれば幸い。\n一部書き込みがあるのはご容赦あれ。",
+        "files": [
+            {
+                "id": "F03M56N2516",
+                "created": 1655785329,
+                "timestamp": 1655785329,
+                "name": "iOS の画像.jpg",
+                "title": "iOS の画像",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U0391RWR34N",
+                "editable": false,
+                "size": 1198537,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03M56N2516\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03M56N2516\/download\/ios__________.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________64.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________80.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________360.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________480.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________160.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________720.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________800.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________960.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03M56N2516-80de817194\/ios___________1024.jpg?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAkADCnHG0jhVBOT+VahKgEKu7b2HaoTKqGNUxgnHHHP0qSRiN2AcYBFAgaRFRWxjPY8Gk3owGR1\/GoWYNCrOmSDtx05qe3wqjrgDvWTbuWV5Y0A6jZnPvTRBHL0PHJyD0p8xCsPk3ZPc1Yt1VI\/l\/j5+gpczAru2+3WTJBB5A4zUshXzD8x+YUhVVUKRlQMGmTtGrchiwHQdK1TRNmMkZ1KBRjv07mpjIyxMQD2GMdTVdmdvl3k54wRTizocxtyOCvrWdjTlCB2aX59p7Zb0q4W24AHXv6VTSUZPyAA9h2q0icIGGcZ79KThqmJqxBE5kTLYqNzhvX6062\/wBWKZJ978atiRImBIMAcigopdR2YE\/Shf8AWpTv+Wkf+6azj8RUWV0OXJPJAJqykrCLdxnIFVk+8\/0NSr\/x7n\/fFasct0f\/2Q==",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0391RWR34N\/F03M56N2516\/ios__________.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03M56N2516-335cfcfec9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0391RWR34N",
+        "display_as_bot": false,
+        "ts": "1655785464.903689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LkW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "@主に3年生\n自分が使ってた就活関連の本、緑鍵の本棚に置いておきます。年収・選考フロー等、待遇に一部変更はあるでしょうが、参考になれば幸い。\n一部書き込みがあるのはご容赦あれ。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "6EDACEA7-05F9-42E8-B580-2459ACA9CEBA",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U0399UH8BKQ",
+                    "U03D0L4BEJU",
+                    "U039BUU0GAH",
+                    "U03AJV9QH96",
+                    "U038TMLJW1M",
+                    "U039EF90649",
+                    "U03M2QM8F36"
+                ],
+                "count": 7
+            }
+        ]
+    }
+]

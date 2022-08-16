@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "53FF1D42-A5CB-4352-A6D3-2E8B1984382F",
+        "type": "message",
+        "text": "おはようございます金田です:sunny:\n企画書作成のために今週中に集まりたいと考えているのですが、空いている日時を教えて欲しいです:man-bowing:",
+        "user": "U039WPGBPDH",
+        "ts": "1655692689.098989",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1f4754d552bd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-11\/3639909790551_1f4754d552bd05e8edb4_72.png",
+            "first_name": "かねだ",
+            "real_name": "かねだ",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290194",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fey",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "おはようございます金田です"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sunny",
+                                "unicode": "2600-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "企画書作成のために今週"
+                            },
+                            {
+                                "type": "text",
+                                "text": "中"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に集まりたいと考えているのですが、空いている日時を教えて欲しいです"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a6467904-19d0-470c-89b3-ba94589301d4",
+        "type": "message",
+        "text": "明日と金曜は17時以降、水曜は14時くらいから、木曜は午後全部OK",
+        "user": "U038TMLJW1M",
+        "ts": "1655692809.417689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ixjyv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "明日と金曜は17時以降、水曜は14時くらいから、木曜は午後全部OK"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

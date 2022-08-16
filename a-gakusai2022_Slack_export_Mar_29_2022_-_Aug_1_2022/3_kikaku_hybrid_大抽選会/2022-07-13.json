@@ -1,0 +1,99 @@
+[
+    {
+        "client_msg_id": "81F85C2B-CFCA-4D57-9D95-83FB9E69C0F0",
+        "type": "message",
+        "text": "すみません･･･今日体調不良で学校行けてないです。",
+        "user": "U03K4J7KXTQ",
+        "ts": "1657773818.556919",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "05dbe0c83f34",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-13\/3650667548886_05dbe0c83f34c58f9f13_72.png",
+            "first_name": "大室　慶弥",
+            "real_name": "大室　慶弥",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1300237",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fV80s",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "すみません"
+                            },
+                            {
+                                "type": "text",
+                                "text": "･･･今日体調"
+                            },
+                            {
+                                "type": "text",
+                                "text": "不良"
+                            },
+                            {
+                                "type": "text",
+                                "text": "で学校行けてないで"
+                            },
+                            {
+                                "type": "text",
+                                "text": "す。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d50dc47-d8eb-4cdf-978d-95fd3429cd1c",
+        "type": "message",
+        "text": "大丈夫！じゃあ今日のは石田くんと2人で進めるね\nお大事にしてくれー:pray:",
+        "user": "U039M3UAXFG",
+        "ts": "1657778507.388419",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "P5O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "大丈夫！じゃあ今日のは石田くんと2人で進めるね\nお大事にしてくれー"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

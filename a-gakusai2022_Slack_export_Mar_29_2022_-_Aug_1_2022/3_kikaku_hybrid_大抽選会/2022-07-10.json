@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "86ADF5C0-9158-455B-9AA2-3D2A915DD4F0",
+        "type": "message",
+        "text": "<@U03K4J7KXTQ> <@U03KPT8FAD7>\n了解！\n~では14日(木)の17:00~やりましょう\n場所は学祭室で！~！\nよろしくお願いします:man-bowing:\n\n木曜全体会議だったのでその後にちょっと集まってやりましょう笑",
+        "user": "U039M3UAXFG",
+        "ts": "1657497346.648379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7f6bfb59266",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7f6bfb5926693e480e8d36674543eaaf.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+            "first_name": "Takehiro",
+            "real_name": "Takehiro Watanabe",
+            "display_name": "Takehiro Watanabe",
+            "team": "T038Z0K089K",
+            "name": "s1270148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039M3UAXFG",
+            "ts": "1657499639.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BCXeb",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U03K4J7KXTQ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KPT8FAD7"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "了解！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "では14日(木)の17:00~やりましょう\n場所は学祭室で！",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "！"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n木曜全体会議だっ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "たの"
+                            },
+                            {
+                                "type": "text",
+                                "text": "でその後"
+                            },
+                            {
+                                "type": "text",
+                                "text": "に"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ちょっと集まって"
+                            },
+                            {
+                                "type": "text",
+                                "text": "やりまし"
+                            },
+                            {
+                                "type": "text",
+                                "text": "ょ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "う"
+                            },
+                            {
+                                "type": "text",
+                                "text": "笑"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

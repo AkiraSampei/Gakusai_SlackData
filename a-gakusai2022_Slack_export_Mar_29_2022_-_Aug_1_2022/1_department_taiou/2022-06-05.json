@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "text": "昨年度購入物品(オンライン)データです。\nお収めください。",
+        "files": [
+            {
+                "id": "F03J5NN0A3G",
+                "created": 1654484709,
+                "timestamp": 1654484709,
+                "name": "2021購入備品.zip",
+                "title": "2021購入備品.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0399UH8BKQ",
+                "editable": false,
+                "size": 137685,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03J5NN0A3G\/2021____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03J5NN0A3G\/download\/2021____________.zip?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U0399UH8BKQ\/F03J5NN0A3G\/2021____________.zip",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03J5NN0A3G-6413ff87a9",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U0399UH8BKQ",
+        "display_as_bot": false,
+        "ts": "1654484738.654309",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8wF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "昨年度購入物品(オンライン)データです。\nお収めください。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "e38dfd5f-fb20-4114-a63f-7da107a470f4",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U039RJU3V36"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

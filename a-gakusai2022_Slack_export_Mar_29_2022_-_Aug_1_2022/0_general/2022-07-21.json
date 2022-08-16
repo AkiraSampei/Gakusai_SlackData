@@ -1,0 +1,121 @@
+[
+    {
+        "type": "message",
+        "subtype": "thread_broadcast",
+        "text": "ありがとうございます！",
+        "user": "U03M2QM8F36",
+        "ts": "1658395632.118149",
+        "thread_ts": "1657863535.236959",
+        "root": {
+            "client_msg_id": "214a1933-7aa7-409c-82b0-4632707e21fd",
+            "type": "message",
+            "text": "お疲れさまです！学祭のポスター作成で、学祭関連の写真大量に使うので皆さん持ってる分だけ、返信欄に送って欲しいです",
+            "user": "U03M2QM8F36",
+            "ts": "1657863535.236959",
+            "team": "T038Z0K089K",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "6k9S1",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "お疲れさまです！学祭のポスター作成で、学祭関連の写真大量に使うので皆さん持ってる分だけ、返信欄に送って欲しいです"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1657863535.236959",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1658407272.778619",
+            "reply_users": [
+                "U039PA9J5JP",
+                "U03M2QM8F36"
+            ],
+            "replies": [
+                {
+                    "user": "U039PA9J5JP",
+                    "ts": "1658120596.621619"
+                },
+                {
+                    "user": "U03M2QM8F36",
+                    "ts": "1658395632.118149"
+                },
+                {
+                    "user": "U039PA9J5JP",
+                    "ts": "1658407272.778619"
+                }
+            ],
+            "is_locked": false,
+            "subscribed": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q5TRL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとうございます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "5ea04ba1-7762-4786-8b85-2478d2fd1caa"
+    },
+    {
+        "client_msg_id": "85ed65c7-ff67-4f20-bb6a-7998e1f7d21c",
+        "type": "message",
+        "text": "<https:\/\/drive.google.com\/drive\/folders\/1rMLA--VKsbUNxyotVnWA1Ep6-dPMGSmy>\n一応メイキングの方も送ります、",
+        "user": "U039PA9J5JP",
+        "ts": "1658407272.778619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "I0By",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/drive.google.com\/drive\/folders\/1rMLA--VKsbUNxyotVnWA1Ep6-dPMGSmy"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n一応メイキングの方も送ります、"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657863535.236959",
+        "parent_user_id": "U03M2QM8F36"
+    }
+]

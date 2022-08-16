@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "de60c723-e941-4e2a-afe0-d177e1be413f",
+        "type": "message",
+        "text": "ごめんなさい連絡遅れましたが、今日の昼休みに水泳部が来ます。私が対応するのでよろしくお願いします。",
+        "user": "U039V55S998",
+        "ts": "1658450692.917239",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1cafd33ea146",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-12\/3390794967585_1cafd33ea14631be2027_72.jpg",
+            "first_name": "渡辺涼太",
+            "real_name": "渡辺涼太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290148",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2UC+a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ごめんなさい連絡遅れましたが、今日の昼休みに水泳部が来ます。私が対応するのでよろしくお願いします。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

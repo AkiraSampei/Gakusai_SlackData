@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "43E3670B-E826-4F93-A356-58E8111C8EBB",
+        "type": "message",
+        "text": "既に持ってるかもしれませんが、このリンクにまとめてるものしか持ってないです...\nすみません。\n<https:\/\/photos.app.goo.gl\/b9NcHtPLkVzkinR87|https:\/\/photos.app.goo.gl\/b9NcHtPLkVzkinR87>\n",
+        "user": "U039PA9J5JP",
+        "ts": "1658120596.621619",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "efe15e825484",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-16\/3401210129796_efe15e8254840f3e8f52_72.png",
+            "first_name": "sho",
+            "real_name": "sho",
+            "display_name": "Sho Takahashi",
+            "team": "T038Z0K089K",
+            "name": "s1290201",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/photos.app.goo.gl\/b9NcHtPLkVzkinR87",
+                "image_url": "https:\/\/lh3.googleusercontent.com\/4VPa0a5fRbWtxHYJoa402xLrLt_Q82KTQJ7H-jDPKuNff9YJ1U7WOtYYL2o3qdcR3-d1-vwZfV2FxrVBuM2N_grkg7efM3fxUIkRm-QeiodhwmUVxbttm2XTKSfVGTd9EIMLGurLbpE",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 90796,
+                "service_icon": "http:\/\/ssl.gstatic.com\/social\/photosui\/images\/logo\/1x\/photos_512dp.png",
+                "id": 1,
+                "original_url": "https:\/\/photos.app.goo.gl\/b9NcHtPLkVzkinR87",
+                "fallback": "Google Photos: 2021学祭",
+                "text": "140 new items added to shared album",
+                "title": "2021学祭",
+                "title_link": "https:\/\/photos.app.goo.gl\/b9NcHtPLkVzkinR87",
+                "service_name": "Google Photos"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lN9R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "既に持ってるかもしれませんが、このリンクにまとめてるものしか持ってないです...\nすみません。\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/photos.app.goo.gl\/b9NcHtPLkVzkinR87",
+                                "text": "https:\/\/photos.app.goo.gl\/b9NcHtPLkVzkinR87"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1657863535.236959",
+        "parent_user_id": "U03M2QM8F36"
+    }
+]

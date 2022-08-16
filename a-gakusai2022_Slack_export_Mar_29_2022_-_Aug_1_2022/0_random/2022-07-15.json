@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "1556F389-30A0-44D3-AB73-9E840CB66C05",
+        "type": "message",
+        "text": "閉店だよ",
+        "user": "U038TMLJW1M",
+        "ts": "1657882090.582679",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MeNSj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "閉店だよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

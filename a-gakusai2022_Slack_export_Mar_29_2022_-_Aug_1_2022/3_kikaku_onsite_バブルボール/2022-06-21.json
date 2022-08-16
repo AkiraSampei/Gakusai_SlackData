@@ -1,0 +1,355 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1655860208.399459",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "4968e41b-ab51-4ba2-ac0e-9f0523217d0b",
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/document\/d\/17ALWyPkM7Yz73e-PPtCtzeLuGnZHijhK\/edit>\n企画書の訂正が終わりました！確認をよろしくお願いします:pray:",
+        "user": "U03D0L4BEJU",
+        "ts": "1655862889.693409",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZqgVO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/17ALWyPkM7Yz73e-PPtCtzeLuGnZHijhK\/edit"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n企画書の訂正が終わりました！確認をよろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655862889.693409",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1655865164.214689",
+        "reply_users": [
+            "U03BM52KMEC",
+            "U0394PQ44FL",
+            "U03D0L4BEJU"
+        ],
+        "replies": [
+            {
+                "user": "U03BM52KMEC",
+                "ts": "1655863199.966889"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655864659.246379"
+            },
+            {
+                "user": "U03D0L4BEJU",
+                "ts": "1655864714.122349"
+            },
+            {
+                "user": "U03D0L4BEJU",
+                "ts": "1655865102.209259"
+            },
+            {
+                "user": "U0394PQ44FL",
+                "ts": "1655865164.214689"
+            }
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1655865164.214689",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC",
+                    "U03KB4QMFHR"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f072a5b4-8524-4b48-bdbe-8c68e0182151",
+        "type": "message",
+        "text": "一通り確認して、問題なかったです!!!\n早く作成してくれてありがとう!!!",
+        "user": "U03BM52KMEC",
+        "ts": "1655863199.966889",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NzX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "一通り確認して、問題なかったです!!!\n早く作成してくれてありがとう!!!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655862889.693409",
+        "parent_user_id": "U03D0L4BEJU",
+        "reactions": [
+            {
+                "name": "pray",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fe2d3bfb-f323-4bde-9aed-103cbdb97aaf",
+        "type": "message",
+        "text": "ありがとう！\n今後のスケジュールのところなんだけど、会議の日に渡したメモみて書き直してほしいです！\n具体的な月は書かなくて大丈夫です",
+        "user": "U0394PQ44FL",
+        "ts": "1655864659.246379",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lo\/=N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ありがとう！\n今後のスケジュールのところなんだけど、会議の日に渡したメモみて書き直してほしいです！\n具体的な月は書かなくて大丈夫です"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655862889.693409",
+        "parent_user_id": "U03D0L4BEJU",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab1ebab2-a5b7-4356-8f74-273e72573c82",
+        "type": "message",
+        "text": "分かりました！今から訂正します:pray:",
+        "user": "U03D0L4BEJU",
+        "ts": "1655864714.122349",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0=j6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "分かりました！今から訂正します"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655862889.693409",
+        "parent_user_id": "U03D0L4BEJU",
+        "reactions": [
+            {
+                "name": "man-bowing",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7020198b-d492-4255-888b-bafc2acc2354",
+        "type": "message",
+        "text": "今後のスケジュールを書き終わりました！こちらでよろしいでしょうか？",
+        "user": "U03D0L4BEJU",
+        "ts": "1655865102.209259",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ODC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今後のスケジュールを書き終わりました！こちらでよろしいでしょうか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655862889.693409",
+        "parent_user_id": "U03D0L4BEJU"
+    },
+    {
+        "client_msg_id": "88619bb0-cc09-467b-8cce-f1b628a6cdaf",
+        "type": "message",
+        "text": "OKです！細かいところはこちらで修正しときます！ありがとうございました！",
+        "user": "U0394PQ44FL",
+        "ts": "1655865164.214689",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ToCdZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "OKです！細かいところはこちらで修正しときます！ありがとうございました！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1655862889.693409",
+        "parent_user_id": "U03D0L4BEJU",
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U03D0L4BEJU"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

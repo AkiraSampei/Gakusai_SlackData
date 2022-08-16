@@ -1,0 +1,242 @@
+[
+    {
+        "client_msg_id": "4719350D-F4A0-41F7-ABAA-627C3F38D9C5",
+        "type": "message",
+        "text": "友情マックの参考（元ネタ）動画です\n失敗例\n<https:\/\/youtu.be\/lAFfcQ6OIWE|https:\/\/youtu.be\/lAFfcQ6OIWE>\n成功例\n<https:\/\/youtu.be\/Fwca-kKVFKY|https:\/\/youtu.be\/Fwca-kKVFKY>",
+        "user": "U038TMLJW1M",
+        "ts": "1655108472.378979",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "aab10cca6997",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-22\/3701419670770_aab10cca699750e3d875_72.jpg",
+            "first_name": "Ryo",
+            "real_name": "Ryo Matsuda",
+            "display_name": "まつだりょう",
+            "team": "T038Z0K089K",
+            "name": "s1280077",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/youtu.be\/lAFfcQ6OIWE",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/lAFfcQ6OIWE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/lAFfcQ6OIWE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/lAFfcQ6OIWE",
+                "fallback": "YouTube Video: 仲良しならマックで一品ずつ買ってきてもセット完成する説",
+                "title": "仲良しならマックで一品ずつ買ってきてもセット完成する説",
+                "title_link": "https:\/\/youtu.be\/lAFfcQ6OIWE",
+                "author_name": "MonsterZ MATE",
+                "author_link": "https:\/\/www.youtube.com\/c\/MonsterZMATE",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            },
+            {
+                "from_url": "https:\/\/youtu.be\/Fwca-kKVFKY",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Fwca-kKVFKY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Fwca-kKVFKY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "service_icon": "https:\/\/a.slack-edge.com\/80588\/img\/unfurl_icons\/youtube.png",
+                "id": 2,
+                "original_url": "https:\/\/youtu.be\/Fwca-kKVFKY",
+                "fallback": "YouTube Video: みんなでバリューセットを作ろう！〜県大会決勝〜",
+                "title": "みんなでバリューセットを作ろう！〜県大会決勝〜",
+                "title_link": "https:\/\/youtu.be\/Fwca-kKVFKY",
+                "author_name": "MonsterZ MATE",
+                "author_link": "https:\/\/www.youtube.com\/c\/MonsterZMATE",
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iCj8v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "友情マックの参考（元ネタ）動画です"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "失敗例"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/lAFfcQ6OIWE",
+                                "text": "https:\/\/youtu.be\/lAFfcQ6OIWE"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "成功例"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/youtu.be\/Fwca-kKVFKY",
+                                "text": "https:\/\/youtu.be\/Fwca-kKVFKY"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "287A43C5-E767-4239-8B58-1EAC3C9F0DFD",
+        "type": "message",
+        "text": "神生悠志です！バブルボールとドローン撮影を担当させて頂きます。\nよろしくお願いします:pray:",
+        "user": "U03D0L4BEJU",
+        "ts": "1655110579.458439",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "4d548dddc60f",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-21\/3418956038387_4d548dddc60f5ffbb5c3_72.png",
+            "first_name": "Kanoo　Yushi",
+            "real_name": "Kanoo　Yushi",
+            "display_name": "Kanoo",
+            "team": "T038Z0K089K",
+            "name": "kamonabeparadise",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wNTT",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "神生悠志です！バブルボールとドローン撮影を担当させて頂きます"
+                            },
+                            {
+                                "type": "text",
+                                "text": "。"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "よろしくお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U0394PQ44FL",
+                    "U038TMLJW1M"
+                ],
+                "count": 2
+            },
+            {
+                "name": "flushed",
+                "users": [
+                    "U0394PQ44FL"
+                ],
+                "count": 1
+            },
+            {
+                "name": "parrot_ultrafast",
+                "users": [
+                    "U03BM52KMEC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat_handsup",
+                "users": [
+                    "U039PA9J5JP"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eb3bf07f-697b-40e8-af8a-7fb70191ce9c",
+        "type": "message",
+        "text": "<!channel> 一年生に最終確認です。企画の掛け持ちしてみたい人とかいませんか？DMとかで私に連絡してくれると嬉しいです。期限は今週の水曜までにしたいと思います。",
+        "user": "U03BM52KMEC",
+        "ts": "1655111338.910969",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H2W",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 一年生に最終確認です。企画の掛け持ちしてみたい人とかいませんか？DMとかで私に連絡してくれると嬉しいです。期限は今週の水曜までにしたいと思います。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

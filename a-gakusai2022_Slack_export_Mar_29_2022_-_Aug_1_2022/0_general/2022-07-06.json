@@ -1,0 +1,86 @@
+[
+    {
+        "client_msg_id": "05bba12a-29ed-4957-b367-8c83e6b99cda",
+        "type": "message",
+        "text": "<!channel>\nレクリエーション課の布施です。\nBBQの日程が*7\/24(日)*に決定しました！\n参加人数を確定したいと思うので、\nまだ伝助記入していない人は、\n*7\/17(日)*までに記入をお願いします:pray:\n伝助のURLは、*伝助チャンネル*に載せときます！",
+        "user": "U039RCZ4E04",
+        "ts": "1657165419.222269",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "84ddd18461dd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-06-05\/3622924058851_84ddd18461dd35f301fb_72.png",
+            "first_name": "布施孝太",
+            "real_name": "布施孝太",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1290205",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O0sx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nレクリエーション課の布施です。\nBBQの日程が"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/24(日)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に決定しました！\n参加人数を確定したいと思うので、\nまだ伝助記入していない人は、\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "7\/17(日)",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "までに記入をお願いします"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pray",
+                                "unicode": "1f64f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n伝助のURLは、"
+                            },
+                            {
+                                "type": "text",
+                                "text": "伝助チャンネル",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "に載せときます！"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

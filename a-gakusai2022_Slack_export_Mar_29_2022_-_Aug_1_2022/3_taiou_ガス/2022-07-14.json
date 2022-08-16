@@ -1,0 +1,254 @@
+[
+    {
+        "client_msg_id": "ebdc13f0-6c50-4eb6-8ad6-d85842592dd0",
+        "type": "message",
+        "text": "はい:raising_hand:全体会議の後ですね:+1:",
+        "user": "U03KRPKDY8L",
+        "ts": "1657783680.455839",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "uI9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "はい"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "raising_hand",
+                                "unicode": "1f64b"
+                            },
+                            {
+                                "type": "text",
+                                "text": "全体会議の後ですね"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "+1",
+                                "unicode": "1f44d"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "今日の議事録です。\n若松ガスに電話は、7月21日(木)にする予定です。",
+        "files": [
+            {
+                "id": "F03PDT5MRRB",
+                "created": 1657793531,
+                "timestamp": 1657793531,
+                "name": "20220714ガス議事録.pdf",
+                "title": "20220714ガス議事録.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U039T9DE072",
+                "editable": false,
+                "size": 33089,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PDT5MRRB\/20220714__________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T038Z0K089K-F03PDT5MRRB\/download\/20220714__________________.pdf?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T038Z0K089K-F03PDT5MRRB-516fa41869\/20220714___________________thumb_pdf.png?t=xoxe-3305019008325-3888569207489-3861355977159-36cd344095c654d24d8c4780a78218c0",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/a-gakusai2022.slack.com\/files\/U039T9DE072\/F03PDT5MRRB\/20220714__________________.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/T038Z0K089K-F03PDT5MRRB-6297293714",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": false,
+        "user": "U039T9DE072",
+        "display_as_bot": false,
+        "ts": "1657793685.445689",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "4C+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日の議事録です。\n若松ガスに電話は、7月21日(木)にする予定です。"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "client_msg_id": "88b1f7bd-5aec-4efc-9a7f-47c245c09f65",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U039V55S998",
+                    "U03KRPKDY8L"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e375527-311b-42b0-a71b-3b9ed3938fa9",
+        "type": "message",
+        "text": "今日はお昼休みに集合しなくて大丈夫なのですか",
+        "user": "U03KRPKDY8L",
+        "ts": "1657857854.510819",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Sy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日はお昼休みに集合しなくて大丈夫なのですか"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DC5C41A6-A350-49EB-87C4-27D87CDC3D2D",
+        "type": "message",
+        "text": "今日は集合しなくて大丈夫ですよ:man-gesturing-ok:\nバレーサークルのコンロ台数に関しては、来週電話する前に確認しましょう",
+        "user": "U039T9DE072",
+        "ts": "1657858061.304779",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fOcyD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "今日は集合しなくて大丈夫ですよ"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-gesturing-ok",
+                                "unicode": "1f646-200d-2642-fe0f"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "バレーサークルのコンロ台数に関しては、来週電話する前に確認しましょう"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c7dd6e3c-f83b-483a-ac10-e5be2028a722",
+        "type": "message",
+        "text": "ヽ( ・∀・)ﾉ分かりました:ok_woman:",
+        "user": "U03KRPKDY8L",
+        "ts": "1657858081.209799",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g799a95ef53e",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/799a95ef53e441afb3a03b6d907b9158.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+            "first_name": "Amika",
+            "real_name": "Amika SUZUKI",
+            "display_name": "ｱﾝﾐｶ",
+            "team": "T038Z0K089K",
+            "name": "s1300223",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K8M",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "ヽ( ・∀・)ﾉ分かりました"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "ok_woman",
+                                "unicode": "1f646"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

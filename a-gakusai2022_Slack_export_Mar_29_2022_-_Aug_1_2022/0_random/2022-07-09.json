@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "F005A0E5-EE54-467C-9C4F-A54E27660FF7",
+        "type": "message",
+        "text": "(実は「なんか遊ぼうぜ」という募集ができるDiscordが存在します…まだ入ってない人は是非…)\n<https:\/\/discord.gg\/y3wYpjnh|https:\/\/discord.gg\/y3wYpjnh>",
+        "user": "U0399UH8BKQ",
+        "ts": "1657360089.961069",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "bce7419a0ecd",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-04\/3360547434416_bce7419a0ecd120e7cc5_72.png",
+            "first_name": "Itsuki",
+            "real_name": "Itsuki Takahasi",
+            "display_name": "高橋さん",
+            "team": "T038Z0K089K",
+            "name": "s1280169",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "from_url": "https:\/\/discord.gg\/y3wYpjnh",
+                "image_url": "https:\/\/cdn.discordapp.com\/icons\/978223148031946763\/0eb76a24f7af13dae53be2fdddd13391.jpg?size=256",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 14546,
+                "id": 1,
+                "original_url": "https:\/\/discord.gg\/y3wYpjnh",
+                "fallback": "Discord: Join the 学祭ボドゲチャンネル_discord支部 Discord Server!",
+                "text": "Check out the 学祭ボドゲチャンネル_discord支部 community on Discord - hang out with 14 other members and enjoy free voice and text chat.",
+                "title": "Join the 学祭ボドゲチャンネル_discord支部 Discord Server!",
+                "title_link": "https:\/\/discord.gg\/y3wYpjnh",
+                "service_name": "Discord"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ClvhL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "(実は「なんか遊ぼうぜ」という募集ができるDiscordが存在します…まだ入ってない人は是非…)"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/discord.gg\/y3wYpjnh",
+                                "text": "https:\/\/discord.gg\/y3wYpjnh"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

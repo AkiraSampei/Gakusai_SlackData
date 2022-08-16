@@ -1,0 +1,11 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1655109278.924139",
+        "user": "U0394PQ44FL",
+        "text": "チャンネル名を「3_kikaku_花火」から「3_kikaku_hybrid_花火」に変更しました",
+        "old_name": "3_kikaku_花火",
+        "name": "3_kikaku_hybrid_花火"
+    }
+]

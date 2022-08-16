@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "5c34beb9-7956-4ac6-9695-f5c39f697648",
+        "type": "message",
+        "text": "randomのメッセージ整理しました\n今後に関わらなさそうなやつは全部消しました",
+        "user": "U0394PQ44FL",
+        "ts": "1657523188.718789",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "ab64d9fb4902",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-04-07\/3344273099799_ab64d9fb49022f948e9a_72.png",
+            "first_name": "増子",
+            "real_name": "増子 廉大良",
+            "display_name": "ましこ",
+            "team": "T038Z0K089K",
+            "name": "s1270186",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "w8+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "randomのメッセージ整理しました\n今後に関わらなさそうなやつは全部消しました"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

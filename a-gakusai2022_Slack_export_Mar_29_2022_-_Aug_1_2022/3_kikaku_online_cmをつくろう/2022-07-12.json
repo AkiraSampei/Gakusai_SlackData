@@ -1,0 +1,40 @@
+[
+    {
+        "client_msg_id": "c965de81-0b39-46a8-be35-9a10643ccf1e",
+        "type": "message",
+        "text": "学祭室いるよ",
+        "user": "U03BM52KMEC",
+        "ts": "1657683554.579079",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "1d2267c1017d",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2022-05-22\/3560170136818_1d2267c1017d4d1c8dfc_72.jpg",
+            "first_name": "Komagata",
+            "real_name": "Komagata Daiki",
+            "display_name": "Komagata Daiki",
+            "team": "T038Z0K089K",
+            "name": "daikikomagata0320910",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5ZwX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "学祭室いるよ"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

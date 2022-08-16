@@ -1,0 +1,97 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345474.477379",
+        "user": "U038TMLJW1M",
+        "text": "<@U038TMLJW1M>さんがチャンネルに参加しました"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1650345474.820479",
+        "user": "U038TMLJW1M",
+        "text": "がこのチャンネルの説明を「課題のシェアなど」に設定しました",
+        "purpose": "課題のシェアなど"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345726.795479",
+        "user": "U03A9180MAN",
+        "text": "<@U03A9180MAN>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M",
+        "reactions": [
+            {
+                "name": "duck_cute_2",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            },
+            {
+                "name": "takopii",
+                "users": [
+                    "U038TMLJW1M",
+                    "U039EF90649"
+                ],
+                "count": 2
+            },
+            {
+                "name": "duck_cute_1",
+                "users": [
+                    "U039BUU0GAH"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345726.856279",
+        "user": "U039BUU0GAH",
+        "text": "<@U039BUU0GAH>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345726.914649",
+        "user": "U039EF90649",
+        "text": "<@U039EF90649>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345726.982309",
+        "user": "U03AJV9QH96",
+        "text": "<@U03AJV9QH96>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345727.038889",
+        "user": "U0399UH8BKQ",
+        "text": "<@U0399UH8BKQ>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345727.094589",
+        "user": "U039T9DE072",
+        "text": "<@U039T9DE072>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1650345727.156789",
+        "user": "U039TSY8J67",
+        "text": "<@U039TSY8J67>さんがチャンネルに参加しました",
+        "inviter": "U038TMLJW1M"
+    }
+]

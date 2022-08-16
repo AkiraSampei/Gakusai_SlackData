@@ -1,0 +1,68 @@
+[
+    {
+        "client_msg_id": "9D098C9A-C5DF-4E92-A22E-EE082053C36B",
+        "type": "message",
+        "text": "では7／14(木)にしましょう\n場所は学祭室にします\n大体何時くらいに来れそうとか分かりますか？",
+        "user": "U039T9DE072",
+        "ts": "1656303709.178899",
+        "team": "T038Z0K089K",
+        "user_team": "T038Z0K089K",
+        "source_team": "T038Z0K089K",
+        "user_profile": {
+            "avatar_hash": "g7b59e9bd033",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/7b59e9bd0338270da9972a4d3a0b56c3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+            "first_name": "渡部遼子",
+            "real_name": "渡部遼子",
+            "display_name": "",
+            "team": "T038Z0K089K",
+            "name": "s1280215",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "U039T9DE072",
+            "ts": "1656733996.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "SAfE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "では7／14("
+                            },
+                            {
+                                "type": "text",
+                                "text": "木"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")にしましょう"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "場所は学祭室にします"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "大体何時くらいに来れそうとか分かりますか？"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
